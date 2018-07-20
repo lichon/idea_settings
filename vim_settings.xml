@@ -38,6 +38,12 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/Camera1Enumerator.class" timestamp="1531144425202">
         <mark key="'" line="28" column="11" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" timestamp="1532078604976">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="56" column="61" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/CameraSession.class" timestamp="1531153992159">
         <mark key="'" line="21" column="13" />
       </file>
@@ -102,7 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="63" filename="$USER_HOME$/repos/walkie/app/src/main/java/org/webrtc/ExtCameraEnumerator.java" />
       <jump line="170" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallHandler.java" />
       <jump line="194" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallHandler.java" />
       <jump line="207" column="53" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
@@ -202,61 +207,61 @@
       <jump line="992" column="24" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
       <jump line="763" column="20" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
       <jump line="762" column="20" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="53" column="25" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoImRjNGVkODc2ZDUxNWE1NTEzODRiN2JhNTA0NjVjNGY2IiwgNTAsIDEpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmVudHNcPg==</text>
+        <text encoding="base64">XDxkYzRlZDg3NmQ1MTVhNTUxMzg0YjdiYTUwNDY1YzRmNlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChldmVudHMgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoIjFhOGJhMGU1YjM5MzQ5ZDM5NWM3NTcxYmY1YzAyNThiIiwgNTAsIDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoImRjNGVkODc2ZDUxNWE1NTEzODRiN2JhNTA0NjVjNGY2IiwgNTAsIDEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkFMTCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lc1tpXSArPSAiO21heHBsYXliYWNrcmF0ZT04MDAwIjsK</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkFMTCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzW2ldID0gbGluZXNbaV0ucmVwbGFjZSgidXNlaW5iYW5kZmVjPTEiLCAidXNlaW5iYW5kZmVjPTAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lc1tpXSArPSAiO21heHBsYXliYWNrcmF0ZT04MDAwIjsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzW2ldID0gbGluZXNbaV0ucmVwbGFjZSgidXNlaW5iYW5kZmVjPTEiLCAidXNlaW5iYW5kZmVjPTAiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzW2ldID0gbGluZXNbaV0ucmVwbGFjZSgibWlucHRpbWU9MTAiLCAicHRpbWU9MjAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzW2ldID0gbGluZXNbaV0ucmVwbGFjZSgidXNlaW5iYW5kZmVjPTEiLCAidXNlaW5iYW5kZmVjPTAiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlc3RFeHRDYW1lcmFBY3Rpdml0eS5zdGFydCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzW2ldID0gbGluZXNbaV0ucmVwbGFjZSgibWlucHRpbWU9MTAiLCAicHRpbWU9MjAiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmVudHNcPg==</last-search>
+      <last-search encoding="base64">XDxkYzRlZDg3NmQ1MTVhNTUxMzg0YjdiYTUwNDY1YzRmNlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmVudHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkYzRlZDg3NmQ1MTVhNTUxMzg0YjdiYTUwNDY1YzRmNlw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>minp</entry>
         <entry encoding="base64">XDxyZWdleFw+</entry>
         <entry encoding="base64">XDxhdWRpb0JpdHJhdGVcPg==</entry>
         <entry encoding="base64">XDxhdWRpb1N0YXJ0Qml0cmF0ZVw+</entry>
@@ -276,6 +281,7 @@
         <entry encoding="base64">XDxnZXRTdGF0c1w+</entry>
         <entry>events</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry encoding="base64">XDxkYzRlZDg3NmQ1MTVhNTUxMzg0YjdiYTUwNDY1YzRmNlw+</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
