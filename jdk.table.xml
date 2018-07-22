@@ -3,8 +3,8 @@
     <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_131&quot;" />
-      <homePath value="C:/Program Files/Java/jdk1.8.0_131" />
+      <version value="java version &quot;1.8.0_112-release&quot;" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -13,39 +13,30 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/charsets.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/deploy.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/cldrdata.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/dnsns.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/jaccess.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/jfxrt.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/localedata.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/nashorn.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/sunec.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/sunmscapi.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/zipfs.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/javaws.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/jce.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/jfr.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/jfxswt.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/jsse.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/management-agent.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/plugin.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/resources.jar!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
           <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite">
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/" type="simple" />
-            <root url="jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/" type="simple" />
-          </root>
+          <root type="composite" />
         </sourcePath>
       </roots>
       <additional />
@@ -53,8 +44,8 @@
     <jdk version="2">
       <name value="Android API 25 Platform" />
       <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_131&quot;" />
-      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <version value="java version &quot;1.8.0_112-release&quot;" />
+      <homePath value="C:\Users\lc\AppData\Local\Android\Sdk" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -83,8 +74,8 @@
     <jdk version="2">
       <name value="Android API 22 Platform" />
       <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_131&quot;" />
-      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <version value="java version &quot;1.8.0_112-release&quot;" />
+      <homePath value="C:\Users\lc\AppData\Local\Android\Sdk" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -113,8 +104,8 @@
     <jdk version="2">
       <name value="Android API 26 Platform" />
       <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_131&quot;" />
-      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <version value="java version &quot;1.8.0_112-release&quot;" />
+      <homePath value="C:\Users\lc\AppData\Local\Android\Sdk" />
       <roots>
         <annotationsPath>
           <root type="composite">
