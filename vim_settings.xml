@@ -18,6 +18,10 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/NV21Buffer.class" timestamp="1531151491628">
         <mark key="'" line="48" column="23" />
       </file>
+      <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/core/CallHandler.java" timestamp="1532242060859">
+        <mark key="'" line="193" column="0" />
+        <mark key="." line="198" column="57" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/org/webrtc/ExtCameraEnumerator.java" timestamp="1531189369023">
         <mark key="'" line="316" column="31" />
         <mark key="[" line="255" column="0" />
@@ -25,12 +29,15 @@
         <mark key="." line="255" column="0" />
         <mark key="^" line="174" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" timestamp="1531464224418">
-        <mark key="'" line="762" column="20" />
+      <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" timestamp="1532242197393">
+        <mark key="'" line="207" column="44" />
         <mark key="[" line="1389" column="57" />
         <mark key="]" line="1389" column="74" />
         <mark key="." line="1389" column="74" />
         <mark key="^" line="1389" column="74" />
+      </file>
+      <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/CallApi.java" timestamp="1532241938518">
+        <mark key="'" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/.idea/workspace.xml" timestamp="1531102013429">
         <mark key="'" line="18" column="75" />
@@ -49,6 +56,12 @@
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" timestamp="1531156027094">
         <mark key="'" line="869" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/ConfigConstants.java" timestamp="1532241974238">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="52" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" timestamp="1531193846811">
         <mark key="'" line="226" column="28" />
@@ -101,9 +114,6 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1531131001305">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" timestamp="1531130589464">
         <mark key="'" line="270" column="24" />
         <mark key="[" line="63" column="0" />
@@ -113,28 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallHandler.java" />
-      <jump line="194" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallHandler.java" />
-      <jump line="207" column="53" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="219" column="53" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="230" column="28" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="583" column="48" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="592" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="593" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="595" column="85" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="932" column="72" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="992" column="55" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
-      <jump line="144" column="14" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="858" column="20" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="865" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="819" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="853" column="28" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="869" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="7" column="18" filename="$USER_HOME$/repos/walkie/app/src/main/java/org/webrtc/ExtCameraEnumerator.java" />
-      <jump line="131" column="43" filename="$USER_HOME$/repos/walkie/app/src/main/java/org/webrtc/ExtCameraEnumerator.java" />
-      <jump line="91" column="22" filename="$USER_HOME$/repos/walkie/app/src/main/java/org/webrtc/ExtCameraEnumerator.java" />
-      <jump line="24" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/org/webrtc/ExtCameraEnumerator.java" />
-      <jump line="213" column="32" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
       <jump line="220" column="24" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
       <jump line="234" column="44" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
       <jump line="431" column="51" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/webrtc/PeerConnectionClient.java" />
@@ -213,6 +201,28 @@
       <jump line="763" column="20" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
       <jump line="762" column="20" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
       <jump line="53" column="25" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="49" column="51" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/CallApi.java" />
+      <jump line="782" column="10" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="1312" column="17" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="198" column="56" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/core/CallHandler.java" />
+      <jump line="193" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/core/CallHandler.java" />
+      <jump line="315" column="16" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="339" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="314" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="656" column="12" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="658" column="52" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="663" column="53" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="662" column="47" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="661" column="64" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="660" column="59" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="659" column="55" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="636" column="8" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="156" column="20" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="320" column="54" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="249" column="41" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="87" column="57" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
+      <jump line="207" column="44" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/media/PeerConnectionClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -222,7 +232,7 @@
         <text>-v7a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYzRlZDg3NmQ1MTVhNTUxMzg0YjdiYTUwNDY1YzRmNlw+</text>
+        <text encoding="base64">XDxkYXRhQ2hhbm5lbFBhcmFtZXRlcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoIjFhOGJhMGU1YjM5MzQ5ZDM5NWM3NTcxYmY1YzAyNThiIiwgNTAsIDQpOwo=</text>
@@ -259,18 +269,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYzRlZDg3NmQ1MTVhNTUxMzg0YjdiYTUwNDY1YzRmNlw+</last-search>
+      <last-search encoding="base64">XDxkYXRhQ2hhbm5lbFBhcmFtZXRlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYzRlZDg3NmQ1MTVhNTUxMzg0YjdiYTUwNDY1YzRmNlw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhQ2hhbm5lbFBhcmFtZXRlcnNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdleFw+</entry>
-        <entry encoding="base64">XDxhdWRpb0JpdHJhdGVcPg==</entry>
-        <entry encoding="base64">XDxhdWRpb1N0YXJ0Qml0cmF0ZVw+</entry>
-        <entry encoding="base64">XDxtb3ZlUGF5bG9hZFR5cGVzVG9Gcm9udFw+</entry>
         <entry>setPreviewF</entry>
         <entry>Fps</entry>
         <entry encoding="base64">XDx1dklkeFw+</entry>
@@ -287,6 +293,10 @@
         <entry>events</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
         <entry encoding="base64">XDxkYzRlZDg3NmQ1MTVhNTUxMzg0YjdiYTUwNDY1YzRmNlw+</entry>
+        <entry>data</entry>
+        <entry>dataC</entry>
+        <entry encoding="base64">XDxkYXRhQ2hhbm5lbEVuYWJsZWRcPg==</entry>
+        <entry encoding="base64">XDxkYXRhQ2hhbm5lbFBhcmFtZXRlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
@@ -315,7 +325,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
