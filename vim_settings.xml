@@ -41,6 +41,12 @@
         <mark key="^" line="30" column="12" />
         <mark key="." line="30" column="12" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1532342510790">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="182" column="36" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/PeerConnectionFactory.class" timestamp="1531157364702">
         <mark key="'" line="321" column="49" />
       </file>
@@ -68,6 +74,12 @@
         <mark key="]" line="51" column="67" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="47" column="14" />
+      </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientCache.java" timestamp="1532342693141">
+        <mark key="'" line="55" column="8" />
+        <mark key="[" line="21" column="76" />
+        <mark key="]" line="21" column="76" />
+        <mark key="." line="21" column="76" />
       </file>
       <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/ConfigConstants.java" timestamp="1532241974238">
         <mark key="[" line="5" column="44" />
@@ -105,8 +117,8 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/SurfaceTextureHelper.class" timestamp="1528846690839">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1532341180324">
-        <mark key="'" line="209" column="16" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1532342943492">
+        <mark key="'" line="67" column="28" />
         <mark key="[" line="101" column="43" />
         <mark key="]" line="101" column="43" />
         <mark key="^" line="101" column="41" />
@@ -177,6 +189,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" timestamp="1532342768236">
+        <mark key="'" line="101" column="12" />
+        <mark key="." line="47" column="109" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/GroupActivity.java" timestamp="1529978124742">
         <mark key="'" line="48" column="41" />
@@ -269,7 +285,7 @@
         <mark key="^" line="604" column="67" />
         <mark key="." line="604" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" timestamp="1532340159181">
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" timestamp="1532342439738">
         <mark key="'" line="121" column="49" />
         <mark key="[" line="112" column="103" />
         <mark key="]" line="113" column="16" />
@@ -278,15 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="344" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="300" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="51" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="87" column="24" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="271" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="52" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="274" column="36" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="308" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="345" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="79" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
@@ -378,58 +385,67 @@
       <jump line="209" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
       <jump line="461" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="589" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="94" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
+      <jump line="96" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
+      <jump line="101" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
+      <jump line="20" column="44" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientCache.java" />
+      <jump line="29" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientCache.java" />
+      <jump line="38" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientCache.java" />
+      <jump line="47" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientCache.java" />
+      <jump line="54" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientCache.java" />
+      <jump line="67" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoImU0OWM5NDM5MzgwZmFkN2VkN2UzMzk3M2UyNDViZDczIiwgNTAsIDIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>uled</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>uled</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</text>
+        <text>renew</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoImU0OWM5NDM5MzgwZmFkN2VkN2UzMzk3M2UyNDViZDczIiwgNTAsIDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGVjb2RlLmpzb25ycGM0ai5SZXF1ZXN0SW50ZXJjZXB0b3I7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjcmVhdGVDbHVzdGVyQ2xpZW50KGNsaWVudEluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBjbGllbnQgIT0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2xpZW50TWFuYWdlci5nZXRBY3RpdmVDbGllbnQoY2xpZW50SW5mby51c2VybmFtZSkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBjbGllbnRNYW5hZ2VyLmRlc3Ryb3lDbGllbnQoY2xpZW50SW5mby5zaWQsIDApOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpZW50TWFuYWdlci5kZXN0cm95Q2xpZW50KGNsaWVudEluZm8uc2lkLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjcmVhdGVDbHVzdGVyQ2xpZW50KGNsaWVudEluZm8pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlQ2x1c3RlckNsaWVudChjbGllbnRJbmZvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2xpZW50TWFuYWdlci5nZXRBY3RpdmVDbGllbnQoY2xpZW50SW5mby51c2VybmFtZSkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBjbGllbnRNYW5hZ2VyLmRlc3Ryb3lDbGllbnQoY2xpZW50SW5mby5zaWQsIDApOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy8gc2VuZCBlcnJvciBub3RpZnkgdG8gb2xkIGNsaWVudAogICAgICAgICAgICAgICAgICAgIC8vIENsaWVudEV2ZW50RW1pdHRlci5zbGllbnRFbWl0KAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgbmV3IENsaWVudEV2ZW50KENsaWVudEV2ZW50LlR5cGUuQ0xJRU5UX0VWRU5ULAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICBuZXcgT2JqZWN0W10ge3VzZXJuYW1lLCBDbGllbnRFdmVudC5UeXBlLlNUUkVBTV9FUlJPUiwgImNvbmZsaWN0In0pLAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgY29ubmVjdGlvbkluZm8pOwogICAgICAgICAgICAgICAgICAgIC8vIGNsaWVudE1hbmFnZXIuZGVzdHJveUNsaWVudChjbGllbnQuZ2V0Q29ubmVjdGlvbkluZm8oKS5zaWQsIDBMKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpZW50TWFuYWdlci5kZXN0cm95Q2xpZW50KGNsaWVudEluZm8uc2lkLCAwKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Q29ubmVjdGlvbkluZm8uUDJQX1RSQU5TUE9SVC5lcXVhbHMoY29ubmVjdGlvbkluZm8udHJhbnNwb3J0KQogICAgICAgICAgICAgICAgICAgICYmIENvbm5lY3Rpb25JbmZvLlAyUF9UUkFOU1BPUlQuZXF1YWxzKG9sZENvbm5lY3Rpb24udHJhbnNwb3J0KQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlQ2x1c3RlckNsaWVudChjbGllbnRJbmZvKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy8gc2VuZCBlcnJvciBub3RpZnkgdG8gb2xkIGNsaWVudAogICAgICAgICAgICAgICAgICAgIC8vIENsaWVudEV2ZW50RW1pdHRlci5zbGllbnRFbWl0KAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgbmV3IENsaWVudEV2ZW50KENsaWVudEV2ZW50LlR5cGUuQ0xJRU5UX0VWRU5ULAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICBuZXcgT2JqZWN0W10ge3VzZXJuYW1lLCBDbGllbnRFdmVudC5UeXBlLlNUUkVBTV9FUlJPUiwgImNvbmZsaWN0In0pLAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgY29ubmVjdGlvbkluZm8pOwogICAgICAgICAgICAgICAgICAgIC8vIGNsaWVudE1hbmFnZXIuZGVzdHJveUNsaWVudChjbGllbnQuZ2V0Q29ubmVjdGlvbkluZm8oKS5zaWQsIDBMKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Q29ubmVjdGlvbkluZm8uUDJQX1RSQU5TUE9SVC5lcXVhbHMoY29ubmVjdGlvbkluZm8udHJhbnNwb3J0KQogICAgICAgICAgICAgICAgICAgICYmIENvbm5lY3Rpb25JbmZvLlAyUF9UUkFOU1BPUlQuZXF1YWxzKG9sZENvbm5lY3Rpb24udHJhbnNwb3J0KQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</last-search>
+      <last-search>renew</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</last-pattern>
+      <last-pattern>renew</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -437,9 +453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onRe</entry>
-        <entry encoding="base64">XDxyZXBsYXlSZWNvcmRcPg==</entry>
-        <entry>mOutputFile =</entry>
         <entry encoding="base64">XDxtT3V0cHV0RmlsZVw+</entry>
         <entry>doAu</entry>
         <entry encoding="base64">XDxub2RlTGlzdGVuZXJcPg==</entry>
@@ -457,6 +470,9 @@
         <entry>onCre</entry>
         <entry encoding="base64">XDxvbkNyZWF0ZVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxpc0xvb3BiYWNrUmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxjYWNoZUV4ZWN1dG9yXD4=</entry>
+        <entry>renew</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
