@@ -105,7 +105,7 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/SurfaceTextureHelper.class" timestamp="1528846690839">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1532336451333">
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1532338584174">
         <mark key="'" line="98" column="20" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1532329993664">
@@ -265,20 +265,15 @@
         <mark key="." line="426" column="38" />
         <mark key="^" line="426" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" timestamp="1532337621205">
-        <mark key="'" line="190" column="24" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" timestamp="1532338617301">
+        <mark key="'" line="130" column="26" />
+        <mark key="[" line="115" column="20" />
+        <mark key="]" line="88" column="20" />
+        <mark key="^" line="88" column="20" />
+        <mark key="." line="88" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="496" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="418" column="20" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="493" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="497" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="506" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="509" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="510" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="480" column="42" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="482" column="45" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="489" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="487" column="49" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
@@ -365,11 +360,20 @@
       <jump line="471" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="461" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="120" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
-      <jump line="130" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="139" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="60" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="138" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="190" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="107" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="108" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="109" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="112" column="65" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="114" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="119" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="129" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="132" column="37" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="131" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="130" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -379,7 +383,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZyZXNoQ2xpZW50XD4=</text>
+        <text encoding="base64">XDxjbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cGRhdGVTdGF0ZShTVEFURV9JRExFKTsK</text>
@@ -419,9 +423,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZyZXNoQ2xpZW50XD4=</last-search>
+      <last-search encoding="base64">XDxjbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZyZXNoQ2xpZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>-1</last-dir>
@@ -445,10 +449,10 @@
         <entry>onCon</entry>
         <entry encoding="base64">XDxvbkNvbm5lY3RlZFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</entry>
-        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxjaGVja1JlcXVlc3RcPg==</entry>
         <entry>ref</entry>
         <entry encoding="base64">XDxyZWZyZXNoQ2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
