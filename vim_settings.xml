@@ -62,10 +62,10 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" timestamp="1532334639163">
+      <file name="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" timestamp="1532341817407">
         <mark key="'" line="16" column="16" />
         <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
+        <mark key="]" line="51" column="67" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="47" column="14" />
       </file>
@@ -105,8 +105,8 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/SurfaceTextureHelper.class" timestamp="1528846690839">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1532339449462">
-        <mark key="'" line="141" column="16" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1532341180324">
+        <mark key="'" line="209" column="16" />
         <mark key="[" line="101" column="43" />
         <mark key="]" line="101" column="43" />
         <mark key="^" line="101" column="41" />
@@ -262,9 +262,12 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1532340354756">
-        <mark key="'" line="461" column="28" />
-        <mark key="^" line="614" column="29" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1532341558455">
+        <mark key="'" line="589" column="29" />
+        <mark key="[" line="604" column="67" />
+        <mark key="]" line="604" column="67" />
+        <mark key="^" line="604" column="67" />
+        <mark key="." line="604" column="67" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" timestamp="1532340159181">
         <mark key="'" line="121" column="49" />
@@ -275,11 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="268" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="257" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="477" column="25" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
-      <jump line="273" column="20" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="290" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="344" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="300" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
@@ -352,7 +350,6 @@
       <jump line="549" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="470" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="471" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="461" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="120" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="139" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="60" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
@@ -375,68 +372,71 @@
       <jump line="120" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
       <jump line="104" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
       <jump line="141" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
+      <jump line="91" column="32" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
+      <jump line="176" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
+      <jump line="214" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
+      <jump line="209" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
+      <jump line="461" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="589" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpZW50TWFuYWdlci5kZXN0cm95Q2xpZW50KGNsaWVudEluZm8uc2lkLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoImU0OWM5NDM5MzgwZmFkN2VkN2UzMzk3M2UyNDViZDczIiwgNTAsIDIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxraWNrT2xkQ2xpZW50aWZFeGlzdFw+</text>
+        <text encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ConnectionInfo.P2P_TRANSPORT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoImU0OWM5NDM5MzgwZmFkN2VkN2UzMzk3M2UyNDViZDczIiwgNTAsIDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpZW50TWFuYWdlci5kZXN0cm95Q2xpZW50KGNsaWVudEluZm8uc2lkLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlQ2x1c3RlckNsaWVudChjbGllbnRJbmZvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjcmVhdGVDbHVzdGVyQ2xpZW50KGNsaWVudEluZm8pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy8gc2VuZCBlcnJvciBub3RpZnkgdG8gb2xkIGNsaWVudAogICAgICAgICAgICAgICAgICAgIC8vIENsaWVudEV2ZW50RW1pdHRlci5zbGllbnRFbWl0KAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgbmV3IENsaWVudEV2ZW50KENsaWVudEV2ZW50LlR5cGUuQ0xJRU5UX0VWRU5ULAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICBuZXcgT2JqZWN0W10ge3VzZXJuYW1lLCBDbGllbnRFdmVudC5UeXBlLlNUUkVBTV9FUlJPUiwgImNvbmZsaWN0In0pLAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgY29ubmVjdGlvbkluZm8pOwogICAgICAgICAgICAgICAgICAgIC8vIGNsaWVudE1hbmFnZXIuZGVzdHJveUNsaWVudChjbGllbnQuZ2V0Q29ubmVjdGlvbkluZm8oKS5zaWQsIDBMKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2xpZW50TWFuYWdlci5nZXRBY3RpdmVDbGllbnQoY2xpZW50SW5mby51c2VybmFtZSkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBjbGllbnRNYW5hZ2VyLmRlc3Ryb3lDbGllbnQoY2xpZW50SW5mby5zaWQsIDApOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Q29ubmVjdGlvbkluZm8uUDJQX1RSQU5TUE9SVC5lcXVhbHMoY29ubmVjdGlvbkluZm8udHJhbnNwb3J0KQogICAgICAgICAgICAgICAgICAgICYmIENvbm5lY3Rpb25JbmZvLlAyUF9UUkFOU1BPUlQuZXF1YWxzKG9sZENvbm5lY3Rpb24udHJhbnNwb3J0KQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xpZW50TWFuYWdlci5kZXN0cm95Q2xpZW50KGNsaWVudEluZm8uc2lkLCAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlQ2x1c3RlckNsaWVudChjbGllbnRJbmZvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy8gc2VuZCBlcnJvciBub3RpZnkgdG8gb2xkIGNsaWVudAogICAgICAgICAgICAgICAgICAgIC8vIENsaWVudEV2ZW50RW1pdHRlci5zbGllbnRFbWl0KAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgbmV3IENsaWVudEV2ZW50KENsaWVudEV2ZW50LlR5cGUuQ0xJRU5UX0VWRU5ULAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICBuZXcgT2JqZWN0W10ge3VzZXJuYW1lLCBDbGllbnRFdmVudC5UeXBlLlNUUkVBTV9FUlJPUiwgImNvbmZsaWN0In0pLAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgY29ubmVjdGlvbkluZm8pOwogICAgICAgICAgICAgICAgICAgIC8vIGNsaWVudE1hbmFnZXIuZGVzdHJveUNsaWVudChjbGllbnQuZ2V0Q29ubmVjdGlvbkluZm8oKS5zaWQsIDBMKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Q29ubmVjdGlvbkluZm8uUDJQX1RSQU5TUE9SVC5lcXVhbHMoY29ubmVjdGlvbkluZm8udHJhbnNwb3J0KQogICAgICAgICAgICAgICAgICAgICYmIENvbm5lY3Rpb25JbmZvLlAyUF9UUkFOU1BPUlQuZXF1YWxzKG9sZENvbm5lY3Rpb24udHJhbnNwb3J0KQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Q29ubmVjdGlvbkluZm8uUDJQX1RSQU5TUE9SVC5lcXVhbHMobGVmdC50cmFuc3BvcnQpCiAgICAgICAgICAgICAgICAmJiBDb25uZWN0aW9uSW5mby5QMlBfVFJBTlNQT1JULmVxdWFscyhsZWZ0LnRyYW5zcG9ydCk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxraWNrT2xkQ2xpZW50aWZFeGlzdFw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxraWNrT2xkQ2xpZW50aWZFeGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stopRe</entry>
-        <entry encoding="base64">XDxTVEFURV9TVE9QXD4=</entry>
-        <entry>onre</entry>
         <entry>onRe</entry>
         <entry encoding="base64">XDxyZXBsYXlSZWNvcmRcPg==</entry>
         <entry>mOutputFile =</entry>
@@ -445,7 +445,6 @@
         <entry encoding="base64">XDxub2RlTGlzdGVuZXJcPg==</entry>
         <entry>onCon</entry>
         <entry encoding="base64">XDxvbkNvbm5lY3RlZFw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxjaGVja1JlcXVlc3RcPg==</entry>
         <entry>ref</entry>
         <entry encoding="base64">XDxyZWZyZXNoQ2xpZW50XD4=</entry>
@@ -454,6 +453,10 @@
         <entry encoding="base64">XDxmcm9tU2FtZUNsaWVudFw+</entry>
         <entry encoding="base64">XDxyZW5ld0NsaWVudElmRXhpc3RcPg==</entry>
         <entry encoding="base64">XDxraWNrT2xkQ2xpZW50aWZFeGlzdFw+</entry>
+        <entry>onCrea</entry>
+        <entry>onCre</entry>
+        <entry encoding="base64">XDxvbkNyZWF0ZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
