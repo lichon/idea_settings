@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/SurfaceTextureHelper.class" timestamp="1528846690839">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1532356827269">
-        <mark key="'" line="102" column="17" />
-        <mark key="[" line="115" column="13" />
-        <mark key="]" line="116" column="69" />
-        <mark key="." line="116" column="69" />
-        <mark key="^" line="116" column="69" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1532438807363">
+        <mark key="'" line="74" column="61" />
+        <mark key="[" line="101" column="16" />
+        <mark key="]" line="101" column="18" />
+        <mark key="." line="101" column="18" />
+        <mark key="^" line="101" column="18" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1532329993664">
         <mark key="'" line="606" column="22" />
@@ -393,22 +393,22 @@
       <jump line="77" column="1" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="488" column="25" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="231" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
-      <jump line="74" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
       <jump line="116" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
       <jump line="30" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/BasicClient.java" />
       <jump line="35" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/BasicClient.java" />
       <jump line="36" column="13" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/BasicClient.java" />
       <jump line="102" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
+      <jump line="74" column="61" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ClientUtils.isClusterTransport(connectionInfo)</text>
+        <text encoding="base64">ICYm</text>
       </register>
       <register name="-" type="4">
-        <text>ClientUtils.isClusterTransport(connectionInfo)</text>
+        <text encoding="base64">ICYm</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxraWNrT2xkQ2xpZW50aWZFeGlzdFw+</text>
+        <text>fromS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gY29ubmVjdGlvbkluZm8udHJhbnNwb3J0LnN0YXJ0c1dpdGgoQ29ubmVjdGlvbkluZm8uQ0xVU1RFUl9UUkFOU1BPUlQpOwo=</text>
@@ -448,9 +448,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxraWNrT2xkQ2xpZW50aWZFeGlzdFw+</last-search>
+      <last-search>fromS</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxraWNrT2xkQ2xpZW50aWZFeGlzdFw+</last-pattern>
+      <last-pattern>fromS</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -458,7 +458,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWNoZUV4ZWN1dG9yXD4=</entry>
         <entry>renew</entry>
         <entry encoding="base64">XDxyZXNldENvbnRhY3RTdGF0dXNcPg==</entry>
         <entry encoding="base64">dXNlciA9IA==</entry>
@@ -478,6 +477,7 @@
         <entry encoding="base64">XDxjb25uZWN0aW9uSW5mb1w+</entry>
         <entry>isClu</entry>
         <entry encoding="base64">XDxraWNrT2xkQ2xpZW50aWZFeGlzdFw+</entry>
+        <entry>fromS</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
