@@ -57,8 +57,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" timestamp="1532512966039">
         <mark key="'" line="89" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" timestamp="1532513412301">
-        <mark key="'" line="458" column="12" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" timestamp="1532514040062">
+        <mark key="'" line="873" column="32" />
         <mark key="[" line="559" column="0" />
         <mark key="]" line="559" column="0" />
         <mark key="." line="559" column="0" />
@@ -323,17 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="524" column="12" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="529" column="12" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="531" column="12" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="532" column="12" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="547" column="15" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="615" column="12" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="618" column="16" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="1154" column="52" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="939" column="27" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="915" column="59" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="927" column="11" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
       <jump line="938" column="46" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
       <jump line="935" column="8" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
       <jump line="62" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
@@ -423,6 +412,17 @@
       <jump line="498" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="488" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="458" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="444" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="855" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="865" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="870" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="866" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="871" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="122" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="362" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="413" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="441" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="873" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -432,7 +432,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOZXR3b3JrSW5mb1w+</text>
+        <text encoding="base64">XDxjb25uZWN0aW9uRXZlbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIDxyZWRjbG91ZC53YWxraWUuY2xpZW50LkNhbGxWaWRlb1ZpZXc=</text>
@@ -484,9 +484,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOZXR3b3JrSW5mb1w+</last-search>
+      <last-search encoding="base64">XDxjb25uZWN0aW9uRXZlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOZXR3b3JrSW5mb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uZWN0aW9uRXZlbnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsaXRlTW9kZVNkcFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -610,6 +610,8 @@
         <entry encoding="base64">XDxtQ3VycmVudE5ldHdvcmtJbnRlcmZhY2UgPQ==</entry>
         <entry encoding="base64">XDxuZXR3b3JrSW5mb1w+</entry>
         <entry encoding="base64">XDxOZXR3b3JrSW5mb1w+</entry>
+        <entry encoding="base64">XDxtRGlzY29ubmVjdGVkQnlCYXR0ZXJ5XD4=</entry>
+        <entry encoding="base64">XDxjb25uZWN0aW9uRXZlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>update</entry>
