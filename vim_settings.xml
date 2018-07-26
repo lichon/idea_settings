@@ -106,6 +106,11 @@
         <mark key="^" line="114" column="6" />
         <mark key="." line="114" column="6" />
       </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" timestamp="1532573594804">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallHandler.java" timestamp="1528880161049">
         <mark key="'" line="317" column="0" />
         <mark key="[" line="538" column="0" />
@@ -178,6 +183,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" timestamp="1532573830381">
+        <mark key="'" line="28" column="29" />
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="40" />
+        <mark key="^" line="42" column="40" />
+        <mark key="." line="42" column="40" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" timestamp="1532342768236">
         <mark key="'" line="101" column="12" />
@@ -269,13 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
-      <jump line="238" column="9" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
-      <jump line="289" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
-      <jump line="59" column="63" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
-      <jump line="589" column="60" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="610" column="22" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="387" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="484" column="60" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="360" column="43" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="333" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
@@ -369,69 +374,72 @@
       <jump line="171" column="30" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="493" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="250" column="35" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
+      <jump line="88" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" />
+      <jump line="76" column="27" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" />
+      <jump line="42" column="27" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" />
+      <jump line="58" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" />
+      <jump line="41" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" />
+      <jump line="92" column="35" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" />
+      <jump line="28" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFN1cHByZXNzTGludCgiUmVnaXN0ZXJlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS5iCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.bind(this);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0Q2FtZXJhXD4=</text>
+        <text encoding="base64">XDxDb250YWN0UGF0aEV2ZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydW5PblVpVGhyZWFkKCgpIC0+IFRvYXN0Lm1ha2VUZXh0KEJhc2ljQWN0aXZpdHkudGhpcywgbXNnSWQsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFN1cHByZXNzTGludCgiUmVnaXN0ZXJlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS5iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS51bgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFN1cHByZXNzTGludCgiUmVnaXN0ZXJlZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBtYWluSGFuZGxlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0RAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBtYWluSGFuZGxlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpc09ubGluZSA9IGV2ZW50LnN1Y2Nlc3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0RAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYW5ub3RhdGlvbi5TdXBwcmVzc0xpbnQ7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkJpbmFyeU9wZXJhdGlvbkluVGltYmVyIikK</text>
+        <text encoding="base64">ICAgICAgICBpc09ubGluZSA9IGV2ZW50LnN1Y2Nlc3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0Q2FtZXJhXD4=</last-search>
+      <last-search encoding="base64">XDxDb250YWN0UGF0aEV2ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0Q2FtZXJhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDb250YWN0UGF0aEV2ZW50XD4=</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNvdmVyVGFza1w+</entry>
-        <entry>P2p</entry>
-        <entry encoding="base64">XDxQMlBTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxnZXRBdXRvTG9naW5cPg==</entry>
         <entry encoding="base64">XDxTZXJ2aWNlTG9nb3V0RXZlbnRcPg==</entry>
         <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
         <entry encoding="base64">XDxyZWNvdmVyQ29ubmVjdGlvblw+</entry>
@@ -448,6 +456,10 @@
         <entry encoding="base64">XDxpbml0TGlzdFw+</entry>
         <entry>new Han</entry>
         <entry encoding="base64">XDxpbml0Q2FtZXJhXD4=</entry>
+        <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxjb250YWN0TWFuYWdlclw+</entry>
+        <entry encoding="base64">XDxjdXJyZW50VW5pdFw+</entry>
+        <entry encoding="base64">XDxDb250YWN0UGF0aEV2ZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
