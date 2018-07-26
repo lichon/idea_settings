@@ -155,7 +155,7 @@
       <file name="$USER_HOME$/android/projects/im_webrtc/webrtc_engine/src/main/java/org/webrtc/client/AppRTCAudioManager.java" timestamp="1446090427957">
         <mark key="'" line="176" column="12" />
       </file>
-      <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/ByteArrayOutputStream.java" timestamp="1532509792516">
+      <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/ByteArrayOutputStream.java" timestamp="1532516104508">
         <mark key="'" line="76" column="8" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/registration/RegistrationManager.java" timestamp="1532513147340">
@@ -178,6 +178,11 @@
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/OutputStream.java" timestamp="1532509205977">
         <mark key="'" line="45" column="57" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/AndroidManifestLibrary.xml" timestamp="1531981954526">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/sip/CallUserAgent.java" timestamp="1532420491663">
         <mark key="'" line="210" column="16" />
@@ -291,11 +296,10 @@
       <file name="$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/td_tech-ht_01-820D066513010494/sdcard/walkie/crash.log" timestamp="1530758426626">
         <mark key="'" line="62" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1532509946864">
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="31" />
-        <mark key="." line="48" column="31" />
-        <mark key="^" line="48" column="31" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1532516106986">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TCPMessageChannel.class" timestamp="1532506862923">
         <mark key="'" line="189" column="21" />
@@ -426,10 +430,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vRklYTUU6IFFDSU1TQ00gZ2V0IGxvY2FsIGlwYWRkcmVzcyBieSBvbkNvbmZpZ3VyYXRpb25DaGFuZ2UgY2FsbGJhY2sKICAgICAgICAgICAgICAgIGxvY2FsSXBBZGRyID0gIjEyNy4wLjAuMSI7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG9CeXRlQXJyYXkoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0aW9uRXZlbnRcPg==</text>
@@ -438,7 +442,7 @@
         <text encoding="base64">ICAgIDxyZWRjbG91ZC53YWxraWUuY2xpZW50LkNhbGxWaWRlb1ZpZXc=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vRklYTUU6IFFDSU1TQ00gZ2V0IGxvY2FsIGlwYWRkcmVzcyBieSBvbkNvbmZpZ3VyYXRpb25DaGFuZ2UgY2FsbGJhY2sKICAgICAgICAgICAgICAgIGxvY2FsSXBBZGRyID0gIjEyNy4wLjAuMSI7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdG9CeXRlQXJyYXkoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -455,29 +459,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b0J5dGVBcnJheSgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vRklYTUU6IFFDSU1TQ00gZ2V0IGxvY2FsIGlwYWRkcmVzcyBieSBvbkNvbmZpZ3VyYXRpb25DaGFuZ2UgY2FsbGJhY2sKICAgICAgICAgICAgICAgIGxvY2FsSXBBZGRyID0gIjEyNy4wLjAuMSI7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IGVsc2Ugew==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>this.</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYnVmOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBDTU91dHB1dFN0cmVhbSBzb2NrZXRPdXRwdXRTdHJlYW0gPSBuZXcgQ01PdXRwdXRTdHJlYW0oNCAqIDEwMjQpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgLy8gc2VuZCBlcnJvcgogICAgICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBDTU91dHB1dFN0cmVhbSBzb2NrZXRPdXRwdXRTdHJlYW0gPSBuZXcgQ01PdXRwdXRTdHJlYW0oNCAqIDEwMjQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
