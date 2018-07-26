@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" timestamp="1532576241510">
-        <mark key="'" line="131" column="25" />
-        <mark key="[" line="172" column="16" />
-        <mark key="]" line="172" column="43" />
-        <mark key="." line="172" column="43" />
-        <mark key="^" line="172" column="43" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" timestamp="1532577915979">
+        <mark key="'" line="113" column="20" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="^" line="111" column="66" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/NV21Buffer.class" timestamp="1531151491628">
         <mark key="'" line="48" column="23" />
@@ -144,7 +144,7 @@
         <mark key="." line="83" column="29" />
         <mark key="^" line="83" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/BasicActivity.java" timestamp="1532576321719">
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/BasicActivity.java" timestamp="1532577939211">
         <mark key="'" line="66" column="19" />
         <mark key="[" line="67" column="48" />
         <mark key="]" line="67" column="46" />
@@ -227,12 +227,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" timestamp="1532576115676">
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/DirContactFragment.java" timestamp="1532577890988">
         <mark key="'" line="155" column="13" />
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="40" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
         <mark key="^" line="42" column="40" />
-        <mark key="." line="42" column="40" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" timestamp="1532342768236">
         <mark key="'" line="101" column="12" />
@@ -336,19 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="1" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="488" column="25" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="231" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
-      <jump line="116" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
-      <jump line="30" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/BasicClient.java" />
-      <jump line="35" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/BasicClient.java" />
-      <jump line="36" column="13" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/BasicClient.java" />
-      <jump line="102" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
-      <jump line="74" column="61" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
-      <jump line="79" column="13" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="676" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="66" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="90" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
       <jump line="301" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="227" column="14" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="48" column="13" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
@@ -436,6 +423,19 @@
       <jump line="212" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="214" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
       <jump line="215" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" />
+      <jump line="180" column="24" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="32" column="33" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="40" column="1" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="24" column="27" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="21" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="131" column="25" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="185" column="23" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="135" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="191" column="42" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="189" column="24" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="47" column="4" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
+      <jump line="113" column="20" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -445,49 +445,49 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxheVRhc2tcPg==</text>
+        <text>force</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydW5PblVpVGhyZWFkKCgpIC0+IG5ldyBIYW5kbGVyKCkucG9zdERlbGF5ZWQodGFzaywgZGVsYXkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBydW5PblVpVGhyZWFkKCgpIC0+IG5ldyBIYW5kbGVyKCkucG9zdERlbGF5ZWQodGFzaywgZGVsYXkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS5iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFAyUFNlcnZpY2UuZm9yY2VTdG9wKGNvbnRleHQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS51bgo=</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFN1cHByZXNzTGludCgiUmVnaXN0ZXJlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygiV2Vha2VyQWNjZXNzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygiV2Vha2VyQWNjZXNzIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBQ1JBLmluaXQodGhpcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBtYWluSGFuZGxlcjsK</text>
+        <text encoding="base64">ICAgICAgICBBQ1JBLmluaXQodGhpcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0RAo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSGFuZGxlcigpLnBvc3REZWxheWVkKHRhc2ssIGRlbGF5KTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFAyUFNlcnZpY2UuaXNSdW5uaW5nKCkpIHsKICAgICAgICAgICAgICAgIFAyUFNlcnZpY2UuZm9yY2VTdG9wKHRoaXMpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgU3lzdGVtLmV4aXQoMSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpc09ubGluZSA9IGV2ZW50LnN1Y2Nlc3M7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5UaHJlYWQuVW5jYXVnaHRFeGNlcHRpb25IYW5kbGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxheVRhc2tcPg==</last-search>
+      <last-search>force</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxheVRhc2tcPg==</last-pattern>
+      <last-pattern>force</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -495,11 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RE</entry>
-        <entry encoding="base64">XDxzdG9wUmVjb3JkXD4=</entry>
-        <entry encoding="base64">XDxzdG9wUmVwbGF5XD4=</entry>
-        <entry encoding="base64">XDxpc1JlY29yZGluZ1w+</entry>
-        <entry encoding="base64">XDxpbml0TGlzdFw+</entry>
         <entry>new Han</entry>
         <entry encoding="base64">XDxpbml0Q2FtZXJhXD4=</entry>
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
@@ -511,10 +506,15 @@
         <entry encoding="base64">XDxjdXJyZW50VW5pdFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVMaXN0XD4=</entry>
         <entry encoding="base64">XDxvbkRpckFkZGVkXD4=</entry>
-        <entry encoding="base64">XDxMb2NhbFJlcG9ydFNlbmRlclw+</entry>
         <entry encoding="base64">XDxzdGFydFJlY29yZFw+</entry>
         <entry>delay</entry>
         <entry encoding="base64">XDxkZWxheVRhc2tcPg==</entry>
+        <entry encoding="base64">XDxMb2NhbFJlcG9ydEZhY3RvcnlcPg==</entry>
+        <entry encoding="base64">XDxSZXBvcnRzQ3Jhc2hlc1w+</entry>
+        <entry encoding="base64">XDxBQ1JBXD4=</entry>
+        <entry encoding="base64">XDxMb2NhbFJlcG9ydFNlbmRlclw+</entry>
+        <entry encoding="base64">XDxGaWxlTG9nZ2luZ1RyZWVcPg==</entry>
+        <entry>force</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
