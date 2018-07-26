@@ -1,0 +1,26 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="context.clear" />
+  <action id="hg4idea.QFold" />
+</keymap>
