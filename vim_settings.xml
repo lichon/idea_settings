@@ -90,6 +90,9 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="56" column="61" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" timestamp="1532932306686">
+        <mark key="'" line="778" column="21" />
+      </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientCache.java" timestamp="1532342693141">
         <mark key="'" line="55" column="8" />
         <mark key="[" line="21" column="76" />
@@ -203,6 +206,9 @@
       </file>
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/CameraSession.class" timestamp="1531153992159">
         <mark key="'" line="21" column="13" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1532932394311">
+        <mark key="'" line="44" column="12" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/dao/message/MessageViewModel.java" timestamp="1532580486878">
         <mark key="'" line="19" column="11" />
@@ -331,6 +337,12 @@
         <mark key="^" line="362" column="59" />
         <mark key="." line="362" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" timestamp="1532932058945">
+        <mark key="'" line="276" column="43" />
+        <mark key="[" line="275" column="16" />
+        <mark key="]" line="275" column="16" />
+        <mark key="." line="275" column="16" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/recyclerview-v7/26.1.0/63d6891b399433c913fe91ce95a8456de02d367f/recyclerview-v7-26.1.0-sources.jar!/android/support/v7/widget/RecyclerView.java" timestamp="1532580204463">
         <mark key="'" line="353" column="37" />
       </file>
@@ -350,17 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="63" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="64" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="264" column="46" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="363" column="37" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="364" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="366" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="368" column="51" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="361" column="42" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="30" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/UnitService.java" />
       <jump line="77" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/UnitService.java" />
       <jump line="60" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/UnitService.java" />
@@ -450,16 +451,27 @@
       <jump line="156" column="20" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
       <jump line="262" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
       <jump line="265" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
+      <jump line="148" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
+      <jump line="268" column="65" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
+      <jump line="32" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="276" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
+      <jump line="780" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
+      <jump line="782" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
+      <jump line="778" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
+      <jump line="42" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="44" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>groupManager.getGroupList()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR1cERlZmF1bHRHcm91cFw+</text>
+        <text encoding="base64">XDxDTU91dHB1dFN0cmVhbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW1tdXRhYmxlTGlzdDxHcm91cD4gZ3JvdXBzID0gRmx1ZW50SXRlcmFibGUuZnJvbShncm91cE1hbmFnZXIuZ2V0R3JvdXBMaXN0KCkpLnRvU29ydGVkTGlzdChHUk9VUF9PUkRFUklORyk7Cg==</text>
@@ -499,21 +511,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR1cERlZmF1bHRHcm91cFw+</last-search>
+      <last-search encoding="base64">XDxDTU91dHB1dFN0cmVhbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR1cERlZmF1bHRHcm91cFw+</last-pattern>
+      <last-pattern encoding="base64">XDxDTU91dHB1dFN0cmVhbVw+</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>change</entry>
-        <entry>changed</entry>
-        <entry encoding="base64">XDxycGNJbnZva2VcPg==</entry>
-        <entry encoding="base64">XDxsYXN0UGluZ1w+</entry>
-        <entry>doPre</entry>
         <entry encoding="base64">XDxkb1ByZXNlbmNlXD4=</entry>
         <entry encoding="base64">XDxwcmVzZW5jZVw+</entry>
         <entry encoding="base64">XDxmcm9tU2FtZUNsaWVudFw+</entry>
@@ -529,6 +536,11 @@
         <entry encoding="base64">XDxsaXN0Q2hhbmdlZFw+</entry>
         <entry encoding="base64">XDxvbkdyb3VwRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxzZXR1cERlZmF1bHRHcm91cFw+</entry>
+        <entry>NETWORK_L</entry>
+        <entry encoding="base64">XDxORVRXT1JLX0xBWUVSXD4=</entry>
+        <entry encoding="base64">XDxDTU5ldHdvcmtMYXllclw+</entry>
+        <entry encoding="base64">XDxORVRXT1JLX0xBWUVSX0tFWVw+</entry>
+        <entry encoding="base64">XDxDTU91dHB1dFN0cmVhbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
