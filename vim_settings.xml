@@ -39,8 +39,8 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1532601640059">
-        <mark key="'" line="361" column="42" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1532928400116">
+        <mark key="'" line="67" column="81" />
         <mark key="[" line="376" column="79" />
         <mark key="]" line="377" column="43" />
         <mark key="." line="375" column="51" />
@@ -342,12 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="500" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="748" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="760" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="767" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="622" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="640" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="661" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="643" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="655" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
@@ -442,6 +436,12 @@
       <jump line="303" column="20" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="90" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="249" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="207" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="416" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="283" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="203" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="67" column="81" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -496,13 +496,11 @@
       <last-pattern encoding="base64">XDxwcmVzZW5jZVw+</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqdW1wVG9Qb3NpdGlvbkZvclNtb290aFNjcm9sbGVyXD4=</entry>
-        <entry encoding="base64">XDxzY3JvbGxUb1Bvc2l0aW9uXD4=</entry>
         <entry encoding="base64">XDxtTGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxydkNvbnRlbnRcPg==</entry>
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</entry>
@@ -520,6 +518,8 @@
         <entry>changed</entry>
         <entry encoding="base64">XDxycGNJbnZva2VcPg==</entry>
         <entry encoding="base64">XDxsYXN0UGluZ1w+</entry>
+        <entry>doPre</entry>
+        <entry encoding="base64">XDxkb1ByZXNlbmNlXD4=</entry>
         <entry encoding="base64">XDxwcmVzZW5jZVw+</entry>
       </history-search>
       <history-cmd>
