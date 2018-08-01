@@ -70,8 +70,8 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/CameraCapturer.class" timestamp="1528473975267">
         <mark key="'" line="104" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1532356522752">
-        <mark key="'" line="488" column="25" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1533125648064">
+        <mark key="'" line="330" column="15" />
         <mark key="[" line="362" column="44" />
         <mark key="]" line="362" column="44" />
         <mark key="^" line="362" column="59" />
@@ -343,8 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="8" filename="$USER_HOME$/repos/android_sms/app/src/main/java/redcloud/sms/freesms/ui/MainActivity.java" />
-      <jump line="248" column="16" filename="$USER_HOME$/repos/android_sms/app/src/main/java/redcloud/sms/freesms/ui/MainActivity.java" />
       <jump line="26" column="4" filename="$USER_HOME$/repos/walkie/app/build.gradle" />
       <jump line="149" column="15" filename="$USER_HOME$/repos/android_sms/app/src/main/java/freesms/service/DownloadService.java" />
       <jump line="68" column="36" filename="$USER_HOME$/repos/walkie/app/src/main/java/org/webrtc/ExtCameraEnumerator.java" />
@@ -443,6 +441,8 @@
       <jump line="85" column="24" filename="$USER_HOME$/repos/gw_walkie/pom.xml" />
       <jump line="82" column="59" filename="$USER_HOME$/repos/gw_walkie/pom.xml" />
       <jump line="246" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="472" column="93" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="330" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -452,7 +452,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>guava</text>
+        <text encoding="base64">XDxzZXJ2ZXJVcmxGb3JtYXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -492,13 +492,13 @@
       </register>
     </registers>
     <search>
-      <last-search>guava</last-search>
+      <last-search encoding="base64">XDxzZXJ2ZXJVcmxGb3JtYXRcPg==</last-search>
       <last-offset />
-      <last-pattern>guava</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2ZXJVcmxGb3JtYXRcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -522,6 +522,7 @@
         <entry encoding="base64">XDxleGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxNZXNzYWdlVmlld01vZGVsXD4=</entry>
         <entry>guava</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJVcmxGb3JtYXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
