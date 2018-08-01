@@ -49,6 +49,11 @@
         <mark key="." line="375" column="51" />
         <mark key="^" line="377" column="43" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1533149994372">
+        <mark key="[" line="85" column="4" />
+        <mark key="]" line="85" column="4" />
+        <mark key="." line="85" column="4" />
+      </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/BasicClient.java" timestamp="1532356746022">
         <mark key="'" line="36" column="13" />
         <mark key="[" line="47" column="29" />
@@ -182,12 +187,11 @@
         <mark key="." line="113" column="32" />
         <mark key="^" line="113" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" timestamp="1533149029914">
-        <mark key="'" line="179" column="12" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="412" column="69" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" timestamp="1533149914769">
+        <mark key="'" line="151" column="12" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" timestamp="1533147694415">
         <mark key="'" line="74" column="8" />
@@ -336,8 +340,8 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1533148858837">
-        <mark key="'" line="20" column="27" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1533149969392">
+        <mark key="'" line="576" column="34" />
         <mark key="[" line="362" column="44" />
         <mark key="]" line="362" column="44" />
         <mark key="^" line="362" column="59" />
@@ -374,14 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
-      <jump line="30" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
-      <jump line="29" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
-      <jump line="276" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="780" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
-      <jump line="782" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
-      <jump line="778" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
-      <jump line="42" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="44" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="39" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="61" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
@@ -465,77 +461,82 @@
       <jump line="72" column="9" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/BasicClient.java" />
       <jump line="73" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
       <jump line="363" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="332" column="44" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="532" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="576" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="439" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="539" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="297" column="23" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="20" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="161" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" />
       <jump line="182" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" />
+      <jump line="375" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" />
+      <jump line="118" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" />
+      <jump line="97" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" />
+      <jump line="153" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" />
+      <jump line="334" column="37" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="211" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="332" column="44" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="412" column="33" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="515" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="532" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="576" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGdhdGV3YXkgPSAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ateway;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0R2F0ZXdheUhvc3RcPg==</text>
+        <text encoding="base64">XDxub2RlTGlzdGVuZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaXJlR3JvdXBFdmVudChuZXcgR3JvdXBFdmVudC5QYXJhbXMoVHlwZS5KT0lORUQsIGdyb3VwLmdpZCwgbnVsbCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGdhdGV3YXkgPSAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNsaWVudC5Bc3luY1Jlc3RUZW1wbGF0ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFzeW5jUmVzdFRlbXBsYXRlIGh0dHBDbGllbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoZ2F0ZXdheSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1Jlc3RUZW1wbGF0ZUJ1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGNsb3VkLndhbGtpZS5jbGllbnQubWFuYWdlcnMuTG9jYWxDYWNoZU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGdhdGV3YXkgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKChHcm91cExpc3RGcmFnbWVudCl0YXJnZXQpLnVwZGF0ZURhdGFTb3VyY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoZ2F0ZXdheSkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyZUdyb3VwRXZlbnQobnVsbCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlZGNsb3VkLndhbGtpZS5jbGllbnQubWFuYWdlcnMuTG9jYWxDYWNoZU1hbmFnZXI7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0dXBEZWZhdWx0R3JvdXAoZ3JvdXBzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKChHcm91cExpc3RGcmFnbWVudCl0YXJnZXQpLnVwZGF0ZURhdGFTb3VyY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0R2F0ZXdheUhvc3RcPg==</last-search>
+      <last-search encoding="base64">XDxub2RlTGlzdGVuZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0R2F0ZXdheUhvc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxub2RlTGlzdGVuZXJcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR1cERlZmF1bHRHcm91cFw+</entry>
-        <entry encoding="base64">XDxkZWZhdWx0R2lkXD4=</entry>
-        <entry encoding="base64">XDxvbkdyb3VwRXZlbnRcPg==</entry>
         <entry>loadG</entry>
         <entry>load</entry>
         <entry encoding="base64">XDxhZGRHcm91cFw+</entry>
@@ -549,10 +550,13 @@
         <entry encoding="base64">XDxsb2FkQ2FjaGVcPg==</entry>
         <entry encoding="base64">XDxpbkNTTW9kZVw+</entry>
         <entry>online</entry>
-        <entry encoding="base64">XDxub2RlTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxzZW5kTm9kZUV2ZW50XD4=</entry>
         <entry encoding="base64">XDxBc3luY0h0dHBDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxpbml0R2F0ZXdheUhvc3RcPg==</entry>
+        <entry encoding="base64">XDxyZXN0VGVtcGxhdGVCdWlsZGVyXD4=</entry>
+        <entry encoding="base64">XDxodHRwQ2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxvbk5vZGVTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxub2RlTGlzdGVuZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
