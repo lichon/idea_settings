@@ -304,12 +304,12 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" timestamp="1533141619174">
-        <mark key="'" line="266" column="12" />
-        <mark key="[" line="328" column="0" />
-        <mark key="]" line="328" column="38" />
-        <mark key="." line="328" column="0" />
-        <mark key="^" line="271" column="18" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" timestamp="1533142292297">
+        <mark key="'" line="301" column="16" />
+        <mark key="[" line="321" column="32" />
+        <mark key="]" line="321" column="32" />
+        <mark key="." line="321" column="32" />
+        <mark key="^" line="321" column="32" />
       </file>
       <file name="$USER_HOME$/repos/android_sms/app/src/main/java/redcloud/sms/freesms/common/ClientUtil.java" timestamp="1529057835950">
         <mark key="'" line="42" column="30" />
@@ -356,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="23" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="287" column="18" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="285" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="317" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
@@ -456,6 +455,7 @@
       <jump line="264" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
       <jump line="322" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
       <jump line="266" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
+      <jump line="301" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -465,7 +465,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0R2lkXD4=</text>
+        <text encoding="base64">XDxvbkdyb3VwRXZlbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW1tdXRhYmxlTGlzdDxHcm91cD4gZ3JvdXBzID0gRmx1ZW50SXRlcmFibGUuZnJvbShncm91cE1hbmFnZXIuZ2V0R3JvdXBMaXN0KCkpLnRvU29ydGVkTGlzdChHUk9VUF9PUkRFUklORyk7Cg==</text>
@@ -505,9 +505,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0R2lkXD4=</last-search>
+      <last-search encoding="base64">XDxvbkdyb3VwRXZlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0R2lkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvbkdyb3VwRXZlbnRcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxORVRXT1JLX0xBWUVSX0tFWVw+</entry>
         <entry encoding="base64">XDxDTU91dHB1dFN0cmVhbVw+</entry>
         <entry encoding="base64">XDxzb2NrZXRJbnB1dFN0cmVhbVw+</entry>
         <entry encoding="base64">XDxkYXRhU3RyZWFtRnJvbUNNXD4=</entry>
@@ -535,6 +534,7 @@
         <entry>setupDef</entry>
         <entry encoding="base64">XDxzZXR1cERlZmF1bHRHcm91cFw+</entry>
         <entry encoding="base64">XDxkZWZhdWx0R2lkXD4=</entry>
+        <entry encoding="base64">XDxvbkdyb3VwRXZlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
