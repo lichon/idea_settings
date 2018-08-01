@@ -35,8 +35,8 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/BasePageFragment.java" timestamp="1532575828868">
         <mark key="'" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/ListViewFragment.java" timestamp="1529003775229">
-        <mark key="'" line="46" column="19" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/ListViewFragment.java" timestamp="1533147065803">
+        <mark key="'" line="42" column="16" />
         <mark key="[" line="38" column="26" />
         <mark key="]" line="38" column="28" />
         <mark key="." line="38" column="28" />
@@ -125,11 +125,11 @@
         <mark key="^" line="56" column="40" />
         <mark key="." line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" timestamp="1533143961849">
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" timestamp="1533147093393">
         <mark key="'" line="80" column="23" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallHandler.java" timestamp="1532988104100">
         <mark key="'" line="430" column="26" />
@@ -168,12 +168,11 @@
         <mark key="." line="227" column="58" />
         <mark key="^" line="227" column="58" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" timestamp="1533143639733">
-        <mark key="'" line="101" column="16" />
-        <mark key="[" line="316" column="12" />
-        <mark key="]" line="316" column="12" />
-        <mark key="^" line="316" column="12" />
-        <mark key="." line="316" column="12" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" timestamp="1533147185591">
+        <mark key="'" line="88" column="9" />
+        <mark key="[" line="113" column="27" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GatewayService.java" timestamp="1531130589464">
         <mark key="'" line="270" column="24" />
@@ -360,17 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="203" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="67" column="81" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="109" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
-      <jump line="98" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
-      <jump line="104" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" />
-      <jump line="124" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
-      <jump line="56" column="13" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/GroupActivity.java" />
-      <jump line="162" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/GroupActivity.java" />
-      <jump line="312" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
-      <jump line="83" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
       <jump line="174" column="21" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
       <jump line="55" column="23" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/SettingUtil.java" />
       <jump line="172" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/GroupActivity.java" />
@@ -451,76 +439,85 @@
       <jump line="325" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="328" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="404" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
-      <jump line="59" column="11" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="122" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="262" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="407" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="174" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
-      <jump line="310" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
-      <jump line="76" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="101" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="80" column="23" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" />
+      <jump line="310" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="76" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="298" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="320" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="329" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="332" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="408" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="263" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="123" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="112" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="59" column="11" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/ListViewFragment.java" />
+      <jump line="42" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/ListViewFragment.java" />
+      <jump line="88" column="9" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHx8ICFpc0xvZ2lu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKChHcm91cExpc3RGcmFnbWVudCl0YXJnZXQpLnVwZGF0ZURhdGFTb3VyY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8ICFpc0xvZ2lu</text>
+        <text>target</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRHcm91cFw+</text>
+        <text encoding="base64">XDxsb2FkQ2FjaGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW1tdXRhYmxlTGlzdDxHcm91cD4gZ3JvdXBzID0gRmx1ZW50SXRlcmFibGUuZnJvbShncm91cE1hbmFnZXIuZ2V0R3JvdXBMaXN0KCkpLnRvU29ydGVkTGlzdChHUk9VUF9PUkRFUklORyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJlR3JvdXBFdmVudChuZXcgR3JvdXBFdmVudC5QYXJhbXMoVHlwZS5KT0lORUQsIGdyb3VwLmdpZCwgbnVsbCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0dXBEZWZhdWx0R3JvdXAoZ3JvdXBzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKChHcm91cExpc3RGcmFnbWVudCl0YXJnZXQpLnVwZGF0ZURhdGFTb3VyY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdEdpZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyZUdyb3VwRXZlbnQobnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25vaW5zcGVjdGlvbiBHdWF2YQogICAgICAgICAgICAgICAgICAgIEltbXV0YWJsZUxpc3Q8R3JvdXA+IGdyb3VwcyA9IEZsdWVudEl0ZXJhYmxlLmZyb20oZ3JvdXBNYW5hZ2VyLmdldEdyb3VwTGlzdCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRvU29ydGVkTGlzdChHUk9VUF9PUkRFUklORyk7CiAgICAgICAgICAgICAgICAgICAgc2V0dXBEZWZhdWx0R3JvdXAoZ3JvdXBzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0dXBEZWZhdWx0R3JvdXAoZ3JvdXBzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlZmF1bHRHaWQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdEdpZCA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGRlZmF1bHRHaWQgPSBTZXR0aW5nVXRpbC5nZXREZWZhdWx0R3JvdXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25vaW5zcGVjdGlvbiBHdWF2YQogICAgICAgICAgICAgICAgICAgIEltbXV0YWJsZUxpc3Q8R3JvdXA+IGdyb3VwcyA9IEZsdWVudEl0ZXJhYmxlLmZyb20oZ3JvdXBNYW5hZ2VyLmdldEdyb3VwTGlzdCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRvU29ydGVkTGlzdChHUk9VUF9PUkRFUklORyk7CiAgICAgICAgICAgICAgICAgICAgc2V0dXBEZWZhdWx0R3JvdXAoZ3JvdXBzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkdyb3VwRXZlbnQobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlZmF1bHRHaWQgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGRlZmF1bHRHaWQgPSBTZXR0aW5nVXRpbC5nZXREZWZhdWx0R3JvdXAoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRHcm91cFw+</last-search>
+      <last-search encoding="base64">XDxsb2FkQ2FjaGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRHcm91cFw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkQ2FjaGVcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVDbHVzdGVyQ2xpZW50XD4=</entry>
-        <entry encoding="base64">XDx0b0NsdXN0ZXJDb25uZWN0aW9uSW5mb1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVDYW1lcmFDYXB0dXJlclw+</entry>
         <entry>Sess</entry>
         <entry encoding="base64">XDx2aWRlb0ZyYW1lRW1pdFRyaWFsRW5hYmxlZFw+</entry>
@@ -535,10 +532,12 @@
         <entry encoding="base64">XDxzZXR1cERlZmF1bHRHcm91cFw+</entry>
         <entry encoding="base64">XDxkZWZhdWx0R2lkXD4=</entry>
         <entry encoding="base64">XDxvbkdyb3VwRXZlbnRcPg==</entry>
-        <entry encoding="base64">XDxmaXJlR3JvdXBFdmVudFw+</entry>
         <entry>loadG</entry>
         <entry>load</entry>
         <entry encoding="base64">XDxhZGRHcm91cFw+</entry>
+        <entry encoding="base64">XDxmaXJlR3JvdXBFdmVudFw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVEYXRhU291cmNlXD4=</entry>
+        <entry encoding="base64">XDxsb2FkQ2FjaGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
