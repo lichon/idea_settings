@@ -81,8 +81,8 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/CameraCapturer.class" timestamp="1528473975267">
         <mark key="'" line="104" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1533208617217">
-        <mark key="'" line="604" column="38" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1533209802211">
+        <mark key="'" line="307" column="74" />
         <mark key="[" line="307" column="72" />
         <mark key="]" line="307" column="73" />
         <mark key="^" line="466" column="77" />
@@ -419,8 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="461" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="351" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="362" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="90" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="469" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
@@ -516,9 +514,11 @@
       <jump line="464" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="359" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="357" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="604" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="419" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="609" column="44" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="305" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="307" column="74" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="604" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -528,7 +528,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sendA</text>
+        <text encoding="base64">XDxOT0RFX1dSSVRFQUJMRV9TVEFUVVNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sendA</last-search>
+      <last-search encoding="base64">XDxOT0RFX1dSSVRFQUJMRV9TVEFUVVNcPg==</last-search>
       <last-offset />
-      <last-pattern>sendA</last-pattern>
+      <last-pattern encoding="base64">XDxOT0RFX1dSSVRFQUJMRV9TVEFUVVNcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -639,8 +639,9 @@
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry>%s</entry>
         <entry encoding="base64">XDxzZXROb2RlU3RhdHVzXD4=</entry>
-        <entry encoding="base64">XDxOT0RFX1dSSVRFQUJMRV9TVEFUVVNcPg==</entry>
         <entry>sendA</entry>
+        <entry>WRI</entry>
+        <entry encoding="base64">XDxOT0RFX1dSSVRFQUJMRV9TVEFUVVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
@@ -736,6 +737,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>pressed F9</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
