@@ -42,8 +42,8 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1533150859782">
-        <mark key="'" line="211" column="34" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1533174835334">
+        <mark key="'" line="447" column="38" />
         <mark key="[" line="376" column="79" />
         <mark key="]" line="377" column="43" />
         <mark key="." line="375" column="51" />
@@ -378,8 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/adapter/ClientEventAdapter.java" />
-      <jump line="264" column="14" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="40" column="13" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="296" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
       <jump line="315" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/GroupManager.java" />
@@ -478,6 +476,8 @@
       <jump line="675" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="460" column="63" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="403" column="70" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="293" column="64" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="447" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -487,7 +487,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDTFVTVEVSX1JFUVVFU1RcPg==</text>
+        <text encoding="base64">XDxTVEFUVVNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaXJlR3JvdXBFdmVudChuZXcgR3JvdXBFdmVudC5QYXJhbXMoVHlwZS5KT0lORUQsIGdyb3VwLmdpZCwgbnVsbCkpOwo=</text>
@@ -527,17 +527,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDTFVTVEVSX1JFUVVFU1RcPg==</last-search>
+      <last-search encoding="base64">XDxTVEFUVVNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDTFVTVEVSX1JFUVVFU1RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTVEFUVVNcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cluster-node-ev</entry>
         <entry encoding="base64">XDxzZW5kTm9kZUV2ZW50XD4=</entry>
         <entry encoding="base64">XDw6XD4=</entry>
         <entry encoding="base64">XDxvbk5vZGVTdGF0dXNcPg==</entry>
@@ -557,6 +556,7 @@
         <entry encoding="base64">XDxjbGllbnRUeXBlXD4=</entry>
         <entry encoding="base64">XDx0b1w+</entry>
         <entry encoding="base64">XDxDTFVTVEVSX1JFUVVFU1RcPg==</entry>
+        <entry encoding="base64">XDxTVEFUVVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
