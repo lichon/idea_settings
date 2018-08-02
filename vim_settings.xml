@@ -194,6 +194,12 @@
         <mark key="'" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/tools/settings/src/com/gsma/rcs/core/control/settings/AboutSettings.java" timestamp="1533201867394" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" timestamp="1533238469908">
+        <mark key="[" line="122" column="57" />
+        <mark key="]" line="122" column="59" />
+        <mark key="." line="122" column="59" />
+        <mark key="^" line="122" column="59" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" timestamp="1532578092961">
         <mark key="'" line="79" column="45" />
         <mark key="[" line="85" column="0" />
@@ -410,7 +416,7 @@
         <mark key="." line="142" column="63" />
         <mark key="^" line="142" column="63" />
       </file>
-      <file name="/fragment.java" timestamp="1533194981146">
+      <file name="/fragment.java" timestamp="1533238128364">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -518,10 +524,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nodeStatus</text>
+        <text>&quot;127.0.0.1&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ip</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub2RlXD4=</text>
@@ -530,34 +536,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>nodeStatus</text>
+        <text>&quot;127.0.0.1&quot;,</text>
       </register>
       <register name="2" type="4">
+        <text>nodeStatus</text>
+      </register>
+      <register name="3" type="4">
         <text>current</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2x1c3RlciBub2RlIHt9IGN1cnJlbnQgc3RhdHVzIHt9Iiwgbm9kZUlwLCBub2RlU3RhdHVzKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>newStatus</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGNoYW5nZWQ=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG5vdA==</text>
-      </register>
       <register name="7" type="4">
-        <text>has</text>
+        <text encoding="base64">IG5vdA==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0Tm9kZVN0YXR1cyhub2RlSXAsIDApOwo=</text>
+      <register name="8" type="4">
+        <text>has</text>
       </register>
-      <register name="9" type="4">
-        <text>walkie</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0Tm9kZVN0YXR1cyhub2RlSXAsIDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
