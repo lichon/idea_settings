@@ -70,12 +70,12 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/CameraCapturer.class" timestamp="1528473975267">
         <mark key="'" line="104" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1533190721310">
-        <mark key="'" line="478" column="33" />
-        <mark key="[" line="291" column="8" />
-        <mark key="]" line="291" column="14" />
-        <mark key="." line="291" column="14" />
-        <mark key="^" line="291" column="14" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" timestamp="1533191821672">
+        <mark key="'" line="457" column="21" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="467" column="60" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/PeerConnectionFactory.class" timestamp="1531157364702">
         <mark key="'" line="321" column="49" />
@@ -122,6 +122,13 @@
         <mark key="." line="227" column="58" />
         <mark key="^" line="227" column="58" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" timestamp="1533192499623">
+        <mark key="'" line="132" column="26" />
+        <mark key="[" line="157" column="41" />
+        <mark key="]" line="157" column="60" />
+        <mark key="^" line="157" column="60" />
+        <mark key="." line="157" column="60" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/BasicActivity.java" timestamp="1532580636686">
         <mark key="'" line="66" column="19" />
         <mark key="[" line="67" column="0" />
@@ -135,11 +142,12 @@
         <mark key="^" line="293" column="55" />
         <mark key="." line="293" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/pom.xml" timestamp="1532611462349">
+      <file name="$USER_HOME$/repos/gw_walkie/pom.xml" timestamp="1533192539120">
         <mark key="'" line="82" column="59" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" timestamp="1528999700958">
         <mark key="'" line="327" column="23" />
@@ -343,33 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="34" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="569" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="317" column="44" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="108" column="37" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="84" column="4" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="173" column="21" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="196" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="583" column="23" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="138" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/ClientUtil.java" />
-      <jump line="139" column="23" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/ClientUtil.java" />
-      <jump line="82" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" />
-      <jump line="605" column="99" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="918" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="54" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
-      <jump line="71" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
-      <jump line="61" column="43" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="262" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="45" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="66" column="63" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="64" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="264" column="46" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="363" column="37" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="364" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="366" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="368" column="51" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="361" column="42" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="30" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/UnitService.java" />
@@ -399,7 +380,6 @@
       <jump line="340" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="229" column="40" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="468" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="470" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="349" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="360" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="361" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
@@ -422,14 +402,9 @@
       <jump line="133" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="186" column="53" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="224" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="466" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="478" column="33" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="461" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="481" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="480" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="351" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="362" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="458" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="90" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="469" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="85" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
@@ -443,61 +418,94 @@
       <jump line="493" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="306" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="477" column="33" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="341" column="33" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="478" column="33" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="484" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="476" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="474" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="470" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="481" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="480" column="45" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="475" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="604" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="355" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="603" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="87" column="11" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="466" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="357" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="368" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="319" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="465" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="453" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="579" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="615" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="458" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="171" column="23" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="34" column="14" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="191" column="47" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="164" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="237" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="157" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="195" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
+      <jump line="132" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_STATUS</text>
+        <text>user.getName()</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOT0RFX0NPTk5FQ1RFRF9TVEFUVVNcPg==</text>
+        <text encoding="base64">XDxzZXROaWNrTmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>_STATUS</text>
+        <text>user.getName()</text>
       </register>
-      <register name="2" type="4">
-        <text>ADABLE</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0LnNldE5pY2tOYW1lKHVzZXIuZ2V0TmFtZSgpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>RE</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0LnNldE5pY2tOYW1lKHVzZXIuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">JiBOT0RFX1JFQURBQkxFX1NUQVRVUyk=</text>
+        <text>nickName</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG5vZGVTdGF0dXMgIT0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5pY2tOYW1lID0gdXNlci5nZXROYW1lKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>adable</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVpZCA9IHVzZXIuZ2V0VXNlcm5hbWUoKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>Re</text>
+        <text>uid</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>nodeIp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHVpZCA9IHVzZXIuZ2V0VXNlcm5hbWUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG5pY2tOYW1lID0gdXNlci5nZXROYW1lKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChTdHJpbmdzLmlzTnVsbE9yRW1wdHkobmlja05hbWUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuaWNrTmFtZSA9IHVpZDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGVTdGF0dQo=</text>
+      <register name="9" type="4">
+        <text>.getName();</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOT0RFX0NPTk5FQ1RFRF9TVEFUVVNcPg==</last-search>
+      <last-search encoding="base64">XDxzZXROaWNrTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOT0RFX0NPTk5FQ1RFRF9TVEFUVVNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXROaWNrTmFtZVw+</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -522,7 +530,6 @@
         <entry encoding="base64">XDxNZXNzYWdlVmlld01vZGVsXD4=</entry>
         <entry>guava</entry>
         <entry encoding="base64">XDxzZXJ2ZXJVcmxGb3JtYXRcPg==</entry>
-        <entry encoding="base64">XDxOT0RFX0NPTk5FQ1RFRFw+</entry>
         <entry encoding="base64">XDxjbHVzdGVyXD4=</entry>
         <entry encoding="base64">XDxjbHVzdGVyTm9kZVw+</entry>
         <entry encoding="base64">XDxzZXROb2RlV3JpdGFibGVcPg==</entry>
@@ -534,10 +541,22 @@
         <entry encoding="base64">XDxzZXROb2RlUmVhZGFibGVcPg==</entry>
         <entry>Imp</entry>
         <entry encoding="base64">XDxOT0RFX1dSSVRFQUJMRV9TVEFUVVNcPg==</entry>
-        <entry encoding="base64">XDxub2RlU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxOT0RFX1JFQURBQkxFX1NUQVRVU1w+</entry>
         <entry>setNode</entry>
+        <entry>CONNECTED_S</entry>
         <entry encoding="base64">XDxOT0RFX0NPTk5FQ1RFRF9TVEFUVVNcPg==</entry>
+        <entry encoding="base64">XDxuZXdTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxpc05vZGVDb25uZWN0ZWRTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxub2RlU3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxOT0RFX0NPTk5FQ1RFRFw+</entry>
+        <entry encoding="base64">XDxzZXROb2RlU3RhdHVzXD4=</entry>
+        <entry>SELF_RE</entry>
+        <entry encoding="base64">XDxTRUxGX1JFTU9WRURcPg==</entry>
+        <entry encoding="base64">XDxicm9hZGNhc3ROb2RlRXZlbnRcPg==</entry>
+        <entry>contacts</entry>
+        <entry encoding="base64">XDxnZXRDb250YWN0c1w+</entry>
+        <entry encoding="base64">XDxnZXROYW1lXD4=</entry>
+        <entry encoding="base64">XDxzZXROaWNrTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
