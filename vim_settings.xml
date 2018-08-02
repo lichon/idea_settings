@@ -87,8 +87,8 @@
       <file name="$USER_HOME$/repos/walkie/app/libs/librtcmedia.jar!/org/webrtc/PeerConnectionFactory.class" timestamp="1531157364702">
         <mark key="'" line="321" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1532601640059">
-        <mark key="'" line="361" column="42" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1533244408565">
+        <mark key="'" line="336" column="9" />
         <mark key="[" line="376" column="79" />
         <mark key="]" line="377" column="43" />
         <mark key="." line="375" column="51" />
@@ -194,11 +194,11 @@
         <mark key="'" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/tools/settings/src/com/gsma/rcs/core/control/settings/AboutSettings.java" timestamp="1533201867394" />
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" timestamp="1533238469908">
-        <mark key="[" line="122" column="57" />
-        <mark key="]" line="122" column="59" />
-        <mark key="." line="122" column="59" />
-        <mark key="^" line="122" column="59" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" timestamp="1533244480145">
+        <mark key="[" line="110" column="37" />
+        <mark key="]" line="110" column="37" />
+        <mark key="." line="110" column="37" />
+        <mark key="^" line="110" column="37" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" timestamp="1532578092961">
         <mark key="'" line="79" column="45" />
@@ -421,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="492" column="65" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="473" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="493" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
@@ -521,61 +520,62 @@
       <jump line="160" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="174" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="179" column="81" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
+      <jump line="336" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;127.0.0.1&quot;,</text>
+        <text>;//info.ip;</text>
       </register>
       <register name="-" type="4">
         <text>ip</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub2RlXD4=</text>
+        <text>doPre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;127.0.0.1&quot;,</text>
+        <text>;//info.ip;</text>
       </register>
       <register name="2" type="4">
-        <text>nodeStatus</text>
+        <text>&quot;127.0.0.1&quot;,</text>
       </register>
       <register name="3" type="4">
+        <text>nodeStatus</text>
+      </register>
+      <register name="4" type="4">
         <text>current</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2x1c3RlciBub2RlIHt9IGN1cnJlbnQgc3RhdHVzIHt9Iiwgbm9kZUlwLCBub2RlU3RhdHVzKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>newStatus</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGNoYW5nZWQ=</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">IG5vdA==</text>
+        <text encoding="base64">IGNoYW5nZWQ=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>has</text>
+        <text encoding="base64">IG5vdA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0Tm9kZVN0YXR1cyhub2RlSXAsIDApOwo=</text>
+      <register name="9" type="4">
+        <text>has</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub2RlXD4=</last-search>
+      <last-search>doPre</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub2RlXD4=</last-pattern>
+      <last-pattern>doPre</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -648,6 +648,7 @@
         <entry>newCOn</entry>
         <entry>Real</entry>
         <entry encoding="base64">XDxub2RlXD4=</entry>
+        <entry>doPre</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
