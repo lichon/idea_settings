@@ -252,12 +252,12 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1533286943994">
-        <mark key="'" line="71" column="20" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="3" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1533291536754">
+        <mark key="'" line="67" column="20" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="68" column="3" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" timestamp="1533280905533">
         <mark key="'" line="514" column="56" />
@@ -428,6 +428,9 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" timestamp="1533291946207">
+        <mark key="'" line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/ClientUtil.java" timestamp="1530075999591">
         <mark key="'" line="139" column="23" />
         <mark key="[" line="142" column="63" />
@@ -446,36 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMManager.java" />
-      <jump line="196" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMManager.java" />
-      <jump line="197" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMManager.java" />
-      <jump line="197" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="45" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="251" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="152" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="154" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="33" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="131" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="143" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="132" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="146" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="134" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="102" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="174" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="178" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="184" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="190" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="207" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="60" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="631" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="27" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="107" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="104" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="101" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="98" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="95" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="92" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="89" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="85" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="269" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
@@ -546,10 +519,40 @@
       <jump line="196" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="40" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="71" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="246" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="238" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="236" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="223" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="209" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="200" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="198" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="190" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="172" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="156" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="125" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="101" column="73" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5zaWduY29uZmlnCiAgICAgICAgICAgIG1pbmlmeUVuYWJsZWQgZmFsc2UKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -560,35 +563,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5zaWduY29uZmlnCiAgICAgICAgICAgIG1pbmlmeUVuYWJsZWQgZmFsc2UKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyNi4xLjAnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50OmNvbnN0cmFpbnQtbGF5b3V0OjEuMS4yJwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>mAutoConfig</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUF1dG9Db25maWcgPSBhdXRvQ29uZmlnOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1BdXRvQ29uZmlnOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgQ01JbnRlcmZhY2UoKSB7CiAgICAgICAgLy9tU3RhcnRTZXJ2aWNlID0gYXBwU2VydmljZTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDBE</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgQ01JbnRlcmZhY2UoKSB7CiAgICAgICAgLy9tU3RhcnRTZXJ2aWNlID0gYXBwU2VydmljZTsKICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1TdGF0dXM7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIDBE</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
