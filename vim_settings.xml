@@ -88,8 +88,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/ServiceListener.java" timestamp="1533279038354">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1533281789986">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1533294849030">
+        <mark key="'" line="361" column="21" />
         <mark key="[" line="196" column="51" />
         <mark key="]" line="196" column="60" />
         <mark key="^" line="196" column="60" />
@@ -449,8 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="85" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="269" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="253" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="115" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
@@ -549,6 +547,8 @@
       <jump line="91" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
       <jump line="51" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
       <jump line="79" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/security/cert/KeyStoreManager.java" />
+      <jump line="359" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="361" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -558,7 +558,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkbnNqYXZhXD4=</text>
+        <text encoding="base64">XDx0cmlnZ2VyRGVSZWdpc3RyYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -598,12 +598,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkbnNqYXZhXD4=</last-search>
+      <last-search encoding="base64">XDx0cmlnZ2VyRGVSZWdpc3RyYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkbnNqYXZhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0cmlnZ2VyRGVSZWdpc3RyYXRpb25cPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -629,6 +629,8 @@
         <entry encoding="base64">XDxtQ01TZXJ2aWNlTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxtQXV0b0NvbmZpZ1w+</entry>
         <entry encoding="base64">XDxkbnNqYXZhXD4=</entry>
+        <entry encoding="base64">XDxkb0RlUmVnaXN0ZXJcPg==</entry>
+        <entry encoding="base64">XDx0cmlnZ2VyRGVSZWdpc3RyYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
