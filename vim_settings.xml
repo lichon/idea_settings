@@ -28,8 +28,8 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" timestamp="1533237128253">
-        <mark key="'" line="179" column="81" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" timestamp="1533275484979">
+        <mark key="'" line="173" column="52" />
         <mark key="[" line="174" column="26" />
         <mark key="]" line="174" column="28" />
         <mark key="^" line="174" column="28" />
@@ -421,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="65" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="473" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="493" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="306" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
@@ -521,6 +520,7 @@
       <jump line="174" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="179" column="81" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
       <jump line="336" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="173" column="52" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientBindService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -530,7 +530,7 @@
         <text>ip</text>
       </register>
       <register name="/" type="4">
-        <text>doPre</text>
+        <text encoding="base64">XDx0cmFuc3BvcnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -570,9 +570,9 @@
       </register>
     </registers>
     <search>
-      <last-search>doPre</last-search>
+      <last-search encoding="base64">XDx0cmFuc3BvcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>doPre</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc3BvcnRcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -649,6 +649,7 @@
         <entry>Real</entry>
         <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry>doPre</entry>
+        <entry encoding="base64">XDx0cmFuc3BvcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
