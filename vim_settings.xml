@@ -147,7 +147,7 @@
         <mark key="^" line="293" column="55" />
         <mark key="." line="293" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/pom.xml" timestamp="1533207231063">
+      <file name="$USER_HOME$/repos/gw_walkie/pom.xml" timestamp="1533720367281">
         <mark key="'" line="82" column="59" />
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="18" />
@@ -161,12 +161,12 @@
         <mark key="." line="239" column="54" />
         <mark key="^" line="239" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" timestamp="1532078604976">
+      <file name="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" timestamp="1533720723701">
         <mark key="'" line="16" column="16" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="56" column="61" />
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="57" column="65" />
+        <mark key="." line="57" column="65" />
+        <mark key="^" line="57" column="61" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" timestamp="1533278468196">
         <mark key="'" line="135" column="33" />
@@ -214,13 +214,6 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/repo/UserRepositoryCustom.java" timestamp="1533716643789">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="42" column="87" />
-        <mark key="]" line="42" column="92" />
-        <mark key="." line="42" column="92" />
-        <mark key="^" line="42" column="92" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/CameraHelper.java" timestamp="1532332870128">
         <mark key="'" line="2" column="26" />
@@ -476,8 +469,8 @@
       <jump line="42" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/repo/UserRepositoryCustom.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+      <register name="&quot;" type="4">
+        <text>250</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -488,37 +481,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+      <register name="1" type="4">
+        <text>250</text>
       </register>
-      <register name="2" type="4">
-        <text>threadPoolSize</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGljZW5zZVRlc3QoIjgwMjA5NjAxMTJjZDg2MmMwYjVjZjlmM2ExZTg0ZjAxIiwgMjUwLCAxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgODAyMDk2MDExMmNkODYyYzBiNWNmOWYzYTFlODRmMDEK</text>
       </register>
-      <register name="4" type="4">
-        <text>ExecutorService</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHNjYW5TaXplID0gTWF0aC5taW4ocGFnZWFibGUuZ2V0UGFnZVNpemUoKSAqIHBhZ2VhYmxlLmdldFBhZ2VOdW1iZXIoKSwgKGludCkgc2l6ZSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>A</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="6" type="4">
-        <text>utowired</text>
+        <text>threadPoolSize</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgQEJlYW4KICAgICAgICBpbnQgdGhyZWFkUG9vbFNpemUoKSB7CiAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ID0gMTs=</text>
+        <text>ExecutorService</text>
       </register>
       <register name="9" type="4">
-        <text>fsRootUri() {
-            return String.format(&quot;http://%s:8000/txtapi/{cmd}?{params}&quot;, &quot;test.400free.com&quot;);
-        }</text>
+        <text>A</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -530,7 +521,7 @@
       <last-pattern encoding="base64">XDxzY2FuU2l6ZVw+</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
