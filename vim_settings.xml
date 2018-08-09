@@ -116,12 +116,12 @@
         <mark key="^" line="47" column="51" />
         <mark key="." line="47" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1533816206685">
-        <mark key="'" line="657" column="12" />
-        <mark key="[" line="575" column="0" />
-        <mark key="]" line="575" column="0" />
-        <mark key="." line="575" column="0" />
-        <mark key="^" line="576" column="67" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1533817458117">
+        <mark key="'" line="51" column="28" />
+        <mark key="[" line="531" column="78" />
+        <mark key="]" line="531" column="101" />
+        <mark key="." line="531" column="101" />
+        <mark key="^" line="531" column="101" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" timestamp="1533192499623">
         <mark key="'" line="132" column="26" />
@@ -153,8 +153,8 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" timestamp="1533806209061">
-        <mark key="'" line="504" column="39" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" timestamp="1533817203386">
+        <mark key="'" line="573" column="17" />
         <mark key="[" line="670" column="0" />
         <mark key="]" line="670" column="66" />
         <mark key="." line="239" column="54" />
@@ -394,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="76" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="162" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SessionService.java" />
       <jump line="187" column="30" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SessionService.java" />
@@ -430,7 +429,6 @@
       <jump line="131" column="28" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="305" column="30" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="320" column="37" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
-      <jump line="573" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="22" column="31" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/Constants.java" />
       <jump line="552" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="53" column="47" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
@@ -494,6 +492,8 @@
       <jump line="658" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="212" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
       <jump line="28" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
+      <jump line="573" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="51" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -503,7 +503,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kTWVzc2FnZVw+</text>
+        <text>session-in</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -543,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kTWVzc2FnZVw+</last-search>
+      <last-search>session-in</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kTWVzc2FnZVw+</last-pattern>
+      <last-pattern>session-in</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -580,12 +580,13 @@
         <entry encoding="base64">XDxqb2luUG9jU2Vzc2lvblw+</entry>
         <entry encoding="base64">XDxzeW5jRW1pdFw+</entry>
         <entry encoding="base64">XDxzZW5kTWVzc2FnZVN5bmNcPg==</entry>
-        <entry>session-in</entry>
         <entry encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</entry>
         <entry encoding="base64">XDxwb2NTZXNzaW9uTWVkaWFcPg==</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxicm9hZGNhc3RFdmVudFw+</entry>
         <entry encoding="base64">XDxzZW5kTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVQb2NTZXNzaW9uVXBkYXRlRm9yT3duZXJcPg==</entry>
+        <entry>session-in</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
