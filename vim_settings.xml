@@ -106,12 +106,6 @@
         <mark key="^" line="51" column="3" />
         <mark key="." line="51" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/service/FreeswitchServiceTest.java" timestamp="1533711469813">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="30" />
-      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/Constants.java" timestamp="1533807132837">
         <mark key="'" line="22" column="31" />
       </file>
@@ -122,11 +116,12 @@
         <mark key="^" line="47" column="51" />
         <mark key="." line="47" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1533814998135">
-        <mark key="'" line="671" column="12" />
-        <mark key="[" line="530" column="0" />
-        <mark key="]" line="530" column="0" />
-        <mark key="." line="530" column="0" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1533816206685">
+        <mark key="'" line="657" column="12" />
+        <mark key="[" line="575" column="0" />
+        <mark key="]" line="575" column="0" />
+        <mark key="." line="575" column="0" />
+        <mark key="^" line="576" column="67" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ContactService.java" timestamp="1533192499623">
         <mark key="'" line="132" column="26" />
@@ -193,12 +188,17 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" timestamp="1533815142204">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="96" column="64" />
-        <mark key="]" line="96" column="64" />
-        <mark key="^" line="102" column="23" />
-        <mark key="." line="96" column="64" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ws/WebSocketConnectionHandler.java" timestamp="1533816274105">
+        <mark key="[" line="56" column="64" />
+        <mark key="]" line="56" column="64" />
+        <mark key="." line="56" column="64" />
+      </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" timestamp="1533816299576">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="97" column="64" />
+        <mark key="]" line="97" column="82" />
+        <mark key="^" line="97" column="82" />
+        <mark key="." line="97" column="82" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" timestamp="1532578092961">
         <mark key="'" line="79" column="45" />
@@ -385,29 +385,15 @@
         <mark key="." line="142" column="63" />
         <mark key="^" line="142" column="63" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientEventEmitter.java" timestamp="1533815646655">
+        <mark key="'" line="19" column="24" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="65" column="87" />
+        <mark key="." line="71" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="712" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="723" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="421" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="438" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="442" column="43" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="408" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="649" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="646" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="591" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="60" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="409" column="30" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="67" column="10" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="550" column="50" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="453" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="443" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="441" column="43" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="437" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="103" column="10" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="115" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="94" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="76" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="162" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SessionService.java" />
@@ -451,7 +437,6 @@
       <jump line="504" column="39" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="390" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="404" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="517" column="25" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="414" column="43" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="415" column="45" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="488" column="57" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
@@ -477,7 +462,6 @@
       <jump line="213" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="214" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="559" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="530" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="561" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="499" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="274" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
@@ -487,16 +471,39 @@
       <jump line="671" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="142" column="23" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
       <jump line="98" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
+      <jump line="96" column="23" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
+      <jump line="27" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
+      <jump line="152" column="23" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
+      <jump line="36" column="4" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientEventEmitter.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientEventEmitter.java" />
+      <jump line="19" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientEventEmitter.java" />
+      <jump line="30" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
+      <jump line="102" column="23" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
+      <jump line="530" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="531" column="72" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="569" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="678" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="275" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="282" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="517" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="574" column="31" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="571" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="338" column="48" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="575" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="577" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="658" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="212" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
+      <jump line="28" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/base/ConnectionStream.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gc2VuZE1lc3NhZ2UoYnl0ZVtdIHBheWxvYWQsIFN0cmluZyBmcm9tKSB0aHJvd3MgSU9FeGNlcHRpb247Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</text>
+        <text encoding="base64">XDxzZW5kTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -507,38 +514,38 @@
       <register name="2" type="4">
         <text>throws</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IElPRXhjZXB0aW9u</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZyb20gPSBjbGllbnQuZ2V0VXNlck5hbWUoKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>throws</text>
+        <text>from</text>
       </register>
       <register name="5" type="4">
-        <text>false</text>
+        <text>new ClientEvent(&quot;session-initiate&quot;, new Object[]{gid, &quot;poc&quot;, mediaInfo, null})</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIGJvb2xlYW4gc2VuZE1lc3NhZ2UoYnl0ZVtdIHBheWxvYWQsIFN0cmluZyBmcm9tKSB0aHJvd3MgSU9FeGNlcHRpb247</text>
+        <text>new ClientEvent(&quot;session-initiate&quot;, new Object[]{gid, &quot;poc&quot;, mediaInfo, null}),</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY3JlYXRlIHNlc3Npb24K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlt7fV0gcG9jIHNlc3Npb24gYWRkIG1lbWJlciB7fSIsIHNlc3Npb24uc2lkLCBtZW1iZXIpOwogICAgICAgICAgICBDbGllbnRFdmVudEVtaXR0ZXIuZW1pdChjbGllbnQsIHNlc3Npb24ub3duZXIsICJzZXNzaW9uLWluaXRpYXRlIiwKICAgICAgICAgICAgICAgICAgICBuZXcgT2JqZWN0W117c2Vzc2lvbi5zaWQsICJwb2MiLCBtZWRpYUluZm8sIG51bGx9KTsKCiAgICAgICAgICAgIGpvaW5Qb2NTZXNzaW9uKGNsaWVudCwgc2Vzc2lvbik7Cg==</text>
+      <register name="9" type="4">
+        <text>no local session</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</last-search>
+      <last-search encoding="base64">XDxzZW5kTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kTWVzc2FnZVw+</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -568,11 +575,17 @@
         <entry>updatep</entry>
         <entry>updateP</entry>
         <entry>invite</entry>
-        <entry>session-in</entry>
         <entry>Auto</entry>
         <entry encoding="base64">XDx3YWxraWVFeGVjdXRvclw+</entry>
         <entry encoding="base64">XDxqb2luUG9jU2Vzc2lvblw+</entry>
+        <entry encoding="base64">XDxzeW5jRW1pdFw+</entry>
+        <entry encoding="base64">XDxzZW5kTWVzc2FnZVN5bmNcPg==</entry>
+        <entry>session-in</entry>
         <entry encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</entry>
+        <entry encoding="base64">XDxwb2NTZXNzaW9uTWVkaWFcPg==</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry encoding="base64">XDxicm9hZGNhc3RFdmVudFw+</entry>
+        <entry encoding="base64">XDxzZW5kTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
