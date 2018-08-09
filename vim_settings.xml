@@ -122,8 +122,8 @@
         <mark key="^" line="47" column="51" />
         <mark key="." line="47" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1533809050285">
-        <mark key="'" line="680" column="87" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1533812541498">
+        <mark key="'" line="270" column="24" />
         <mark key="[" line="488" column="12" />
         <mark key="]" line="488" column="12" />
         <mark key="^" line="488" column="14" />
@@ -381,11 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
-      <jump line="39" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SessionService.java" />
-      <jump line="58" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="597" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="604" column="46" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="229" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="406" column="36" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="416" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
@@ -481,6 +476,11 @@
       <jump line="415" column="45" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="488" column="57" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="680" column="87" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="493" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="534" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="556" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="665" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="270" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -490,7 +490,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>session-t</text>
+        <text encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -530,9 +530,9 @@
       </register>
     </registers>
     <search>
-      <last-search>session-t</last-search>
+      <last-search encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>session-t</last-pattern>
+      <last-pattern encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -540,79 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWdcPg==</entry>
-        <entry encoding="base64">XDxwcmludEVycm9yQ29kZVw+</entry>
-        <entry encoding="base64">XDxtYXBDb25uZWN0aW9uc1w+</entry>
-        <entry encoding="base64">XDx0cmlnZ2VyUmVnaXN0cmF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxVbnVzZWRSZXR1cm5WYWx1ZVw+</entry>
-        <entry encoding="base64">XDxvblN0YXR1c0NoYW5nZVw+</entry>
-        <entry encoding="base64">XDxpVUVDbGllbnRQb3J0XD4=</entry>
-        <entry encoding="base64">XDx0b1N0cmluZ1w+</entry>
-        <entry encoding="base64">XDxJTVNDTVVzZXJDb25maWdcPg==</entry>
-        <entry encoding="base64">XDxJTVNDTURldmljZUNvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxhdXRvQ29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxjb25maWdEYXRhXD4=</entry>
-        <entry encoding="base64">XDxjb25uU3RhdHVzXD4=</entry>
-        <entry encoding="base64">XDxzZXRVc2VyRGF0YVw+</entry>
-        <entry encoding="base64">XDxtU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxjbVNvY2tldFw+</entry>
-        <entry>clas</entry>
-        <entry encoding="base64">XDxJTlZBSUxfSEFORExcPg==</entry>
-        <entry encoding="base64">XDxtQ01TZXJ2aWNlTGlzdGVuZXJcPg==</entry>
-        <entry encoding="base64">XDxtQXV0b0NvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxkbnNqYXZhXD4=</entry>
-        <entry encoding="base64">XDxkb0RlUmVnaXN0ZXJcPg==</entry>
-        <entry encoding="base64">XDx0cmlnZ2VyRGVSZWdpc3RyYXRpb25cPg==</entry>
-        <entry encoding="base64">XDxTaW1wbGVDb250ZW50U2lnbmVyQnVpbGRlclw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVDbGllbnRDZXJ0aWZpY2F0ZVw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVDbGllbnRDZXJ0aWZpY2F0ZVw+</entry>
-        <entry encoding="base64">XDxDbGllbnRSZWxlYXNlRXZlbnRcPg==</entry>
-        <entry encoding="base64">XDxDbHVzdGVyVHJhbnNmZXJFdmVudFw+</entry>
-        <entry encoding="base64">XDxzZXJ2aWNlRXhlY3V0b3JcPg==</entry>
-        <entry encoding="base64">XDxtYW5hZ2VyRXhlY3V0b3JcPg==</entry>
-        <entry encoding="base64">XDx3YWxraWVFeGVjdXRvclw+</entry>
-        <entry encoding="base64">XDxraWNrT2xkQ2xpZW50SWZFeGlzdFw+</entry>
-        <entry>wsHan</entry>
-        <entry encoding="base64">XDx3c0hhbmRsZXJcPg==</entry>
-        <entry>EventLis</entry>
-        <entry encoding="base64">XDxFWFRfQ0xJRU5UX0ZJTFRFUlw+</entry>
-        <entry encoding="base64">XDxXZWFrZXJBY2Nlc3NcPg==</entry>
-        <entry encoding="base64">XDxzeW5jR2F0ZXdheUNvbnRhY3RcPg==</entry>
-        <entry encoding="base64">XDxwb3N0Q29udGFjdHNcPg==</entry>
-        <entry encoding="base64">XDxTY2hlZHVsZWRcPg==</entry>
-        <entry encoding="base64">XDxwb3N0Rm9yRW50aXR5XD4=</entry>
-        <entry encoding="base64">XDxodHRwQ2xpZW50XD4=</entry>
-        <entry>onRelea</entry>
-        <entry>EventRece</entry>
-        <entry encoding="base64">XDxFdmVudFJlY2VpdmVyXD4=</entry>
-        <entry encoding="base64">XDxwYWdlZFw+</entry>
-        <entry encoding="base64">XDxtaW5cPg==</entry>
-        <entry encoding="base64">XDxzY2FuU2l6ZVw+</entry>
-        <entry>addSess</entry>
-        <entry>BROAD</entry>
-        <entry>NETWOR</entry>
-        <entry>ServiceRece</entry>
-        <entry encoding="base64">XDxDYWxsUmVjZWl2ZXJcPg==</entry>
-        <entry encoding="base64">XDxyZWNlaXZlcnNcPg==</entry>
-        <entry encoding="base64">XDxwZXJtaXNzaW9uXD4=</entry>
-        <entry>CallRe</entry>
-        <entry encoding="base64">XDxleHBvcnRlZFw+</entry>
-        <entry encoding="base64">XDxTRVNTSU9OX0lOSVRcPg==</entry>
-        <entry encoding="base64">XDxicm9hZGNhc3RJbmNvbWluZ0ludGVudFw+</entry>
-        <entry>onSess</entry>
-        <entry encoding="base64">XDxjYWxsTWFuYWdlclw+</entry>
-        <entry encoding="base64">XDxDYWxsU2Vzc2lvbkxpc3RlbmVyXD4=</entry>
-        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
-        <entry>uiH</entry>
-        <entry>Hand</entry>
-        <entry>handl</entry>
-        <entry>thread</entry>
-        <entry encoding="base64">XDxIYW5kbGVyXD4=</entry>
-        <entry>CallRece</entry>
-        <entry>update-</entry>
-        <entry>updateCall</entry>
-        <entry encoding="base64">XDx1cGRhdGVDYWxsXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVFdmVudFw+</entry>
         <entry>cluster-nod</entry>
         <entry>cluster event for</entry>
         <entry encoding="base64">XDxvbkNsdXN0ZXJQb2NFdmVudFw+</entry>
@@ -633,6 +560,10 @@
         <entry encoding="base64">XDxzZW5kQ2x1c3RlclBvY0luZm9cPg==</entry>
         <entry>session-in</entry>
         <entry>session-t</entry>
+        <entry>updatep</entry>
+        <entry>updateP</entry>
+        <entry>invite</entry>
+        <entry encoding="base64">XDxpbnZpdGVTZXNzaW9uTWVtYmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
