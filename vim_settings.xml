@@ -340,6 +340,9 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" timestamp="1534588375605">
+        <mark key="'" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" timestamp="1534323799603">
         <mark key="'" line="98" column="9" />
       </file>
@@ -449,10 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="555" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="495" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="525" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="522" column="60" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="556" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="512" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
@@ -549,6 +548,10 @@
       <jump line="23" column="30" filename="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/appcompat/src/com/android/ex/photo/PhotoViewActivity.java" />
       <jump line="54" column="39" filename="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/fragments/PhotoViewFragment.java" />
       <jump line="33" column="39" filename="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/loaders/PhotoBitmapLoader.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="9" column="25" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="10" column="25" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="11" column="23" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -558,7 +561,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBc3luY1Rhc2tMb2FkZXJcPg==</text>
+        <text encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -598,12 +601,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBc3luY1Rhc2tMb2FkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBc3luY1Rhc2tMb2FkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -645,10 +648,13 @@
         <entry>android\.pre</entry>
         <entry>READ_CON</entry>
         <entry encoding="base64">XDxSRUFEX0NPTlRBQ1RTXD4=</entry>
-        <entry encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxBcHBDb21wYXRBY3Rpdml0eVw+</entry>
         <entry encoding="base64">XDxGcmFnbWVudFw+</entry>
         <entry encoding="base64">XDxBc3luY1Rhc2tMb2FkZXJcPg==</entry>
+        <entry>getDef</entry>
+        <entry>Tele</entry>
+        <entry encoding="base64">XDxUZWxlcGhvbnlNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
