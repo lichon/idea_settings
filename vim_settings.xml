@@ -130,6 +130,7 @@
         <mark key="^" line="157" column="60" />
         <mark key="." line="157" column="60" />
       </file>
+      <file name="$USER_HOME$/repos/OneplusMms/OneplusCommonCtrlLib/compile_libs/hidden_api.jar!/com/android/framework/protobuf/nano/android/ParcelableExtendableMessageNano.class" timestamp="1534573533338" />
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/BasicActivity.java" timestamp="1532580636686">
         <mark key="'" line="66" column="19" />
         <mark key="[" line="67" column="0" />
@@ -143,10 +144,10 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="282" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/OneplusMms/build.gradle" timestamp="1534572283130">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repos/OneplusMms/build.gradle" timestamp="1534573876313">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/services/P2PService.java" timestamp="1528998952804">
         <mark key="'" line="82" column="23" />
@@ -265,10 +266,12 @@
         <mark key="^" line="649" column="76" />
         <mark key="." line="687" column="74" />
       </file>
-      <file name="$USER_HOME$/repos/OneplusMms/OneplusCommonCtrlLib/build.gradle" timestamp="1534572896515">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repos/OneplusMms/OneplusCommonCtrlLib/build.gradle" timestamp="1534573755765">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" timestamp="1532579185055">
         <mark key="'" line="131" column="0" />
@@ -421,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SessionService.java" />
       <jump line="670" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="687" column="30" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="688" column="79" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
@@ -521,58 +523,59 @@
       <jump line="32" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/CastUtils.java" />
       <jump line="34" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/CastUtils.java" />
       <jump line="38" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/CastUtils.java" />
+      <jump line="3" column="8" filename="$USER_HOME$/repos/OneplusMms/OneplusCommonCtrlLib/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRWYWx1ZVw+</text>
+        <text encoding="base64">XDxnb29nbGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsICJodHRwOi8vbTJyZXBvLm9uZXBsdXNjb3JwLmNuOjgwODEvbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvT1BBcGsvIgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsICJodHRwOi8vbTJyZXBvLm9uZXBsdXNjb3JwLmNuOjgwODEvbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvT1BBcGsvIgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>expire</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsICJodHRwOi8vbTJyZXBvLm9uZXBsdXNjb3JwLmNuOjgwODEvbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvT1BBcGsvIgogICAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>toValue</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWRkIGRlZmF1bHQgbGV2ZWwgZm9yIHNpcCBjYWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNpZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsICJodHRwOi8vbTJyZXBvLm9uZXBsdXNjb3JwLmNuOjgwODEvbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvT1BBcGsvIgogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGllbnRWYWx1ZVw+</last-search>
+      <last-search encoding="base64">XDxnb29nbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRWYWx1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnb29nbGVcPg==</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -612,6 +615,7 @@
         <entry encoding="base64">XDxraWxsVXVpZFw+</entry>
         <entry encoding="base64">XDxzZXR1cEdhdGV3YXlQcm9maWxlXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRWYWx1ZVw+</entry>
+        <entry encoding="base64">XDxnb29nbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
