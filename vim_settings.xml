@@ -143,6 +143,11 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="282" column="52" />
       </file>
+      <file name="$USER_HOME$/repos/OneplusMms/build.gradle" timestamp="1534572283130">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/services/P2PService.java" timestamp="1528998952804">
         <mark key="'" line="82" column="23" />
         <mark key="[" line="293" column="50" />
@@ -178,6 +183,12 @@
         <mark key="^" line="290" column="14" />
         <mark key="." line="290" column="14" />
       </file>
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1534572862500">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMConnection.java" timestamp="1533281104437">
         <mark key="'" line="53" column="20" />
         <mark key="[" line="242" column="0" />
@@ -192,6 +203,7 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
+      <file name="$USER_HOME$/repos/OneplusMms/OPMms/build.gradle" timestamp="1534572708579" />
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ws/WebSocketConnectionHandler.java" timestamp="1533816274105">
         <mark key="[" line="56" column="64" />
         <mark key="]" line="56" column="64" />
@@ -253,6 +265,11 @@
         <mark key="^" line="649" column="76" />
         <mark key="." line="687" column="74" />
       </file>
+      <file name="$USER_HOME$/repos/OneplusMms/OneplusCommonCtrlLib/build.gradle" timestamp="1534572896515">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/WalkieApp.java" timestamp="1532579185055">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="109" column="0" />
@@ -285,10 +302,6 @@
         <mark key="]" line="494" column="0" />
         <mark key="^" line="495" column="32" />
         <mark key="." line="494" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/receivers/CallReceiver.java" timestamp="1533728521673">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/client/ClientManager.java" timestamp="1533708936141">
         <mark key="'" line="99" column="17" />
@@ -511,10 +524,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>expire</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGllbnRWYWx1ZVw+</text>
@@ -522,35 +535,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>expire</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsICJodHRwOi8vbTJyZXBvLm9uZXBsdXNjb3JwLmNuOjgwODEvbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvT1BBcGsvIgogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>toValue</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWRkIGRlZmF1bHQgbGV2ZWwgZm9yIHNpcCBjYWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXIvIgogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL20ycmVwby5vbmVwbHVzY29ycC5jbjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL21hdmVuX2dvb2dsZV9jb20iCiAgICAgICAgfQogICAgICAgIG1hdmVuIHsKICAgICAgICAgICAgdXJsICJodHRwOi8vbTJyZXBvLm9uZXBsdXNjb3JwLmNuOjgwODEvbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvT1BBcGsvIgogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNpZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCk7Cg==</text>
+      <register name="5" type="4">
+        <text>expire</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWRkIGRlZmF1bHQgbGV2ZWwgZm9yIHNpcCBjYWxsCiAgICAgICAgICAgIHNpZCA9IFN0cmluZy5mb3JtYXQoImxldmVsJXNfJXMiLCAwLCBzaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text>callLevel</text>
+        <text>toValue</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IElPRXhjZXB0aW9u</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWRkIGRlZmF1bHQgbGV2ZWwgZm9yIHNpcCBjYWxsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>throws</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNpZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
