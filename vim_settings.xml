@@ -340,8 +340,8 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" timestamp="1534588375605">
-        <mark key="'" line="11" column="23" />
+      <file name="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" timestamp="1534588910071">
+        <mark key="'" line="24" column="62" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" timestamp="1534323799603">
         <mark key="'" line="98" column="9" />
@@ -424,6 +424,11 @@
         <mark key="]" line="121" column="87" />
         <mark key="." line="196" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/ImeUtil.java" timestamp="1534589470560">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/Connection.java" timestamp="1533278899418">
         <mark key="'" line="123" column="12" />
         <mark key="[" line="15" column="13" />
@@ -452,15 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="60" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="556" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="512" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="96" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="521" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
-      <jump line="63" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
-      <jump line="213" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="214" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="559" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="561" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
@@ -549,61 +545,70 @@
       <jump line="54" column="39" filename="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/fragments/PhotoViewFragment.java" />
       <jump line="33" column="39" filename="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/loaders/PhotoBitmapLoader.java" />
       <jump line="28" column="0" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
-      <jump line="9" column="25" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
       <jump line="10" column="25" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
       <jump line="11" column="23" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="68" column="96" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="66" column="50" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="67" column="20" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="9" column="25" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="34" column="42" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="65" column="16" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="24" column="62" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/SimcardUtil.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/ImeUtil.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/repos/OneplusMms/OPMms/src/main/java/com/android/mms/util/ImeUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjcuMS4xJwogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI3LjEuMScKICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmNhcmR2aWV3LXY3OjI3LjEuMScKICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OnJlY3ljbGVydmlldy12NzoyNy4xLjEnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdvb2dsZWNvZGUubGlicGhvbmVudW1iZXI6bGlicGhvbmVudW1iZXI6OC45LjcnCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmdvb2dsZWNvZGUubGlicGhvbmVudW1iZXI6Z2VvY29kZXI6Mi45NicKICAgIGltcGxlbWVudGF0aW9uICdjb21tb25zLWNvZGVjOmNvbW1vbnMtY29kZWM6MS4xMCcKICAgIGFwaSAnY29tLmdvb2dsZS5ndWF2YTpndWF2YToyNS4xLWFuZHJvaWQnCiAgICB0ZXN0SW1wbGVtZW50YXRpb24gJ2p1bml0Omp1bml0OjQuMTInCiAgICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LnRlc3Q6cnVubmVyOjEuMC4yJwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWNvcmU6My4wLjInCiAgICBpbXBsZW1lbnRhdGlvbiBwcm9qZWN0KCc6T25lcGx1c0NvbW1vbkN0cmxMaWInKQogICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOlBob3RvVmlld2VyTGliJykK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dE1ldGhvZE1hbmFnZXIuZ2V0SW5wdXRNZXRob2RXaW5kbwo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</text>
+        <text>getSub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dE1ldGhvZE1hbmFnZXIuZ2V0SW5wdXRNZXRob2RXaW5kbwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>.hideSoftInputFromWindow(v.getWindowToken(), 0);</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aW5zdGFsbExvY2F0aW9uPSJpbnRlcm5hbE9ubHkiPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBzaWduaW5nQ29uZmlncyB7CiAgICAgICAgc2lnbmNvbmZpZyB7CiAgICAgICAgICAgIGtleUFsaWFzICdwbGF0Zm9ybScKICAgICAgICAgICAga2V5UGFzc3dvcmQgJ2FuZHJvaWQnCiAgICAgICAgICAgIHN0b3JlRmlsZSBmaWxlKCdvcF9wbGF0Zm9ybS5rZXlzdG9yZScpCiAgICAgICAgICAgIHN0b3JlUGFzc3dvcmQgJ2FuZHJvaWQnCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aW5zdGFsbExvY2F0aW9uPSJpbnRlcm5hbE9ubHkiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBidWlsZFR5cGVzIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZyB7CiAgICAgICAgICAgIHNpZ25pbmdDb25maWcgc2lnbmluZ0NvbmZpZ3Muc2lnbmNvbmZpZwogICAgICAgICAgICBtaW5pZnlFbmFibGVkIGZhbHNlCiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBzaWduaW5nQ29uZmlncyB7CiAgICAgICAgc2lnbmNvbmZpZyB7CiAgICAgICAgICAgIGtleUFsaWFzICdwbGF0Zm9ybScKICAgICAgICAgICAga2V5UGFzc3dvcmQgJ2FuZHJvaWQnCiAgICAgICAgICAgIHN0b3JlRmlsZSBmaWxlKCdvcF9wbGF0Zm9ybS5rZXlzdG9yZScpCiAgICAgICAgICAgIHN0b3JlUGFzc3dvcmQgJ2FuZHJvaWQnCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBidWlsZFR5cGVzIHsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</last-search>
+      <last-search>getSub</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</last-pattern>
+      <last-pattern>getSub</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -651,10 +656,14 @@
         <entry encoding="base64">XDxBcHBDb21wYXRBY3Rpdml0eVw+</entry>
         <entry encoding="base64">XDxGcmFnbWVudFw+</entry>
         <entry encoding="base64">XDxBc3luY1Rhc2tMb2FkZXJcPg==</entry>
-        <entry>getDef</entry>
         <entry>Tele</entry>
         <entry encoding="base64">XDxUZWxlcGhvbnlNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzRGVmYXVsdFNNU1N1YklkXD4=</entry>
+        <entry encoding="base64">XDxTdWJzY3JpcHRpb25NYW5hZ2VyXD4=</entry>
+        <entry>getDef</entry>
+        <entry>getSim</entry>
+        <entry>getSub</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
