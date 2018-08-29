@@ -115,7 +115,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_op/Contacts/src-bind/com/android/contactsbind/FeatureHighlightHelper.java" timestamp="1535018333119" />
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/loaders/PhotoBitmapLoader.java" timestamp="1534578031547">
         <mark key="'" line="33" column="39" />
       </file>
@@ -124,6 +123,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="60" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1535521603035">
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="32" />
+        <mark key="." line="63" column="32" />
+        <mark key="^" line="63" column="35" />
       </file>
       <file name="$USER_HOME$/repos/MmsRCS-develop/OPMms/src/com/android/mms/util/ImeUtil.java" timestamp="1534839357211">
         <mark key="[" line="94" column="15" />
@@ -323,7 +328,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, '../PhoneCommon/src']</text>
+        <text>rcs_</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -335,34 +340,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
       <register name="1" type="4">
+        <text>rcs_</text>
+      </register>
+      <register name="2" type="4">
+        <text>rcs_icon</text>
+      </register>
+      <register name="3" type="4">
         <text>, '../PhoneCommon/src']</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGVPbmx5IGZpbGVzKCdjb21waWxlX2xpYnMvaGlkZGVuX2FwaS5qYXInKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkaXNhYmxlICdUeXBvZ3JhcGh5RnJhY3Rpb25zJywnVHlwb2dyYXBoeVF1b3RlcycKICAgICAgICBkaXNhYmxlICdSdGxIYXJkY29kZWQnLCdSdGxDb21wYXQnLCAnUnRsRW5hYmxlZCcK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">YW5kcm9pZCB7CiAgICBzb3VyY2VTZXRzLm1haW4gewogICAgICAgIGphdmEuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICBtYW5pZmVzdC5zcmNGaWxlICdBbmRyb2lkTWFuaWZlc3QueG1sJwogICAgICAgIHJlcy5zcmNEaXJzID0gWydyZXMnXQogICAgfQp9Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>OPContactsDefaultPhotoLib</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uCg==</text>
+        <text encoding="base64">YW5kcm9pZCB7CiAgICBzb3VyY2VTZXRzLm1haW4gewogICAgICAgIGphdmEuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICBtYW5pZmVzdC5zcmNGaWxlICdBbmRyb2lkTWFuaWZlc3QueG1sJwogICAgICAgIHJlcy5zcmNEaXJzID0gWydyZXMnXQogICAgfQp9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>'com.googlecode.libphonenumber:libphonenumber:8.9.7'</text>
+        <text>OPContactsDefaultPhotoLib</text>
       </register>
-      <register name="9" type="4">
-        <text>, '../PhoneCommon/res']</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -375,13 +380,10 @@
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Tele</entry>
-        <entry encoding="base64">XDxUZWxlcGhvbnlNYW5hZ2VyXD4=</entry>
-        <entry encoding="base64">XDxCdWdsZUFwcGxpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxzRGVmYXVsdFNNU1N1YklkXD4=</entry>
         <entry encoding="base64">XDxTdWJzY3JpcHRpb25NYW5hZ2VyXD4=</entry>
         <entry>getDef</entry>
