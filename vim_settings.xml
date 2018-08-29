@@ -9,6 +9,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferLog.java" timestamp="1535535893710">
+        <mark key="'" line="262" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/registration/RegistrationManager.java" timestamp="1535536272237">
+        <mark key="'" line="211" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1533707048892">
         <mark key="'" line="0" column="0" />
       </file>
@@ -60,7 +66,7 @@
         <mark key="^" line="18" column="90" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/Android.mk" timestamp="1535534780394">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/Android.mk" timestamp="1535534974727">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="31" column="23" />
@@ -303,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="59" filename="$USER_HOME$/repos/android_rcs_op/Contacts/AndroidManifest.xml" />
-      <jump line="112" column="85" filename="$USER_HOME$/repos/android_rcs_op/Contacts/AndroidManifest.xml" />
-      <jump line="208" column="63" filename="$USER_HOME$/repos/android_rcs_op/Contacts/AndroidManifest.xml" />
       <jump line="209" column="63" filename="$USER_HOME$/repos/android_rcs_op/Contacts/AndroidManifest.xml" />
       <jump line="222" column="64" filename="$USER_HOME$/repos/android_rcs_op/Contacts/AndroidManifest.xml" />
       <jump line="226" column="0" filename="$USER_HOME$/repos/android_rcs_op/Contacts/AndroidManifest.xml" />
@@ -403,6 +406,9 @@
       <jump line="74" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="23" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/Android.mk" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/Android.mk" />
+      <jump line="38" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferLog.java" />
+      <jump line="262" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferLog.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/registration/RegistrationManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -449,7 +455,7 @@ include $(call all-makefiles-under,$(LOCAL_PATH))</text>
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZWxlcGhvbnlcPg==</text>
+        <text encoding="base64">XDxDT05URU5UX1VSSVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
@@ -522,13 +528,13 @@ include $(call all-makefiles-under,$(LOCAL_PATH))</text>
         <text encoding="base64">ICAgICAgICBTdGF0dXNDb2RlIHN0YXR1cyA9IGNtUHJlc2VuY2VTZXJ2aWNlLnJlZW5hYmxlU2VydmljZSgwLCB1c2VyRGF0YSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>85</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZWxlcGhvbnlcPg==</last-search>
+      <last-search encoding="base64">XDxDT05URU5UX1VSSVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZWxlcGhvbnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDT05URU5UX1VSSVw+</last-pattern>
       <last-replace>Logger.</last-replace>
       <last-substitute>Log.</last-substitute>
       <last-dir>1</last-dir>
@@ -576,6 +582,7 @@ include $(call all-makefiles-under,$(LOCAL_PATH))</text>
         <entry encoding="base64">XDxyZXN1bHRCdWlsZGVyXD4=</entry>
         <entry>Reason</entry>
         <entry encoding="base64">XDx0ZWxlcGhvbnlcPg==</entry>
+        <entry encoding="base64">XDxDT05URU5UX1VSSVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
@@ -585,6 +592,7 @@ include $(call all-makefiles-under,$(LOCAL_PATH))</text>
         <entry>W</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>85</entry>
       </history-cmd>
       <history-expr />
       <history-input />
