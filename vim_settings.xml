@@ -34,6 +34,12 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/.idea/.name" timestamp="1535621210571">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceService.java" timestamp="1535534522556">
         <mark key="'" line="180" column="22" />
         <mark key="[" line="174" column="25" />
@@ -113,6 +119,13 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system/framework_9.0.jar!/com/android/ims/internal/uce/presence/IPresenceService.class" timestamp="1535530662424">
         <mark key="'" line="133" column="31" />
+      </file>
+      <file name="$USER_HOME$/repos/gw_walkie/run_license.sh" timestamp="1535621154995">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.0-java.jar!/com/qualcomm/qti/imscmservice/V2_0/deviceConfigKeys.class" timestamp="1535544335635">
         <mark key="[" line="10" column="0" />
@@ -283,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="237" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="304" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="316" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
@@ -383,10 +395,11 @@
       <jump line="69" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMConnection.java" />
       <jump line="40" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMConnection.java" />
       <jump line="58" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="5" column="0" filename="$USER_HOME$/repos/gw_walkie/run_license.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -397,35 +410,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBTExfVFlQRSA9ICJDQUxMX1RZUEUiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>int</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>private</text>
+        <text>int</text>
       </register>
       <register name="3" type="4">
+        <text>private</text>
+      </register>
+      <register name="4" type="4">
         <text>nIncomingMessageObj.</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ogo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
-      </register>
       <register name="7" type="4">
-        <text>V2_0.</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>imscmservice.</text>
+        <text>V2_0.</text>
       </register>
       <register name="9" type="4">
-        <text>qti.</text>
+        <text>imscmservice.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
