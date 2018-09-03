@@ -307,8 +307,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/RcsServiceControl.java" timestamp="1535623770680">
         <mark key="'" line="165" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" timestamp="1535955906435">
-        <mark key="'" line="369" column="42" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" timestamp="1535961859889">
+        <mark key="'" line="334" column="20" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/IChatIdLog.java" timestamp="1535715835606">
         <mark key="'" line="8" column="0" />
@@ -432,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="388" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="391" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="580" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
@@ -532,6 +531,7 @@
       <jump line="171" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="260" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="343" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="334" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -541,7 +541,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNwYXRjaENsaWVudFN0YXR1c1w+</text>
+        <text>join</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
@@ -581,9 +581,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNwYXRjaENsaWVudFN0YXR1c1w+</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNwYXRjaENsaWVudFN0YXR1c1w+</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-replace>StringUtils</last-replace>
       <last-substitute>TextUtils</last-substitute>
       <last-dir>1</last-dir>
@@ -619,6 +619,7 @@
         <entry>status</entry>
         <entry encoding="base64">XDxDbGllbnRTdGF0dXNFdmVudFw+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaENsaWVudFN0YXR1c1w+</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
