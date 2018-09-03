@@ -83,6 +83,9 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1535970420914">
+        <mark key="'" line="35" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" timestamp="1535628037460">
         <mark key="'" line="264" column="32" />
         <mark key="[" line="486" column="63" />
@@ -240,6 +243,11 @@
         <mark key="." line="145" column="18" />
         <mark key="^" line="145" column="18" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1535970797860">
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="422" column="0" />
+        <mark key="." line="422" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" timestamp="1535628442995">
         <mark key="'" line="598" column="32" />
         <mark key="[" line="371" column="0" />
@@ -307,8 +315,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/RcsServiceControl.java" timestamp="1535623770680">
         <mark key="'" line="165" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" timestamp="1535961859889">
-        <mark key="'" line="334" column="20" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" timestamp="1535970629033">
+        <mark key="'" line="456" column="20" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/IChatIdLog.java" timestamp="1535715835606">
         <mark key="'" line="8" column="0" />
@@ -432,12 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
-      <jump line="391" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
-      <jump line="580" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
-      <jump line="34" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
-      <jump line="722" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
-      <jump line="605" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" />
       <jump line="269" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/IMessageLog.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" />
       <jump line="588" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" />
@@ -521,10 +523,6 @@
       <jump line="48" column="49" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/FileUtil.java" />
       <jump line="327" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
       <jump line="313" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
-      <jump line="394" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
-      <jump line="410" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
-      <jump line="33" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
-      <jump line="369" column="42" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
       <jump line="45" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="185" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="37" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
@@ -532,61 +530,71 @@
       <jump line="260" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="343" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="334" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="290" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="288" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="394" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="410" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="33" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="35" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" />
+      <jump line="369" column="42" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="387" column="47" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="389" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="456" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50VXRpbHMuaXNTaXBDbGllbnQoZnJvbSkgfHwgQ2xpZW50VXRpbHMuaXNDbHVzdGVyU2lwKGZyb20pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>join</text>
+        <text encoding="base64">XDxhZGRNZW1iZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50VXRpbHMuaXNTaXBDbGllbnQoZnJvbSkgfHwgQ2xpZW50VXRpbHMuaXNDbHVzdGVyU2lwKGZyb20pCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>P2P()</text>
+      </register>
+      <register name="3" type="4">
+        <text>.isClusterSip(from)</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChmaWxlcyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>conversationId</text>
-      </register>
-      <register name="5" type="4">
-        <text>chatId</text>
-      </register>
-      <register name="6" type="4">
-        <text>chatId</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2hhdElkID0gIjEyMzMxIjsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>conversationId</text>
+        <text>chatId</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGV4dC5TdHJpbmdVdGlsczsK</text>
+      <register name="9" type="4">
+        <text>chatId</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>join</last-search>
+      <last-search encoding="base64">XDxhZGRNZW1iZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>join</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRNZW1iZXJcPg==</last-pattern>
       <last-replace>StringUtils</last-replace>
       <last-substitute>TextUtils</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -617,9 +625,13 @@
         <entry encoding="base64">XDxmaWxlc1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVDbHVzdGVyQ29uZkluZm9cPg==</entry>
         <entry>status</entry>
-        <entry encoding="base64">XDxDbGllbnRTdGF0dXNFdmVudFw+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaENsaWVudFN0YXR1c1w+</entry>
         <entry>join</entry>
+        <entry>conf&quot;</entry>
+        <entry encoding="base64">XDxDbGllbnRTdGF0dXNFdmVudFw+</entry>
+        <entry>update</entry>
+        <entry>add</entry>
+        <entry encoding="base64">XDxhZGRNZW1iZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
