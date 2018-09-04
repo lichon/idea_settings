@@ -69,12 +69,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" timestamp="1536045253398">
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" timestamp="1536047515374">
         <mark key="'" line="37" column="35" />
-        <mark key="[" line="185" column="47" />
-        <mark key="]" line="185" column="48" />
-        <mark key="." line="185" column="48" />
-        <mark key="^" line="185" column="48" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CapabilityServiceImpl.java" timestamp="1535714623675">
         <mark key="'" line="211" column="44" />
@@ -593,11 +592,11 @@
       <jump line="76" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQ29uZmVyZW5jZU51bShjYWxsU2Vzc2lvbi5mcm9tKSAmJiBjYWxsU2Vzc2lvbi5mcm9tU2lwKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbHVzdGVyVHJhbnNmZXJFdmVudFw+</text>
@@ -605,35 +604,35 @@
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHx8IENsaWVudFV0aWxzLmlzQ2x1c3RlclNpcChmcm9tKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQ29uZmVyZW5jZU51bShjYWxsU2Vzc2lvbi5mcm9tKSAmJiBjYWxsU2Vzc2lvbi5mcm9tU2lwKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjYWxsU2Vzc2lvbi5mcm9tU2lwKSB7CiAgICAgICAgICAgICAgICBzaXBVc2VyID0gY2FsbFNlc3Npb24udG87CiAgICAgICAgICAgICAgICB0byA9IGNhbGxTZXNzaW9uLmZyb207CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>user</text>
       </register>
       <register name="4" type="4">
-        <text>e.getClient()</text>
+        <text encoding="base64">IHx8IENsaWVudFV0aWxzLmlzQ2x1c3RlclNpcChmcm9tKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN0YXR1cyA9IGUuc3RhdHVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
       </register>
-      <register name="6" type="4">
-        <text>user;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>.isSipTransport</text>
+        <text>e.getClient()</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICsgU2lwQ29uZlNlcnZpY2UuU0lQX0NPTkZfTlVNQkVSIDo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN0YXR1cyA9IGUuc3RhdHVzOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIldlYWtlckFjY2VzcyIpCg==</text>
+      <register name="9" type="4">
+        <text>user;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
