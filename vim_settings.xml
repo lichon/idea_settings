@@ -424,6 +424,9 @@
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/appcompat/src/com/android/ex/photo/PhotoViewActivity.java" timestamp="1534577538038">
         <mark key="'" line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" timestamp="1536234085465">
+        <mark key="'" line="30" column="24" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" timestamp="1536222738705">
         <mark key="'" line="913" column="43" />
         <mark key="[" line="741" column="42" />
@@ -450,6 +453,9 @@
         <mark key="]" line="1221" column="47" />
         <mark key="." line="1221" column="47" />
         <mark key="^" line="1221" column="47" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/res/values/rcs_core_strings.xml" timestamp="1536234205772">
+        <mark key="'" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GeolocSharingServiceImpl.java" timestamp="1535714574277">
         <mark key="'" line="225" column="29" />
@@ -483,15 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="88" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="76" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
-      <jump line="351" column="33" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="352" column="36" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="360" column="43" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="350" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
@@ -583,6 +580,15 @@
       <jump line="105" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/resources/templates/admin/unit/list.html" />
       <jump line="404" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
       <jump line="121" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="100" column="65" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" />
+      <jump line="120" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" />
+      <jump line="138" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" />
+      <jump line="179" column="65" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" />
+      <jump line="56" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" />
+      <jump line="47" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" />
+      <jump line="30" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/addressbook/RcsAccountManager.java" />
+      <jump line="27" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/res/values/rcs_core_strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -592,7 +598,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRDbGllbnRcPg==</text>
+        <text>my_pro</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
@@ -632,9 +638,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRDbGllbnRcPg==</last-search>
+      <last-search>my_pro</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRDbGllbnRcPg==</last-pattern>
+      <last-pattern>my_pro</last-pattern>
       <last-replace>StringUtils</last-replace>
       <last-substitute>TextUtils</last-substitute>
       <last-dir>1</last-dir>
@@ -693,6 +699,9 @@
         <entry encoding="base64">XDxvbkNyZWF0ZVw+</entry>
         <entry encoding="base64">XDxkaXZcPg==</entry>
         <entry encoding="base64">XDxhZGRDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxBQ0NPVU5UX01BTkFHRVJfVFlQRVw+</entry>
+        <entry encoding="base64">XDxBY2NvdW50TWFuYWdlclw+</entry>
+        <entry>my_pro</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
