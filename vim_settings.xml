@@ -424,12 +424,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="22" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" timestamp="1536048832227">
-        <mark key="'" line="360" column="43" />
-        <mark key="[" line="499" column="0" />
-        <mark key="]" line="499" column="0" />
-        <mark key="^" line="520" column="22" />
-        <mark key="." line="499" column="0" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" timestamp="1536222738705">
+        <mark key="'" line="913" column="43" />
+        <mark key="[" line="741" column="42" />
+        <mark key="]" line="741" column="41" />
+        <mark key="^" line="741" column="41" />
+        <mark key="." line="741" column="41" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/Math.java" timestamp="1533716628275">
         <mark key="'" line="2332" column="36" />
@@ -486,9 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
-      <jump line="184" column="55" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
-      <jump line="45" column="11" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
       <jump line="172" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="167" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="124" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
@@ -586,6 +583,9 @@
       <jump line="135" column="12" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/ByteArrayOutputStream.java" />
       <jump line="152" column="23" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/ByteArrayOutputStream.java" />
       <jump line="136" column="8" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/ByteArrayOutputStream.java" />
+      <jump line="495" column="23" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
+      <jump line="912" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
+      <jump line="913" column="43" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -595,7 +595,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudFw+</text>
+        <text encoding="base64">XDxUeXBlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
@@ -635,12 +635,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudFw+</last-search>
+      <last-search encoding="base64">XDxUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxUeXBlXD4=</last-pattern>
       <last-replace>StringUtils</last-replace>
       <last-substitute>TextUtils</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -673,6 +673,8 @@
         <entry encoding="base64">XDxzb2NrZXRPdXRwdXRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxDTU91dHB1dFN0cmVhbVw+</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
