@@ -76,9 +76,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" timestamp="1536040366091">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="44" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" timestamp="1536227799470">
+        <mark key="'" line="134" column="19" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="36" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="137" column="22" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1535970420914">
         <mark key="'" line="35" column="15" />
@@ -115,6 +118,9 @@
         <mark key="]" line="415" column="0" />
         <mark key="." line="415" column="0" />
         <mark key="^" line="404" column="67" />
+      </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/MainActivity.java" timestamp="1536227737170">
+        <mark key="'" line="60" column="13" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1535714464282">
         <mark key="'" line="396" column="71" />
@@ -472,9 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="42" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
-      <jump line="395" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
-      <jump line="419" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="113" column="44" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="226" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="230" column="37" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
@@ -572,58 +575,61 @@
       <jump line="704" column="73" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="271" column="85" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
       <jump line="711" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="261" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" />
+      <jump line="134" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" />
+      <jump line="60" column="13" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>update-to-le</text>
+        <text encoding="base64">XDxvbkNyZWF0ZU9wdGlvbnNNZW51XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>client</text>
+        <text>false</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVzZXIgPSB0by5nZXRVc2VyTmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>user</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
         <text>client</text>
       </register>
-      <register name="6" type="4">
-        <text>client</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVzZXIgPSB0by5nZXRVc2VyTmFtZSgpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>client</text>
+        <text>user</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>client</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvID09IG51bGwpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>client</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update-to-le</last-search>
+      <last-search encoding="base64">XDxvbkNyZWF0ZU9wdGlvbnNNZW51XD4=</last-search>
       <last-offset />
-      <last-pattern>update-to-le</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNyZWF0ZU9wdGlvbnNNZW51XD4=</last-pattern>
       <last-replace>StringUtils</last-replace>
       <last-substitute>TextUtils</last-substitute>
       <last-dir>1</last-dir>
@@ -674,6 +680,7 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxicm9hZGNhc3RFdmVudFw+</entry>
         <entry>update-to-le</entry>
+        <entry encoding="base64">XDxvbkNyZWF0ZU9wdGlvbnNNZW51XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
