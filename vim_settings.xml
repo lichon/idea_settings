@@ -38,12 +38,8 @@
         <mark key="]" line="88" column="27" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1535718223918">
-        <mark key="'" line="355" column="16" />
-        <mark key="[" line="358" column="15" />
-        <mark key="]" line="358" column="20" />
-        <mark key="^" line="358" column="20" />
-        <mark key="." line="358" column="20" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1536215472269">
+        <mark key="'" line="387" column="4" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.0-java.jar!/com/qualcomm/qti/imscmservice/V2_0/outgoingMessage.class" timestamp="1535547652405">
         <mark key="'" line="92" column="17" />
@@ -78,7 +74,6 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CapabilityServiceImpl.java" timestamp="1535714623675">
         <mark key="'" line="211" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/td_tech-ht_01-820D066513010260/sdcard/walkie/crash.log" timestamp="1536048737368" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMUtil.java" timestamp="1535548479087">
         <mark key="'" line="12" column="4" />
         <mark key="[" line="20" column="0" />
@@ -114,7 +109,6 @@
         <mark key="^" line="43" column="29" />
         <mark key="." line="43" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/receivers/ServiceReceiver.java" timestamp="1536039902918" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/OneToOneChatDequeueTask.java" timestamp="1535717525237">
         <mark key="'" line="151" column="36" />
         <mark key="[" line="63" column="0" />
@@ -491,10 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="13" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="328" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="321" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="491" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="86" column="36" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="89" column="15" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="93" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
@@ -591,6 +581,10 @@
       <jump line="351" column="33" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="352" column="36" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="360" column="43" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
+      <jump line="350" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="468" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="1156" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="387" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -646,104 +640,10 @@
       <last-replace>StringUtils</last-replace>
       <last-substitute>TextUtils</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>last</entry>
-        <entry encoding="base64">XDxnZXRNZXNzYWdlQ2hhdElkXD4=</entry>
-        <entry encoding="base64">XDxtTG9jYWxDb250ZW50UmVzb2x2ZXJcPg==</entry>
-        <entry encoding="base64">XDxVcmlcPg==</entry>
-        <entry>getChat</entry>
-        <entry encoding="base64">XDxISVNUT1JZTE9HX01FTUJFUl9JRFw+</entry>
-        <entry encoding="base64">XDxtSGlzdG9yeUxvZ1w+</entry>
-        <entry encoding="base64">XDxjdXJzb3JcPg==</entry>
-        <entry>fix chatId</entry>
-        <entry>fix chat</entry>
-        <entry>fix</entry>
-        <entry encoding="base64">XDxpc0VtcHR5XD4=</entry>
-        <entry>TextU</entry>
-        <entry encoding="base64">XDxUZXh0VXRpbHNcPg==</entry>
-        <entry>TextUtils</entry>
-        <entry encoding="base64">XDxTdHJpbmdVdGlsc1w+</entry>
-        <entry encoding="base64">XDxjb252ZXJzYXRpb25pZFw+</entry>
-        <entry encoding="base64">XDxjb252ZXJzYXRpb25JZFw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVTdGFuZGFsb25lTWVzc2FnZVw+</entry>
-        <entry encoding="base64">XDxzZW5kU3RhbmRhbG9uZU1lc3NhZ2VcPg==</entry>
-        <entry>selfAddress = ip</entry>
-        <entry encoding="base64">XDxsaXN0ZW5lclw+</entry>
-        <entry>files[</entry>
-        <entry encoding="base64">XDxmaWxlc1w+</entry>
-        <entry encoding="base64">XDxoYW5kbGVDbHVzdGVyQ29uZkluZm9cPg==</entry>
-        <entry>status</entry>
-        <entry>join</entry>
-        <entry>conf&quot;</entry>
-        <entry>update</entry>
-        <entry>add</entry>
-        <entry encoding="base64">XDxhZGRNZW1iZXJcPg==</entry>
-        <entry encoding="base64">XDxwb2NTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxQb2NTZXJ2aWNlXD4=</entry>
-        <entry>Status</entry>
-        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDxzdGF0ZVw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVTdGF0ZVw+</entry>
-        <entry encoding="base64">XDxTVEFURV9JRExFXD4=</entry>
-        <entry encoding="base64">XDxpc1JlY29yZGluZ1w+</entry>
-        <entry encoding="base64">XDxzdGFydFJlY29yZFw+</entry>
-        <entry>replay</entry>
-        <entry encoding="base64">XDxNU0dfVVBEQVRFX1NFRUtcPg==</entry>
-        <entry encoding="base64">XDxzZW5kRW1wdHlNZXNzYWdlRGVsYXllZFw+</entry>
-        <entry>500</entry>
-        <entry encoding="base64">XDw2MDBcPg==</entry>
-        <entry>stop</entry>
-        <entry encoding="base64">XDxERUxBWV9VUERBVEVfU0VFS1w+</entry>
-        <entry encoding="base64">XDxyZXBsYXlSZWNvcmRcPg==</entry>
-        <entry encoding="base64">XDxzdGFydENvdW50RG93blw+</entry>
-        <entry encoding="base64">XDxzdG9wUmVjb3JkXD4=</entry>
-        <entry encoding="base64">XDxzdG9wQ291bnREb3duXD4=</entry>
-        <entry encoding="base64">XDxwb3N0RGVsYXllZFw+</entry>
-        <entry encoding="base64">XDwxNTAwXD4=</entry>
-        <entry>connected</entry>
-        <entry encoding="base64">XDxpc0Nvbm5lY3RlZFw+</entry>
-        <entry encoding="base64">XDxvbkNhbGxDb25uZWN0ZWRcPg==</entry>
-        <entry encoding="base64">XDxDTE9TRURfS0VZXD4=</entry>
-        <entry encoding="base64">XDxzZXRDbG9zZWRcPg==</entry>
-        <entry encoding="base64">XDxpc0Nsb3NlZFw+</entry>
-        <entry encoding="base64">XDxzZXNzaW9uRGF0YVw+</entry>
-        <entry encoding="base64">XDx0dlN0YXRlXD4=</entry>
-        <entry encoding="base64">XDxzZW5kVGVybWluYXRlXD4=</entry>
-        <entry encoding="base64">XDxpc011dGVFbmFibGVkXD4=</entry>
-        <entry encoding="base64">XDxFTkFCTEVfU1BFQUtFUlw+</entry>
-        <entry>9999</entry>
-        <entry encoding="base64">XDxjb25mXD4=</entry>
-        <entry encoding="base64">XDxDT05GXD4=</entry>
-        <entry>CONF</entry>
-        <entry encoding="base64">XDxmb3JjZUFjY2VwdFw+</entry>
-        <entry encoding="base64">XDxzdGFydEF1dG9BY2NlcHRcPg==</entry>
-        <entry encoding="base64">XDxJU19BVVRPX0FDQ0VQVF9TRVNTSU9OXD4=</entry>
-        <entry encoding="base64">XDxhdXRvQWNjZXB0XD4=</entry>
-        <entry>isPriva</entry>
-        <entry encoding="base64">XDxpc1ByaXZhdGVMaW5lXD4=</entry>
-        <entry encoding="base64">XDxvblRvdWNoRG93blw+</entry>
-        <entry>sub</entry>
-        <entry>getDef</entry>
-        <entry encoding="base64">XDxnZXREZWZhdWx0XD4=</entry>
-        <entry>subs</entry>
-        <entry encoding="base64">XDxTdWJzY3JpYmVcPg==</entry>
-        <entry>KeyAc</entry>
-        <entry encoding="base64">XDxLZXlBY3Rpb25FdmVudFw+</entry>
-        <entry>Main</entry>
-        <entry encoding="base64">XDxpc0NhbGxpbmdcPg==</entry>
-        <entry encoding="base64">XDxjbGVhbnVwXD4=</entry>
-        <entry>callSession</entry>
-        <entry encoding="base64">Y2FsbFNlc3Npb24gPSA=</entry>
-        <entry encoding="base64">XDxoYXNDYWxsXD4=</entry>
-        <entry encoding="base64">XDxzdGFydENhbGxcPg==</entry>
-        <entry encoding="base64">XDxzZXRTdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDxpc0NsZWFyXD4=</entry>
-        <entry encoding="base64">XDxjdXJyZW50VGltZVw+</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaENsaWVudFN0YXR1c1w+</entry>
-        <entry>call</entry>
         <entry>onRin</entry>
         <entry>call(</entry>
         <entry>onAcc</entry>
