@@ -330,8 +330,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/RcsServiceControl.java" timestamp="1535623770680">
         <mark key="'" line="165" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" timestamp="1536226157026">
-        <mark key="'" line="295" column="20" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" timestamp="1536231059111">
+        <mark key="'" line="121" column="20" />
         <mark key="[" line="273" column="0" />
         <mark key="]" line="297" column="12" />
         <mark key="." line="272" column="0" />
@@ -398,11 +398,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/resources/templates/admin/unit/list.html" timestamp="1536227019394">
-        <mark key="[" line="91" column="21" />
-        <mark key="]" line="91" column="23" />
-        <mark key="^" line="91" column="23" />
-        <mark key="." line="91" column="23" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/resources/templates/admin/unit/list.html" timestamp="1536230908767">
+        <mark key="'" line="105" column="12" />
+        <mark key="[" line="91" column="3" />
+        <mark key="]" line="91" column="3" />
+        <mark key="^" line="91" column="3" />
+        <mark key="." line="91" column="3" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/logger/Logger.java" timestamp="1535545818000">
         <mark key="'" line="114" column="16" />
@@ -482,9 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="426" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="478" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="394" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
       <jump line="9" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClusterService.java" />
@@ -582,46 +580,49 @@
       <jump line="95" column="12" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" />
       <jump line="84" column="14" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" />
       <jump line="83" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/HomeActivity.java" />
+      <jump line="105" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/resources/templates/admin/unit/list.html" />
+      <jump line="404" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
+      <jump line="121" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMSk7Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNyZWF0ZVw+</text>
+        <text encoding="base64">XDxhZGRDbGllbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMSk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>false</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>client</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVzZXIgPSB0by5nZXRVc2VyTmFtZSgpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>user</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>client</text>
+        <text>user</text>
       </register>
       <register name="9" type="4">
         <text>client</text>
@@ -631,12 +632,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkNyZWF0ZVw+</last-search>
+      <last-search encoding="base64">XDxhZGRDbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNyZWF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRDbGllbnRcPg==</last-pattern>
       <last-replace>StringUtils</last-replace>
       <last-substitute>TextUtils</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -690,6 +691,8 @@
         <entry encoding="base64">XDxNZXNzYWdlVmlld01vZGVsXD4=</entry>
         <entry encoding="base64">XDxGTEFHX0RJU01JU1NfS0VZR1VBUkRcPg==</entry>
         <entry encoding="base64">XDxvbkNyZWF0ZVw+</entry>
+        <entry encoding="base64">XDxkaXZcPg==</entry>
+        <entry encoding="base64">XDxhZGRDbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
