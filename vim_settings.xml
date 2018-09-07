@@ -274,12 +274,12 @@
         <mark key="^" line="118" column="11" />
         <mark key="." line="118" column="11" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1536314467399">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="80" column="60" />
-        <mark key="]" line="80" column="73" />
-        <mark key="^" line="80" column="73" />
-        <mark key="." line="80" column="73" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1536320474065">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="226" column="12" />
+        <mark key="]" line="226" column="12" />
+        <mark key="^" line="209" column="19" />
+        <mark key="." line="226" column="12" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/standfw/StoreAndForwardManager.java" timestamp="1535711614331">
         <mark key="'" line="84" column="0" />
@@ -633,14 +633,14 @@
         <mark key="]" line="110" column="63" />
         <mark key="." line="110" column="63" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/ContactUtil.java" timestamp="1536320519749">
+        <mark key="'" line="72" column="22" />
+        <mark key="[" line="151" column="55" />
+        <mark key="]" line="151" column="55" />
+        <mark key="." line="151" column="55" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
-      <jump line="68" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="112" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="113" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="122" column="93" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="127" column="73" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
       <jump line="97" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
       <jump line="105" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
       <jump line="111" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
@@ -735,58 +735,64 @@
       <jump line="429" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="498" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="95" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
+      <jump line="25" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/ContactUtil.java" />
+      <jump line="35" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/ContactUtil.java" />
+      <jump line="37" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/ContactUtil.java" />
+      <jump line="72" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/ContactUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZW50UmVzb2x2ZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MainApplication.getmContext()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;IMG_20180713_225230.jpg&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtU2ltc3RhdGVDaGFuZ2VCcm9hZGNhc3RSZWNlaXZlclw+</text>
+        <text encoding="base64">XDxDb250YWN0VXRpbFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZW50UmVzb2x2ZXI7Cg==</text>
+      <register name="1" type="4">
+        <text>MainApplication.getmContext()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>contact.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>rcs.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29udGVudFJlc29sdmVyIG1Db250ZW50UmVzb2x2ZXI7Cg==</text>
+      <register name="4" type="4">
+        <text>services.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29udGVudFJlc29sdmVyID0gbUN0eC5nZXRDb250ZW50UmVzb2x2ZXIoKTsK</text>
+      <register name="5" type="4">
+        <text>gsma.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZW50UmVzb2x2ZXI7Cg==</text>
+      <register name="6" type="4">
+        <text>com.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb250ZW50UmVzb2x2ZXIgVGhlIGNvbnRlbnQgcmVzb2x2ZXIK</text>
+      <register name="7" type="4">
+        <text>File tmpFIle = new File(MainApplication.getmContext().getFilesDir(),</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb250ZW50UmVzb2x2ZXIgVGhlIGNvbnRlbnQgcmVzb2x2ZXIK</text>
+      <register name="8" type="4">
+        <text>MainApplication.getmContext()</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IENvbnRlbnRSZXNvbHZlciBjb250ZW50UmVzb2x2ZXIs</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSB0bXBGSWxlID0gbmV3IEZpbGUoTWFpbkFwcGxpY2F0aW9uLmdldG1Db250ZXh0KCkuZ2V0RmlsZXNEaXIoKSwgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtU2ltc3RhdGVDaGFuZ2VCcm9hZGNhc3RSZWNlaXZlclw+</last-search>
+      <last-search encoding="base64">XDxDb250YWN0VXRpbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtU2ltc3RhdGVDaGFuZ2VCcm9hZGNhc3RSZWNlaXZlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxDb250YWN0VXRpbFw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +894,6 @@
         <entry encoding="base64">XDxnZXRJbXNNb2R1bGVcPg==</entry>
         <entry encoding="base64">XDxJbXNNb2R1bGVUZXN0XD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVDb3JlXD4=</entry>
-        <entry encoding="base64">XDxtUmNzU2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxtQ01NYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxtU2VydmljZVw+</entry>
         <entry encoding="base64">XDxBZGRyZXNzQm9va0V2ZW50TGlzdGVuZXJcPg==</entry>
@@ -943,7 +948,6 @@
         <entry encoding="base64">XDxtQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxiYWNrZ3JvdW5kVGhyZWFkXD4=</entry>
         <entry encoding="base64">XDxtQmFja2dyb3VuZEhhbmRsZXJcPg==</entry>
-        <entry encoding="base64">XDxDb250YWN0VXRpbFw+</entry>
         <entry encoding="base64">XDxnZXREZXZpY2VJZFw+</entry>
         <entry encoding="base64">XDxpbWVpXD4=</entry>
         <entry encoding="base64">XDxtSW1laVw+</entry>
@@ -961,6 +965,8 @@
         <entry encoding="base64">XDxjb250ZW50UmVzb2x2ZXJcPg==</entry>
         <entry encoding="base64">XDxtQ29udGVudFJlc29sdmVyXD4=</entry>
         <entry encoding="base64">XDxtU2ltc3RhdGVDaGFuZ2VCcm9hZGNhc3RSZWNlaXZlclw+</entry>
+        <entry encoding="base64">XDxtUmNzU2V0dGluZ3NcPg==</entry>
+        <entry encoding="base64">XDxDb250YWN0VXRpbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
