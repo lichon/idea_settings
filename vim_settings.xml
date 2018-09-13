@@ -448,7 +448,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/logger/Logger.java" timestamp="1536309002385">
         <mark key="'" line="162" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1536831253957">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1536833168386">
+        <mark key="'" line="83" column="43" />
         <mark key="[" line="88" column="78" />
         <mark key="]" line="88" column="74" />
         <mark key="." line="88" column="74" />
@@ -576,9 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="226" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="174" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="171" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="247" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="246" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
@@ -676,6 +674,9 @@
       <jump line="94" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/LicenseUtils.java" />
       <jump line="23" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/LicenseUtils.java" />
       <jump line="402" column="70" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
+      <jump line="124" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="86" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="83" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -685,7 +686,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJRl9MSVNUXD4=</text>
+        <text>imscm</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
@@ -725,9 +726,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJRl9MSVNUXD4=</last-search>
+      <last-search>imscm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJRl9MSVNUXD4=</last-pattern>
+      <last-pattern>imscm</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -930,6 +931,7 @@
         <entry>eth1</entry>
         <entry encoding="base64">XDxnZXRIYXJkd2FyZUFkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDxJRl9MSVNUXD4=</entry>
+        <entry>imscm</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
