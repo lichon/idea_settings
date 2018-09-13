@@ -295,12 +295,6 @@
         <mark key="^" line="419" column="12" />
         <mark key="." line="487" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" timestamp="1536318776864">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="161" column="7" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/IdGenerator.java" timestamp="1535709126327">
         <mark key="'" line="27" column="13" />
       </file>
@@ -332,11 +326,11 @@
         <mark key="." line="30" column="14" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1536226646735">
-        <mark key="'" line="711" column="0" />
-        <mark key="[" line="706" column="0" />
-        <mark key="]" line="706" column="0" />
-        <mark key="." line="706" column="0" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1536824738209">
+        <mark key="'" line="402" column="70" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
         <mark key="^" line="704" column="28" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/LICENSE-NIST.txt" timestamp="1536392317406" />
@@ -576,7 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="169" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="226" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="174" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
@@ -676,10 +669,11 @@
       <jump line="84" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/LicenseUtils.java" />
       <jump line="94" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/LicenseUtils.java" />
       <jump line="23" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/LicenseUtils.java" />
+      <jump line="402" column="70" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>using</text>
+        <text>,unused</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -691,34 +685,34 @@
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="4">
-        <text>using</text>
+        <text>,unused</text>
       </register>
       <register name="2" type="4">
         <text>using</text>
       </register>
       <register name="3" type="4">
+        <text>using</text>
+      </register>
+      <register name="4" type="4">
         <text>Address</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBOZXR3b3JrSW50ZXJmYWNlIG5pID0gTmV0d29ya0ludGVyZmFjZS5nZXRCeU5hbWUoImV0aDEiKTsKICAgICAgICAgICAgYnl0ZVtdIG1hYyA9IG5pLmdldEhhcmR3YXJlQWRkcmVzcygpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PXVzaW5nIG5ldHdvcmsgaW50ZXJmYWNlOiBldGgxIik7CiAgICAgICAgICAgIHJldHVybiBIYXNoaW5nLmhtYWNNZDUoTElDRU5TRV9LRVkuZ2V0Qnl0ZXMoKSkuaGFzaEJ5dGVzKG1hYykudG9TdHJpbmcoKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PWZhaWwgdG8gZ2V0IGV0aDEiKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Exception</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGlkID09IG51bGwpIHsKICAgICAgICAgICAgcGlkID0gZ2V0SGFyZHdhcmVBZGRyZXNzKCJldGgxIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>&quot;eth0&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocGlkID09IG51bGwpIHsKICAgICAgICAgICAgcGlkID0gZ2V0SGFyZHdhcmVBZGRyZXNzKCJldGgxIik7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>&quot;eth0&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
