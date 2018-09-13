@@ -225,8 +225,8 @@
         <mark key="^" line="63" column="37" />
         <mark key="." line="63" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" timestamp="1536837521524">
-        <mark key="'" line="128" column="61" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" timestamp="1536837624456">
+        <mark key="'" line="277" column="34" />
       </file>
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/fragments/PhotoViewFragment.java" timestamp="1534577768436">
         <mark key="'" line="54" column="39" />
@@ -564,6 +564,9 @@
         <mark key="^" line="71" column="1" />
         <mark key="." line="154" column="62" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/utils/RcsFragmentActivity.java" timestamp="1536837697482">
+        <mark key="'" line="48" column="8" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1535712797586">
         <mark key="'" line="1622" column="45" />
         <mark key="[" line="1629" column="40" />
@@ -580,11 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="246" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="10" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="116" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="130" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceService.java" />
       <jump line="23" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceUtils.java" />
       <jump line="112" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceUtils.java" />
       <jump line="53" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceService.java" />
@@ -680,6 +678,11 @@
       <jump line="86" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="83" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="128" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" />
+      <jump line="110" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" />
+      <jump line="285" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" />
+      <jump line="562" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" />
+      <jump line="277" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" />
+      <jump line="48" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/utils/RcsFragmentActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -689,7 +692,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</text>
+        <text encoding="base64">XDxEaWFsb2dVdGlsXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
@@ -729,12 +732,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</last-search>
+      <last-search encoding="base64">XDxEaWFsb2dVdGlsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxEaWFsb2dVdGlsXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -935,6 +938,10 @@
         <entry encoding="base64">XDxJRl9MSVNUXD4=</entry>
         <entry>imscm</entry>
         <entry encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</entry>
+        <entry encoding="base64">XDxtQWxhcm1NYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxjb25uZWN0QXBpc1w+</entry>
+        <entry encoding="base64">XDxSZWNlaXZlVGltZXJUb1JlQ29ubmVjdEFwaVw+</entry>
+        <entry encoding="base64">XDxEaWFsb2dVdGlsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
