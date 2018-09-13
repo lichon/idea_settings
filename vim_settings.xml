@@ -132,6 +132,7 @@
         <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/dao/message/MessageDao.java" timestamp="1536228269168" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/tests/src/com/gsma/rcs/RcsSettingsMock.java" timestamp="1536840605122" />
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" timestamp="1536030968081">
         <mark key="'" line="412" column="12" />
         <mark key="[" line="415" column="0" />
@@ -198,12 +199,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/LicenseUtils.java" timestamp="1536823426575">
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/utils/LicenseUtils.java" timestamp="1536840963684">
         <mark key="'" line="26" column="28" />
-        <mark key="[" line="26" column="76" />
-        <mark key="]" line="26" column="81" />
-        <mark key="^" line="26" column="81" />
-        <mark key="." line="26" column="81" />
+        <mark key="[" line="26" column="90" />
+        <mark key="]" line="26" column="95" />
+        <mark key="^" line="26" column="95" />
+        <mark key="." line="26" column="95" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/ByteArrayOutputStream.java" timestamp="1536217013160">
         <mark key="'" line="136" column="8" />
@@ -356,12 +357,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/RcsServiceControl.java" timestamp="1535623770680">
         <mark key="'" line="165" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" timestamp="1536389877648">
-        <mark key="'" line="534" column="8" />
-        <mark key="[" line="371" column="35" />
-        <mark key="]" line="371" column="35" />
-        <mark key="." line="371" column="35" />
-        <mark key="^" line="178" column="22" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" timestamp="1536840683277">
+        <mark key="'" line="634" column="19" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="176" column="22" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/telephony/TelephonyManager.java" timestamp="1536317731769">
         <mark key="'" line="974" column="18" />
@@ -564,6 +565,7 @@
         <mark key="^" line="71" column="1" />
         <mark key="." line="154" column="62" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/rtp/codec/video/h264/encoder/NativeH264Encoder.java" timestamp="1536840109071" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/utils/RcsFragmentActivity.java" timestamp="1536837697482">
         <mark key="'" line="48" column="8" />
       </file>
@@ -583,13 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceUtils.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceUtils.java" />
-      <jump line="53" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceService.java" />
-      <jump line="268" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceService.java" />
-      <jump line="145" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceService.java" />
-      <jump line="61" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceService.java" />
-      <jump line="131" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCPresenceService.java" />
       <jump line="9" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
       <jump line="25" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
       <jump line="35" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
@@ -683,61 +678,68 @@
       <jump line="562" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" />
       <jump line="277" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" />
       <jump line="48" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/utils/RcsFragmentActivity.java" />
+      <jump line="209" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
+      <jump line="115" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
+      <jump line="207" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
+      <jump line="122" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
+      <jump line="633" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
+      <jump line="642" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
+      <jump line="634" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1SY3NBY2NvdW50VXNlcm5hbWU7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEaWFsb2dVdGlsXD4=</text>
+        <text encoding="base64">XDxmYWxzZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
-      <register name="1" type="4">
-        <text>,unused</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1SY3NBY2NvdW50VXNlcm5hbWU7Cgo=</text>
       </register>
       <register name="2" type="4">
-        <text>using</text>
+        <text>,unused</text>
       </register>
       <register name="3" type="4">
         <text>using</text>
       </register>
       <register name="4" type="4">
+        <text>using</text>
+      </register>
+      <register name="5" type="4">
         <text>Address</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBOZXR3b3JrSW50ZXJmYWNlIG5pID0gTmV0d29ya0ludGVyZmFjZS5nZXRCeU5hbWUoImV0aDEiKTsKICAgICAgICAgICAgYnl0ZVtdIG1hYyA9IG5pLmdldEhhcmR3YXJlQWRkcmVzcygpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PXVzaW5nIG5ldHdvcmsgaW50ZXJmYWNlOiBldGgxIik7CiAgICAgICAgICAgIHJldHVybiBIYXNoaW5nLmhtYWNNZDUoTElDRU5TRV9LRVkuZ2V0Qnl0ZXMoKSkuaGFzaEJ5dGVzKG1hYykudG9TdHJpbmcoKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PWZhaWwgdG8gZ2V0IGV0aDEiKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>Exception</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGlkID09IG51bGwpIHsKICAgICAgICAgICAgcGlkID0gZ2V0SGFyZHdhcmVBZGRyZXNzKCJldGgxIik7CiAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text>Exception</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;eth0&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocGlkID09IG51bGwpIHsKICAgICAgICAgICAgcGlkID0gZ2V0SGFyZHdhcmVBZGRyZXNzKCJldGgxIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEaWFsb2dVdGlsXD4=</last-search>
+      <last-search encoding="base64">XDxmYWxzZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEaWFsb2dVdGlsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmYWxzZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -942,6 +944,9 @@
         <entry encoding="base64">XDxjb25uZWN0QXBpc1w+</entry>
         <entry encoding="base64">XDxSZWNlaXZlVGltZXJUb1JlQ29ubmVjdEFwaVw+</entry>
         <entry encoding="base64">XDxEaWFsb2dVdGlsXD4=</entry>
+        <entry encoding="base64">XDxtUmNzQWNjb3VudFVzZXJuYW1lXD4=</entry>
+        <entry encoding="base64">XDxNTkNfVU5ERUZJTkVEXD4=</entry>
+        <entry encoding="base64">XDxmYWxzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
