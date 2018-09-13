@@ -288,6 +288,12 @@
         <mark key="^" line="419" column="12" />
         <mark key="." line="487" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/LocalContentResolver.java" timestamp="1536316053845">
+        <mark key="'" line="59" column="11" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" timestamp="1536318776864">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -326,11 +332,11 @@
         <mark key="^" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/PocService.java" timestamp="1536226646735">
-        <mark key="'" line="710" column="0" />
-        <mark key="[" line="705" column="0" />
-        <mark key="]" line="705" column="0" />
-        <mark key="." line="705" column="0" />
-        <mark key="^" line="703" column="28" />
+        <mark key="'" line="711" column="0" />
+        <mark key="[" line="706" column="0" />
+        <mark key="]" line="706" column="0" />
+        <mark key="." line="706" column="0" />
+        <mark key="^" line="704" column="28" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/LICENSE-NIST.txt" timestamp="1536392317406" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.0-java.jar!/com/qualcomm/qti/imscmservice/V2_0/keyValuePairStringType.class" timestamp="1535547732525">
@@ -359,13 +365,6 @@
         <mark key="." line="371" column="35" />
         <mark key="^" line="178" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" timestamp="1536231059111">
-        <mark key="'" line="121" column="20" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="297" column="12" />
-        <mark key="." line="272" column="0" />
-        <mark key="^" line="272" column="0" />
-      </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/telephony/TelephonyManager.java" timestamp="1536317731769">
         <mark key="'" line="974" column="18" />
       </file>
@@ -378,6 +377,12 @@
         <mark key="]" line="489" column="87" />
         <mark key="." line="489" column="87" />
         <mark key="^" line="489" column="87" />
+      </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" timestamp="1536818384470">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="62" column="12" />
+        <mark key="]" line="62" column="12" />
+        <mark key="." line="62" column="12" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" timestamp="1536316978325">
         <mark key="'" line="1414" column="37" />
@@ -569,15 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="229" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="236" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="188" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="212" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="214" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="217" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="220" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="227" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="156" column="46" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="182" column="97" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="231" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
@@ -669,10 +665,19 @@
       <jump line="21" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="170" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="61" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/repos/gw_walkie/src/test/java/walkie/TestRun.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
