@@ -225,6 +225,9 @@
         <mark key="^" line="63" column="37" />
         <mark key="." line="63" column="37" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" timestamp="1536837521524">
+        <mark key="'" line="128" column="61" />
+      </file>
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/fragments/PhotoViewFragment.java" timestamp="1534577768436">
         <mark key="'" line="54" column="39" />
       </file>
@@ -577,7 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="247" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="246" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="10" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
@@ -677,6 +679,7 @@
       <jump line="124" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="86" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="83" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="128" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -686,7 +689,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>imscm</text>
+        <text encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
@@ -726,12 +729,12 @@
       </register>
     </registers>
     <search>
-      <last-search>imscm</last-search>
+      <last-search encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>imscm</last-pattern>
+      <last-pattern encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -875,7 +878,6 @@
         <entry encoding="base64">XDxjdHhcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3RlclNpbVN0YXRlQ2hhbmdlQnJvYWRjYXN0UmVjZWl2ZXJcPg==</entry>
         <entry encoding="base64">XDxjYXBhYmlsaXR5U2VydmljZVw+</entry>
-        <entry encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</entry>
         <entry>startCore</entry>
         <entry encoding="base64">XDxpbXNpXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRPckNoYW5nZWRcPg==</entry>
@@ -932,6 +934,7 @@
         <entry encoding="base64">XDxnZXRIYXJkd2FyZUFkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDxJRl9MSVNUXD4=</entry>
         <entry>imscm</entry>
+        <entry encoding="base64">XDxDYXBhYmlsaXR5U2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
