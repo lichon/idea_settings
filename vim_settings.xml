@@ -222,6 +222,13 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" timestamp="1536837624456">
         <mark key="'" line="277" column="34" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" timestamp="1536910161594">
+        <mark key="'" line="48" column="19" />
+        <mark key="[" line="93" column="32" />
+        <mark key="]" line="93" column="35" />
+        <mark key="." line="93" column="35" />
+        <mark key="^" line="93" column="35" />
+      </file>
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/fragments/PhotoViewFragment.java" timestamp="1534577768436">
         <mark key="'" line="54" column="39" />
       </file>
@@ -548,6 +555,9 @@
         <mark key="." line="47" column="62" />
         <mark key="^" line="47" column="62" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/redcloud/gw/lib/libua/1.0-SNAPSHOT/libua-1.0-SNAPSHOT.jar!/com/redcloud/gw/lib/useragent/sip/CallUserAgent.class" timestamp="1536910130816">
+        <mark key="'" line="382" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/MessageBroadcast.java" timestamp="1536389571989">
         <mark key="'" line="133" column="52" />
         <mark key="[" line="154" column="62" />
@@ -577,11 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="489" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="389" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="390" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="392" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
       <jump line="78" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
       <jump line="132" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
       <jump line="212" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
@@ -677,58 +682,63 @@
       <jump line="47" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
       <jump line="59" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
       <jump line="190" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
+      <jump line="399" column="25" filename="$MAVEN_REPOSITORY$/com/redcloud/gw/lib/libua/1.0-SNAPSHOT/libua-1.0-SNAPSHOT.jar!/com/redcloud/gw/lib/useragent/sip/CallUserAgent.class" />
+      <jump line="382" column="0" filename="$MAVEN_REPOSITORY$/com/redcloud/gw/lib/libua/1.0-SNAPSHOT/libua-1.0-SNAPSHOT.jar!/com/redcloud/gw/lib/useragent/sip/CallUserAgent.class" />
+      <jump line="47" column="25" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="154" column="64" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="48" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>fsTrans</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ29udGVudFw+</text>
+        <text encoding="base64">XDxmc1RyYW5zXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="4">
+        <text>fsTrans</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBtTWVzc2FnaW5nTG9nLnNldENoYXRNZXNzYWdlU3RhdHVzQW5kUmVhc29uQ29kZShtTXNnSWQsCiAgICAgICAgICAgICAgICBDaGF0TG9nLk1lc3NhZ2UuQ29udGVudC5TdGF0dXMuU0VORElORywKICAgICAgICAgICAgICAgIENoYXRMb2cuTWVzc2FnZS5Db250ZW50LlJlYXNvbkNvZGUuVU5TUEVDSUZJRUQpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdGFuZGFsb25lTWVzc2FnZShTdHJpbmcgY2hhdElkLCBmaW5hbCBTdHJpbmcgY29udmVyc2F0aW9uSWQsIGZpbmFsIENvbnRhY3RJZFtdIGNvbnRhY3RJZHMsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtQ2hhdElkID0gY2hhdElkOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1DaGF0SWQ7Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1Db250cmlidXRpb25JZDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1DaGF0SWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1DaGF0SWQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1Db250cmlidXRpb25JZDsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29udHJpYnV0aW9uSWQgPSBDb250cmlidXRpb25JZEdlbmVyYXRvci5nZXRDb250cmlidXRpb25JZChjb252ZXJzYXRpb25JZCArICJjYWxsaWQiKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1DaGF0SWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5jb3JlLmltcy5zZXJ2aWNlLmltLmNoYXQuaW1kbi5JbWRuTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgICAgICBtQ29udHJpYnV0aW9uSWQgPSBDb250cmlidXRpb25JZEdlbmVyYXRvci5nZXRDb250cmlidXRpb25JZChjb252ZXJzYXRpb25JZCArICJjYWxsaWQiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQ29udGVudFw+</last-search>
+      <last-search encoding="base64">XDxmc1RyYW5zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ29udGVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmc1RyYW5zXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -835,6 +845,10 @@
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry encoding="base64">XDxjcGltTXNnXD4=</entry>
         <entry encoding="base64">XDxtQ29udGVudFw+</entry>
+        <entry encoding="base64">XDxsb2NhbElwXD4=</entry>
+        <entry>trans</entry>
+        <entry encoding="base64">XDx0cmFuc3BvcnRcPg==</entry>
+        <entry encoding="base64">XDxmc1RyYW5zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
