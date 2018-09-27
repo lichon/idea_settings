@@ -515,11 +515,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/logger/Logger.java" timestamp="1536309002385">
         <mark key="'" line="162" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1538030342014">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1538033708784">
         <mark key="'" line="90" column="36" />
-        <mark key="[" line="90" column="36" />
-        <mark key="]" line="90" column="41" />
-        <mark key="." line="90" column="41" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
         <mark key="^" line="90" column="41" />
       </file>
       <file name="$USER_HOME$/repos/misc/VideoCompressor/app/app.iml" timestamp="1536914795895">
@@ -542,6 +542,9 @@
       </file>
       <file name="$USER_HOME$/repos/misc/VideoCompressor/app/build.gradle" timestamp="1536914642756">
         <mark key="'" line="4" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1538033963415">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/appcompat/src/com/android/ex/photo/PhotoViewActivity.java" timestamp="1534577538038">
         <mark key="'" line="23" column="30" />
@@ -773,8 +776,8 @@
       <jump line="58" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/jars</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgo=</text>
       </register>
       <register name="-" type="4">
         <text>rcs_sdk_api</text>
@@ -785,35 +788,35 @@
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
-      <register name="1" type="4">
-        <text>/jars</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgo=</text>
       </register>
       <register name="2" type="4">
-        <text>libs</text>
+        <text>/jars</text>
       </register>
       <register name="3" type="4">
-        <text>libs/jars/</text>
+        <text>libs</text>
       </register>
       <register name="4" type="4">
-        <text>rcs_sdk_api</text>
+        <text>libs/jars/</text>
       </register>
       <register name="5" type="4">
         <text>rcs_sdk_api</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOmFwaScpCg==</text>
+      <register name="6" type="4">
+        <text>rcs_sdk_api</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVudXNlZCIpCg==</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOmFwaScpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHVzZXMtbGlicmFyeS0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpuYW1lPSJjb20ucXVhbGNvbW0ucXRpLmltc2Ntc2VydmljZS1WMS4wLWphdmEiLS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOnJlcXVpcmVkPSJ0cnVlIiAvPi0tPgo=</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVudXNlZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPHVzZXMtbGlicmFyeS0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpuYW1lPSJjb20ucXVhbGNvbW0ucXRpLmltc2Ntc2VydmljZS1WMS4wLWphdmEiLS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOnJlcXVpcmVkPSJ0cnVlIiAvPi0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
