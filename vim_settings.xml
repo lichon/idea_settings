@@ -251,12 +251,12 @@
         <mark key="^" line="95" column="39" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538030343163">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538031873446">
         <mark key="'" line="58" column="22" />
-        <mark key="[" line="58" column="22" />
-        <mark key="]" line="58" column="28" />
-        <mark key="^" line="65" column="32" />
-        <mark key="." line="58" column="22" />
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="58" column="16" />
+        <mark key="^" line="58" column="16" />
+        <mark key="." line="58" column="16" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/api.iml" timestamp="1536914786915">
         <mark key="'" line="0" column="0" />
@@ -774,7 +774,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rcs_sdk_api</text>
+        <text>/jars</text>
       </register>
       <register name="-" type="4">
         <text>rcs_sdk_api</text>
@@ -786,34 +786,34 @@
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="4">
-        <text>rcs_sdk_api</text>
+        <text>/jars</text>
       </register>
       <register name="2" type="4">
+        <text>libs</text>
+      </register>
+      <register name="3" type="4">
+        <text>libs/jars/</text>
+      </register>
+      <register name="4" type="4">
         <text>rcs_sdk_api</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOmFwaScpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVudXNlZCIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHVzZXMtbGlicmFyeS0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpuYW1lPSJjb20ucXVhbGNvbW0ucXRpLmltc2Ntc2VydmljZS1WMS4wLWphdmEiLS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOnJlcXVpcmVkPSJ0cnVlIiAvPi0tPgo=</text>
+      <register name="5" type="4">
+        <text>rcs_sdk_api</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gcHJvamVjdCgnOmFwaScpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>autoConfig.</text>
+      <register name="7" type="2">
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoInVudXNlZCIpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPHVzZXMtbGlicmFyeS0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpuYW1lPSJjb20ucXVhbGNvbW0ucXRpLmltc2Ntc2VydmljZS1WMS4wLWphdmEiLS0+CiAgICAgICAgICAgIDwhLS1hbmRyb2lkOnJlcXVpcmVkPSJ0cnVlIiAvPi0tPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>autoConfig.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
