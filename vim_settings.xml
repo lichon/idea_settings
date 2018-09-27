@@ -257,12 +257,11 @@
         <mark key="^" line="95" column="39" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538046117087">
-        <mark key="'" line="67" column="61" />
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="35" />
-        <mark key="." line="71" column="35" />
-        <mark key="^" line="71" column="35" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538047222035">
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="70" column="33" />
+        <mark key="^" line="70" column="32" />
+        <mark key="." line="70" column="33" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/api.iml" timestamp="1536914786915">
         <mark key="'" line="0" column="0" />
@@ -687,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="688" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="222" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="771" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="704" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
@@ -787,13 +785,14 @@
       <jump line="41" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
       <jump line="57" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
       <jump line="66" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="59" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assembleRelease</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>${buildDir}/classes/${variant.name}</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJpYW50XD4=</text>
@@ -802,34 +801,34 @@
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="4">
-        <text>assembleRelease</text>
+        <text>7.</text>
       </register>
       <register name="2" type="4">
-        <text>ANDROID_HOME</text>
+        <text>-1.</text>
       </register>
       <register name="3" type="4">
-        <text>build</text>
+        <text>aspectjrt</text>
       </register>
       <register name="4" type="4">
-        <text>dex</text>
+        <text>build/intermediates/bundles/release/classes.</text>
       </register>
-      <register name="5" type="4">
-        <text>classes</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CnRhc2sgZGVsZXRlRGV4KHR5cGU6IERlbGV0ZSkgewogICAgZGVsZXRlICdidWlsZC9SY3NBcGkuamFyJwp9Cg==</text>
+      </register>
       <register name="7" type="4">
-        <text>--output=${buildDir}/classes/${variant.name}/classes.dex</text>
+        <text>assembleRelease</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>android.buildToolsVersion,</text>
+        <text>ANDROID_HOME</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;./test.sh&quot;,</text>
+        <text>build</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
