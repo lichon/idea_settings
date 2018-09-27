@@ -257,12 +257,12 @@
         <mark key="^" line="95" column="39" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538031873446">
-        <mark key="'" line="58" column="22" />
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="58" column="16" />
-        <mark key="^" line="58" column="16" />
-        <mark key="." line="58" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538046117087">
+        <mark key="'" line="67" column="61" />
+        <mark key="[" line="71" column="31" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="35" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/api.iml" timestamp="1536914786915">
         <mark key="'" line="0" column="0" />
@@ -349,12 +349,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/IdGenerator.java" timestamp="1535709126327">
         <mark key="'" line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" timestamp="1538043516527">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" timestamp="1538044969713">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="544" column="10" />
         <mark key="]" line="544" column="10" />
         <mark key="." line="544" column="10" />
-        <mark key="^" line="545" column="39" />
+        <mark key="^" line="544" column="10" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" timestamp="1536388429167">
         <mark key="'" line="116" column="69" />
@@ -687,18 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="351" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="394" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="420" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="40" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="86" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="705" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="687" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="221" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="178" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="20" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="706" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="688" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="222" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="771" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
@@ -773,7 +761,6 @@
       <jump line="46" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="89" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="90" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
-      <jump line="58" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
       <jump line="31" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="29" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="109" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
@@ -787,58 +774,71 @@
       <jump line="224" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="22" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="72" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="63" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="58" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="51" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="50" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="36" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="35" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="31" column="103" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="12" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="4" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="41" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="57" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="66" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>assembleRelease</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>${buildDir}/classes/${variant.name}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3JlU2VydmljZVRlc3RcPg==</text>
+        <text encoding="base64">XDx2YXJpYW50XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="4">
-        <text>TODO</text>
+        <text>assembleRelease</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>ANDROID_HOME</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEJ1aWxkQ29uZmlnLkJVSUxEX1RZUEUK</text>
+      <register name="3" type="4">
+        <text>build</text>
       </register>
       <register name="4" type="4">
-        <text>alse</text>
+        <text>dex</text>
       </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text>classes</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5CdWlsZENvbmZpZzsK</text>
+      <register name="7" type="4">
+        <text>--output=${buildDir}/classes/${variant.name}/classes.dex</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>BuildConfig;</text>
+        <text>android.buildToolsVersion,</text>
       </register>
       <register name="9" type="4">
-        <text>CONST_IM_OFFLINE</text>
+        <text>&quot;./test.sh&quot;,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb3JlU2VydmljZVRlc3RcPg==</last-search>
+      <last-search encoding="base64">XDx2YXJpYW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3JlU2VydmljZVRlc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2YXJpYW50XD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -881,13 +881,16 @@
         <entry encoding="base64">XDxmaW5hbFw+</entry>
         <entry encoding="base64">XDxDb25zdGFudHNcPg==</entry>
         <entry encoding="base64">XDxDb3JlU2VydmljZVRlc3RcPg==</entry>
+        <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxkZWxldGVEZXhcPg==</entry>
+        <entry encoding="base64">XDx2YXJpYW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
         <entry>991</entry>
         <entry>bd</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>85</entry>
         <entry>%s/V1_0/V2_0/gc</entry>
         <entry>343</entry>
@@ -902,6 +905,8 @@
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
         <entry encoding="base64">JzwsJz4lcy9kZXZpY2VDb25maWdLZXlzL3VzZXJDb25maWdLZXlzL2dj</entry>
         <entry>tabprevious</entry>
+        <entry>58</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
