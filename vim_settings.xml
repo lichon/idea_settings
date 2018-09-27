@@ -257,7 +257,8 @@
         <mark key="^" line="95" column="39" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538047222035">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538053652702">
+        <mark key="'" line="48" column="29" />
         <mark key="[" line="70" column="33" />
         <mark key="]" line="70" column="33" />
         <mark key="^" line="70" column="32" />
@@ -686,8 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="771" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="704" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="766" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="187" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
@@ -784,8 +783,10 @@
       <jump line="4" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
       <jump line="41" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
       <jump line="57" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
-      <jump line="66" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
       <jump line="59" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="64" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="66" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="48" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -795,7 +796,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YXJpYW50XD4=</text>
+        <text encoding="base64">XDxzZGtcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
@@ -835,9 +836,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YXJpYW50XD4=</last-search>
+      <last-search encoding="base64">XDxzZGtcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YXJpYW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZGtcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -884,6 +885,7 @@
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVEZXhcPg==</entry>
         <entry encoding="base64">XDx2YXJpYW50XD4=</entry>
+        <entry encoding="base64">XDxzZGtcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1245</entry>
