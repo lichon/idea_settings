@@ -332,12 +332,12 @@
         <mark key="." line="145" column="18" />
         <mark key="^" line="145" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/constant/ChatLog.java" timestamp="1538204198278">
-        <mark key="'" line="191" column="29" />
-        <mark key="[" line="193" column="31" />
-        <mark key="]" line="193" column="42" />
-        <mark key="." line="193" column="31" />
-        <mark key="^" line="55" column="39" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/constant/ChatLog.java" timestamp="1538205059685">
+        <mark key="'" line="189" column="29" />
+        <mark key="[" line="52" column="56" />
+        <mark key="]" line="53" column="15" />
+        <mark key="." line="53" column="15" />
+        <mark key="^" line="53" column="15" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1536046792356">
         <mark key="'" line="474" column="34" />
@@ -553,6 +553,9 @@
       <file name="$USER_HOME$/repos/misc/VideoCompressor/app/app.iml" timestamp="1536914795895">
         <mark key="'" line="24" column="57" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryProvider.java" timestamp="1538205437176">
+        <mark key="'" line="98" column="36" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" timestamp="1536389235526">
         <mark key="'" line="141" column="49" />
         <mark key="[" line="16" column="0" />
@@ -689,8 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferData.java" />
-      <jump line="121" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="190" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/constant/ChatLog.java" />
       <jump line="52" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/constant/ChatLog.java" />
       <jump line="44" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupChatData.java" />
@@ -789,58 +790,60 @@
       <jump line="147" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="153" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="158" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="51" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryProvider.java" />
+      <jump line="98" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvdmlkZXIKICAgICAgICAgICAgYW5kcm9pZDphdXRob3JpdGllcz0iY29tLmdzbWEucmNzLnNldHRpbmciCiAgICAgICAgICAgIGFuZHJvaWQ6ZXhwb3J0ZWQ9ImZhbHNlIgogICAgICAgICAgICBhbmRyb2lkOm5hbWU9Ii5wcm92aWRlci5zZXR0aW5ncy5SY3NTZXR0aW5nc1Byb3ZpZGVyIgogICAgICAgICAgICBhbmRyb2lkOnBlcm1pc3Npb249ImNvbS5nc21hLnNlcnZpY2VzLnBlcm1pc3Npb24uUkNTX0lOVEVSTkFMX0FDQ0VTU19PTkxZIiAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text encoding="base64">XDxUWVBFX0RJUkVDVE9SWVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb250ZW50Oi8vcmNzL2dyb3VwY2hhdCIpOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>Constants.CONST_USE_LOCAL_CONTENT ?</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8cHJvdmlkZXIKICAgICAgICAgICAgYW5kcm9pZDphdXRob3JpdGllcz0iY29tLmdzbWEucmNzLnNldHRpbmciCiAgICAgICAgICAgIGFuZHJvaWQ6ZXhwb3J0ZWQ9ImZhbHNlIgogICAgICAgICAgICBhbmRyb2lkOm5hbWU9Ii5wcm92aWRlci5zZXR0aW5ncy5SY3NTZXR0aW5nc1Byb3ZpZGVyIgogICAgICAgICAgICBhbmRyb2lkOnBlcm1pc3Npb249ImNvbS5nc21hLnNlcnZpY2VzLnBlcm1pc3Npb24uUkNTX0lOVEVSTkFMX0FDQ0VTU19PTkxZIiAvPgo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnNlcnZpY2VzLnJjcy5jb25zdGFudC5DaGF0TG9nOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>ChatLog.</text>
-      </register>
-      <register name="4" type="4">
-        <text>ChatLog.</text>
-      </register>
       <register name="5" type="4">
+        <text>ChatLog.</text>
+      </register>
+      <register name="6" type="4">
+        <text>ChatLog.</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZW50UmVzb2x2ZXI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5zZXJ2aWNlLk1haW5BcHBsaWNhdGlvbjsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>466</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZW50UmVzb2x2ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEltc0Nvbm5lY3Rpb25NYW5hZ2VyLnJlcXVlc3ROZXR3b3JrKEltc0Nvbm5lY3Rpb25NYW5hZ2VyLlFJTVNDTV9SQVRfSVdMQU4pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5zZXJ2aWNlLk1haW5BcHBsaWNhdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxUWVBFX0RJUkVDVE9SWVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFX0RJUkVDVE9SWVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -951,10 +954,10 @@
         <entry encoding="base64">XDxDT05URU5UX1VSSVw+</entry>
         <entry encoding="base64">XDxDT05TVF9VU0VfTE9DQUxfQ09OVEVOVFw+</entry>
         <entry encoding="base64">XDxzVXJpTWF0Y2hlclw+</entry>
-        <entry encoding="base64">XDxUWVBFX0RJUkVDVE9SWVw+</entry>
         <entry encoding="base64">XDxnZXRUeXBlXD4=</entry>
         <entry encoding="base64">XDxDaGF0TG9nXD4=</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxUWVBFX0RJUkVDVE9SWVw+</entry>
       </history-search>
       <history-cmd>
         <entry>991</entry>
