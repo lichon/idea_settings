@@ -180,8 +180,8 @@
         <mark key="." line="420" column="65" />
         <mark key="^" line="420" column="97" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" timestamp="1538303611552">
-        <mark key="'" line="285" column="10" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" timestamp="1538309160586">
+        <mark key="'" line="81" column="28" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -194,8 +194,8 @@
         <mark key="." line="41" column="21" />
         <mark key="^" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" timestamp="1536388429167">
-        <mark key="'" line="116" column="69" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" timestamp="1538308995987">
+        <mark key="'" line="26" column="28" />
         <mark key="[" line="215" column="8" />
         <mark key="]" line="204" column="0" />
         <mark key="^" line="204" column="0" />
@@ -646,12 +646,12 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="120" column="58" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/richcall/geoloc/OriginatingGeolocTransferSession.java" timestamp="1538304688801">
-        <mark key="'" line="221" column="54" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="273" column="19" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/richcall/geoloc/OriginatingGeolocTransferSession.java" timestamp="1538308707823">
+        <mark key="'" line="167" column="22" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="^" line="272" column="54" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1538292998679">
         <mark key="'" line="240" column="8" />
@@ -676,18 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
-      <jump line="167" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
-      <jump line="174" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
-      <jump line="146" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
-      <jump line="266" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="278" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="190" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
-      <jump line="250" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="424" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="353" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
-      <jump line="158" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/richcall/geoloc/OriginatingGeolocTransferSession.java" />
-      <jump line="221" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/richcall/geoloc/OriginatingGeolocTransferSession.java" />
       <jump line="207" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/richcall/image/OriginatingImageTransferSession.java" />
       <jump line="92" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/sip/streaming/OriginatingSipRtpSession.java" />
       <jump line="112" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/sip/messaging/OriginatingSipMsrpSession.java" />
@@ -776,59 +764,70 @@
       <jump line="112" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="221" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="96" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="167" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/richcall/geoloc/OriginatingGeolocTransferSession.java" />
+      <jump line="438" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="445" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="121" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="125" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="130" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="620" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="436" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="284" column="10" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="26" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
+      <jump line="283" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
+      <jump line="81" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Weak</text>
+        <text encoding="base64">XDxtU3luY0V4ZWN1dG9yXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
-      <register name="1" type="4">
-        <text>public</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>private</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>, &quot;WeakerAccess&quot;)</text>
+        <text encoding="base64">IGNhdGNoIChOZXR3b3JrRXhjZXB0aW9uIGUpIHs=</text>
       </register>
-      <register name="4" type="4">
-        <text>SuppressWarnings(</text>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiByZWZhY3RvciBjbSBzdGFydAogICAgICAgIH0gY2F0Y2ggKE5ldHdvcmtFeGNlcHRpb24gZSkgewogICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgfQo8PDw8PDw8IGMzMmY2Yzk2ZDBjZmRjZjA0YjM1NjBjNjVmNjIwOGY5YmE5NjhkNmQKCiAgICAgICAgfSBjYXRjaCAoUnVudGltZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAqIE5vcm1hbGx5IHdlIGFyZSBub3QgYWxsb3dlZCB0byBjYXRjaCBydW50aW1lIGV4Y2VwdGlvbnMgYXMgdGhlc2UgYXJlIGdlbnVpbmUgYnVncwogICAgICAgICAgICAgKiB3aGljaCBzaG91bGQgYmUgaGFuZGxlZC9maXhlZCB3aXRoaW4gdGhlIGNvZGUuIEhvd2V2ZXIgdGhlIGNhc2VzIHdoZW4gd2UgYXJlCiAgICAgICAgICAgICAqIGV4ZWN1dGluZyBvcGVyYXRpb25zIG9uIGEgdGhyZWFkIHVuaGFuZGxpbmcgc3VjaCBleGNlcHRpb25zIHdpbGwgZXZlbnR1YWxseSBsZWFkIHRvCiAgICAgICAgICAgICAqIGV4aXQgdGhlIHN5c3RlbSBhbmQgdGh1cyBjYW4gYnJpbmcgdGhlIHdob2xlIHN5c3RlbSBkb3duLCB3aGljaCBpcyBub3QgaW50ZW5kZWQuCiAgICAgICAgICAgICAqLwogICAgICAgICAgICBzTG9nZ2VyLmVycm9yKAogICAgICAgICAgICAgICAgICAgIG5ldyBTdHJpbmdCdWlsZGVyKCJGYWlsZWQgdG8gaGFuZGxlIG1zcnAgZXJyb3IiKS5hcHBlbmQoZXJyb3IuZ2V0TWVzc2FnZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmFwcGVuZCgiIGZvciBtZXNzYWdlICIpLmFwcGVuZChtc2dJZCkudG9TdHJpbmcoKSwgZSk7Cj09PT09PT0KPj4+Pj4+PiByZWZhY3RvciBjbSBzdGFydAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>,
-@</text>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBjMzJmNmM5NmQwY2ZkY2YwNGIzNTYwYzY1ZjYyMDhmOWJhOTY4ZDZkCiAgICAgICAgfSBjYXRjaCAoUGF5bG9hZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoCiAgICAgICAgICAgICAgICAgICAgbmV3IFN0cmluZ0J1aWxkZXIoIkZhaWxlZCB0byBoYW5kbGUgbXNycCBlcnJvciIpLmFwcGVuZChlcnJvci5nZXRNZXNzYWdlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYXBwZW5kKCIgZm9yIG1lc3NhZ2UgIikuYXBwZW5kKG1zZ0lkKS50b1N0cmluZygpLCBlKTsKPT09PT09PQo=</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>public</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJXZWFrZXJBY2Nlc3MiKQo=</text>
+      <register name="7" type="4">
+        <text>private</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>, &quot;WeakerAccess&quot;)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdGVuaW5nUG9pbnQgdWRwID0gbVNpcFN0YWNrLmNyZWF0ZUxpc3RlbmluZ1BvaW50KG1Mb2NhbElwQWRkcmVzcywgbUxpc3RlbmluZ1BvcnQsCiAgICAgICAgICAgICAgICAgICAgTGlzdGVuaW5nUG9pbnQuVURQKTsKICAgICAgICAgICAgU2lwUHJvdmlkZXIgdWRwU2lwUHJvdmlkZXIgPSBtU2lwU3RhY2suY3JlYXRlU2lwUHJvdmlkZXIodWRwKTsKICAgICAgICAgICAgdWRwU2lwUHJvdmlkZXIuYWRkU2lwTGlzdGVuZXIodGhpcyk7CiAgICAgICAgICAgIG1TaXBQcm92aWRlcnMuYWRkKHVkcFNpcFByb3ZpZGVyKTsK</text>
+      <register name="9" type="4">
+        <text>SuppressWarnings(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Weak</last-search>
+      <last-search encoding="base64">XDxtU3luY0V4ZWN1dG9yXD4=</last-search>
       <last-offset />
-      <last-pattern>Weak</last-pattern>
+      <last-pattern encoding="base64">XDxtU3luY0V4ZWN1dG9yXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -982,9 +981,6 @@
         <entry encoding="base64">XDxtQ3VycmVudE5ldHdvcmtJbnRlcmZhY2VcPg==</entry>
         <entry encoding="base64">XDxtQXV0aGVudGljYXRpb25BZ2VudFw+</entry>
         <entry encoding="base64">XDxTZXNzaW9uQXV0aGVudGljYXRpb25BZ2VudFw+</entry>
-        <entry encoding="base64">XDxtU3luY0V4ZWN1dG9yXD4=</entry>
-        <entry encoding="base64">XDxzeW5jaHJvbml6ZUNvbnRhY3RzVGFza1w+</entry>
-        <entry encoding="base64">XDxzeW5jaHJvbml6ZUNvbnRhY3RzXD4=</entry>
         <entry encoding="base64">XDxPcmlnaW5hdGluZ09uZVRvT25lQ2hhdFNlc3Npb25cPg==</entry>
         <entry encoding="base64">XDxjaGF0SWRcPg==</entry>
         <entry encoding="base64">XDxHcm91cENoYXRTZXNzaW9uXD4=</entry>
@@ -1030,6 +1026,10 @@
         <entry>Clis</entry>
         <entry encoding="base64">XDxDTVNlcnZlclNvY2tldFw+</entry>
         <entry>Weak</entry>
+        <entry>===</entry>
+        <entry encoding="base64">XDxzeW5jaHJvbml6ZUNvbnRhY3RzVGFza1w+</entry>
+        <entry encoding="base64">XDxzeW5jaHJvbml6ZUNvbnRhY3RzXD4=</entry>
+        <entry encoding="base64">XDxtU3luY0V4ZWN1dG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
