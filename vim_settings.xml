@@ -466,7 +466,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1538306189157">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1538307732820">
         <mark key="'" line="507" column="29" />
         <mark key="[" line="515" column="11" />
         <mark key="]" line="515" column="24" />
@@ -632,12 +632,12 @@
         <mark key="." line="62" column="28" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1538307106272">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1538307117830">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="9" />
-        <mark key="." line="33" column="9" />
-        <mark key="^" line="33" column="9" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="33" column="10" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1536928720588">
         <mark key="'" line="989" column="37" />
@@ -779,7 +779,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -791,35 +791,35 @@
         <text encoding="base64">aWYg</text>
       </register>
       <register name="1" type="4">
-        <text>private</text>
+        <text>public</text>
       </register>
       <register name="2" type="4">
-        <text>, &quot;WeakerAccess&quot;)</text>
+        <text>private</text>
       </register>
       <register name="3" type="4">
-        <text>SuppressWarnings(</text>
+        <text>, &quot;WeakerAccess&quot;)</text>
       </register>
       <register name="4" type="4">
+        <text>SuppressWarnings(</text>
+      </register>
+      <register name="5" type="4">
         <text>,
 @</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJXZWFrZXJBY2Nlc3MiKQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdGVuaW5nUG9pbnQgdWRwID0gbVNpcFN0YWNrLmNyZWF0ZUxpc3RlbmluZ1BvaW50KG1Mb2NhbElwQWRkcmVzcywgbUxpc3RlbmluZ1BvcnQsCiAgICAgICAgICAgICAgICAgICAgTGlzdGVuaW5nUG9pbnQuVURQKTsKICAgICAgICAgICAgU2lwUHJvdmlkZXIgdWRwU2lwUHJvdmlkZXIgPSBtU2lwU3RhY2suY3JlYXRlU2lwUHJvdmlkZXIodWRwKTsKICAgICAgICAgICAgdWRwU2lwUHJvdmlkZXIuYWRkU2lwTGlzdGVuZXIodGhpcyk7CiAgICAgICAgICAgIG1TaXBQcm92aWRlcnMuYWRkKHVkcFNpcFByb3ZpZGVyKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="9" type="4">
-        <text>String</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdGVuaW5nUG9pbnQgdWRwID0gbVNpcFN0YWNrLmNyZWF0ZUxpc3RlbmluZ1BvaW50KG1Mb2NhbElwQWRkcmVzcywgbUxpc3RlbmluZ1BvcnQsCiAgICAgICAgICAgICAgICAgICAgTGlzdGVuaW5nUG9pbnQuVURQKTsKICAgICAgICAgICAgU2lwUHJvdmlkZXIgdWRwU2lwUHJvdmlkZXIgPSBtU2lwU3RhY2suY3JlYXRlU2lwUHJvdmlkZXIodWRwKTsKICAgICAgICAgICAgdWRwU2lwUHJvdmlkZXIuYWRkU2lwTGlzdGVuZXIodGhpcyk7CiAgICAgICAgICAgIG1TaXBQcm92aWRlcnMuYWRkKHVkcFNpcFByb3ZpZGVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
