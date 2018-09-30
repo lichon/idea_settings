@@ -337,12 +337,12 @@
         <mark key="^" line="95" column="39" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538284821517">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="84" column="36" />
-        <mark key="]" line="84" column="51" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538288032610">
+        <mark key="'" line="4" column="34" />
+        <mark key="[" line="77" column="40" />
+        <mark key="]" line="77" column="40" />
         <mark key="^" line="84" column="51" />
-        <mark key="." line="84" column="51" />
+        <mark key="." line="77" column="40" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/api.iml" timestamp="1536914786915">
         <mark key="'" line="0" column="0" />
@@ -844,9 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
-      <jump line="424" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
-      <jump line="425" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="106" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="149" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="399" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
@@ -944,58 +941,61 @@
       <jump line="25" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
       <jump line="72" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="77" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="67" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
+      <jump line="4" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmNyZWF0ZURleC5kZXBlbmRzT24oZGVsZXRlRGV4LCBidWlsZCkK</text>
+      <register name="&quot;" type="4">
+        <text>android.</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXNNYW5hZ2VyXD4=</text>
+        <text encoding="base64">XDxidWlsZFRvb2xzVmVyc2lvblw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYg</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>android.</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CmNyZWF0ZURleC5kZXBlbmRzT24oZGVsZXRlRGV4LCBidWlsZCkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>release</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>context</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGNvbnRleHQ=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Context</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUNNSW50ZXJmYWNlLnNldFN0YXR1c0xpc3RlbmVyKG1DTVN0YXR1c0xpc3RlbmVyKTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>net.</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>android.</text>
+        <text>net.</text>
       </register>
       <register name="9" type="4">
-        <text>net.</text>
+        <text>android.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXNNYW5hZ2VyXD4=</last-search>
+      <last-search encoding="base64">XDxidWlsZFRvb2xzVmVyc2lvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXNNYW5hZ2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZFRvb2xzVmVyc2lvblw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1230,6 +1230,7 @@
         <entry encoding="base64">XDxtSW1zQ29ubmVjdGlvblN0YXRlTGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxJbXNNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxpbXNNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxidWlsZFRvb2xzVmVyc2lvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>991</entry>
