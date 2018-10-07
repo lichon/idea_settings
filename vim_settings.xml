@@ -569,8 +569,8 @@
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1538028892777">
         <mark key="'" line="194" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1538897892071">
-        <mark key="'" line="162" column="33" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1538897930575">
+        <mark key="'" line="137" column="24" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryConstants.java" timestamp="1538133141408">
         <mark key="'" line="91" column="16" />
@@ -935,7 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="87" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="132" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
@@ -1035,6 +1034,7 @@
       <jump line="57" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="511" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="162" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
+      <jump line="137" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1044,7 +1044,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGVuQ29ubmVjdGlvblw+</text>
+        <text encoding="base64">XDxvbkNvbmZpZ0NoYW5nZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlRGV4LmRlcGVuZHNPbihkZWxldGVEZXgsIGJ1aWxkKQoK</text>
@@ -1084,12 +1084,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcGVuQ29ubmVjdGlvblw+</last-search>
+      <last-search encoding="base64">XDxvbkNvbmZpZ0NoYW5nZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGVuQ29ubmVjdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNvbmZpZ0NoYW5nZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1321,7 +1321,6 @@
         <entry encoding="base64">XDxkb1JlZ2lzdGVyXD4=</entry>
         <entry encoding="base64">XDxzdGFydFFDSW1zXD4=</entry>
         <entry encoding="base64">XDxvblVzZXJDb25maWd1cmF0aW9uQ2hhbmdlXD4=</entry>
-        <entry encoding="base64">XDxvbkNvbmZpZ0NoYW5nZVw+</entry>
         <entry>ims stack</entry>
         <entry>getIms</entry>
         <entry encoding="base64">XDxtSW1zTW9kdWxlXD4=</entry>
@@ -1361,6 +1360,7 @@
         <entry>trig</entry>
         <entry encoding="base64">XDxjaGVja0lwQW5kUmVzdGFydFN0YWNrXD4=</entry>
         <entry encoding="base64">XDxvcGVuQ29ubmVjdGlvblw+</entry>
+        <entry encoding="base64">XDxvbkNvbmZpZ0NoYW5nZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
