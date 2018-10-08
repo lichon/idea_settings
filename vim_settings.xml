@@ -36,6 +36,13 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" timestamp="1538995284550">
+        <mark key="'" line="27" column="14" />
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_op/Contacts/res/layout/floating_action_button.xml" timestamp="1535020085121">
         <mark key="'" line="15" column="0" />
       </file>
@@ -69,11 +76,6 @@
         <mark key="]" line="103" column="55" />
         <mark key="." line="103" column="55" />
         <mark key="^" line="112" column="82" />
-      </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" timestamp="1538979237866">
-        <mark key="'" line="189" column="59" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="51" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidSecureSocketConnection.java" timestamp="1538214222149">
         <mark key="'" line="74" column="11" />
@@ -427,7 +429,7 @@
       <file name="$USER_HOME$/repos/misc/VideoCompressor/app/build.gradle" timestamp="1536914642756">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538990047286">
+      <file name="/Dummy.txt" timestamp="1538994949055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingOneToOneChatSession.java" timestamp="1538303687258">
@@ -963,12 +965,12 @@
         <mark key="." line="62" column="28" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1538993136322">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1538995490120">
         <mark key="'" line="21" column="26" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="98" column="37" />
-        <mark key="." line="98" column="37" />
-        <mark key="^" line="98" column="37" />
+        <mark key="[" line="129" column="61" />
+        <mark key="]" line="129" column="61" />
+        <mark key="." line="129" column="61" />
+        <mark key="^" line="129" column="52" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1536928720588">
         <mark key="'" line="989" column="37" />
@@ -1019,16 +1021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsConnectionManager.java" />
-      <jump line="189" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
-      <jump line="172" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
-      <jump line="174" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
-      <jump line="242" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
-      <jump line="240" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
-      <jump line="97" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
-      <jump line="61" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/CarrierConfigService.java" />
-      <jump line="227" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
-      <jump line="266" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="287" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="225" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="268" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
@@ -1119,58 +1111,68 @@
       <jump line="621" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
       <jump line="29" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="21" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="9" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="67" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="63" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="26" column="9" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="22" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="2" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="50" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="8" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="23" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
+      <jump line="27" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/StackLogger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkRlZmF1bHRMb2NhbGUiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>14</text>
+        <text encoding="base64">XDxUQUdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlRGV4LmRlcGVuZHNPbihkZWxldGVEZXgsIGJ1aWxkKQoK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkRlZmF1bHRMb2NhbGUiKQo=</text>
+      <register name="1" type="4">
+        <text>handling</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiY20gbmV0d29yayBsYXllciBoYW5kbGluZyBtZXNzYWdlLCBsZW46IiArIGxlbmd0aCk7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBzTG9nZ2VyID0gTG9nZ2VyLmdldExvZ2dlcihSZWdpc3RyYXRpb25Ccm9hZGNhc3QuY2xhc3MuZ2V0U2ltcGxlTmFtZSgpKTsK</text>
+      <register name="3" type="4">
+        <text>_LOGGER</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzTG9nZ2VyLmRlYnVnKCJzZW5kIHVucmVnaXN0cmF0aW9uIGZpbmlzaCBicm9hZGNhc3QiKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dIZWxwZXIudigiZXh0cmFzPSIgKyBpbnRlbnQuZ2V0RXh0cmFzKCkpOwo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkRlZmF1bHRMb2NhbGUiKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>sendExplicitBroadcast,</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>intent</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBzTG9nZ2VyID0gTG9nZ2VyLmdldExvZ2dlcihSZWdpc3RyYXRpb25Ccm9hZGNhc3QuY2xhc3MuZ2V0U2ltcGxlTmFtZSgpKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dIZWxwZXIudigic2VuZEV4cGxpY2l0QnJvYWRjYXN0LCBhY3Rpb249IiArIGFjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzTG9nZ2VyLmRlYnVnKCJzZW5kIHVucmVnaXN0cmF0aW9uIGZpbmlzaCBicm9hZGNhc3QiKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>action</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dIZWxwZXIudigiZXh0cmFzPSIgKyBpbnRlbnQuZ2V0RXh0cmFzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>14</last-search>
+      <last-search encoding="base64">XDxUQUdcPg==</last-search>
       <last-offset />
-      <last-pattern>14</last-pattern>
+      <last-pattern encoding="base64">XDxUQUdcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1376,7 +1378,6 @@
         <entry>trigger</entry>
         <entry>CRETE</entry>
         <entry encoding="base64">XDxJTVNDT05ORUNUSU9OX0VWRU5UX1NFUlZJQ0VfQ1JFQVRFRFw+</entry>
-        <entry encoding="base64">XDxUQUdcPg==</entry>
         <entry encoding="base64">XDxyZXNwTGVuXD4=</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry>CoreTest</entry>
@@ -1482,6 +1483,9 @@
         <entry encoding="base64">XDxtc2dcPg==</entry>
         <entry encoding="base64">XDxOZXR3b3JrTGF5ZXJcPg==</entry>
         <entry>14</entry>
+        <entry encoding="base64">XDxtRW5hYmxlZFw+</entry>
+        <entry encoding="base64">XDxMb2dcPg==</entry>
+        <entry encoding="base64">XDxUQUdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
