@@ -905,8 +905,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryMemberBaseIdCreator.java" timestamp="1538217594810">
         <mark key="'" line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" timestamp="1538306463434">
-        <mark key="'" line="87" column="13" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" timestamp="1538988757829">
+        <mark key="'" line="185" column="89" />
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
@@ -989,7 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="72" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="32" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="71" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="90" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
@@ -1089,6 +1088,7 @@
       <jump line="74" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="124" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="185" column="89" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1098,7 +1098,7 @@
         <text>Constants.CONST_RUN_TEST</text>
       </register>
       <register name="/" type="4">
-        <text>RUN</text>
+        <text encoding="base64">XDxTdGFja0xvZ2dlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlRGV4LmRlcGVuZHNPbihkZWxldGVEZXgsIGJ1aWxkKQoK</text>
@@ -1138,9 +1138,9 @@
       </register>
     </registers>
     <search>
-      <last-search>RUN</last-search>
+      <last-search encoding="base64">XDxTdGFja0xvZ2dlclw+</last-search>
       <last-offset />
-      <last-pattern>RUN</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFja0xvZ2dlclw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1439,6 +1439,7 @@
         <entry>RcsSDK</entry>
         <entry encoding="base64">XDxDT05TVF9FTkFCTEVfQ0FSUklFUl9DT05GSUdcPg==</entry>
         <entry>RUN</entry>
+        <entry encoding="base64">XDxTdGFja0xvZ2dlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
