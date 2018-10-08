@@ -80,7 +80,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" timestamp="1538982647998">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" timestamp="1538982889079">
         <mark key="'" line="123" column="12" />
         <mark key="[" line="230" column="18" />
         <mark key="]" line="230" column="18" />
@@ -228,8 +228,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="93" column="35" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1538312744769">
-        <mark key="'" line="46" column="10" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1538983060908">
+        <mark key="'" line="81" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -284,6 +284,13 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/IdGenerator.java" timestamp="1535709126327">
         <mark key="'" line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" timestamp="1538983817838">
+        <mark key="'" line="177" column="20" />
+        <mark key="[" line="70" column="0" />
+        <mark key="m" line="253" column="17" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" timestamp="1538308995987">
         <mark key="'" line="26" column="28" />
@@ -561,11 +568,12 @@
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1538028892777">
         <mark key="'" line="194" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1538979281138">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1538983332544">
         <mark key="'" line="174" column="20" />
-        <mark key="[" line="156" column="16" />
-        <mark key="]" line="156" column="16" />
-        <mark key="." line="156" column="16" />
+        <mark key="[" line="186" column="46" />
+        <mark key="]" line="186" column="49" />
+        <mark key="." line="186" column="49" />
+        <mark key="^" line="186" column="49" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryConstants.java" timestamp="1538133141408">
         <mark key="'" line="91" column="16" />
@@ -624,12 +632,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMListener.java" timestamp="1536305826361">
         <mark key="'" line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1538216432398">
-        <mark key="'" line="8" column="38" />
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="24" column="55" />
-        <mark key="." line="24" column="55" />
-        <mark key="^" line="24" column="55" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1538983842164">
+        <mark key="'" line="9" column="38" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="25" column="55" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/api.iml" timestamp="1536914786915">
         <mark key="'" line="0" column="0" />
@@ -922,7 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/videocompress/VideoController.java" />
       <jump line="1178" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/videocompress/VideoController.java" />
       <jump line="1171" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/videocompress/VideoController.java" />
       <jump line="323" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/videocompress/VideoController.java" />
@@ -1022,10 +1029,11 @@
       <jump line="291" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="82" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="123" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnNlcnZpY2VzLnJjcy5jb250YWN0LkNvbnRhY3RVdGlsOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1036,35 +1044,35 @@
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlRGV4LmRlcGVuZHNPbihkZWxldGVEZXgsIGJ1aWxkKQoK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGNvbmZpZw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnNlcnZpY2VzLnJjcy5jb250YWN0LkNvbnRhY3RVdGlsOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>String</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZyhCdWlsZC5NT0RFTCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNhcnJpZXJDb25maWdTZXJ2aWNlLnN0YXJ0U2VydmljZSgpOwo=</text>
+      <register name="3" type="4">
+        <text>Handle event registration ok</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtQ2FycmllckNvbmZpZ1NlcnZpY2Uuc3RvcFNlcnZpY2UoKTsK</text>
+      <register name="4" type="4">
+        <text>it</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>-started</text>
       </register>
       <register name="6" type="4">
-        <text>.DEBUG</text>
+        <text>/re</text>
       </register>
       <register name="7" type="4">
-        <text>_RUN_TEST</text>
+        <text>restarted</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG1JbXNNb2R1bGUuZ2V0SW1zQ29ubmVjdGlvbk1hbmFnZXIoKS5sb2FkVXNlclByb2ZpbGUoKTsK</text>
+      <register name="8" type="4">
+        <text>error</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZlYXR1cmVUYWdzID0gIitnLjNncHAuaWNzaS1yZWY9XCJ1cm4lM0F1cm4tNyUzQTNncHAtc2VydmljZS5pbXMuaWNzaS5vbWEuY3BtLmZpbGV0cmFuc2ZlclwiOyIKICAgICAgICAgICAgICAgICAgICArICIrZy4zZ3BwLmljc2ktcmVmPVwidXJuJTNBdXJuLTclM0EzZ3BwLXNlcnZpY2UuaW1zLmljc2kub21hLmNwbS5zZXNzaW9uXCIiOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGNvbmZpZw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1388,9 +1396,9 @@
         <entry encoding="base64">JzwsJz4lcy9kZXZpY2VDb25maWdLZXlzL3VzZXJDb25maWdLZXlzL2dj</entry>
         <entry>58</entry>
         <entry>138</entry>
-        <entry>W</entry>
         <entry>tabprevious</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
