@@ -48,6 +48,11 @@
         <mark key="^" line="644" column="76" />
         <mark key="." line="644" column="76" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/sip/streaming/OriginatingSipRtpSession.java" timestamp="1538304780556">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" timestamp="1538291218925">
         <mark key="'" line="58" column="8" />
       </file>
@@ -381,6 +386,11 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/content/ContentResolver.java" timestamp="1538134170518">
         <mark key="'" line="1567" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RejoinGroupChatSession.java" timestamp="1538304533443">
+        <mark key="[" line="121" column="17" />
+        <mark key="]" line="121" column="17" />
+        <mark key="." line="121" column="17" />
+      </file>
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/loaders/PhotoBitmapLoader.java" timestamp="1534578031547">
         <mark key="'" line="33" column="39" />
       </file>
@@ -520,6 +530,11 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/sip/SipService.java" timestamp="1536904880582">
         <mark key="'" line="88" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/richcall/video/OriginatingVideoStreamingSession.java" timestamp="1538304619808">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpClientConnection.java" timestamp="1538145249899">
         <mark key="'" line="70" column="11" />
@@ -661,11 +676,18 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/dao/message/MessageViewModel.java" timestamp="1536228329614">
         <mark key="'" line="20" column="11" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingAdhocGroupChatSession.java" timestamp="1538303820241">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/NotificationUtil.java" timestamp="1533728775861">
         <mark key="'" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1538900910302">
-        <mark key="'" line="542" column="8" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1538978017791">
+        <mark key="[" line="533" column="0" />
+        <mark key="]" line="533" column="0" />
+        <mark key="." line="533" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/Android.mk" timestamp="1535542068617">
         <mark key="'" line="0" column="0" />
@@ -765,12 +787,12 @@
         <mark key="^" line="64" column="88" />
         <mark key="." line="64" column="88" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" timestamp="1538900835478">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" timestamp="1538977625003">
         <mark key="'" line="147" column="72" />
-        <mark key="[" line="335" column="0" />
-        <mark key="]" line="335" column="0" />
-        <mark key="^" line="326" column="22" />
-        <mark key="." line="335" column="0" />
+        <mark key="[" line="464" column="16" />
+        <mark key="]" line="464" column="21" />
+        <mark key="^" line="434" column="24" />
+        <mark key="." line="464" column="16" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/ChatProvider.java" timestamp="1538207781995">
         <mark key="'" line="126" column="0" />
@@ -918,9 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
-      <jump line="89" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
-      <jump line="96" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" />
       <jump line="73" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/videocompress/VideoCompressUtil.java" />
       <jump line="76" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/videocompress/VideoCompressUtil.java" />
       <jump line="74" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/videocompress/VideoCompressUtil.java" />
@@ -1018,58 +1037,61 @@
       <jump line="33" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/constant/Constants.java" />
       <jump line="29" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/constant/Constants.java" />
       <jump line="100" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="531" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="535" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="536" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJzZW5kTWVzc2FnZSBzdGFydCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPcmlnaW5hdGluZ0dDTXNycEZpbGVTaGFyaW5nU2Vzc2lvblw+</text>
+        <text encoding="base64">XDxzZW5kTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlRGV4LmRlcGVuZHNPbihkZWxldGVEZXgsIGJ1aWxkKQoK</text>
       </register>
-      <register name="1" type="4">
-        <text>true</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJzZW5kTWVzc2FnZSBzdGFydCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="4">
-        <text>.COMPRESS_QUALITY_HIGH</text>
+        <text>IgnoreCase</text>
       </register>
       <register name="3" type="4">
-        <text>VideoController</text>
+        <text>debug</text>
       </register>
       <register name="4" type="4">
-        <text>High</text>
+        <text>debug</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">JiYgIWxpc3RlbmVyLmlzQ2FuY2VsbGVkKCk=</text>
+        <text>debug</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text>debug</text>
       </register>
-      <register name="7" type="4">
-        <text>false</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgLy8gICAgIHNMb2dnZXIuZGVidWcoc2lwTXNnKTsKICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>true</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzQ2FuY2VsbGVkKCk7Cg==</text>
+      <register name="9" type="4">
+        <text>.COMPRESS_QUALITY_HIGH</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPcmlnaW5hdGluZ0dDTXNycEZpbGVTaGFyaW5nU2Vzc2lvblw+</last-search>
+      <last-search encoding="base64">XDxzZW5kTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPcmlnaW5hdGluZ0dDTXNycEZpbGVTaGFyaW5nU2Vzc2lvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kTWVzc2FnZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1354,6 +1376,7 @@
         <entry>Indi</entry>
         <entry encoding="base64">XDxCdWlsZENvbmZpZ1w+</entry>
         <entry encoding="base64">XDxPcmlnaW5hdGluZ0dDTXNycEZpbGVTaGFyaW5nU2Vzc2lvblw+</entry>
+        <entry encoding="base64">XDxzZW5kTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
