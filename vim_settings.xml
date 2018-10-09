@@ -180,6 +180,9 @@
         <mark key="^" line="55" column="74" />
         <mark key="." line="55" column="74" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" timestamp="1539082954941">
+        <mark key="'" line="907" column="22" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/sip/GenericSipSession.java" timestamp="1536904086594">
         <mark key="'" line="149" column="0" />
       </file>
@@ -234,8 +237,8 @@
         <mark key="]" line="251" column="0" />
         <mark key="." line="251" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" timestamp="1539082110979">
-        <mark key="'" line="175" column="19" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" timestamp="1539083006385">
+        <mark key="'" line="327" column="33" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" timestamp="1538304571688">
         <mark key="'" line="67" column="59" />
@@ -780,8 +783,8 @@
         <mark key="^" line="24" column="55" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/SIPTransactionStack.java" timestamp="1539068199018">
-        <mark key="'" line="301" column="27" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/SIPTransactionStack.java" timestamp="1539082903919">
+        <mark key="'" line="1748" column="20" />
         <mark key="[" line="1309" column="0" />
         <mark key="]" line="1309" column="0" />
         <mark key="." line="1309" column="0" />
@@ -1088,22 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="171" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMConnection.java" />
-      <jump line="210" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMConnection.java" />
-      <jump line="287" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="25" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="46" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="113" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="41" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="122" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="85" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="90" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="66" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="45" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
       <jump line="34" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
       <jump line="8" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
       <jump line="201" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/ims-common.jar!/com/android/ims/ImsManager.class" />
@@ -1187,7 +1174,23 @@
       <jump line="613" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
       <jump line="611" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
       <jump line="80" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
+      <jump line="75" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="103" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="906" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
+      <jump line="283" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/SIPTransactionStack.java" />
+      <jump line="1748" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/SIPTransactionStack.java" />
+      <jump line="107" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="908" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
+      <jump line="909" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
+      <jump line="912" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
+      <jump line="917" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
+      <jump line="907" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/SipStackImpl.java" />
       <jump line="175" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="213" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="302" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="74" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="355" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="327" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1197,7 +1200,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFkTGluZVw+</text>
+        <text encoding="base64">XDxyYXdJbnB1dFN0cmVhbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlRGV4LmRlcGVuZHNPbihkZWxldGVEZXgsIGJ1aWxkKQoK</text>
@@ -1237,12 +1240,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWFkTGluZVw+</last-search>
+      <last-search encoding="base64">XDxyYXdJbnB1dFN0cmVhbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkTGluZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyYXdJbnB1dFN0cmVhbVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1590,7 +1593,11 @@
         <entry encoding="base64">XDxUUkFDRV9TRVBBUkFUT1JcPg==</entry>
         <entry encoding="base64">XDxoaXNwaXBlXD4=</entry>
         <entry encoding="base64">XDxteVBhcnNlclw+</entry>
+        <entry encoding="base64">XDxtYXhNc2dTaXplXD4=</entry>
+        <entry encoding="base64">XDxtYXhNZXNzYWdlU2l6ZVw+</entry>
         <entry encoding="base64">XDxyZWFkTGluZVw+</entry>
+        <entry encoding="base64">XDxzaXplQ291bnRlclw+</entry>
+        <entry encoding="base64">XDxyYXdJbnB1dFN0cmVhbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
