@@ -59,6 +59,9 @@
         <mark key="^" line="644" column="76" />
         <mark key="." line="644" column="76" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/Pipeline.java" timestamp="1539086779013">
+        <mark key="'" line="124" column="11" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/file/AndroidFileFactory.java" timestamp="1538996121570">
         <mark key="'" line="74" column="16" />
       </file>
@@ -237,8 +240,12 @@
         <mark key="]" line="251" column="0" />
         <mark key="." line="251" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" timestamp="1539085108268">
-        <mark key="'" line="330" column="49" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" timestamp="1539088017055">
+        <mark key="'" line="97" column="14" />
+        <mark key="[" line="316" column="43" />
+        <mark key="]" line="316" column="46" />
+        <mark key="." line="316" column="46" />
+        <mark key="^" line="316" column="46" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" timestamp="1538304571688">
         <mark key="'" line="67" column="59" />
@@ -317,12 +324,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="455" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" timestamp="1539081232701">
-        <mark key="'" line="80" column="31" />
-        <mark key="[" line="640" column="86" />
-        <mark key="]" line="641" column="20" />
-        <mark key="^" line="641" column="20" />
-        <mark key="." line="641" column="20" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" timestamp="1539088491303">
+        <mark key="'" line="68" column="51" />
+        <mark key="[" line="498" column="84" />
+        <mark key="]" line="499" column="27" />
+        <mark key="." line="499" column="27" />
+        <mark key="^" line="499" column="27" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupDeliveryInfoLog.java" timestamp="1538217570655">
         <mark key="[" line="32" column="0" />
@@ -432,6 +439,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="18" column="66" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/SIPMessageListener.java" timestamp="1539088069418">
+        <mark key="'" line="47" column="16" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/qcimscm/src/com/android/ims/ImsCall.java" timestamp="1535527948498">
         <mark key="'" line="56" column="32" />
@@ -1097,15 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="72" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
-      <jump line="220" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="244" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="221" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="239" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="222" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="291" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
-      <jump line="75" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
       <jump line="151" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
       <jump line="162" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/PresenceInterface.java" />
       <jump line="100" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/QCImsCmManager.java" />
@@ -1167,7 +1168,6 @@
       <jump line="665" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
       <jump line="605" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
       <jump line="613" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
-      <jump line="611" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
       <jump line="80" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
       <jump line="75" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
       <jump line="103" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
@@ -1197,16 +1197,26 @@
       <jump line="303" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
       <jump line="315" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
       <jump line="330" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="58" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/Pipeline.java" />
+      <jump line="74" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/Pipeline.java" />
+      <jump line="124" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/Pipeline.java" />
+      <jump line="316" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="661" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
+      <jump line="70" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="97" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/PipelinedMsgParser.java" />
+      <jump line="47" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/parser/SIPMessageListener.java" />
+      <jump line="611" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
+      <jump line="68" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/TCPMessageChannel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNpcFN0YWNrLmlzTG9nZ2luZ0VuYWJsZWQoKSkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>Debug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logDebug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlX2JvZHlcPg==</text>
+        <text encoding="base64">XDxwcm9jZXNzTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlRGV4LmRlcGVuZHNPbihkZWxldGVEZXgsIGJ1aWxkKQoK</text>
@@ -1215,43 +1225,43 @@
         <text>Debug</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpcFN0YWNrLmdldFN0YWNrTG9nZ2VyKCkubG9nRXJyb3IoInNvY2sgcmVhZCBlcnJvciEiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzaXBTdGFjay5pc0xvZ2dpbmdFbmFibGVkKCkpCg==</text>
+      <register name="3" type="4">
+        <text>Debug</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNpcFN0YWNrLmlzTG9nZ2luZ0VuYWJsZWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpcFN0YWNrLmdldFN0YWNrTG9nZ2VyKCkubG9nRGVidWcoIklPRXhjZXB0aW9uICBjbG9zaW5nIHNvY2sgIiArIGV4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc2lwU3RhY2suaXNMb2dnaW5nRW5hYmxlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNpcFN0YWNrLmdldFN0YWNrTG9nZ2VyKCkubG9nSW5mbygic29jayByZWFkIG1zZyBzaXplOiIgKyBuYnl0ZXMpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="4">
-        <text>.logInfo</text>
+        <text encoding="base64">IG5yZWFk</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;sock read msg size:&quot; + nbytes</text>
+        <text encoding="base64">IC0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGxvZ2dlckFjdGl2YXRlZCA9IHNMb2dnZXIuaXNBY3RpdmF0ZWQoKTsK</text>
+      <register name="7" type="4">
+        <text>contentLength</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUUkFDRV9TRVBBUkFUT1IgPSAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iOwo=</text>
+      <register name="8" type="4">
+        <text>Debug</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGxvZ2dlckFjdGl2YXRlZCA9IHNMb2dnZXIuaXNBY3RpdmF0ZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpcFN0YWNrLmdldFN0YWNrTG9nZ2VyKCkubG9nRXJyb3IoInNvY2sgcmVhZCBlcnJvciEiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlX2JvZHlcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlX2JvZHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzTWVzc2FnZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1609,6 +1619,13 @@
         <entry encoding="base64">XDxyZWFkQm9keVw+</entry>
         <entry encoding="base64">XDxjb250ZW50TGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlX2JvZHlcPg==</entry>
+        <entry encoding="base64">XDxteVRpbWVyVGFza1w+</entry>
+        <entry encoding="base64">XDxwaXBlbGluZVw+</entry>
+        <entry encoding="base64">XDxQaXBlbGluZVw+</entry>
+        <entry encoding="base64">XDw0MDk2XD4=</entry>
+        <entry encoding="base64">XDxzaXBNZXNzYWdlTGlzdGVuZXJcPg==</entry>
+        <entry>onMess</entry>
+        <entry encoding="base64">XDxwcm9jZXNzTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
