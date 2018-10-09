@@ -25,11 +25,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="59" column="93" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/constant/Constants.java" timestamp="1538986760029">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/sip/messaging/OriginatingSipMsrpSession.java" timestamp="1538304814291">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="41" column="0" />
@@ -162,6 +157,9 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/javax2/sip/ListeningPoint.java" timestamp="1538302050578">
         <mark key="'" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/logger/AndroidAppender.java" timestamp="1539065618932">
+        <mark key="'" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" timestamp="1536039605348">
         <mark key="'" line="55" column="60" />
@@ -1029,7 +1027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="356" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="365" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="382" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
@@ -1129,6 +1126,7 @@
       <jump line="205" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="99" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="73" column="56" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
+      <jump line="22" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/logger/AndroidAppender.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1138,7 +1136,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>size</text>
+        <text encoding="base64">XDxBcHBlbmRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y3JlYXRlRGV4LmRlcGVuZHNPbihkZWxldGVEZXgsIGJ1aWxkKQoK</text>
@@ -1178,9 +1176,9 @@
       </register>
     </registers>
     <search>
-      <last-search>size</last-search>
+      <last-search encoding="base64">XDxBcHBlbmRlclw+</last-search>
       <last-offset />
-      <last-pattern>size</last-pattern>
+      <last-pattern encoding="base64">XDxBcHBlbmRlclw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1516,6 +1514,7 @@
         <entry encoding="base64">XDxQaXBlZElucHV0U3RyZWFtXD4=</entry>
         <entry encoding="base64">XDxQSVBFX1NJWkVcPg==</entry>
         <entry>size</entry>
+        <entry encoding="base64">XDxBcHBlbmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>bd</entry>
