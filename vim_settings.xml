@@ -117,6 +117,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/logger/Appender.java" timestamp="1536309000993">
         <mark key="'" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/RpcManager.java" timestamp="1539847411346">
+        <mark key="'" line="37" column="19" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" timestamp="1538144817118">
         <mark key="'" line="164" column="16" />
       </file>
@@ -372,11 +375,10 @@
         <mark key="." line="248" column="58" />
         <mark key="^" line="248" column="58" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" timestamp="1539847278332">
-        <mark key="'" line="49" column="1" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" timestamp="1539848489448">
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="$USER_HOME$/repos/MmsRCS-develop/OPMms/src/com/android/mms/util/SimcardUtil.java" timestamp="1534839438772">
         <mark key="'" line="261" column="7" />
@@ -529,6 +531,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GeolocSharingServiceImpl.java" timestamp="1535714574277">
         <mark key="'" line="225" column="29" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/build.gradle" timestamp="1539682047087">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/settings.gradle" timestamp="1535624446782">
         <mark key="'" line="13" column="2" />
         <mark key="[" line="11" column="0" />
@@ -646,6 +653,11 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/net/Network.java" timestamp="1539842945265">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/OneToOneChatMessageDeleteTask.java" timestamp="1539671880806">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CapabilityServiceImpl.java" timestamp="1539760135893">
         <mark key="'" line="52" column="13" />
       </file>
@@ -658,6 +670,11 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactData.java" timestamp="1538203191420">
         <mark key="'" line="275" column="46" />
+      </file>
+      <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/HttpManager.java" timestamp="1539847454089">
+        <mark key="'" line="230" column="0" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="238" column="5" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsNetworkInterface.java" timestamp="1538896683019">
         <mark key="'" line="61" column="22" />
@@ -694,6 +711,11 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryConstants.java" timestamp="1538133141408">
         <mark key="'" line="91" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsConnectionManager.java" timestamp="1539765302737">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/access/MobileNetworkAccess.java" timestamp="1538297725367">
         <mark key="'" line="59" column="16" />
@@ -1108,19 +1130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="660" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="699" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1240" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1255" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1360" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1378" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1389" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="455" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="457" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="588" column="44" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="645" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="51" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="785" column="80" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="793" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="993" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="1551" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
@@ -1208,58 +1217,71 @@
       <jump line="721" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="221" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" />
       <jump line="47" column="1" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" />
+      <jump line="215" column="35" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/RpcManager.java" />
+      <jump line="181" column="31" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/RpcManager.java" />
+      <jump line="37" column="19" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/RpcManager.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/HttpManager.java" />
+      <jump line="214" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/HttpManager.java" />
+      <jump line="218" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/HttpManager.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/HttpManager.java" />
+      <jump line="230" column="0" filename="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/HttpManager.java" />
+      <jump line="254" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" />
+      <jump line="258" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" />
+      <jump line="265" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" />
+      <jump line="248" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" />
+      <jump line="256" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbnguc2V0U1NMU29ja2V0RmFjdG9yeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>multi-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0aW9uXD4=</text>
+        <text>SSL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVN0YXR1c0xpc3RlbmVyLm9uVW5SZWdpc3RlcmVkKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbnguc2V0U1NMU29ja2V0RmFjdG9yeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEhvc3RuYW1lVmVyaWZpZXIgbmV3SG9zdG5hbWVWZXJpZmllcigpIHsKICAgICAgICByZXR1cm4gbmV3IEhvc3RuYW1lVmVyaWZpZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiB2ZXJpZnkoU3RyaW5nIGhvc3RuYW1lLCBTU0xTZXNzaW9uIHNlc3Npb24pIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgc2V0U1NMRmFjdG9yeShIdHRwc1VSTENvbm5lY3Rpb24gY254KSB7CgogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFNTTFNvY2tldEZhY3RvcnkgbmV3U29ja2V0RmFjdG9yeSgpIHRocm93cyBOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24sIEtleU1hbmFnZW1lbnRFeGNlcHRpb24gewogICAgICAgIFRydXN0TWFuYWdlcltdIHRydXN0QWxsQ2VydHMgPSBuZXcgVHJ1c3RNYW5hZ2VyW10gewogICAgICAgICAgICAgICAgbmV3IFg1MDlUcnVzdE1hbmFnZXIoKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2hlY2tDbGllbnRUcnVzdGVkKFg1MDlDZXJ0aWZpY2F0ZVtdIGNoYWluLCBTdHJpbmcgYXV0aFR5cGUpIHRocm93cyBDZXJ0aWZpY2F0ZUV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBjaGVja1NlcnZlclRydXN0ZWQoWDUwOUNlcnRpZmljYXRlW10gY2hhaW4sIFN0cmluZyBhdXRoVHlwZSkgdGhyb3dzIENlcnRpZmljYXRlRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBYNTA5Q2VydGlmaWNhdGVbXSBnZXRBY2NlcHRlZElzc3VlcnMoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgWDUwOUNlcnRpZmljYXRlWzBdOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICB9OwoKICAgICAgICBTU0xDb250ZXh0IHNzbENvbnRleHQgPSBTU0xDb250ZXh0LmdldEluc3RhbmNlKCJUTFMiKTsKICAgICAgICBzc2xDb250ZXh0LmluaXQobnVsbCwgdHJ1c3RBbGxDZXJ0cywgbnVsbCk7CiAgICAgICAgcmV0dXJuIHNzbENvbnRleHQuZ2V0U29ja2V0RmFjdG9yeSgpOwogICAgfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjbnguc2V0U1NMU29ja2V0RmFjdG9yeSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjbS5nZXRCb3VuZE5ldHdvcmtGb3JQcm9jZXNzKCkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>ims</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>getActiveNetwork()</text>
-      </register>
-      <register name="5" type="4">
-        <text>cm.</text>
-      </register>
-      <register name="6" type="4">
-        <text>null</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNtLmdldEFjdGl2ZU5ldHdvcmsoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text>cm.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNtICE9IG51bGwpIHsK</text>
+      <register name="9" type="4">
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0aW9uXD4=</last-search>
+      <last-search>SSL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0aW9uXD4=</last-pattern>
+      <last-pattern>SSL</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1299,6 +1321,8 @@
         <entry encoding="base64">XDxTb2NrZXRGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxIdHRwVVJMQ29ubmVjdGlvblw+</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJBZGRyZXNzXD4=</entry>
+        <entry>SSL</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
