@@ -730,12 +730,12 @@
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1538028892777">
         <mark key="'" line="194" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1539938575479">
-        <mark key="'" line="104" column="8" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-        <mark key="^" line="182" column="76" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1539940028420">
+        <mark key="'" line="107" column="8" />
+        <mark key="[" line="175" column="35" />
+        <mark key="]" line="175" column="33" />
+        <mark key="." line="175" column="33" />
+        <mark key="^" line="175" column="33" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryConstants.java" timestamp="1538133141408">
         <mark key="'" line="91" column="16" />
@@ -1270,8 +1270,8 @@
       <jump line="228" column="80" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpTransferManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybENvbm5lY3Rpb24uZ2V0UmVxdWVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>Time</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1282,23 +1282,23 @@
       <register name="0" type="2">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybENvbm5lY3Rpb24uZ2V0UmVxdWVzdAo=</text>
+      <register name="1" type="4">
+        <text>Time</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybENvbm5lY3Rpb24uZ2V0UmVxdWVzdAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVybENvbm5lY3Rpb24uZ2V0SGVhZGVyRmllbGRzKCk7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIGtleSA6IHVybENvbm5lY3Rpb24uZ2V0SGVhZGVyRmllbGRzKCkua2V5U2V0KCkpIHsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>for (String key :</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTmV0d29yayBpbXNOZXR3b3JrOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>.toString()</text>
       </register>
       <register name="7" type="4">
         <text>.toString()</text>
@@ -1307,10 +1307,10 @@
         <text />
       </register>
       <register name="8" type="4">
-        <text>bindIMSNetwork</text>
+        <text>.toString()</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZElNU05ldHdvcmsobmV0d29yayk7Cg==</text>
+      <register name="9" type="4">
+        <text>bindIMSNetwork</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
