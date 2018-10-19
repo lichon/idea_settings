@@ -146,6 +146,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/FeatureTags.java" timestamp="1539162436472">
         <mark key="'" line="149" column="31" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" timestamp="1539951175827">
+        <mark key="'" line="158" column="18" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/VideoRecordActivity.java" timestamp="1536030968081">
         <mark key="'" line="412" column="12" />
         <mark key="[" line="415" column="0" />
@@ -893,12 +896,6 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1539944154785">
         <mark key="'" line="555" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CommonServiceConfigurationImpl.java" timestamp="1539868708010">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="^" line="231" column="10" />
-        <mark key="." line="232" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/Android.mk" timestamp="1535542068617">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="23" />
@@ -1177,19 +1174,11 @@
         <mark key="." line="190" column="43" />
         <mark key="^" line="190" column="43" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromAcceptFileSharingSession.java" timestamp="1539950688620">
+        <mark key="'" line="41" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1307" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1305" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1303" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1301" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1299" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1297" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1295" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1293" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1291" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1289" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="1287" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1285" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1283" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1281" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
@@ -1279,6 +1268,17 @@
       <jump line="555" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="102" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="725" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
+      <jump line="38" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromAcceptFileSharingSession.java" />
+      <jump line="53" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromAcceptFileSharingSession.java" />
+      <jump line="41" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromAcceptFileSharingSession.java" />
+      <jump line="73" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" />
+      <jump line="94" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" />
+      <jump line="114" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" />
+      <jump line="34" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" />
+      <jump line="36" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" />
+      <jump line="46" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" />
+      <jump line="167" column="82" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" />
+      <jump line="158" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1288,7 +1288,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN0YXJ0VGFza1w+</text>
+        <text encoding="base64">XDxjb250YWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text />
@@ -1328,9 +1328,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN0YXJ0VGFza1w+</last-search>
+      <last-search encoding="base64">XDxjb250YWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN0YXJ0VGFza1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjb250YWN0XD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1489,6 +1489,13 @@
         <entry encoding="base64">XDxzU2V0dGluZ3NLZXlEZWZhdWx0VmFsdWVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZXN0YXJ0VGFza1w+</entry>
+        <entry>mCh</entry>
+        <entry encoding="base64">XDxEb3dubG9hZEZyb21BY2NlcHRGaWxlU2hhcmluZ1Nlc3Npb25cPg==</entry>
+        <entry>mChat</entry>
+        <entry encoding="base64">XDxjaGF0U2Vzc2lvblw+</entry>
+        <entry>on</entry>
+        <entry>HTTP</entry>
+        <entry encoding="base64">XDxjb250YWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
