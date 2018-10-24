@@ -677,7 +677,7 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/Constants.java" timestamp="1533807132837">
         <mark key="'" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" timestamp="1540364301709">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" timestamp="1540377438412">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="20" column="52" />
@@ -924,6 +924,12 @@
         <mark key="]" line="249" column="0" />
         <mark key="." line="249" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CommonServiceConfigurationImpl.java" timestamp="1539868708010">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="^" line="231" column="10" />
+        <mark key="." line="232" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/Android.mk" timestamp="1535542068617">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="23" />
@@ -975,8 +981,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/gsm/CallManager.java" timestamp="1538209925648">
         <mark key="'" line="424" column="0" />
       </file>
-      <file name="$USER_HOME$/android/sdk/sources/android-26/android/telephony/TelephonyManager.java" timestamp="1536317731769">
-        <mark key="'" line="974" column="18" />
+      <file name="$USER_HOME$/android/sdk/sources/android-26/android/telephony/TelephonyManager.java" timestamp="1540377730418">
+        <mark key="'" line="4386" column="15" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" timestamp="1536035369191">
         <mark key="'" line="820" column="17" />
@@ -1215,9 +1221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1112" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
-      <jump line="235" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="869" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="92" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
       <jump line="551" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
       <jump line="64" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
@@ -1315,6 +1318,9 @@
       <jump line="141" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="171" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="142" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
+      <jump line="4406" column="18" filename="$USER_HOME$/android/sdk/sources/android-26/android/telephony/TelephonyManager.java" />
+      <jump line="4385" column="18" filename="$USER_HOME$/android/sdk/sources/android-26/android/telephony/TelephonyManager.java" />
+      <jump line="4386" column="15" filename="$USER_HOME$/android/sdk/sources/android-26/android/telephony/TelephonyManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1324,7 +1330,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUaHJlYWRJZEZvckdyb3VwXD4=</text>
+        <text encoding="base64">XDxnZXRJY2NBdXRoZW50aWNhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text />
@@ -1364,9 +1370,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRUaHJlYWRJZEZvckdyb3VwXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRJY2NBdXRoZW50aWNhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUaHJlYWRJZEZvckdyb3VwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRJY2NBdXRoZW50aWNhdGlvblw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1568,6 +1574,7 @@
         <entry encoding="base64">XDxyYW5kXD4=</entry>
         <entry encoding="base64">XDxtYWtlSGV4XD4=</entry>
         <entry encoding="base64">XDxnZXRUaHJlYWRJZEZvckdyb3VwXD4=</entry>
+        <entry encoding="base64">XDxnZXRJY2NBdXRoZW50aWNhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
