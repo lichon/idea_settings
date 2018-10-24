@@ -100,6 +100,11 @@
         <mark key="." line="74" column="59" />
         <mark key="^" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/DeviceUtils.java" timestamp="1539855883005">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="1" />
+        <mark key="." line="106" column="1" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMUtil.java" timestamp="1535548479087">
         <mark key="'" line="12" column="4" />
         <mark key="[" line="20" column="0" />
@@ -298,12 +303,12 @@
         <mark key="^" line="94" column="39" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1538893629395">
-        <mark key="'" line="96" column="20" />
-        <mark key="[" line="96" column="6" />
-        <mark key="]" line="96" column="8" />
-        <mark key="^" line="96" column="8" />
-        <mark key="." line="96" column="8" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/build.gradle" timestamp="1540379393958">
+        <mark key="'" line="95" column="20" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="95" column="8" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api_cnx/src/main/java/com/gsma/rcs/api/connection/ConnectionManager.java" timestamp="1536837624456">
         <mark key="'" line="277" column="34" />
@@ -572,6 +577,11 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GeolocSharingServiceImpl.java" timestamp="1535714574277">
         <mark key="'" line="225" column="29" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/build.gradle" timestamp="1540379366841">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/settings.gradle" timestamp="1535624446782">
         <mark key="'" line="13" column="2" />
@@ -1323,8 +1333,8 @@
       <jump line="4386" column="15" filename="$USER_HOME$/android/sdk/sources/android-26/android/telephony/TelephonyManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICcyOC4wLjMnCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1336,34 +1346,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAU3VwcHJlc3NMaW50KCJEZWZhdWx0TG9jYWxlIikKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldEJTRlVybCgpIHsKICAgICAgICBDb250ZXh0IGN0eCA9IEFuZHJvaWRGYWN0b3J5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwogICAgICAgIENvbmZpZ3VyYXRpb24gY29uZmlnID0gY3R4LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKTsKICAgICAgICBpbnQgbWNjID0gY29uZmlnLm1jYzsKICAgICAgICBpbnQgbW5jID0gY29uZmlnLm1uYzsKICAgICAgICBpZiAobWNjICE9IDAgJiYgbW5jICE9IDApIHsKICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoImh0dHBzOi8vYnNmLm1uYyUzZC5tY2MlM2QucHViLjNncHBuZXR3b3JrLm9yZyIsIG1uYywgbWNjKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICcyOC4wLjMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAU3VwcHJlc3NMaW50KCJEZWZhdWx0TG9jYWxlIikKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldEJTRlVybCgpIHsKICAgICAgICBDb250ZXh0IGN0eCA9IEFuZHJvaWRGYWN0b3J5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwogICAgICAgIENvbmZpZ3VyYXRpb24gY29uZmlnID0gY3R4LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKTsKICAgICAgICBpbnQgbWNjID0gY29uZmlnLm1jYzsKICAgICAgICBpbnQgbW5jID0gY29uZmlnLm1uYzsKICAgICAgICBpZiAobWNjICE9IDAgJiYgbW5jICE9IDApIHsKICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoImh0dHBzOi8vYnNmLm1uYyUzZC5tY2MlM2QucHViLjNncHBuZXR3b3JrLm9yZyIsIG1uYywgbWNjKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBDb250ZXh0IGN0eCA9IEFuZHJvaWRGYWN0b3J5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwogICAgICAgIENvbmZpZ3VyYXRpb24gY29uZmlnID0gY3R4LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKTsKICAgICAgICBpbnQgbWNjID0gY29uZmlnLm1jYzsKICAgICAgICBpbnQgbW5jID0gY29uZmlnLm1uYzsKICAgICAgICBpZiAobWNjICE9IDAgJiYgbW5jICE9IDApIHsKICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoImh0dHBzOi8vYnNmLm1uYyUzZC5tY2MlM2QucHViLjNncHBuZXR3b3JrLm9yZyIsIG1uYywgbWNjKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>String.format(&quot;%02x&quot;, b)</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1Jc1N0YXJ0ZWQgJiYgbVNlcnZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgbVNlcnZpY2UuZXhlY3V0b3IoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChtU3RhdHVzTGlzdGVuZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBtU3RhdHVzTGlzdGVuZXIub25FcnJvcihtU3RhdHVzKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1Jc1N0YXJ0ZWQgJiYgbVNlcnZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgbVNlcnZpY2UuZXhlY3V0b3IoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChtU3RhdHVzTGlzdGVuZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBtU3RhdHVzTGlzdGVuZXIub25FcnJvcihtU3RhdHVzKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>ser</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFrZUhleChzaGEyNTZfSE1BQy5kb0ZpbmFsKCkpOwo=</text>
+      <register name="9" type="4">
+        <text>ser</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
