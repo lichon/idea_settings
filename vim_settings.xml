@@ -677,12 +677,11 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/Constants.java" timestamp="1533807132837">
         <mark key="'" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" timestamp="1540360637470">
-        <mark key="'" line="36" column="28" />
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="21" />
-        <mark key="^" line="38" column="21" />
-        <mark key="." line="38" column="21" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" timestamp="1540364301709">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="20" column="52" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repos/MmsRCS-develop/OPMms/build.gradle" timestamp="1534845035100">
         <mark key="'" line="63" column="0" />
@@ -1216,16 +1215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1240" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1255" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1360" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="672" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="670" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="669" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="668" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="645" column="66" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="665" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="650" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="77" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
       <jump line="1022" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
       <jump line="1084" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
@@ -1316,61 +1305,71 @@
       <jump line="351" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="33" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="237" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
+      <jump line="41" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="45" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="104" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="63" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="65" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="75" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="38" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/GbaUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1Jc1N0YXJ0ZWQgJiYgbVNlcnZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgbVNlcnZpY2UuZXhlY3V0b3IoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChtU3RhdHVzTGlzdGVuZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBtU3RhdHVzTGlzdGVuZXIub25FcnJvcihtU3RhdHVzKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBAU3VwcHJlc3NMaW50KCJEZWZhdWx0TG9jYWxlIikKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldEJTRlVybCgpIHsKICAgICAgICBDb250ZXh0IGN0eCA9IEFuZHJvaWRGYWN0b3J5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwogICAgICAgIENvbmZpZ3VyYXRpb24gY29uZmlnID0gY3R4LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKTsKICAgICAgICBpbnQgbWNjID0gY29uZmlnLm1jYzsKICAgICAgICBpbnQgbW5jID0gY29uZmlnLm1uYzsKICAgICAgICBpZiAobWNjICE9IDAgJiYgbW5jICE9IDApIHsKICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoImh0dHBzOi8vYnNmLm1uYyUzZC5tY2MlM2QucHViLjNncHBuZXR3b3JrLm9yZyIsIG1uYywgbWNjKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkVycm9yXD4=</text>
+        <text encoding="base64">XDxtYWtlSGV4XD4=</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1Jc1N0YXJ0ZWQgJiYgbVNlcnZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgbVNlcnZpY2UuZXhlY3V0b3IoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChtU3RhdHVzTGlzdGVuZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBtU3RhdHVzTGlzdGVuZXIub25FcnJvcihtU3RhdHVzKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBAU3VwcHJlc3NMaW50KCJEZWZhdWx0TG9jYWxlIikKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldEJTRlVybCgpIHsKICAgICAgICBDb250ZXh0IGN0eCA9IEFuZHJvaWRGYWN0b3J5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwogICAgICAgIENvbmZpZ3VyYXRpb24gY29uZmlnID0gY3R4LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKTsKICAgICAgICBpbnQgbWNjID0gY29uZmlnLm1jYzsKICAgICAgICBpbnQgbW5jID0gY29uZmlnLm1uYzsKICAgICAgICBpZiAobWNjICE9IDAgJiYgbW5jICE9IDApIHsKICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoImh0dHBzOi8vYnNmLm1uYyUzZC5tY2MlM2QucHViLjNncHBuZXR3b3JrLm9yZyIsIG1uYywgbWNjKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>ser</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGN0eCA9IEFuZHJvaWRGYWN0b3J5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwogICAgICAgIENvbmZpZ3VyYXRpb24gY29uZmlnID0gY3R4LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKTsKICAgICAgICBpbnQgbWNjID0gY29uZmlnLm1jYzsKICAgICAgICBpbnQgbW5jID0gY29uZmlnLm1uYzsKICAgICAgICBpZiAobWNjICE9IDAgJiYgbW5jICE9IDApIHsKICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoImh0dHBzOi8vYnNmLm1uYyUzZC5tY2MlM2QucHViLjNncHBuZXR3b3JrLm9yZyIsIG1uYywgbWNjKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFrZUhleChzaGEyNTZfSE1BQy5kb0ZpbmFsKCkpOwo=</text>
+      <register name="4" type="4">
+        <text>String.format(&quot;%02x&quot;, b)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gSGV4LmVuY29kZUhleFN0cmluZyhzaGEyNTZfSE1BQy5kb0ZpbmFsKGRhdGEuZ2V0Qnl0ZXMoIlVTLUFTQ0lJIikpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;&quot;;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1Jc1N0YXJ0ZWQgJiYgbVNlcnZpY2UgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgbVNlcnZpY2UuZXhlY3V0b3IoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChtU3RhdHVzTGlzdGVuZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBtU3RhdHVzTGlzdGVuZXIub25FcnJvcihtU3RhdHVzKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcuYXBhY2hlLmRpcmVjdG9yeS5zdHVkaW86b3JnLmFwYWNoZS5jb21tb25zLmNvZGVjOjEuOCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>ser</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2RlYy5iaW5hcnkuSGV4Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFrZUhleChzaGEyNTZfSE1BQy5kb0ZpbmFsKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkVycm9yXD4=</last-search>
+      <last-search encoding="base64">XDxtYWtlSGV4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkVycm9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlSGV4XD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1566,6 +1565,8 @@
         <entry>bindDef</entry>
         <entry>onErr</entry>
         <entry encoding="base64">XDxvbkVycm9yXD4=</entry>
+        <entry encoding="base64">XDxyYW5kXD4=</entry>
+        <entry encoding="base64">XDxtYWtlSGV4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
