@@ -329,8 +329,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/MessageChannel.java" timestamp="1539164703747">
         <mark key="'" line="202" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540465618012">
-        <mark key="'" line="204" column="17" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540466804097">
+        <mark key="'" line="56" column="15" />
         <mark key="[" line="285" column="12" />
         <mark key="]" line="285" column="14" />
         <mark key="^" line="285" column="14" />
@@ -1248,8 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="77" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="112" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="106" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="107" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="60" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
@@ -1311,7 +1309,6 @@
       <jump line="81" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="118" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="83" column="73" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="80" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="224" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="133" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="226" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
@@ -1348,6 +1345,9 @@
       <jump line="242" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="285" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="204" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="80" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="57" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="56" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1357,7 +1357,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0R2JhXD4=</text>
+        <text>testS</text>
       </register>
       <register name="0" type="2">
         <text />
@@ -1397,9 +1397,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0R2JhXD4=</last-search>
+      <last-search>testS</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0R2JhXD4=</last-pattern>
+      <last-pattern>testS</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1663,7 +1663,6 @@
         <entry encoding="base64">XDx0ZXN0U2Ftc3VuZ0tleVw+</entry>
         <entry encoding="base64">XDxvcGVuSHR0cENvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxydW5Ba2FBbGdvcml0aG1cPg==</entry>
-        <entry encoding="base64">XDx0ZXN0Q29uZmlnRGlnZXN0XD4=</entry>
         <entry encoding="base64">XDxuZXh0QXV0aFw+</entry>
         <entry encoding="base64">XDxzZXRSZXF1ZXN0UHJvcGVydHlcPg==</entry>
         <entry encoding="base64">XDxwYXNzd2RcPg==</entry>
@@ -1672,6 +1671,9 @@
         <entry encoding="base64">XDx0ZXN0RnREaWdlc3RcPg==</entry>
         <entry encoding="base64">XDx0ZXN0S0RGXD4=</entry>
         <entry encoding="base64">XDx0ZXN0R2JhXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0Q29uZmlnRGlnZXN0XD4=</entry>
+        <entry encoding="base64">XDxuYWZTZWNJZFw+</entry>
+        <entry>testS</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
