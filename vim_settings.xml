@@ -333,8 +333,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/MessageChannel.java" timestamp="1539164703747">
         <mark key="'" line="202" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540550731380">
-        <mark key="'" line="308" column="12" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540551743222">
+        <mark key="'" line="248" column="41" />
         <mark key="[" line="235" column="25" />
         <mark key="]" line="235" column="78" />
         <mark key="^" line="308" column="22" />
@@ -1262,8 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="185" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/TelephonyUtils.java" />
       <jump line="121" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/TelephonyUtils.java" />
       <jump line="251" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
       <jump line="79" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
@@ -1362,6 +1360,8 @@
       <jump line="265" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="308" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="77" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkSender.java" />
+      <jump line="60" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="248" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1371,7 +1371,7 @@
         <text encoding="base64">aC9WWlprRDhScFZiRHBqLzZxZHBGQT09QG5kcy5ic2Yuc2lwZ2VvLnQtbW9iaWxlLmNvbTw=</text>
       </register>
       <register name="/" type="4">
-        <text>MAX</text>
+        <text encoding="base64">XDxnZW5Lc05hZlw+</text>
       </register>
       <register name="0" type="2">
         <text />
@@ -1412,12 +1412,12 @@
       </register>
     </registers>
     <search>
-      <last-search>MAX</last-search>
+      <last-search encoding="base64">XDxnZW5Lc05hZlw+</last-search>
       <last-offset />
-      <last-pattern>MAX</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5Lc05hZlw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1714,6 +1714,7 @@
         <entry encoding="base64">XDxpbXBpXD4=</entry>
         <entry encoding="base64">XDx0ZXN0QnRpZFw+</entry>
         <entry>MAX</entry>
+        <entry encoding="base64">XDxnZW5Lc05hZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
