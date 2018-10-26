@@ -329,12 +329,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/MessageChannel.java" timestamp="1539164703747">
         <mark key="'" line="202" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540538799590">
-        <mark key="'" line="224" column="0" />
-        <mark key="[" line="278" column="56" />
-        <mark key="]" line="278" column="57" />
-        <mark key="." line="278" column="57" />
-        <mark key="^" line="203" column="42" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540543369265">
+        <mark key="'" line="264" column="63" />
+        <mark key="[" line="158" column="75" />
+        <mark key="]" line="158" column="74" />
+        <mark key="." line="158" column="74" />
+        <mark key="^" line="158" column="74" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/DeleteTask.java" timestamp="1538210052180">
         <mark key="'" line="61" column="4" />
@@ -1251,10 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
-      <jump line="143" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
-      <jump line="119" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
-      <jump line="68" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
       <jump line="88" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
       <jump line="167" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
       <jump line="86" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
@@ -1351,58 +1347,62 @@
       <jump line="234" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="221" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="224" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="222" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="252" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="158" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="259" column="63" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KGJ5dGUpIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZUJzZlhtbEZyb21SZXNwb25zZVw+</text>
+        <text>2f</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">KGJ5dGUpIA==</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGxzQnVmZmVyLmFwcGVuZCgiJSIpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
-      <register name="3" type="4">
-        <text>, SAXException</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWV0aG9kID0gIlBPU1QiOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>ParserConfigurationException</text>
+        <text>getName()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text>.createAuthorHeaderValue();</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi5zZXRSZXF1ZXN0UHJvcGVydHkoIlgtM0dQUC1JbnRlbmRlZC1JZGVudGl0eSIsCiAgICAgICAgICAgICAgICAgICAgInNpcDozMTAyNjAxMjM0NTY3ODlAaW1zLm1uYzI2MC5tY2MzMTAuM2dwcG5ldHdvcmsub3JnIik7Cg==</text>
+      <register name="6" type="4">
+        <text>AkaDigestAuth</text>
       </register>
-      <register name="7" type="4">
-        <text>Arrays.toString(tlsKsNaf)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>ksnaf</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>hex</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZUJzZlhtbEZyb21SZXNwb25zZVw+</last-search>
+      <last-search>2f</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZUJzZlhtbEZyb21SZXNwb25zZVw+</last-pattern>
+      <last-pattern>2f</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1681,6 +1681,8 @@
         <entry>gen</entry>
         <entry encoding="base64">XDxnZW5OYWZTZWNyZXRcPg==</entry>
         <entry encoding="base64">XDxwYXJzZUJzZlhtbEZyb21SZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxBcnJheXNcPg==</entry>
+        <entry>2f</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
