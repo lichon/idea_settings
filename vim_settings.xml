@@ -333,12 +333,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/MessageChannel.java" timestamp="1539164703747">
         <mark key="'" line="202" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540551743222">
-        <mark key="'" line="248" column="41" />
-        <mark key="[" line="235" column="25" />
-        <mark key="]" line="235" column="78" />
-        <mark key="^" line="308" column="22" />
-        <mark key="." line="235" column="25" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540552643669">
+        <mark key="'" line="155" column="17" />
+        <mark key="[" line="57" column="56" />
+        <mark key="]" line="57" column="57" />
+        <mark key="^" line="57" column="57" />
+        <mark key="." line="57" column="57" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/DeleteTask.java" timestamp="1538210052180">
         <mark key="'" line="61" column="4" />
@@ -545,8 +545,8 @@
       <file name="$USER_HOME$/repos/misc/VideoCompressor/app/build.gradle" timestamp="1536914642756">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/GbaBsfProcedure.java" timestamp="1540464195818">
-        <mark key="'" line="148" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/GbaBsfProcedure.java" timestamp="1540552655572">
+        <mark key="'" line="217" column="36" />
         <mark key="[" line="75" column="11" />
         <mark key="]" line="75" column="17" />
         <mark key="." line="75" column="17" />
@@ -1262,14 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/TelephonyUtils.java" />
-      <jump line="251" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
-      <jump line="79" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
-      <jump line="46" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="280" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="33" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="54" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="298" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="234" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="221" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
@@ -1362,16 +1354,24 @@
       <jump line="77" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkSender.java" />
       <jump line="60" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="248" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="54" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="147" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="309" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="204" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="96" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="155" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="108" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/GbaBsfProcedure.java" />
+      <jump line="217" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/GbaBsfProcedure.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aC9WWlprRDhScFZiRHBqLzZxZHBGQT09QG5kcy5ic2Yuc2lwZ2VvLnQtbW9iaWxlLmNvbTw=</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aC9WWlprRDhScFZiRHBqLzZxZHBGQT09QG5kcy5ic2Yuc2lwZ2VvLnQtbW9iaWxlLmNvbTw=</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5Lc05hZlw+</text>
+        <text encoding="base64">XDxvcGVuSHR0cENvbm5lY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text />
@@ -1412,12 +1412,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5Lc05hZlw+</last-search>
+      <last-search encoding="base64">XDxvcGVuSHR0cENvbm5lY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5Lc05hZlw+</last-pattern>
+      <last-pattern encoding="base64">XDxvcGVuSHR0cENvbm5lY3Rpb25cPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1669,7 +1669,6 @@
         <entry encoding="base64">XDxTQVZFRF9JTVNJXD4=</entry>
         <entry>testGb</entry>
         <entry encoding="base64">XDx0ZXN0U2Ftc3VuZ0tleVw+</entry>
-        <entry encoding="base64">XDxvcGVuSHR0cENvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxydW5Ba2FBbGdvcml0aG1cPg==</entry>
         <entry encoding="base64">XDxzZXRSZXF1ZXN0UHJvcGVydHlcPg==</entry>
         <entry encoding="base64">XDxwYXNzd2RcPg==</entry>
@@ -1703,8 +1702,6 @@
         <entry>mstore</entry>
         <entry encoding="base64">XDxtc3RvcmVcPg==</entry>
         <entry>host</entry>
-        <entry>testFt</entry>
-        <entry encoding="base64">XDx0ZXN0RnREaWdlc3RcPg==</entry>
         <entry>Log</entry>
         <entry encoding="base64">XDxUQUdcPg==</entry>
         <entry encoding="base64">XDxoZXhBcnJheVw+</entry>
@@ -1715,6 +1712,9 @@
         <entry encoding="base64">XDx0ZXN0QnRpZFw+</entry>
         <entry>MAX</entry>
         <entry encoding="base64">XDxnZW5Lc05hZlw+</entry>
+        <entry>testFt</entry>
+        <entry encoding="base64">XDx0ZXN0RnREaWdlc3RcPg==</entry>
+        <entry encoding="base64">XDxvcGVuSHR0cENvbm5lY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
