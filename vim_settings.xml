@@ -329,12 +329,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/nist_sip/src/gov2/nist/javax2/sip/stack/MessageChannel.java" timestamp="1539164703747">
         <mark key="'" line="202" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540543369265">
-        <mark key="'" line="264" column="63" />
-        <mark key="[" line="158" column="75" />
-        <mark key="]" line="158" column="74" />
-        <mark key="." line="158" column="74" />
-        <mark key="^" line="158" column="74" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1540544690132">
+        <mark key="'" line="195" column="49" />
+        <mark key="[" line="248" column="37" />
+        <mark key="]" line="248" column="38" />
+        <mark key="." line="248" column="38" />
+        <mark key="^" line="248" column="38" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/DeleteTask.java" timestamp="1538210052180">
         <mark key="'" line="61" column="4" />
@@ -1120,6 +1120,10 @@
         <mark key="^" line="180" column="11" />
         <mark key="." line="180" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/RcsServiceRegistration.java" timestamp="1539861259795">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="18" />
+      </file>
       <file name="$USER_HOME$/repos/misc/VideoCompressor/app/app.iml" timestamp="1536914795895">
         <mark key="'" line="24" column="57" />
       </file>
@@ -1187,6 +1191,10 @@
         <mark key="." line="62" column="28" />
         <mark key="^" line="62" column="28" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/http/HttpAuthenticationAgent.java" timestamp="1540544254270">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="163" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1540371338363">
         <mark key="'" line="142" column="19" />
         <mark key="[" line="893" column="33" />
@@ -1251,10 +1259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
-      <jump line="167" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
-      <jump line="238" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
       <jump line="279" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
       <jump line="265" column="78" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
       <jump line="271" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
@@ -1304,8 +1308,6 @@
       <jump line="140" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="138" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="136" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="195" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
-      <jump line="193" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="155" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="103" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="96" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/gba/AkaDigestAuth.java" />
@@ -1351,61 +1353,67 @@
       <jump line="252" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="158" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
       <jump line="259" column="63" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="199" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="198" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="193" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="149" column="100" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="151" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
+      <jump line="195" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>rand</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>2f</text>
+        <text encoding="base64">XDxpbXBpXD4=</text>
       </register>
       <register name="0" type="2">
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>rand</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>.getRand()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWV0aG9kID0gIlBPU1QiOwo=</text>
+      <register name="3" type="4">
+        <text>.getBtid()</text>
       </register>
       <register name="4" type="4">
-        <text>getName()</text>
+        <text>SamsungKey</text>
       </register>
       <register name="5" type="4">
-        <text>.createAuthorHeaderValue();</text>
+        <text>, SAXException, IOException, NetworkException {</text>
       </register>
       <register name="6" type="4">
-        <text>AkaDigestAuth</text>
+        <text>ParserConfigurationException</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiaW52YWxpZCB0YmlkIHhtbCIpOwogICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYWZTZXNzaW9uS2V5LnNldEtzKGtzKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>hex</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBTdHJpbmcgdXBsb2FkSG9zdCA9ICJ1ZS5mY3MubXN0b3JlLm1zZy50LW1vYmlsZS5jb20iOwogICAgICAgIHRlc3RGdERpZ2VzdChudWxsLCB1cGxvYWRIb3N0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>2f</last-search>
+      <last-search encoding="base64">XDxpbXBpXD4=</last-search>
       <last-offset />
-      <last-pattern>2f</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBpXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1643,14 +1651,12 @@
         <entry encoding="base64">XDxjcmVhdGVDTm9uY2VcPg==</entry>
         <entry>run cal</entry>
         <entry encoding="base64">XDxlbnRpdHlCb2R5XD4=</entry>
-        <entry encoding="base64">XDxpbXBpXD4=</entry>
         <entry>\&quot;\/</entry>
         <entry encoding="base64">XDxrZXlLc05hZlw+</entry>
         <entry encoding="base64">XDxyYW5kXD4=</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxCYXNlNjRcPg==</entry>
         <entry>Base</entry>
-        <entry encoding="base64">XDxuYWZTZXNzaW9uS2V5XD4=</entry>
         <entry>V1</entry>
         <entry>ue.fcs.mstore.msg.t-mobile.com</entry>
         <entry encoding="base64">XDxVcGxvYWRcPg==</entry>
@@ -1663,7 +1669,6 @@
         <entry encoding="base64">XDx0ZXN0U2Ftc3VuZ0tleVw+</entry>
         <entry encoding="base64">XDxvcGVuSHR0cENvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxydW5Ba2FBbGdvcml0aG1cPg==</entry>
-        <entry encoding="base64">XDxuZXh0QXV0aFw+</entry>
         <entry encoding="base64">XDxzZXRSZXF1ZXN0UHJvcGVydHlcPg==</entry>
         <entry encoding="base64">XDxwYXNzd2RcPg==</entry>
         <entry encoding="base64">XDxtUGFzc3dvcmRcPg==</entry>
@@ -1683,6 +1688,9 @@
         <entry encoding="base64">XDxwYXJzZUJzZlhtbEZyb21SZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxBcnJheXNcPg==</entry>
         <entry>2f</entry>
+        <entry encoding="base64">XDxuZXh0QXV0aFw+</entry>
+        <entry encoding="base64">XDxuYWZTZXNzaW9uS2V5XD4=</entry>
+        <entry encoding="base64">XDxpbXBpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
