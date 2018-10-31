@@ -524,11 +524,6 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/content/ContentResolver.java" timestamp="1538134170518">
         <mark key="'" line="1567" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/tools/provisioning/src/com/gsma/rcs/tools/http/provisioning/ProvisioningTemplateActivity.java" timestamp="1540974619733">
-        <mark key="'" line="290" column="31" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="297" column="5" />
-      </file>
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/loaders/PhotoBitmapLoader.java" timestamp="1534578031547">
         <mark key="'" line="33" column="39" />
       </file>
@@ -747,11 +742,6 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityPublishTrigger.java" timestamp="1539764461852">
         <mark key="'" line="22" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/parser/ims/SecurityVerifyParser.java" timestamp="1540798300155">
-        <mark key="'" line="63" column="19" />
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="60" />
-      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/Constants.java" timestamp="1533807132837">
         <mark key="'" line="22" column="31" />
       </file>
@@ -840,8 +830,8 @@
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1538028892777">
         <mark key="'" line="194" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1540988468141">
-        <mark key="'" line="235" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1540990088659">
+        <mark key="'" line="312" column="53" />
         <mark key="[" line="275" column="47" />
         <mark key="]" line="275" column="47" />
         <mark key="." line="275" column="47" />
@@ -868,7 +858,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidDatagramConnection.java" timestamp="1539842338415">
         <mark key="'" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1540380066323">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1540989839022">
         <mark key="'" line="12" column="32" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -1297,7 +1287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="41" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="149" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="449" column="81" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
@@ -1397,6 +1386,7 @@
       <jump line="509" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="498" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="510" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
+      <jump line="312" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1406,7 +1396,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0NvcmVUZXN0U3RhcnRlZFw+</text>
+        <text encoding="base64">XDxsb2FkVXNlclByb2ZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -1446,12 +1436,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0NvcmVUZXN0U3RhcnRlZFw+</last-search>
+      <last-search encoding="base64">XDxsb2FkVXNlclByb2ZpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0NvcmVUZXN0U3RhcnRlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkVXNlclByb2ZpbGVcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1668,6 +1658,7 @@
         <entry encoding="base64">XDxmaXJzdFN0YXJ0XD4=</entry>
         <entry encoding="base64">XDxERVZJQ0VfQ09ORklHX1VTRVJEQVRBXD4=</entry>
         <entry encoding="base64">XDxpc0NvcmVUZXN0U3RhcnRlZFw+</entry>
+        <entry encoding="base64">XDxsb2FkVXNlclByb2ZpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
