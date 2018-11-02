@@ -1096,12 +1096,12 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/NotificationUtil.java" timestamp="1533728775861">
         <mark key="'" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1541162483199">
-        <mark key="'" line="595" column="21" />
-        <mark key="[" line="356" column="0" />
-        <mark key="]" line="356" column="0" />
-        <mark key="^" line="548" column="8" />
-        <mark key="." line="356" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1541163193055">
+        <mark key="'" line="367" column="16" />
+        <mark key="[" line="332" column="54" />
+        <mark key="]" line="333" column="38" />
+        <mark key="." line="333" column="38" />
+        <mark key="^" line="333" column="38" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CommonServiceConfigurationImpl.java" timestamp="1541151395663" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCSipInterface.java" timestamp="1541160306583">
@@ -1416,9 +1416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="268" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="22" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="3" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
@@ -1516,58 +1513,61 @@
       <jump line="239" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="238" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
       <jump line="219" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
+      <jump line="607" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="236" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="366" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>stopService();</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpY2NJZFw+</text>
+        <text encoding="base64">XDxzdG9wU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>stopService();</text>
       </register>
-      <register name="2" type="4">
-        <text>mService.initService();</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGljY0lkID0gZ2V0RGVmYXVsdEljY0lkKCk7CiAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc051bGxPckVtcHR5KGljY0lkKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZGVmYXVsdCBpY2NpZCBpcyBudWxsLiIpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>and</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBpY2NJZCA9IGdldERlZmF1bHRJY2NJZCgpOwogICAgICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTnVsbE9yRW1wdHkoaWNjSWQpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZGVmYXVsdCBpY2NpZCBpcyBudWxsLiIpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">IG51bGw=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+      <register name="5" type="4">
+        <text>not</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+      <register name="6" type="4">
+        <text>but</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+      <register name="7" type="4">
+        <text>if ()</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>void</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpIHsKICAgICAgICAgICAgaWYgKCFtSXNTdGFydGVkKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>IImsCmService.getService return null.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpY2NJZFw+</last-search>
+      <last-search encoding="base64">XDxzdG9wU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpY2NJZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9wU2VydmljZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1581,7 +1581,6 @@
         <entry encoding="base64">XDxvblN0YXR1c0NoYW5nZVw+</entry>
         <entry encoding="base64">Q29ubmVjdGlvbk1hbmFnZXIgc2VydmljZSBoYW5kbCA=</entry>
         <entry>create</entry>
-        <entry encoding="base64">XDxzdG9wU2VydmljZVw+</entry>
         <entry encoding="base64">XDxpbml0U2VydmljZVw+</entry>
         <entry encoding="base64">XDxyZXN0YXJ0VGFza1w+</entry>
         <entry encoding="base64">XDxmaXJzdFN0YXJ0XD4=</entry>
@@ -1786,6 +1785,9 @@
         <entry>getDef</entry>
         <entry encoding="base64">XDxnZXREZWZhdWx0SWNjSWRcPg==</entry>
         <entry encoding="base64">XDxpY2NJZFw+</entry>
+        <entry>bind</entry>
+        <entry encoding="base64">XDxiaW5kUHJvY2Vzc1RvTmV0d29ya1w+</entry>
+        <entry encoding="base64">XDxzdG9wU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
