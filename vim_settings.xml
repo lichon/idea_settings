@@ -1091,12 +1091,12 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/NotificationUtil.java" timestamp="1533728775861">
         <mark key="'" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1541578857285">
-        <mark key="'" line="228" column="12" />
-        <mark key="[" line="311" column="59" />
-        <mark key="]" line="311" column="62" />
-        <mark key="^" line="311" column="62" />
-        <mark key="." line="311" column="62" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1541578968828">
+        <mark key="'" line="76" column="20" />
+        <mark key="[" line="74" column="85" />
+        <mark key="]" line="74" column="85" />
+        <mark key="^" line="74" column="85" />
+        <mark key="." line="74" column="85" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCSipInterface.java" timestamp="1541160306583">
         <mark key="'" line="45" column="17" />
@@ -1409,7 +1409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/SipManager.java" />
       <jump line="45" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCSipInterface.java" />
       <jump line="53" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpConnection.java" />
       <jump line="104" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpConnection.java" />
@@ -1500,67 +1499,68 @@
       <jump line="200" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMUtil.java" />
       <jump line="58" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMUtil.java" />
       <jump line="222" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="309" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="322" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="42" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="129" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
-      <jump line="310" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="71" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="74" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="299" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="228" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="309" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="310" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="76" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>activeNetwork</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja1NlcnZpY2VTdGF0dXNcPg==</text>
+        <text encoding="base64">XDxiaW5kSW1zTmV0d29ya1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>activeNetwork</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmluZEltc05ldHdvcmsoKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>bind</text>
+        <text>activeNetwork</text>
       </register>
       <register name="3" type="4">
-        <text>network</text>
+        <text>bind</text>
       </register>
       <register name="4" type="4">
-        <text>cm.getActiveNetworkInfo()</text>
+        <text>network</text>
       </register>
       <register name="5" type="4">
+        <text>cm.getActiveNetworkInfo()</text>
+      </register>
+      <register name="6" type="4">
         <text>mConnectivityManager</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRNc3JwQ2h1bmtTaXplKG1Db25uZWN0aXZpdHlNYW5hZ2VyLmdldEFjdGl2ZU5ldHdvcmtJbmZvKCkpOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0TXNycENodW5rU2l6ZShtQ29ubmVjdGl2aXR5TWFuYWdlci5nZXRBY3RpdmVOZXR3b3JrSW5mbygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRNc3JwQ2h1bmtTaXplKG1Db25uZWN0aXZpdHlNYW5hZ2VyLmdldEFjdGl2ZU5ldHdvcmtJbmZvKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>bind network &quot; + network);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0TXNycENodW5rU2l6ZShtQ29ubmVjdGl2aXR5TWFuYWdlci5nZXRBY3RpdmVOZXR3b3JrSW5mbygpKTsK</text>
       </register>
       <register name="9" type="4">
-        <text>break;</text>
+        <text>bind network &quot; + network);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja1NlcnZpY2VTdGF0dXNcPg==</last-search>
+      <last-search encoding="base64">XDxiaW5kSW1zTmV0d29ya1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja1NlcnZpY2VTdGF0dXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiaW5kSW1zTmV0d29ya1w+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1603,8 +1603,8 @@
         <entry>request</entry>
         <entry encoding="base64">XDxiaW5kRGVmYXVsdE5ldHdvcmtcPg==</entry>
         <entry encoding="base64">XDxJTVNDT05ORUNUSU9OX0VWRU5UX1NFUlZJQ0VfUkVHSVNURVJFRFw+</entry>
-        <entry encoding="base64">XDxiaW5kSW1zTmV0d29ya1w+</entry>
         <entry encoding="base64">XDxjaGVja1NlcnZpY2VTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxiaW5kSW1zTmV0d29ya1w+</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
