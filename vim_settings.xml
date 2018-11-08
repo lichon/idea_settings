@@ -46,8 +46,8 @@
       <file name="$USER_HOME$/repos/android_rcs_op/Contacts/res/layout/floating_action_button.xml" timestamp="1535020085121">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1541592060834">
-        <mark key="'" line="456" column="65" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1541592213159">
+        <mark key="'" line="538" column="15" />
         <mark key="[" line="1181" column="12" />
         <mark key="]" line="1181" column="12" />
         <mark key="." line="1181" column="87" />
@@ -170,7 +170,7 @@
         <mark key="." line="415" column="0" />
         <mark key="^" line="404" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/SipManager.java" timestamp="1541591103326">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/SipManager.java" timestamp="1541595488078">
         <mark key="'" line="374" column="22" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -1314,8 +1314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/ImsManagerWrapper.java" />
       <jump line="32" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/ImsManagerWrapper.java" />
       <jump line="96" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/uce/ImsManagerWrapper.java" />
       <jump line="195" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
@@ -1411,9 +1409,11 @@
       <jump line="61" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="474" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="498" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="509" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="456" column="65" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="1038" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="509" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="528" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="538" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1423,7 +1423,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXJtaW5hdGVTZXNzaW9uXD4=</text>
+        <text>send</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -1463,9 +1463,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXJtaW5hdGVTZXNzaW9uXD4=</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXJtaW5hdGVTZXNzaW9uXD4=</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1565,6 +1565,8 @@
         <entry>close</entry>
         <entry encoding="base64">XDxjbG9zZVNlc3Npb25cPg==</entry>
         <entry encoding="base64">XDx0ZXJtaW5hdGVTZXNzaW9uXD4=</entry>
+        <entry>clsoeSe</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry>353</entry>
