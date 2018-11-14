@@ -1029,12 +1029,12 @@
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1538028892777">
         <mark key="'" line="194" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1542186458874">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="97" column="87" />
-        <mark key="]" line="98" column="8" />
-        <mark key="." line="98" column="8" />
-        <mark key="^" line="98" column="8" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" timestamp="1542188012453">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="55" />
+        <mark key="^" line="164" column="47" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryConstants.java" timestamp="1541153106155">
         <mark key="'" line="79" column="16" />
@@ -1255,12 +1255,12 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/NotificationUtil.java" timestamp="1533728775861">
         <mark key="'" line="42" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1542186547131">
-        <mark key="'" line="72" column="20" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="37" />
-        <mark key="^" line="72" column="43" />
-        <mark key="." line="72" column="43" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1542187664069">
+        <mark key="'" line="317" column="29" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="0" />
+        <mark key="." line="289" column="0" />
+        <mark key="^" line="317" column="23" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCSipInterface.java" timestamp="1541160306583">
         <mark key="'" line="45" column="17" />
@@ -1595,11 +1595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/OriginatingHttpGroupFileSharingSession.java" />
-      <jump line="83" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/OriginatingHttpGroupFileSharingSession.java" />
-      <jump line="1279" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="835" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="842" column="90" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
       <jump line="843" column="87" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
       <jump line="99" column="83" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingResumeMsrpFileSharingSession.java" />
       <jump line="102" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingResumeMsrpFileSharingSession.java" />
@@ -1695,58 +1690,63 @@
       <jump line="242" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="260" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="72" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="114" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
+      <jump line="62" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="319" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
+      <jump line="167" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAodGhpcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAodGhpcykgewogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydE5ldHdvcmtSZXF1ZXN0XD4=</text>
+        <text>stopNet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdWFsY29tbS5xdGkuaW1zY21zZXJ2aWNlLlYyXzAuYXV0b0NvbmZpZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAodGhpcykgewogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb250YWN0TWFuYWdlciBDb250YWN0IE1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DTUludGVyZmFjZS5zdGFydE5ldHdvcmtSZXF1ZXN0KCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Name</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DTUludGVyZmFjZS5zdGFydE5ldHdvcmtSZXF1ZXN0KCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Name()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ01JbnRlcmZhY2Uuc3RhcnROZXR3b3JrUmVxdWVzdCgpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRmlsZSB0cmFuc2ZlciBmZWF0dXJlcyB0YWdzCiAgICAgKi8KICAgIHB1YmxpYyBmaW5hbCBzdGF0aWMgU3RyaW5nW10gRlRfRkVBVFVSRV9UQUdTID0gewogICAgICAgICAgICBGZWF0dXJlVGFncy5GRUFUVVJFX09NQV9JTQogICAgfTsK</text>
+      <register name="5" type="4">
+        <text>.stopNetworkRequest();</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>.stopNetworkRequest();</text>
       </register>
       <register name="7" type="4">
-        <text>mRcsSettings,</text>
+        <text>.stopService();</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>mRcsSettings,</text>
+        <text>public</text>
       </register>
       <register name="9" type="4">
-        <text>mRcsSettings,</text>
+        <text>private</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydE5ldHdvcmtSZXF1ZXN0XD4=</last-search>
+      <last-search>stopNet</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydE5ldHdvcmtSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern>stopNet</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1867,6 +1867,10 @@
         <entry>requestN</entry>
         <entry>startn</entry>
         <entry encoding="base64">XDxzdGFydE5ldHdvcmtSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxtSXNSZXF1ZXN0TmV0d29ya1w+</entry>
+        <entry encoding="base64">XDxzdG9wTmV0d29ya1JlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxyZXN0YXJ0Q21TZXJ2aWNlXD4=</entry>
+        <entry>stopNet</entry>
       </history-search>
       <history-cmd>
         <entry>149</entry>
