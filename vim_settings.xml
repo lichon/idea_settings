@@ -153,8 +153,8 @@
       <file name="$USER_HOME$/repos/voip/android_voip/sdk/src/main/java/redcloud/voip/rpc/RpcManager.java" timestamp="1539847411346">
         <mark key="'" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" timestamp="1542178264950">
-        <mark key="'" line="81" column="78" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" timestamp="1542182293194">
+        <mark key="'" line="216" column="56" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -835,12 +835,12 @@
         <mark key="." line="142" column="79" />
         <mark key="^" line="142" column="79" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" timestamp="1542177488570">
-        <mark key="'" line="119" column="8" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="102" column="53" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" timestamp="1542182217563">
+        <mark key="'" line="118" column="8" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="80" column="87" />
+        <mark key="^" line="101" column="53" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.0-java.jar!/com/qualcomm/qti/imscmservice/V2_0/IImsCMConnectionListener.class" timestamp="1535631699885">
         <mark key="'" line="83" column="11" />
@@ -1030,8 +1030,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/framework.jar!/com/android/ims/internal/uce/presence/IPresenceService.class" timestamp="1539759403232">
         <mark key="'" line="133" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1542178778663">
-        <mark key="'" line="113" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1542182294386">
+        <mark key="'" line="81" column="51" />
         <mark key="[" line="917" column="90" />
         <mark key="]" line="918" column="19" />
         <mark key="^" line="918" column="19" />
@@ -1460,10 +1460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ServerApiUtils.java" />
-      <jump line="43" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsService.java" />
-      <jump line="45" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsService.java" />
-      <jump line="138" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="70" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="866" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="870" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
@@ -1560,6 +1556,10 @@
       <jump line="337" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="56" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpConstants.java" />
       <jump line="177" column="44" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="57" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
+      <jump line="184" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
+      <jump line="216" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
+      <jump line="81" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1569,7 +1569,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNRVRIT0RfUkVQT1JUXD4=</text>
+        <text encoding="base64">XDxvblRyYW5zZmVyRXJyb3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -1609,9 +1609,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNRVRIT0RfUkVQT1JUXD4=</last-search>
+      <last-search encoding="base64">XDxvblRyYW5zZmVyRXJyb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNRVRIT0RfUkVQT1JUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvblRyYW5zZmVyRXJyb3JcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1670,7 +1670,6 @@
         <entry encoding="base64">XDxCT1VOREFSWV9UQUdcPg==</entry>
         <entry>handel</entry>
         <entry encoding="base64">XDxoYW5kbGVFcnJvclw+</entry>
-        <entry encoding="base64">XDxvblRyYW5zZmVyRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxjb250YWN0TWFuYWdlclw+</entry>
         <entry encoding="base64">XDxpc1Bvc3NpYmxlVG9EZXF1ZXVlT25lVG9PbmVGaWxlVHJhbnNmZXJcPg==</entry>
         <entry encoding="base64">XDxtQ29udGFjdE1hbmFnZXJcPg==</entry>
@@ -1716,6 +1715,8 @@
         <entry encoding="base64">XDxwcmV2aW91c1w+</entry>
         <entry encoding="base64">XDxyZWFkQ2h1bmtlZERhdGFcPg==</entry>
         <entry encoding="base64">XDxNRVRIT0RfUkVQT1JUXD4=</entry>
+        <entry>handleE</entry>
+        <entry encoding="base64">XDxvblRyYW5zZmVyRXJyb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>149</entry>
