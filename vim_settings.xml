@@ -1200,8 +1200,8 @@
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/fragments/PhotoViewFragment.java" timestamp="1534577768436">
         <mark key="'" line="54" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1542355119555">
-        <mark key="'" line="180" column="17" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1542355763335">
+        <mark key="'" line="1069" column="8" />
         <mark key="[" line="1110" column="34" />
         <mark key="]" line="1110" column="43" />
         <mark key="." line="1110" column="43" />
@@ -1581,9 +1581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1106" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="1117" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="1130" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
       <jump line="954" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
       <jump line="1047" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
       <jump line="72" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
@@ -1660,7 +1657,6 @@
       <jump line="634" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/registration/RegistrationManager.java" />
       <jump line="88" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/registration/RegistrationManager.java" />
       <jump line="170" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="1069" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="51" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ErrorUtil.java" />
       <jump line="56" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ErrorUtil.java" />
       <jump line="1279" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
@@ -1681,6 +1677,10 @@
       <jump line="142" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="1417" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="180" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="1462" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="1373" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="1263" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="1069" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1690,7 +1690,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</text>
+        <text encoding="base64">XDxwcm9jZXNzSW1FcnJvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -1730,12 +1730,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzSW1FcnJvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzSW1FcnJvclw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1901,7 +1901,6 @@
         <entry encoding="base64">XDxoYW5kbGVFcnJvclw+</entry>
         <entry encoding="base64">XDxtQ29yZVw+</entry>
         <entry>processI</entry>
-        <entry encoding="base64">XDxwcm9jZXNzSW1FcnJvclw+</entry>
         <entry encoding="base64">XDxSRVRSWVw+</entry>
         <entry encoding="base64">XDxkZWxheVw+</entry>
         <entry encoding="base64">XDxtUmV0cnlNZXNzYWdlSWRNYXBcPg==</entry>
@@ -1909,6 +1908,8 @@
         <entry encoding="base64">XDxmYWxsQmFja01lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxwdXNoRmFsbGJhY2tNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</entry>
+        <entry encoding="base64">XDxzZW5kT25lVG9PbmVDaGF0TWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzSW1FcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>149</entry>
