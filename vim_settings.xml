@@ -56,8 +56,12 @@
       <file name="$USER_HOME$/repos/android_rcs_op/Contacts/res/layout/floating_action_button.xml" timestamp="1535020085121">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1543056277558">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1543057892102">
         <mark key="'" line="525" column="5" />
+        <mark key="[" line="547" column="43" />
+        <mark key="]" line="547" column="43" />
+        <mark key="." line="547" column="43" />
+        <mark key="^" line="588" column="64" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/videocompress/VideoController.java" timestamp="1538895800752">
         <mark key="'" line="226" column="87" />
@@ -128,12 +132,12 @@
         <mark key="." line="74" column="59" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMUtil.java" timestamp="1541674674813">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMUtil.java" timestamp="1543057745340">
         <mark key="'" line="204" column="23" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="65" />
-        <mark key="^" line="162" column="64" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="248" column="104" />
+        <mark key="]" line="248" column="104" />
+        <mark key="^" line="248" column="104" />
+        <mark key="." line="248" column="104" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatTerminalExceptionTask.java" timestamp="1543043537728">
         <mark key="'" line="62" column="0" />
@@ -1662,10 +1666,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kU2lwTWVzc2FnZUFuZFdhaXRcPg==</text>
@@ -1674,34 +1678,34 @@
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgQ2hhdE1lc3NhZ2VQZXJzaXN0ZWRTdG9yYWdlQWNjZXNzb3IgcGVyc2lzdGVkU3RvcmFnZSA9IG5ldyBDaGF0TWVzc2FnZVBlcnNpc3RlZFN0b3JhZ2VBY2Nlc3NvcigK</text>
       </register>
       <register name="1" type="4">
-        <text>cm registered</text>
+        <text>, NetworkException</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoUUNDTVV0aWwuZ2V0QWN0aXZlTmV0d29yayhjb250ZXh0KSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIG5vIGRhdGEgbmV0d29yaywgbWF5IGJlIGluIHJvYW1pbmcgYnV0IHBzIGRhdGEgZGlzYWJsZWQKICAgICAgICAgICAgICAgICAgICAgICAgLy8gaWYgcmVxdWVzdCBhbmQgYmluZCB0byBpbXMgbmV0d29yaywgc3lzdGVtIGNhbiBub3QgYWxsb2MgdGhyZWFkIHRvIHJ1bgogICAgICAgICAgICAgICAgICAgICAgICAvLyBtc3JwIGNvbm5lY3Rpb25zIGNvdWxkIG5vdCB3b3JrCiAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmeUltc01vZHVsZSh0cnVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IFBheWxvYWRFeGNlcHRpb24=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>throws</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>info</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUnVudGltZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAvKgogICAgICAgICAgICAgICAgICogTm9ybWFsbHkgd2UgYXJlIG5vdCBhbGxvd2VkIHRvIGNhdGNoIHJ1bnRpbWUgZXhjZXB0aW9ucyBhcyB0aGVzZSBhcmUgZ2VudWluZQogICAgICAgICAgICAgICAgICogYnVncyB3aGljaCBzaG91bGQgYmUgaGFuZGxlZC9maXhlZCB3aXRoaW4gdGhlIGNvZGUuIEhvd2V2ZXIgdGhlIGNhc2VzIHdoZW4gd2UKICAgICAgICAgICAgICAgICAqIGFyZSBleGVjdXRpbmcgb3BlcmF0aW9ucyBvbiBhIHRocmVhZCB1bmhhbmRsaW5nIHN1Y2ggZXhjZXB0aW9ucyB3aWxsCiAgICAgICAgICAgICAgICAgKiBldmVudHVhbGx5IGxlYWQgdG8gZXhpdCB0aGUgc3lzdGVtIGFuZCB0aHVzIGNhbiBicmluZyB0aGUgd2hvbGUgc3lzdGVtIGRvd24sCiAgICAgICAgICAgICAgICAgKiB3aGljaCBpcyBub3QgaW50ZW5kZWQuCiAgICAgICAgICAgICAgICAgKi8KICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoIkZhaWxlZCB0byBtYXJrIG1lc3NhZ2UgYXMgcmVhZCEiLCBlKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>catch ()</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+      <register name="7" type="4">
+        <text>, PayloadException</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUnVudGltZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAvKgogICAgICAgICAgICAgICAgICogTm9ybWFsbHkgd2UgYXJlIG5vdCBhbGxvd2VkIHRvIGNhdGNoIHJ1bnRpbWUgZXhjZXB0aW9ucyBhcyB0aGVzZSBhcmUgZ2VudWluZQogICAgICAgICAgICAgICAgICogYnVncyB3aGljaCBzaG91bGQgYmUgaGFuZGxlZC9maXhlZCB3aXRoaW4gdGhlIGNvZGUuIEhvd2V2ZXIgdGhlIGNhc2VzIHdoZW4gd2UKICAgICAgICAgICAgICAgICAqIGFyZSBleGVjdXRpbmcgb3BlcmF0aW9ucyBvbiBhIHRocmVhZCB1bmhhbmRsaW5nIHN1Y2ggZXhjZXB0aW9ucyB3aWxsCiAgICAgICAgICAgICAgICAgKiBldmVudHVhbGx5IGxlYWQgdG8gZXhpdCB0aGUgc3lzdGVtIGFuZCB0aHVzIGNhbiBicmluZyB0aGUgd2hvbGUgc3lzdGVtIGRvd24sCiAgICAgICAgICAgICAgICAgKiB3aGljaCBpcyBub3QgaW50ZW5kZWQuCiAgICAgICAgICAgICAgICAgKi8KICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoIkZhaWxlZCB0byBjbGVhciBhcyByZWFkISIsIGUpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IE5ldHdvcmtFeGNlcHRpb24=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IG1lc3NhZ2U=</text>
+        <text>throws</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
