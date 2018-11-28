@@ -643,12 +643,12 @@
         <mark key="^" line="96" column="12" />
         <mark key="." line="96" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" timestamp="1541668815842">
-        <mark key="'" line="80" column="32" />
-        <mark key="[" line="1030" column="47" />
-        <mark key="]" line="1030" column="50" />
-        <mark key="." line="1030" column="50" />
-        <mark key="^" line="1030" column="50" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" timestamp="1543410994434">
+        <mark key="'" line="921" column="15" />
+        <mark key="[" line="1162" column="47" />
+        <mark key="]" line="1162" column="61" />
+        <mark key="." line="1162" column="47" />
+        <mark key="^" line="1161" column="51" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/PresenceSubscribeManager.java" timestamp="1539759824262">
         <mark key="'" line="119" column="0" />
@@ -1620,12 +1620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
-      <jump line="124" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
-      <jump line="390" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="358" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1580" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="325" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="88" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/OneToOneChatMessageDequeueTask.java" />
@@ -1720,58 +1714,64 @@
       <jump line="783" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="2673" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="120" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
+      <jump line="1151" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
+      <jump line="1154" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
+      <jump line="1153" column="66" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
+      <jump line="1152" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
+      <jump line="922" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
+      <jump line="921" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXJpIG9uZVRvTlVyaSA9IFVyaS5wYXJzZSgic2lwOm4td2F5X21lc3NhZ2luZ0BvbmUuYXR0Lm5ldCIpOwogICAgICAgICAgICBtUmNzU2V0dGluZ3Muc2V0SW1PbmVUb05Vcmkob25lVG9OVXJpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>confFctyUri</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>confFctyUri</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJTV9PTkVfVE9fTl9VUklcPg==</text>
+        <text encoding="base64">XDxjb25mRmN0eVVyaVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgQ2hhdE1lc3NhZ2VQZXJzaXN0ZWRTdG9yYWdlQWNjZXNzb3IgcGVyc2lzdGVkU3RvcmFnZSA9IG5ldyBDaGF0TWVzc2FnZVBlcnNpc3RlZFN0b3JhZ2VBY2Nlc3NvcigK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBVcmkgREVGQVVMVF8xX1RPX05fVVJJID0gVXJpLnBhcnNlKCJzaXA6bi13YXlfbWVzc2FnaW5nQG9uZS5hdHQubmV0Iik7Cg==</text>
+      <register name="1" type="4">
+        <text>.setImConferenceUri</text>
       </register>
       <register name="2" type="4">
-        <text>, NetworkException</text>
+        <text>conf-fcty-uri</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IFBheWxvYWRFeGNlcHRpb24=</text>
+        <text>confFctyUri</text>
       </register>
       <register name="4" type="4">
-        <text>throws</text>
+        <text>confFctyUri</text>
       </register>
-      <register name="5" type="4">
-        <text>info</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBVcmkgREVGQVVMVF8xX1RPX05fVVJJID0gVXJpLnBhcnNlKCJzaXA6bi13YXlfbWVzc2FnaW5nQG9uZS5hdHQubmV0Iik7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="6" type="4">
+        <text>, NetworkException</text>
       </register>
       <register name="7" type="4">
-        <text>catch ()</text>
+        <text encoding="base64">IFBheWxvYWRFeGNlcHRpb24=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>, PayloadException</text>
+        <text>throws</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IE5ldHdvcmtFeGNlcHRpb24=</text>
+        <text>info</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJTV9PTkVfVE9fTl9VUklcPg==</last-search>
+      <last-search encoding="base64">XDxjb25mRmN0eVVyaVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJTV9PTkVfVE9fTl9VUklcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25mRmN0eVVyaVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1802,6 +1802,8 @@
         <entry encoding="base64">XDxERUZBVUxUXzFfVE9fTl9VUklcPg==</entry>
         <entry encoding="base64">XDxERUZBVUxUX0lNX09ORV9UT19OX1VSSVw+</entry>
         <entry encoding="base64">XDxJTV9PTkVfVE9fTl9VUklcPg==</entry>
+        <entry>cpm</entry>
+        <entry encoding="base64">XDxjb25mRmN0eVVyaVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Utils/Strings/gc</entry>
