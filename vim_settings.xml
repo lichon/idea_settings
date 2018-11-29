@@ -576,8 +576,8 @@
         <mark key="." line="63" column="56" />
         <mark key="^" line="63" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1543497182284">
-        <mark key="'" line="246" column="12" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1543497874878">
+        <mark key="'" line="344" column="52" />
         <mark key="[" line="208" column="34" />
         <mark key="]" line="209" column="20" />
         <mark key="." line="209" column="20" />
@@ -1092,8 +1092,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/upload/FileUploadSession.java" timestamp="1539761565673">
         <mark key="'" line="319" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" timestamp="1543496961284">
-        <mark key="'" line="793" column="43" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" timestamp="1543497881442">
+        <mark key="'" line="71" column="31" />
         <mark key="[" line="793" column="72" />
         <mark key="]" line="793" column="73" />
         <mark key="." line="793" column="73" />
@@ -1640,8 +1640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="323" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="666" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="953" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="973" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
@@ -1718,28 +1716,30 @@
       <jump line="794" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="79" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1035" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="71" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="793" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="65" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="141" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="144" column="93" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="168" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="171" column="93" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="190" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
-      <jump line="191" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
-      <jump line="231" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="294" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="297" column="76" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="337" column="80" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="326" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="267" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
-      <jump line="324" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="182" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="189" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="160" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="245" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="246" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="241" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="191" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="231" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="324" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="344" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="71" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1749,7 +1749,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>newExif.setAttribute(ExifInterface.TAG_ORIE</text>
+        <text encoding="base64">XDxNQVhfRklMRV9JQ09OX1NJWkVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgQ2hhdE1lc3NhZ2VQZXJzaXN0ZWRTdG9yYWdlQWNjZXNzb3IgcGVyc2lzdGVkU3RvcmFnZSA9IG5ldyBDaGF0TWVzc2FnZVBlcnNpc3RlZFN0b3JhZ2VBY2Nlc3NvcigK</text>
@@ -1789,9 +1789,9 @@
       </register>
     </registers>
     <search>
-      <last-search>newExif.setAttribute(ExifInterface.TAG_ORIE</last-search>
+      <last-search encoding="base64">XDxNQVhfRklMRV9JQ09OX1NJWkVcPg==</last-search>
       <last-offset />
-      <last-pattern>newExif.setAttribute(ExifInterface.TAG_ORIE</last-pattern>
+      <last-pattern encoding="base64">XDxNQVhfRklMRV9JQ09OX1NJWkVcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1873,12 +1873,13 @@
         <entry encoding="base64">XDxERUZBVUxUX01BWF9GSUxFX0lDT05fU0laRVw+</entry>
         <entry encoding="base64">XDxERUZBVUxUX01BWF9QSE9UT19JQ09OX1NJWkVcPg==</entry>
         <entry encoding="base64">XDxNQVhfUEhPVE9fSUNPTl9TSVpFXD4=</entry>
-        <entry encoding="base64">XDxNQVhfRklMRV9JQ09OX1NJWkVcPg==</entry>
         <entry>rcsSetting</entry>
         <entry encoding="base64">XDxpY29uTmFtZVw+</entry>
         <entry encoding="base64">XDxmaWxlSWNvblVyaVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVGaWxlSWNvblw+</entry>
         <entry>newExif.setAttribute(ExifInterface.TAG_ORIE</entry>
+        <entry>rcsSettings\.</entry>
+        <entry encoding="base64">XDxNQVhfRklMRV9JQ09OX1NJWkVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Utils/Strings/gc</entry>
