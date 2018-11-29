@@ -1278,12 +1278,12 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" timestamp="1543415563614">
-        <mark key="'" line="160" column="21" />
-        <mark key="[" line="91" column="75" />
-        <mark key="]" line="91" column="75" />
-        <mark key="." line="91" column="75" />
-        <mark key="^" line="95" column="19" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" timestamp="1543462636914">
+        <mark key="'" line="81" column="8" />
+        <mark key="[" line="93" column="55" />
+        <mark key="]" line="93" column="63" />
+        <mark key="." line="93" column="63" />
+        <mark key="^" line="93" column="63" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/HistoryServiceImpl.java" timestamp="1542174853665">
         <mark key="'" line="81" column="35" />
@@ -1522,12 +1522,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1543048984619">
         <mark key="'" line="103" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1542866056371">
-        <mark key="'" line="1057" column="93" />
-        <mark key="[" line="893" column="33" />
-        <mark key="]" line="893" column="36" />
-        <mark key="." line="893" column="36" />
-        <mark key="^" line="893" column="36" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1543462493960">
+        <mark key="'" line="1058" column="93" />
+        <mark key="[" line="594" column="64" />
+        <mark key="]" line="594" column="85" />
+        <mark key="." line="594" column="85" />
+        <mark key="^" line="594" column="85" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpConstants.java" timestamp="1542180491157">
         <mark key="'" line="56" column="31" />
@@ -1620,12 +1620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="76" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatTerminalExceptionTask.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatTerminalExceptionTask.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="687" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="515" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/api/build/generated/source/aidl/debug/com/gsma/services/rcs/chat/IChatService.java" />
       <jump line="274" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="1256" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="396" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
@@ -1720,61 +1714,67 @@
       <jump line="1546" column="84" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
       <jump line="1549" column="81" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
       <jump line="253" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMUtil.java" />
+      <jump line="88" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
+      <jump line="86" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
+      <jump line="84" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
+      <jump line="102" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
+      <jump line="90" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
+      <jump line="81" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgU2lwVXRpbHMuQ1JMRg==</text>
+        <text>.length</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VybmFtZVw+</text>
+        <text encoding="base64">XDxwYXlsb2FkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgQ2hhdE1lc3NhZ2VQZXJzaXN0ZWRTdG9yYWdlQWNjZXNzb3IgcGVyc2lzdGVkU3RvcmFnZSA9IG5ldyBDaGF0TWVzc2FnZVBlcnNpc3RlZFN0b3JhZ2VBY2Nlc3NvcigK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICsgU2lwVXRpbHMuQ1JMRg==</text>
+        <text>.length</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICJDb250ZW50LURpc3Bvc2l0aW9uOiByZWNpcGllbnQtbGlzdHMiICsgU2lwVXRpbHMuQ1JMRgo=</text>
+      <register name="2" type="4">
+        <text>.getBytes()</text>
       </register>
       <register name="3" type="4">
-        <text>+xml</text>
+        <text>.formatContactIdToSipUri</text>
       </register>
       <register name="4" type="4">
-        <text>/resource</text>
+        <text encoding="base64">ICsgU2lwVXRpbHMuQ1JMRg==</text>
       </register>
-      <register name="5" type="4">
-        <text>application</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICJDb250ZW50LURpc3Bvc2l0aW9uOiByZWNpcGllbnQtbGlzdHMiICsgU2lwVXRpbHMuQ1JMRgo=</text>
       </register>
       <register name="6" type="4">
-        <text>tion</text>
+        <text>+xml</text>
       </register>
       <register name="7" type="4">
-        <text>Type</text>
+        <text>/resource</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICsgIkNvbnRlbnQtTGVuZ3RoOiAi</text>
+        <text>application</text>
       </register>
       <register name="9" type="4">
-        <text>.setImConferenceUri</text>
+        <text>tion</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VybmFtZVw+</last-search>
+      <last-search encoding="base64">XDxwYXlsb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VybmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXlsb2FkXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1805,6 +1805,8 @@
         <entry>cpm</entry>
         <entry encoding="base64">XDxjb25mRmN0eVVyaVw+</entry>
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
+        <entry encoding="base64">XDxyZXNvdXJjZUxpc3RcPg==</entry>
+        <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Utils/Strings/gc</entry>
