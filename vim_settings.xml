@@ -387,10 +387,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/registration/RegistrationManager.java" timestamp="1542194718208">
         <mark key="'" line="88" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" timestamp="1542178046024">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" timestamp="1543414803690">
         <mark key="'" line="65" column="59" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="91" />
         <mark key="^" line="88" column="39" />
         <mark key="." line="87" column="78" />
       </file>
@@ -643,8 +643,8 @@
         <mark key="^" line="96" column="12" />
         <mark key="." line="96" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" timestamp="1543410994434">
-        <mark key="'" line="921" column="15" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" timestamp="1543414750902">
+        <mark key="'" line="1549" column="81" />
         <mark key="[" line="1162" column="47" />
         <mark key="]" line="1162" column="61" />
         <mark key="." line="1162" column="47" />
@@ -1278,12 +1278,12 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="31" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" timestamp="1542887033282">
-        <mark key="'" line="158" column="21" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="158" column="62" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" timestamp="1543415563614">
+        <mark key="'" line="160" column="21" />
+        <mark key="[" line="91" column="75" />
+        <mark key="]" line="91" column="75" />
+        <mark key="." line="91" column="75" />
+        <mark key="^" line="95" column="19" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/HistoryServiceImpl.java" timestamp="1542174853665">
         <mark key="'" line="81" column="35" />
@@ -1620,9 +1620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="325" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="88" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/OneToOneChatMessageDequeueTask.java" />
       <jump line="79" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/OneToOneChatMessageDequeueTask.java" />
       <jump line="71" column="76" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatTerminalExceptionTask.java" />
       <jump line="62" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatTerminalExceptionTask.java" />
@@ -1720,61 +1717,64 @@
       <jump line="1152" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
       <jump line="922" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
       <jump line="921" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
+      <jump line="1545" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
+      <jump line="1546" column="84" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
+      <jump line="1549" column="81" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ProvisioningParser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>confFctyUri</text>
+        <text encoding="base64">ICsgU2lwVXRpbHMuQ1JMRg==</text>
       </register>
       <register name="-" type="4">
-        <text>confFctyUri</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25mRmN0eVVyaVw+</text>
+        <text encoding="base64">XDx1c2VybmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgQ2hhdE1lc3NhZ2VQZXJzaXN0ZWRTdG9yYWdlQWNjZXNzb3IgcGVyc2lzdGVkU3RvcmFnZSA9IG5ldyBDaGF0TWVzc2FnZVBlcnNpc3RlZFN0b3JhZ2VBY2Nlc3NvcigK</text>
       </register>
       <register name="1" type="4">
-        <text>.setImConferenceUri</text>
+        <text encoding="base64">ICsgU2lwVXRpbHMuQ1JMRg==</text>
       </register>
-      <register name="2" type="4">
-        <text>conf-fcty-uri</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArICJDb250ZW50LURpc3Bvc2l0aW9uOiByZWNpcGllbnQtbGlzdHMiICsgU2lwVXRpbHMuQ1JMRgo=</text>
       </register>
       <register name="3" type="4">
-        <text>confFctyUri</text>
+        <text>+xml</text>
       </register>
       <register name="4" type="4">
-        <text>confFctyUri</text>
+        <text>/resource</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBVcmkgREVGQVVMVF8xX1RPX05fVVJJID0gVXJpLnBhcnNlKCJzaXA6bi13YXlfbWVzc2FnaW5nQG9uZS5hdHQubmV0Iik7Cg==</text>
+      <register name="5" type="4">
+        <text>application</text>
       </register>
       <register name="6" type="4">
-        <text>, NetworkException</text>
+        <text>tion</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IFBheWxvYWRFeGNlcHRpb24=</text>
+        <text>Type</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>throws</text>
+        <text encoding="base64">ICsgIkNvbnRlbnQtTGVuZ3RoOiAi</text>
       </register>
       <register name="9" type="4">
-        <text>info</text>
+        <text>.setImConferenceUri</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25mRmN0eVVyaVw+</last-search>
+      <last-search encoding="base64">XDx1c2VybmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25mRmN0eVVyaVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VybmFtZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1804,6 +1804,7 @@
         <entry encoding="base64">XDxJTV9PTkVfVE9fTl9VUklcPg==</entry>
         <entry>cpm</entry>
         <entry encoding="base64">XDxjb25mRmN0eVVyaVw+</entry>
+        <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Utils/Strings/gc</entry>
@@ -1823,8 +1824,8 @@
         <entry>953</entry>
         <entry>YcmCompleter GoTo</entry>
         <entry>tabprevious</entry>
-        <entry>W</entry>
         <entry>89</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
