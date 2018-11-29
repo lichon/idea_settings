@@ -900,6 +900,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSessionListener.java" timestamp="1542192715493">
         <mark key="'" line="75" column="9" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" timestamp="1543483726593">
+        <mark key="'" line="1693" column="20" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" timestamp="1542364726850">
         <mark key="'" line="323" column="16" />
         <mark key="[" line="330" column="0" />
@@ -1622,10 +1625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1256" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="396" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
-      <jump line="1297" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1029" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="1030" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="1286" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="1020" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
@@ -1722,6 +1721,10 @@
       <jump line="90" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
       <jump line="81" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" />
       <jump line="210" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
+      <jump line="1829" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="1738" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="1653" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="1693" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1731,7 +1734,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>404</text>
+        <text>addFi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgQ2hhdE1lc3NhZ2VQZXJzaXN0ZWRTdG9yYWdlQWNjZXNzb3IgcGVyc2lzdGVkU3RvcmFnZSA9IG5ldyBDaGF0TWVzc2FnZVBlcnNpc3RlZFN0b3JhZ2VBY2Nlc3NvcigK</text>
@@ -1767,13 +1770,13 @@
         <text>.&quot;+D.startImsConnectionStateListener();</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1312</text>
       </register>
     </registers>
     <search>
-      <last-search>404</last-search>
+      <last-search>addFi</last-search>
       <last-offset />
-      <last-pattern>404</last-pattern>
+      <last-pattern>addFi</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1811,6 +1814,8 @@
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry encoding="base64">XDxzdGFydFNlcnZpY2VcPg==</entry>
         <entry>404</entry>
+        <entry encoding="base64">XDxnZXRGaWxlVHJhbnNmZXJQcm90b2NvbFw+</entry>
+        <entry>addFi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Utils/Strings/gc</entry>
@@ -1833,6 +1838,8 @@
         <entry>89</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>1738</entry>
+        <entry>1312</entry>
       </history-cmd>
       <history-expr />
       <history-input />
