@@ -1731,7 +1731,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydFNlcnZpY2VcPg==</text>
+        <text>404</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgQ2hhdE1lc3NhZ2VQZXJzaXN0ZWRTdG9yYWdlQWNjZXNzb3IgcGVyc2lzdGVkU3RvcmFnZSA9IG5ldyBDaGF0TWVzc2FnZVBlcnNpc3RlZFN0b3JhZ2VBY2Nlc3NvcigK</text>
@@ -1771,9 +1771,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydFNlcnZpY2VcPg==</last-search>
+      <last-search>404</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydFNlcnZpY2VcPg==</last-pattern>
+      <last-pattern>404</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute>deviceConfigKeys</last-substitute>
       <last-dir>1</last-dir>
@@ -1810,6 +1810,7 @@
         <entry encoding="base64">XDxyZXNvdXJjZUxpc3RcPg==</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry encoding="base64">XDxzdGFydFNlcnZpY2VcPg==</entry>
+        <entry>404</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Utils/Strings/gc</entry>
