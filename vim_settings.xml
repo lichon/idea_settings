@@ -143,8 +143,8 @@
         <mark key="^" line="123" column="63" />
         <mark key="." line="123" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1543586309222">
-        <mark key="'" line="476" column="54" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1543598579578">
+        <mark key="'" line="716" column="25" />
         <mark key="[" line="516" column="36" />
         <mark key="]" line="516" column="77" />
         <mark key="." line="516" column="77" />
@@ -994,11 +994,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1543586479322">
-        <mark key="'" line="360" column="25" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="0" />
-        <mark key="." line="379" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1543598596970">
+        <mark key="'" line="280" column="16" />
+        <mark key="[" line="358" column="46" />
+        <mark key="]" line="358" column="47" />
+        <mark key="." line="358" column="47" />
+        <mark key="^" line="357" column="25" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/CarrierConfigContentObserver.java" timestamp="1539857287843">
         <mark key="'" line="10" column="59" />
@@ -1222,8 +1223,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/ims-common.jar!/com/android/ims/ImsManager.class" timestamp="1539766027631">
         <mark key="'" line="201" column="58" />
       </file>
-      <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" timestamp="1543585811465">
-        <mark key="'" line="68" column="69" />
+      <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" timestamp="1543596369989">
+        <mark key="'" line="72" column="70" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/extension/ServiceExtensionManager.java" timestamp="1542175919131">
         <mark key="'" line="52" column="23" />
@@ -1584,12 +1585,12 @@
         <mark key="." line="438" column="14" />
         <mark key="^" line="438" column="14" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpConstants.java" timestamp="1543587388982">
-        <mark key="'" line="34" column="11" />
-        <mark key="[" line="63" column="33" />
-        <mark key="]" line="63" column="34" />
-        <mark key="." line="63" column="34" />
-        <mark key="^" line="63" column="34" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpConstants.java" timestamp="1543595364767">
+        <mark key="'" line="62" column="8" />
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+        <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/OneToOneChatTerminalExceptionTask.java" timestamp="1542892753294">
         <mark key="'" line="43" column="8" />
@@ -1685,78 +1686,13 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
-      <jump line="248" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="725" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="955" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="141" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="156" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="240" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="189" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="168" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="172" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="43" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsService.java" />
-      <jump line="232" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsService.java" />
-      <jump line="338" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" />
-      <jump line="321" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="335" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="394" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="329" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" />
-      <jump line="137" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="148" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="145" column="66" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="143" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="139" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="276" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="77" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="138" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="336" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="182" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="193" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="215" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="216" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="99" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="112" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="113" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="149" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="150" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="157" column="81" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="190" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="192" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="194" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="218" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="221" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="220" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="219" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="106" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="257" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingResumeMsrpFileSharingSession.java" />
-      <jump line="260" column="84" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingResumeMsrpFileSharingSession.java" />
-      <jump line="75" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingResumeMsrpFileSharingSession.java" />
-      <jump line="101" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingResumeMsrpFileSharingSession.java" />
-      <jump line="250" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingResumeMsrpFileSharingSession.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
-      <jump line="340" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="363" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="371" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="367" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="376" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="372" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="370" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="364" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="369" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="64" column="24" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
-      <jump line="68" column="69" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
       <jump line="349" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="351" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="337" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="350" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="347" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="357" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="356" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="353" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="354" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="341" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="343" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="360" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="476" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
@@ -1785,58 +1721,123 @@
       <jump line="488" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" />
       <jump line="420" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" />
+      <jump line="62" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpConstants.java" />
+      <jump line="347" column="89" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="203" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="197" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="205" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="204" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="196" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="179" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="127" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="341" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="339" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="314" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="293" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="329" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="1" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="278" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="284" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="298" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="370" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="369" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="334" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="371" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="328" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="323" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="177" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="337" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="333" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="160" column="15" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="169" column="16" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="178" column="20" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="202" column="17" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="223" column="17" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="234" column="62" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="237" column="61" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="238" column="42" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="254" column="66" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="277" column="44" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="280" column="35" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="285" column="31" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="289" column="7" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="296" column="67" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="313" column="58" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="319" column="62" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="322" column="46" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="335" column="46" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="39" column="32" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="64" column="24" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="68" column="69" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="72" column="70" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" />
+      <jump line="331" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="332" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="330" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="350" column="71" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="324" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="178" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="199" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="281" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="102" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="147" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="198" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="302" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="362" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="280" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="53" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="716" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbUJ1ZmZlci53cgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>endTag.length()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbG9zZU1lZGlhU2Vzc2lvblw+</text>
+        <text>sendChunkFl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBDSFVOS19NQVhfU0laRSA9IDI1NiAqIDEwMjQ7Cg==</text>
+        <text encoding="base64">ICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmdCdWlsZGVyIHJlYWRMaW5lKCkgdGhyb3dzIE5ldHdvcmtFeGNlcHRpb24gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbUJ1ZmZlci53cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VNZWRpYVNlc3Npb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGZpbmFsbHkgew==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgZW5kVGFnTGVuID0gZW5kVGFnLmxlbmd0aCgpICsgMjsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>.lastIndexOf()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzRmlsZVRyYW5zZmVycmVkKCkpIHsK</text>
+      <register name="5" type="4">
+        <text>int</text>
       </register>
       <register name="6" type="4">
-        <text>, progress</text>
+        <text encoding="base64">ID0gcmVhZERhdGFMaW5lKHRtcEJ1ZmZlcik7</text>
       </register>
       <register name="7" type="4">
-        <text>currentSize</text>
+        <text>size</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>currentSize</text>
+        <text>MsrpConstants.CHUNK_MAX_SIZE + 2</text>
       </register>
       <register name="9" type="4">
-        <text>currentSize</text>
+        <text>streamBuffer</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbG9zZU1lZGlhU2Vzc2lvblw+</last-search>
+      <last-search>sendChunkFl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbG9zZU1lZGlhU2Vzc2lvblw+</last-pattern>
+      <last-pattern>sendChunkFl</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxpc0dyb3VwQ2hhdEFjdGl2YXRlZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2048,26 +2049,20 @@
         <entry encoding="base64">XDxjaHVua1NpemVcPg==</entry>
         <entry>sch</entry>
         <entry>try</entry>
-        <entry encoding="base64">XDxtc3JwVHJhbnNmZXJQcm9ncmVzc1w+</entry>
         <entry encoding="base64">XDxyZWFkQ29udGludWVGbGFnXD4=</entry>
         <entry encoding="base64">XDxpbXNTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxtSW1zU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxyZWFkQ2h1bmtUb0VuZFRhZ1w+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDx0cmFjZVw+</entry>
         <entry>print</entry>
-        <entry>Stack</entry>
         <entry encoding="base64">XDxtUmVjZWl2ZWRTaXplXD4=</entry>
         <entry>setMe</entry>
         <entry encoding="base64">XDxzdHJlYW1CdWZmZXJcPg==</entry>
         <entry encoding="base64">XDx0YWdGb3VuZFw+</entry>
         <entry encoding="base64">XDxqXD4=</entry>
-        <entry encoding="base64">XDxyZWFkXD4=</entry>
         <entry encoding="base64">XDxSZWFkXD4=</entry>
         <entry encoding="base64">XDxtU3RyZWFtXD4=</entry>
         <entry encoding="base64">XDx0YWlsXD4=</entry>
-        <entry encoding="base64">XDxibG9ja0NudFw+</entry>
-        <entry encoding="base64">XDxtYXRjaFw+</entry>
         <entry>sendCh</entry>
         <entry encoding="base64">XDxFTkRfTVNSUF9NU0dcPg==</entry>
         <entry encoding="base64">XDxzaG91bGRCZUF1dG9BY2NlcHRlZFw+</entry>
@@ -2080,6 +2075,34 @@
         <entry>1 msrp</entry>
         <entry encoding="base64">XDxjdXJyZW50U2l6ZVw+</entry>
         <entry encoding="base64">XDxjbG9zZU1lZGlhU2Vzc2lvblw+</entry>
+        <entry encoding="base64">XDxyZWFkQ2h1bmtUb0VuZFRhZ1w+</entry>
+        <entry encoding="base64">XDxDSFVOS19NQVhfU0laRVw+</entry>
+        <entry encoding="base64">XDxlbmRjaHVua1w+</entry>
+        <entry encoding="base64">XDxidWZmZXJcPg==</entry>
+        <entry encoding="base64">XDxkYXRhbGluZVw+</entry>
+        <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry encoding="base64">XDxtYXRjaFw+</entry>
+        <entry>readLine</entry>
+        <entry encoding="base64">XDxOZXR3b3JrRXhjZXB0aW9uXD4=</entry>
+        <entry>e.pri</entry>
+        <entry>printSta</entry>
+        <entry>Stack</entry>
+        <entry>readTo</entry>
+        <entry>read</entry>
+        <entry>readCun</entry>
+        <entry>readCh</entry>
+        <entry encoding="base64">XDxibG9ja0NudFw+</entry>
+        <entry encoding="base64">XDxtc3JwVHJhbnNmZXJQcm9ncmVzc1w+</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxyZWFkXD4=</entry>
+        <entry encoding="base64">XDxuYkRhdGFcPg==</entry>
+        <entry encoding="base64">XDxnZXRNc3JwRXZlbnRMaXN0ZW5lclw+</entry>
+        <entry encoding="base64">XDxyZWFkRml4ZWRTaXplQ2h1bmtcPg==</entry>
+        <entry encoding="base64">XDxyZWFkTGluZVw+</entry>
+        <entry encoding="base64">XDxyZWFkU3RyaW5nTGluZVw+</entry>
+        <entry encoding="base64">XDxyZWFkRGF0YUxpbmVcPg==</entry>
+        <entry encoding="base64">XDxORVdfTElORVw+</entry>
+        <entry>sendChunkFl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Utils/Strings/gc</entry>
