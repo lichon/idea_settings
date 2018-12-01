@@ -991,12 +991,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1543603355013">
-        <mark key="'" line="341" column="0" />
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
-        <mark key="^" line="264" column="30" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1543635391885">
+        <mark key="'" line="255" column="16" />
+        <mark key="[" line="365" column="57" />
+        <mark key="]" line="365" column="75" />
+        <mark key="." line="365" column="75" />
+        <mark key="^" line="365" column="75" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/CarrierConfigContentObserver.java" timestamp="1539857287843">
         <mark key="'" line="10" column="59" />
@@ -1236,12 +1236,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMListener.java" timestamp="1536305826361">
         <mark key="'" line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1543600508325">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1543634757269">
         <mark key="'" line="44" column="62" />
         <mark key="[" line="69" column="43" />
-        <mark key="]" line="69" column="43" />
-        <mark key="^" line="77" column="15" />
-        <mark key="." line="69" column="43" />
+        <mark key="]" line="69" column="51" />
+        <mark key="^" line="69" column="51" />
+        <mark key="." line="69" column="51" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSessionListener.java" timestamp="1542173971177">
         <mark key="'" line="58" column="0" />
@@ -1748,10 +1748,8 @@
       <jump line="348" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="349" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="357" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="355" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="63" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpConstants.java" />
       <jump line="366" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="255" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="341" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="93" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
       <jump line="70" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
@@ -1783,61 +1781,63 @@
       <jump line="295" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" />
       <jump line="346" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" />
       <jump line="307" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" />
+      <jump line="355" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="255" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tmpLine</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhbFNldHVwXD4=</text>
+        <text encoding="base64">XDxyZWFkRGF0YUxpbmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmdCdWlsZGVyIHJlYWRMaW5lKCkgdGhyb3dzIE5ldHdvcmtFeGNlcHRpb24gewo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>tmpLine</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IHdpZHRoID0gYml0bWFwLmdldFdpZHRoKCk7CiAgICAgICAgICAgIGludCBoZWlnaHQgPSBiaXRtYXAuZ2V0SGVpZ2h0KCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>maxS0w</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>maxBase64Size</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IHJlcG9ydFNpemUgPSAwOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBNc3JwRXZlbnRMaXN0ZW5lciBtc3JwRXZlbnRMaXN0ZW5lciA9IG1Db25uZWN0aW9uLmdldFNlc3Npb24oKS5nZXRNc3JwRXZlbnRMaXN0ZW5lcigpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICsgc2l6ZSk7</text>
-      </register>
       <register name="7" type="4">
-        <text>size</text>
+        <text encoding="base64">ICsgc2l6ZSk7</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygicmVhZGluZyB1bnRpbCBDUkxGIik7Cg==</text>
+      <register name="8" type="4">
+        <text>size</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygicmVhZGluZyB1bnRpbCBDUkxGIHNpemUgIiArIHNpemUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygicmVhZGluZyB1bnRpbCBDUkxGIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhbFNldHVwXD4=</last-search>
+      <last-search encoding="base64">XDxyZWFkRGF0YUxpbmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhbFNldHVwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFkRGF0YUxpbmVcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxpc0dyb3VwQ2hhdEFjdGl2YXRlZFw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2116,7 +2116,6 @@
         <entry encoding="base64">XDxtc3JwVHJhbnNmZXJQcm9ncmVzc1w+</entry>
         <entry encoding="base64">XDx0bXBCdWZmZXJcPg==</entry>
         <entry encoding="base64">XDxDSFVOS19EQVRBX1JFUE9SVF9TSVpFXD4=</entry>
-        <entry encoding="base64">XDxyZWFkRGF0YUxpbmVcPg==</entry>
         <entry encoding="base64">XDxtTXNycE1nclw+</entry>
         <entry encoding="base64">XDxtTXNycEV2ZW50TGlzdGVuZXJcPg==</entry>
         <entry encoding="base64">XDxhZGRNc3JwRXZlbnRMaXN0ZW5lclw+</entry>
@@ -2124,6 +2123,7 @@
         <entry encoding="base64">XDxsaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVNc3JwQ2xpZW50U2Vzc2lvblw+</entry>
         <entry encoding="base64">XDxsb2NhbFNldHVwXD4=</entry>
+        <entry encoding="base64">XDxyZWFkRGF0YUxpbmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Utils/Strings/gc</entry>
