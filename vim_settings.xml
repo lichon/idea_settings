@@ -991,11 +991,11 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1543635391885">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1543636009597">
         <mark key="'" line="255" column="16" />
-        <mark key="[" line="365" column="57" />
-        <mark key="]" line="365" column="75" />
-        <mark key="." line="365" column="75" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="." line="364" column="0" />
         <mark key="^" line="365" column="75" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/CarrierConfigContentObserver.java" timestamp="1539857287843">
@@ -1785,8 +1785,8 @@
       <jump line="255" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tmpLine</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPDw8IGN1cnJlbnQgc2l6ZSAiICsgc3RyZWFtQnVmZmVyLnNpemUoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1797,35 +1797,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmdCdWlsZGVyIHJlYWRMaW5lKCkgdGhyb3dzIE5ldHdvcmtFeGNlcHRpb24gewo=</text>
       </register>
-      <register name="1" type="4">
-        <text>tmpLine</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPDw8IGN1cnJlbnQgc2l6ZSAiICsgc3RyZWFtQnVmZmVyLnNpemUoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHdpZHRoID0gYml0bWFwLmdldFdpZHRoKCk7CiAgICAgICAgICAgIGludCBoZWlnaHQgPSBiaXRtYXAuZ2V0SGVpZ2h0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjw8PCAiICsgdG1wTGluZSk7Cg==</text>
       </register>
       <register name="3" type="4">
+        <text>tmpLine</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHdpZHRoID0gYml0bWFwLmdldFdpZHRoKCk7CiAgICAgICAgICAgIGludCBoZWlnaHQgPSBiaXRtYXAuZ2V0SGVpZ2h0KCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>maxS0w</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>maxBase64Size</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IHJlcG9ydFNpemUgPSAwOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNc3JwRXZlbnRMaXN0ZW5lciBtc3JwRXZlbnRMaXN0ZW5lciA9IG1Db25uZWN0aW9uLmdldFNlc3Npb24oKS5nZXRNc3JwRXZlbnRMaXN0ZW5lcigpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICsgc2l6ZSk7</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>size</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBNc3JwRXZlbnRMaXN0ZW5lciBtc3JwRXZlbnRMaXN0ZW5lciA9IG1Db25uZWN0aW9uLmdldFNlc3Npb24oKS5nZXRNc3JwRXZlbnRMaXN0ZW5lcigpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygicmVhZGluZyB1bnRpbCBDUkxGIik7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICsgc2l6ZSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
