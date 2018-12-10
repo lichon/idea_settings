@@ -1000,8 +1000,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/filetransfer/IFileTransfer.aidl" timestamp="1542865811809">
         <mark key="'" line="58" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" timestamp="1543563883645">
-        <mark key="'" line="174" column="36" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" timestamp="1544425456253">
+        <mark key="'" line="47" column="13" />
         <mark key="[" line="131" column="55" />
         <mark key="]" line="131" column="55" />
         <mark key="." line="131" column="55" />
@@ -1254,12 +1254,12 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" timestamp="1544422536059">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" timestamp="1544426737888">
         <mark key="'" line="304" column="25" />
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="0" />
+        <mark key="[" line="307" column="46" />
+        <mark key="]" line="307" column="47" />
         <mark key="^" line="139" column="54" />
-        <mark key="." line="331" column="0" />
+        <mark key="." line="307" column="47" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/dao/message/MessageViewModel.java" timestamp="1536228329614">
         <mark key="'" line="20" column="11" />
@@ -1314,8 +1314,8 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingGCMsrpFileSharingSession.java" timestamp="1543584950391">
-        <mark key="'" line="319" column="14" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingGCMsrpFileSharingSession.java" timestamp="1544425689014">
+        <mark key="'" line="339" column="5" />
         <mark key="[" line="320" column="0" />
         <mark key="]" line="320" column="11" />
         <mark key="^" line="83" column="3" />
@@ -1565,8 +1565,8 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="67" column="82" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" timestamp="1542369846139">
-        <mark key="'" line="316" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" timestamp="1544426452904">
+        <mark key="'" line="234" column="6" />
         <mark key="[" line="67" column="4" />
         <mark key="]" line="67" column="12" />
         <mark key="." line="67" column="12" />
@@ -1652,9 +1652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="342" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="347" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="333" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="42" column="9" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpEventListener.java" />
       <jump line="785" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
@@ -1752,16 +1749,19 @@
       <jump line="329" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
       <jump line="306" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
       <jump line="304" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
+      <jump line="47" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" />
+      <jump line="339" column="5" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingGCMsrpFileSharingSession.java" />
+      <jump line="234" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVJjc1NldHRpbmdzLnNldFJpbmdpbmdQZXJpb2QoMCk7CiAgICAgICAgICAgIG1SY3NTZXR0aW5ncy5zZXRTaXBUcmFuc2FjdGlvblRpbWVvdXQoMTAwMDApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>10000</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRJbUFsd2F5T25cPg==</text>
+        <text encoding="base64">RmFpbGVkIHRvIGRlcXVldWUg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmdCdWlsZGVyIHJlYWRMaW5lKCkgdGhyb3dzIE5ldHdvcmtFeGNlcHRpb24gewo=</text>
@@ -1801,9 +1801,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRJbUFsd2F5T25cPg==</last-search>
+      <last-search encoding="base64">RmFpbGVkIHRvIGRlcXVldWUg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRJbUFsd2F5T25cPg==</last-pattern>
+      <last-pattern encoding="base64">RmFpbGVkIHRvIGRlcXVldWUg</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxpc0dyb3VwQ2hhdEFjdGl2YXRlZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1836,6 +1836,8 @@
         <entry encoding="base64">XDxTSVBfVFJBTlNBQ1RJT05fVElNRU9VVFw+</entry>
         <entry encoding="base64">XDxzZXRSaW5naW5nUGVyaW9kXD4=</entry>
         <entry encoding="base64">XDxzZXRJbUFsd2F5T25cPg==</entry>
+        <entry>Failed to dequeue group chat entry</entry>
+        <entry encoding="base64">RmFpbGVkIHRvIGRlcXVldWUg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
