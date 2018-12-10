@@ -770,6 +770,9 @@
         <mark key="." line="131" column="68" />
         <mark key="^" line="65" column="63" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/constant/Actions.java" timestamp="1544436408270">
+        <mark key="'" line="152" column="35" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/NetworkRessourceManager.java" timestamp="1541676497960">
         <mark key="'" line="92" column="24" />
         <mark key="[" line="154" column="60" />
@@ -899,8 +902,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSessionListener.java" timestamp="1542192715493">
         <mark key="'" line="75" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" timestamp="1544431961246">
-        <mark key="'" line="283" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" timestamp="1544436233770">
+        <mark key="'" line="903" column="12" />
         <mark key="[" line="1674" column="12" />
         <mark key="]" line="1674" column="17" />
         <mark key="^" line="1674" column="17" />
@@ -1245,8 +1248,8 @@
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/fragments/PhotoViewFragment.java" timestamp="1534577768436">
         <mark key="'" line="54" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1543564244020">
-        <mark key="'" line="384" column="22" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1544436352569">
+        <mark key="'" line="448" column="12" />
         <mark key="[" line="543" column="35" />
         <mark key="]" line="543" column="35" />
         <mark key="." line="543" column="35" />
@@ -1531,8 +1534,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/HistoryMemberBaseIdCreator.java" timestamp="1538217594810">
         <mark key="'" line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/broadcaster/MessageBroadcast.java" timestamp="1543568323365">
-        <mark key="'" line="34" column="77" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/broadcaster/MessageBroadcast.java" timestamp="1544436409463">
+        <mark key="'" line="115" column="49" />
         <mark key="[" line="34" column="23" />
         <mark key="]" line="34" column="47" />
         <mark key="." line="28" column="67" />
@@ -1677,18 +1680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="757" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="49" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatApi.java" />
-      <jump line="179" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" />
-      <jump line="112" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" />
-      <jump line="171" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" />
-      <jump line="623" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="631" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="754" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessageLog.java" />
-      <jump line="726" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessageLog.java" />
-      <jump line="767" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessageLog.java" />
-      <jump line="742" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessageLog.java" />
-      <jump line="770" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessageLog.java" />
       <jump line="740" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessageLog.java" />
       <jump line="741" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessageLog.java" />
       <jump line="753" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessageLog.java" />
@@ -1777,6 +1768,18 @@
       <jump line="1352" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="2459" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
+      <jump line="1674" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="1670" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="368" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="903" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="80" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="229" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="228" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="391" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="448" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="153" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/constant/Actions.java" />
+      <jump line="152" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/constant/Actions.java" />
+      <jump line="115" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/broadcaster/MessageBroadcast.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1786,7 +1789,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text encoding="base64">XDxBQ1RJT05fTUVTU0FHRV9OT1RJRllcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmdCdWlsZGVyIHJlYWRMaW5lKCkgdGhyb3dzIE5ldHdvcmtFeGNlcHRpb24gewo=</text>
@@ -1826,9 +1829,9 @@
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search encoding="base64">XDxBQ1RJT05fTUVTU0FHRV9OT1RJRllcPg==</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern encoding="base64">XDxBQ1RJT05fTUVTU0FHRV9OT1RJRllcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxpc0dyb3VwQ2hhdEFjdGl2YXRlZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1862,8 +1865,6 @@
         <entry encoding="base64">XDxzZXRJbUFsd2F5T25cPg==</entry>
         <entry>Failed to dequeue group chat entry</entry>
         <entry encoding="base64">RmFpbGVkIHRvIGRlcXVldWUg</entry>
-        <entry encoding="base64">XDxhZGRPdXRnb2luZ09uZVRvT25lRmlsZVRyYW5zZmVyXD4=</entry>
-        <entry>addOut</entry>
         <entry encoding="base64">XDxhZGRPdXRnb2luZ0dyb3VwRmlsZVRyYW5zZmVyXD4=</entry>
         <entry>send</entry>
         <entry encoding="base64">XDx0cmFuc2ZlckZpbGVUb0dyb3VwQ2hhdFw+</entry>
@@ -1896,6 +1897,11 @@
         <entry encoding="base64">XDxnZXRDaGF0SWRGb3JNZW1iZXJzXD4=</entry>
         <entry encoding="base64">XDxtQ01SZWdpc3RlcmVkXD4=</entry>
         <entry>init</entry>
+        <entry>addFile</entry>
+        <entry encoding="base64">XDxhZGRPdXRnb2luZ09uZVRvT25lRmlsZVRyYW5zZmVyXD4=</entry>
+        <entry>addOut</entry>
+        <entry encoding="base64">XDxhZGRPdXRnb2luZ0NoYXRNZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxBQ1RJT05fTUVTU0FHRV9OT1RJRllcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
