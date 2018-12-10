@@ -137,12 +137,12 @@
         <mark key="^" line="123" column="63" />
         <mark key="." line="123" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1543604413740">
-        <mark key="'" line="219" column="15" />
-        <mark key="[" line="516" column="36" />
-        <mark key="]" line="516" column="77" />
-        <mark key="." line="516" column="77" />
-        <mark key="^" line="516" column="77" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1544444395163">
+        <mark key="'" line="300" column="17" />
+        <mark key="[" line="451" column="20" />
+        <mark key="]" line="451" column="36" />
+        <mark key="." line="451" column="36" />
+        <mark key="^" line="451" column="36" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/registry/RegistryFactory.java" timestamp="1538214366187">
         <mark key="'" line="96" column="25" />
@@ -1687,18 +1687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="937" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="934" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="933" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="955" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="953" column="71" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="951" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="949" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="921" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="298" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="330" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="300" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="283" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="2518" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
       <jump line="2523" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
       <jump line="954" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
@@ -1787,58 +1775,70 @@
       <jump line="1805" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="164" column="5" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="240" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsProvider.java" />
+      <jump line="296" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="315" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="328" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="807" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="414" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="736" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="298" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="1065" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="299" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="451" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="1070" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
+      <jump line="300" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RcsSettingsData.KEY_SE</text>
+        <text encoding="base64">dHlwZU1zcnBDaHVuayAhPSBUeXBlTXNycENodW5rLkZpbGVTaGFyaW5nICYmIHR5cGVNc3JwQ2h1bmsgIT0gVHlwZU1zcnBDaHVuay5JbWFnZVRyYW5zZmVy</text>
       </register>
       <register name="-" type="4">
         <text>RcsSettingsData.KEY_SE</text>
       </register>
       <register name="/" type="4">
-        <text>isSer</text>
+        <text encoding="base64">XDxJbWFnZVRyYW5zZmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmdCdWlsZGVyIHJlYWRMaW5lKCkgdGhyb3dzIE5ldHdvcmtFeGNlcHRpb24gewo=</text>
       </register>
       <register name="1" type="4">
-        <text>rcs</text>
+        <text encoding="base64">dHlwZU1zcnBDaHVuayAhPSBUeXBlTXNycENodW5rLkZpbGVTaGFyaW5nICYmIHR5cGVNc3JwQ2h1bmsgIT0gVHlwZU1zcnBDaHVuay5JbWFnZVRyYW5zZmVy</text>
       </register>
       <register name="2" type="4">
-        <text>private</text>
+        <text>FileSharing</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmNzU2V0dGluZ3MuCg==</text>
+      <register name="3" type="4">
+        <text>rcs</text>
       </register>
       <register name="4" type="4">
-        <text>ConversationId</text>
+        <text>private</text>
       </register>
-      <register name="5" type="4">
-        <text>()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmNzU2V0dGluZ3MuCg==</text>
       </register>
       <register name="6" type="4">
-        <text>retrun</text>
+        <text>ConversationId</text>
       </register>
       <register name="7" type="4">
-        <text>)ChatIdFromConversationId</text>
+        <text>()</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>)FromConversationId</text>
+        <text>retrun</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVwZGF0ZVN0YXRlVG9TdGFydGVkKSB7CiAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiBpbnN0YW5jZW9mIFJlc3RhcnRHcm91cENoYXRTZXNzaW9uKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gY3JlYXRlIGdyb3VwIGNoYXQgc3VjY2VzcwogICAgICAgICAgICAgICAgICAgIEdyb3VwQ2hhdEJyb2FkY2FzdC5zZW5kQ3JlYXRlRXZlbnQobUxvbmdDaGF0SWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtUGVyc2lzdGVkU3RvcmFnZS5nZXRJZCgpLCBtUGVyc2lzdGVkU3RvcmFnZS5nZXRTdWJqZWN0KCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>)ChatIdFromConversationId</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isSer</last-search>
+      <last-search encoding="base64">XDxJbWFnZVRyYW5zZmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>isSer</last-pattern>
+      <last-pattern encoding="base64">XDxJbWFnZVRyYW5zZmVyXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxpc0dyb3VwQ2hhdEFjdGl2YXRlZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1846,59 +1846,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtTXNycEV2ZW50TGlzdGVuZXJcPg==</entry>
-        <entry encoding="base64">XDxhZGRNc3JwRXZlbnRMaXN0ZW5lclw+</entry>
-        <entry encoding="base64">XDxvcGVuTXNycFNlc3Npb25cPg==</entry>
-        <entry encoding="base64">XDxsaXN0ZW5lclw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVNc3JwQ2xpZW50U2Vzc2lvblw+</entry>
-        <entry encoding="base64">XDxsb2NhbFNldHVwXD4=</entry>
-        <entry encoding="base64">XDxyZWFkRGF0YUxpbmVcPg==</entry>
-        <entry>close</entry>
-        <entry>Session er</entry>
-        <entry encoding="base64">XDxzZXRSZWpvaW5JZFw+</entry>
-        <entry encoding="base64">XDxpbnZpdGVcPg==</entry>
-        <entry>getDia</entry>
-        <entry encoding="base64">XDxzZXRUYXJnZXRcPg==</entry>
-        <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVUZXJtaW5hdGluZ0RpYWxvZ1BhdGhcPg==</entry>
-        <entry encoding="base64">XDxtRGlhbG9nUGF0aFw+</entry>
-        <entry encoding="base64">XDxUZXJtaW5hdGluZ0FkaG9jR3JvdXBDaGF0U2Vzc2lvblw+</entry>
-        <entry encoding="base64">XDxtR3JvdXBDaGF0U2Vzc2lvbkNhY2hlXD4=</entry>
-        <entry encoding="base64">XDxtVGFyZ2V0XD4=</entry>
-        <entry encoding="base64">XDxzVGltZW91dFw+</entry>
-        <entry encoding="base64">XDxERUZBVUxUX1NJUF9UUkFOU0FDVElPTl9USU1FT1VUXD4=</entry>
-        <entry encoding="base64">XDxTSVBfVFJBTlNBQ1RJT05fVElNRU9VVFw+</entry>
-        <entry encoding="base64">XDxzZXRSaW5naW5nUGVyaW9kXD4=</entry>
-        <entry encoding="base64">XDxzZXRJbUFsd2F5T25cPg==</entry>
-        <entry>Failed to dequeue group chat entry</entry>
-        <entry encoding="base64">RmFpbGVkIHRvIGRlcXVldWUg</entry>
-        <entry encoding="base64">XDxhZGRPdXRnb2luZ0dyb3VwRmlsZVRyYW5zZmVyXD4=</entry>
-        <entry>send</entry>
-        <entry encoding="base64">XDx0cmFuc2ZlckZpbGVUb0dyb3VwQ2hhdFw+</entry>
-        <entry encoding="base64">XDxnZXRHcm91cENoYXRcPg==</entry>
-        <entry encoding="base64">XDxpbml0aWF0ZUdyb3VwQ2hhdFw+</entry>
-        <entry>Group</entry>
-        <entry>getGroup</entry>
-        <entry encoding="base64">XDxnZXRDaGF0SWRGcm9tQ29udmVyc2F0aW9uSWRcPg==</entry>
-        <entry encoding="base64">XDxTRUxFQ1RJT05fQ0hBVF9NRVNTQUdFU19XSVRIX0NPTlZFUlNBVElPTl9JRF9BTkRfQ0hBVElEXD4=</entry>
-        <entry encoding="base64">XDxPUkRFUl9CWV9USU1FU1RBTVBfQVNDXD4=</entry>
-        <entry encoding="base64">XDxHcm91cENoYXREYXRhXD4=</entry>
-        <entry encoding="base64">XDxTRUxFQ1RJT05fQ0hBVF9NRVNTQUdFU19XSVRIX0NPTlZFUlNBVElPTl9JRFw+</entry>
-        <entry>DEBU</entry>
-        <entry encoding="base64">XDxERUJVR1w+</entry>
-        <entry encoding="base64">XDxkZWJ1Z1w+</entry>
-        <entry encoding="base64">XDxCdWlsZENvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxjb252ZXJzYXRpb25JZFw+</entry>
-        <entry encoding="base64">XDxjaGF0SWRcPg==</entry>
-        <entry encoding="base64">XDxpc0dyb3VwXD4=</entry>
-        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
-        <entry encoding="base64">XDxDb250YWN0XD4=</entry>
-        <entry encoding="base64">XDxjb250YWN0XD4=</entry>
-        <entry encoding="base64">XDxyZWNlaXZlRmlsZVRyYW5zZmVySW52aXRhdGlvblw+</entry>
-        <entry encoding="base64">XDxzZXRHcm91cENoYXRTdGF0ZUFuZFJlYXNvbkNvZGVcPg==</entry>
-        <entry>ABO</entry>
-        <entry encoding="base64">XDxzZXRTdGF0ZUFuZFJlYXNvbkNvZGVcPg==</entry>
-        <entry encoding="base64">XDxHcm91cENoYXRCcm9hZGNhc3RcPg==</entry>
         <entry>ABOR</entry>
         <entry encoding="base64">XDxBQk9SVEVEXD4=</entry>
         <entry encoding="base64">XDxnZXRDaGF0SWRGb3JNZW1iZXJzXD4=</entry>
@@ -1919,6 +1866,12 @@
         <entry encoding="base64">XDxzU2V0dGluZ3NLZXlEZWZhdWx0VmFsdWVcPg==</entry>
         <entry encoding="base64">XDxyZXNldENvbmZpZ1BhcmFtZXRlcnNcPg==</entry>
         <entry>isSer</entry>
+        <entry encoding="base64">XDxuZWVkRmFpbHVyZVJlcG9ydEZvclR5cGVcPg==</entry>
+        <entry encoding="base64">XDxtTXNycFRyYW5zYWN0aW9uXD4=</entry>
+        <entry>Text</entry>
+        <entry encoding="base64">XDxUZXh0TWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxGaWxlU2hhcmluZ1w+</entry>
+        <entry encoding="base64">XDxJbWFnZVRyYW5zZmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
