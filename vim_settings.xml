@@ -592,12 +592,12 @@
         <mark key="." line="63" column="56" />
         <mark key="^" line="63" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1545118304166">
-        <mark key="'" line="225" column="20" />
-        <mark key="[" line="203" column="37" />
-        <mark key="]" line="203" column="37" />
-        <mark key="." line="203" column="37" />
-        <mark key="^" line="229" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1545122342985">
+        <mark key="'" line="210" column="58" />
+        <mark key="[" line="217" column="78" />
+        <mark key="]" line="217" column="80" />
+        <mark key="." line="217" column="80" />
+        <mark key="^" line="217" column="80" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" timestamp="1542194422793">
         <mark key="'" line="61" column="35" />
@@ -1105,11 +1105,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidDatagramConnection.java" timestamp="1539842338415">
         <mark key="'" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1541154764964">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="65" column="51" />
-        <mark key="]" line="65" column="51" />
-        <mark key="." line="65" column="51" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1545122794398">
+        <mark key="'" line="66" column="57" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/org/apache/http/conn/ssl/SSLSocketFactory.java" timestamp="1539853635651">
         <mark key="'" line="393" column="61" />
@@ -1714,9 +1714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/OneToOneChat.java" />
-      <jump line="729" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="2306" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
       <jump line="1109" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="1096" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="719" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
@@ -1812,63 +1809,66 @@
       <jump line="203" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="208" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="214" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
-      <jump line="215" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="223" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="215" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="210" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="2" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="66" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBhbmRyb2lkVGVzdC5zZXRSb290KCd0ZXN0cycpCiAgICAgICAgLy8gYW5kcm9pZFRlc3QgewogICAgICAgIC8vICAgICAvL0RlZmF1bHRzIHRvIGNvcmUvdGVzdHMvamF2YQogICAgICAgIC8vICAgICBqYXZhLnNyY0RpcnMgPSBbJ3Rlc3RzL3NyYyddCiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bitmap</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNpemVkXD4=</text>
+        <text encoding="base64">XDxnZXREYXRlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JiYgcXVhbGl0eSA+IDA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBhbmRyb2lkVGVzdC5zZXRSb290KCd0ZXN0cycpCiAgICAgICAgLy8gYW5kcm9pZFRlc3QgewogICAgICAgIC8vICAgICAvL0RlZmF1bHRzIHRvIGNvcmUvdGVzdHMvamF2YQogICAgICAgIC8vICAgICBqYXZhLnNyY0RpcnMgPSBbJ3Rlc3RzL3NyYyddCiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>240</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHF1YWxpdHkgPT0gMCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
+        <text>240</text>
       </register>
-      <register name="4" type="4">
-        <text>512</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHF1YWxpdHkgPj0gNSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcXVhbGl0eSAtPSA1OwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>512</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWFsaXR5ID0gNTA7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IG91dC50b0J5dGVBcnJheSgpCg==</text>
+      <register name="6" type="4">
+        <text>bitmap</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>bitmap</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>new ByteArrayInputStream(out);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHF1YWxpdHkgPj0gNSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcXVhbGl0eSAtPSA1OwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlc2l6ZWQuZ2V0V2lkdGgoKSA8IDI0MCB8fCByZXNpemVkLmdldEhlaWdodCgpIDwgMjQwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNpemVkXD4=</last-search>
+      <last-search encoding="base64">XDxnZXREYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNpemVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXREYXRlXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxpc0dyb3VwQ2hhdEFjdGl2YXRlZFw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1946,6 +1946,8 @@
         <entry>isBl</entry>
         <entry encoding="base64">XDxpc0Jsb2NrZWRGb3JDb250YWN0XD4=</entry>
         <entry encoding="base64">XDxyZXNpemVkXD4=</entry>
+        <entry encoding="base64">XDxxdWFsaXR5XD4=</entry>
+        <entry encoding="base64">XDxnZXREYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
