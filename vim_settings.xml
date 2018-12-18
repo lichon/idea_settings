@@ -592,12 +592,11 @@
         <mark key="." line="63" column="56" />
         <mark key="^" line="63" column="56" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1545125162118">
-        <mark key="'" line="202" column="23" />
-        <mark key="[" line="202" column="41" />
-        <mark key="]" line="202" column="42" />
-        <mark key="." line="202" column="42" />
-        <mark key="^" line="220" column="31" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1545125915334">
+        <mark key="[" line="204" column="77" />
+        <mark key="]" line="205" column="29" />
+        <mark key="^" line="205" column="29" />
+        <mark key="." line="205" column="29" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" timestamp="1542194422793">
         <mark key="'" line="61" column="35" />
@@ -1817,7 +1816,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplID4gbWF4U2l6ZSkgewogICAgICAgICAgICAgICAgICAgIHF1YWxpdHkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdHJpeC5wb3N0U2NhbGUoMC44ZiwgMC44Zik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1829,34 +1828,34 @@
         <text>msgDbI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplID4gbWF4U2l6ZSkgewogICAgICAgICAgICAgICAgICAgIHF1YWxpdHkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdHJpeC5wb3N0U2NhbGUoMC44ZiwgMC44Zik7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplID4gbWF4U2l6ZSkgewogICAgICAgICAgICAgICAgICAgIHF1YWxpdHkKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocXVhbGl0eSA+PSA1KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHF1YWxpdHkgLT0gNTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>100</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocXVhbGl0eSA8PSAwICYmIChyZXNpemVkLmdldFdpZHRoKCkgPD0gNDgwIHx8IHJlc2l6ZWQuZ2V0SGVpZ2h0KCkgPD0gNDgwKSkgewogICAgICAgICAgICAgICAgICAgICAgICBtYXRyaXgucG9zdFNjYWxlKDAuOGYsIDAuOGYpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>resized</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpdG1hcCByZXNpemVkID0gYml0bWFwOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdHJpeCBtYXRyaXggPSBuZXcgTWF0cml4KCk7CiAgICAgICAgICAgICAgICBtYXRyaXgucG9zdFNjYWxlKDAuNWYsIDAuNWYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpdG1hcCByZXNpemVkID0gYml0bWFwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHF1YWxpdHkgPD0gMCkgewoKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdHJpeCBtYXRyaXggPSBuZXcgTWF0cml4KCk7CiAgICAgICAgICAgICAgICBtYXRyaXgucG9zdFNjYWxlKDAuNWYsIDAuNWYpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
