@@ -1105,11 +1105,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidDatagramConnection.java" timestamp="1539842338415">
         <mark key="'" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1545122794398">
-        <mark key="'" line="66" column="57" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1545128584472">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/org/apache/http/conn/ssl/SSLSocketFactory.java" timestamp="1539853635651">
         <mark key="'" line="393" column="61" />
@@ -1522,13 +1521,6 @@
         <mark key="." line="184" column="71" />
         <mark key="^" line="184" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1542427677132">
-        <mark key="'" line="134" column="60" />
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="15" />
-        <mark key="^" line="83" column="15" />
-        <mark key="." line="83" column="15" />
-      </file>
       <file name="$USER_HOME$/repos/misc/VideoCompressor/app/app.iml" timestamp="1536914795895">
         <mark key="'" line="24" column="57" />
       </file>
@@ -1714,12 +1706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="115" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="117" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="120" column="76" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="131" column="84" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="155" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="165" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="179" column="92" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="182" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
@@ -1814,58 +1800,64 @@
       <jump line="264" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
       <jump line="323" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
       <jump line="214" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="21" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="24" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="34" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="63" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="62" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="54" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBmbGF2b3JEaW1lbnNpb25zICJ2ZW5kb3IiCgogICAgcHJvZHVjdEZsYXZvcnMgewogICAgICAgIGNvbW1vbiB7CiAgICAgICAgICAgIGRpbWVuc2lvbiAndmVuZG9yJwogICAgICAgIH0KICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgZGltZW5zaW9uICd2ZW5kb3InCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRTaXBUcmFuc2FjdGlvblRpbWVvdXRcPg==</text>
+        <text encoding="base64">XDxyZWxlYXNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBmbGF2b3JEaW1lbnNpb25zICJ2ZW5kb3IiCgogICAgcHJvZHVjdEZsYXZvcnMgewogICAgICAgIGNvbW1vbiB7CiAgICAgICAgICAgIGRpbWVuc2lvbiAndmVuZG9yJwogICAgICAgIH0KICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgZGltZW5zaW9uICd2ZW5kb3InCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdHJpeC5wb3N0U2NhbGUoMC44ZiwgMC44Zik7Cg==</text>
+        <text encoding="base64">CiAgICBwcm9kdWN0Rmxhdm9ycyB7CiAgICAgICAgY29tbW9uIHsKICAgICAgICAgICAgZGltZW5zaW9uICd2ZW5kb3InCiAgICAgICAgfQogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBkaW1lbnNpb24gJ3ZlbmRvcicKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplID4gbWF4U2l6ZSkgewogICAgICAgICAgICAgICAgICAgIHF1YWxpdHkKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlIHsKICAgICAgICAgICAgbWFuaWZlc3Quc3JjRmlsZSAnQW5kcm9pZE1hbmlmZXN0X3JlbGVhc2UueG1sJwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocXVhbGl0eSA+PSA1KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHF1YWxpdHkgLT0gNTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tb24gewogICAgICAgICAgICBtYW5pZmVzdC5zcmNGaWxlICdBbmRyb2lkTWFuaWZlc3QueG1sJwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="4">
-        <text>100</text>
+        <text>op</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>op</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocXVhbGl0eSA8PSAwICYmIChyZXNpemVkLmdldFdpZHRoKCkgPD0gNDgwIHx8IHJlc2l6ZWQuZ2V0SGVpZ2h0KCkgPD0gNDgwKSkgewogICAgICAgICAgICAgICAgICAgICAgICBtYXRyaXgucG9zdFNjYWxlKDAuOGYsIDAuOGYpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>resized</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdHJpeC5wb3N0U2NhbGUoMC44ZiwgMC44Zik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpdG1hcCByZXNpemVkID0gYml0bWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaXplID4gbWF4U2l6ZSkgewogICAgICAgICAgICAgICAgICAgIHF1YWxpdHkKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRTaXBUcmFuc2FjdGlvblRpbWVvdXRcPg==</last-search>
+      <last-search encoding="base64">XDxyZWxlYXNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRTaXBUcmFuc2FjdGlvblRpbWVvdXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWxlYXNlXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxpc0dyb3VwQ2hhdEFjdGl2YXRlZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1952,6 +1944,9 @@
         <entry encoding="base64">XDxwb3N0U2NhbGVcPg==</entry>
         <entry>10000</entry>
         <entry encoding="base64">XDxzZXRTaXBUcmFuc2FjdGlvblRpbWVvdXRcPg==</entry>
+        <entry encoding="base64">XDxjb21tb25cPg==</entry>
+        <entry>op</entry>
+        <entry encoding="base64">XDxyZWxlYXNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
