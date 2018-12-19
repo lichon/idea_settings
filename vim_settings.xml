@@ -1011,12 +1011,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidDatagramConnection.java" timestamp="1539842338415">
         <mark key="'" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1545202715422">
-        <mark key="'" line="21" column="8" />
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="65" column="9" />
-        <mark key="." line="65" column="9" />
-        <mark key="^" line="65" column="9" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1545208517547">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/org/apache/http/conn/ssl/SSLSocketFactory.java" timestamp="1539853635651">
         <mark key="'" line="393" column="61" />
@@ -1553,7 +1553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="333" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="651" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="2614" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
@@ -1603,7 +1602,6 @@
       <jump line="24" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="21" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="64" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
-      <jump line="23" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="665" column="46" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="73" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/userprofile/UserProfile.java" />
       <jump line="104" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/userprofile/UserProfile.java" />
@@ -1653,58 +1651,60 @@
       <jump line="17" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" />
       <jump line="19" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" />
       <jump line="22" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" />
+      <jump line="23" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="11" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IEluc3RhbnRpYXRpb25FeGNlcHRpb24gfCBOb1N1Y2hNZXRob2RFeGNlcHRpb24gfCBJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>imsCMClazz</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXNDTUNsYXp6XD4=</text>
+        <text encoding="base64">XDxzb3VyY2VTZXRzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IEluc3RhbnRpYXRpb25FeGNlcHRpb24gfCBOb1N1Y2hNZXRob2RFeGNlcHRpb24gfCBJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>res.filter.exclude '**/whatever.txt'</text>
       </register>
       <register name="2" type="4">
+        <text>.main</text>
+      </register>
+      <register name="3" type="4">
+        <text>sourceSets</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IEluc3RhbnRpYXRpb25FeGNlcHRpb24gfCBOb1N1Y2hNZXRob2RFeGNlcHRpb24gfCBJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>ClassNotFoundException</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gaW1zQ2xhenouZ2V0Q29uc3RydWN0b3IoSW1zTW9kdWxlLmNsYXNzLCBDb250ZXh0LmNsYXNzKS5uZXdJbnN0YW5jZShpbXNNb2R1bGUsIGN0eCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>null;</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gaW1zQ2xhenouCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>.newInstance(imsModule, ctx);</text>
-      </register>
       <register name="7" type="4">
-        <text>ImsCMClazz.get</text>
+        <text>null;</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>imsCMClazz</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gaW1zQ2xhenouCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>.newInstance(imsModule, ctx);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXNDTUNsYXp6XD4=</last-search>
+      <last-search encoding="base64">XDxzb3VyY2VTZXRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXNDTUNsYXp6XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzb3VyY2VTZXRzXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1811,6 +1811,7 @@
         <entry encoding="base64">XDxnZXRDb25zdHJ1Y3Rvclw+</entry>
         <entry encoding="base64">XDxJbXNDTUNsYXp6XD4=</entry>
         <entry encoding="base64">XDxpbXNDTUNsYXp6XD4=</entry>
+        <entry encoding="base64">XDxzb3VyY2VTZXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
