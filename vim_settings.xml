@@ -1290,12 +1290,12 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" timestamp="1536035369191">
         <mark key="'" line="820" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" timestamp="1545205349588">
-        <mark key="'" line="17" column="68" />
-        <mark key="[" line="18" column="71" />
-        <mark key="]" line="18" column="70" />
-        <mark key="." line="18" column="70" />
-        <mark key="^" line="18" column="70" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" timestamp="1545207751113">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningManager.java" timestamp="1541153366603">
         <mark key="'" line="1064" column="0" />
@@ -1553,9 +1553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1064" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
-      <jump line="90" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="344" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="333" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="651" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
@@ -1652,59 +1649,62 @@
       <jump line="234" column="74" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="42" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidNetworkFactory.java" />
       <jump line="41" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidNetworkFactory.java" />
-      <jump line="17" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" />
+      <jump line="23" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" />
+      <jump line="17" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" />
+      <jump line="19" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsConnectionFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.getConstructor();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IEluc3RhbnRpYXRpb25FeGNlcHRpb24gfCBOb1N1Y2hNZXRob2RFeGNlcHRpb24gfCBJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bUZhY3RvcnkgPSAoTmV0d29ya0ZhY3RvcnkpIA==</text>
+        <text>imsCMClazz</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDb25zdHJ1Y3Rvclw+</text>
+        <text encoding="base64">XDxpbXNDTUNsYXp6XD4=</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
-      <register name="1" type="4">
-        <text>.getConstructor();</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiB8IEluc3RhbnRpYXRpb25FeGNlcHRpb24gfCBOb1N1Y2hNZXRob2RFeGNlcHRpb24gfCBJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IG51bGw7Cg==</text>
+      <register name="2" type="4">
+        <text>ClassNotFoundException</text>
       </register>
-      <register name="3" type="4">
-        <text>e.printStackTrace();</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gaW1zQ2xhenouZ2V0Q29uc3RydWN0b3IoSW1zTW9kdWxlLmNsYXNzLCBDb250ZXh0LmNsYXNzKS5uZXdJbnN0YW5jZShpbXNNb2R1bGUsIGN0eCk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>.newInstance();</text>
+        <text>null;</text>
       </register>
-      <register name="5" type="4">
-        <text>classname</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gaW1zQ2xhenouCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIG1DbnhNYW5hZ2VyID0gbmV3IEltc0Nvbm5lY3Rpb25NYW5hZ2VyKHRoaXMsIGN0eCk7CiAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>.newInstance(imsModule, ctx);</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobVJjc1NldHRpbmdzLmdldENvbmZpZ3VyYXRpb25Nb2RlKCkgPT0gUmNzU2V0dGluZ3NEYXRhLkNvbmZpZ3VyYXRpb25Nb2RlLlFDSU1TQ00pIHsK</text>
+      <register name="7" type="4">
+        <text>ImsCMClazz.get</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>new QCImsConnectionManager(this, ctx);</text>
+        <text>imsCMClazz</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDb25zdHJ1Y3Rvclw+</last-search>
+      <last-search encoding="base64">XDxpbXNDTUNsYXp6XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDb25zdHJ1Y3Rvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbXNDTUNsYXp6XD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1809,6 +1809,8 @@
         <entry encoding="base64">XDxtQ3R4XD4=</entry>
         <entry encoding="base64">XDxBbmRyb2lkTmV0d29ya0ZhY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxnZXRDb25zdHJ1Y3Rvclw+</entry>
+        <entry encoding="base64">XDxJbXNDTUNsYXp6XD4=</entry>
+        <entry encoding="base64">XDxpbXNDTUNsYXp6XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
