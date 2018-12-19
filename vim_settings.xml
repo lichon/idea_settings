@@ -1113,12 +1113,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidDatagramConnection.java" timestamp="1539842338415">
         <mark key="'" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1545209942172">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1545210889481">
         <mark key="'" line="11" column="4" />
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/org/apache/http/conn/ssl/SSLSocketFactory.java" timestamp="1539853635651">
         <mark key="'" line="393" column="61" />
@@ -1829,7 +1828,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5wcm92aWRlci5zZXR0aW5ncy5SY3NTZXR0aW5nc0RhdGEuQ29uZmlndXJhdGlvbk1vZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamF2YS5leGNsdWRlICdjb20vZ3NtYS9yY3MvY20vKionCg==</text>
       </register>
       <register name="-" type="4">
         <text>.getConfigurationMode() == RcsSettingsData.ConfigurationMode.QCIMSCM</text>
@@ -1841,34 +1840,34 @@
         <text>msgDbI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5wcm92aWRlci5zZXR0aW5ncy5SY3NTZXR0aW5nc0RhdGEuQ29uZmlndXJhdGlvbk1vZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyc2NyaXB0LnNyY0RpcnMgPSBbJ3NyYyddCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5wcm92aWRlci5zZXR0aW5ncy5SY3NTZXR0aW5nc0RhdGEuQ29uZmlndXJhdGlvbk1vZGU7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICByY3NTZXR0aW5ncy5zZXRDb25maWd1cmF0aW9uTW9kZShDb25maWd1cmF0aW9uTW9kZS5BVVRPKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.s.exclude 'com/gsma/rcs/cm/**'</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.initServiceActivated();</text>
       </register>
-      <register name="6" type="4">
-        <text>ConfigurationMode.QCIMSCM == mode</text>
-      </register>
       <register name="7" type="4">
-        <text>CIMSCM</text>
+        <text>ConfigurationMode.QCIMSCM == mode</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>.getConfigurationMode() == RcsSettingsData.ConfigurationMode.Q</text>
+        <text>CIMSCM</text>
       </register>
       <register name="9" type="4">
-        <text>CIMSCM</text>
+        <text>.getConfigurationMode() == RcsSettingsData.ConfigurationMode.Q</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
