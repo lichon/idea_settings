@@ -232,10 +232,10 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1545222151824">
         <mark key="'" line="408" column="12" />
-        <mark key="[" line="1255" column="0" />
-        <mark key="]" line="1262" column="12" />
+        <mark key="[" line="1256" column="0" />
+        <mark key="]" line="1263" column="12" />
         <mark key="^" line="211" column="43" />
-        <mark key="." line="1596" column="0" />
+        <mark key="." line="1597" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" timestamp="1542427362439">
         <mark key="'" line="126" column="52" />
@@ -1278,6 +1278,12 @@
         <mark key="^" line="89" column="87" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" timestamp="1545369550709">
+        <mark key="'" line="73" column="20" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/ims-common.jar!/com/android/ims/ImsManager.class" timestamp="1539766027631">
         <mark key="'" line="201" column="58" />
       </file>
@@ -1764,9 +1770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_debug.xml" />
-      <jump line="24" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
-      <jump line="21" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="64" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="665" column="46" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" />
       <jump line="73" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/userprofile/UserProfile.java" />
@@ -1864,46 +1867,49 @@
       <jump line="204" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="213" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="136" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="176" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
+      <jump line="63" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
+      <jump line="74" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkVGVzdC5zZXRSb290KCd0ZXN0cycpCiAgICAgICAgYW5kcm9pZFRlc3QgewogICAgICAgICAgICAvL0RlZmF1bHRzIHRvIGNvcmUvdGVzdHMvamF2YQogICAgICAgICAgICBqYXZhLnNyY0RpcnMgPSBbJ3Rlc3RzL3NyYyddCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNpbmdsZVVzZXI9InRydWUiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</text>
+        <text encoding="base64">XDxzaW5nbGVVc2VyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNpbmdsZVVzZXI9InRydWUiCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkVGVzdC5zZXRSb290KCd0ZXN0cycpCiAgICAgICAgYW5kcm9pZFRlc3QgewogICAgICAgICAgICAvL0RlZmF1bHRzIHRvIGNvcmUvdGVzdHMvamF2YQogICAgICAgICAgICBqYXZhLnNyY0RpcnMgPSBbJ3Rlc3RzL3NyYyddCiAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>throws</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>IOException</text>
       </register>
-      <register name="4" type="4">
-        <text>, RcsAccountException</text>
-      </register>
-      <register name="5" type="4">
-        <text>RcsAccountException</text>
-      </register>
-      <register name="6" type="4">
-        <text>, RcsAccountException</text>
-      </register>
       <register name="7" type="4">
-        <text>RcsAccountException</text>
+        <text>, RcsAccountException</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>, IOException</text>
+        <text>RcsAccountException</text>
       </register>
       <register name="9" type="4">
         <text>, RcsAccountException</text>
@@ -1913,12 +1919,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</last-search>
+      <last-search encoding="base64">XDxzaW5nbGVVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaW5nbGVVc2VyXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2013,7 +2019,6 @@
         <entry encoding="base64">XDxnZXRVc2VyUHJvZmlsZUltc0RvbWFpblw+</entry>
         <entry>Connec</entry>
         <entry>sing</entry>
-        <entry encoding="base64">XDxzaW5nbGVVc2VyXD4=</entry>
         <entry encoding="base64">XDxRQ0ltc0Nvbm5lY3Rpb25NYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxjdHhcPg==</entry>
         <entry encoding="base64">XDxtQ3R4XD4=</entry>
@@ -2037,6 +2042,8 @@
         <entry>delMess</entry>
         <entry encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeUxhcmdlTW9kZVw+</entry>
         <entry encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</entry>
+        <entry encoding="base64">XDxhcHBsaWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxzaW5nbGVVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
