@@ -1258,8 +1258,8 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/graphics/Matrix.java" timestamp="1543496520706">
         <mark key="'" line="282" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" timestamp="1545369550709">
-        <mark key="'" line="73" column="20" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" timestamp="1545385342510">
+        <mark key="'" line="64" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
@@ -1750,12 +1750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="69" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidNetworkFactory.java" />
-      <jump line="24" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsNetworkFactory.java" />
-      <jump line="0" column="79" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsNetworkFactory.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsNetworkFactory.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsNetworkFactory.java" />
       <jump line="27" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsConnectionManager.java" />
       <jump line="103" column="76" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
       <jump line="84" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
@@ -1850,6 +1844,12 @@
       <jump line="2235" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="2241" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="261" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
+      <jump line="86" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
+      <jump line="93" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
+      <jump line="171" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
+      <jump line="107" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
+      <jump line="68" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
+      <jump line="64" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1859,7 +1859,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZUxvbmdcPg==</text>
+        <text encoding="base64">XDxzaW5nbGVVc2VyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
@@ -1899,12 +1899,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZUxvbmdcPg==</last-search>
+      <last-search encoding="base64">XDxzaW5nbGVVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZUxvbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaW5nbGVVc2VyXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2023,7 +2023,6 @@
         <entry encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeUxhcmdlTW9kZVw+</entry>
         <entry encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VCeVN0YW5kYWxvbmVcPg==</entry>
         <entry encoding="base64">XDxhcHBsaWNhdGlvblw+</entry>
-        <entry encoding="base64">XDxzaW5nbGVVc2VyXD4=</entry>
         <entry>onMess</entry>
         <entry encoding="base64">XDxtc2dcPg==</entry>
         <entry encoding="base64">XDxvbk1lc3NhZ2VSZWNlaXZlZFw+</entry>
@@ -2037,6 +2036,7 @@
         <entry encoding="base64">XDxnZXRNYXhQaG90b0ljb25TaXplXD4=</entry>
         <entry encoding="base64">XDxtYXhTaXplXD4=</entry>
         <entry encoding="base64">XDx3cml0ZUxvbmdcPg==</entry>
+        <entry encoding="base64">XDxzaW5nbGVVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
