@@ -1222,8 +1222,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/framework.jar!/com/android/ims/internal/uce/presence/IPresenceService.class" timestamp="1539759403232">
         <mark key="'" line="133" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1544446669940">
-        <mark key="'" line="1043" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1545393910487">
+        <mark key="'" line="909" column="0" />
         <mark key="[" line="1047" column="0" />
         <mark key="]" line="1047" column="0" />
         <mark key="." line="1047" column="0" />
@@ -1334,7 +1334,7 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="86" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" timestamp="1545383920422">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" timestamp="1545393999162">
         <mark key="'" line="355" column="25" />
         <mark key="[" line="321" column="44" />
         <mark key="]" line="321" column="45" />
@@ -1750,13 +1750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsConnectionManager.java" />
-      <jump line="103" column="76" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="84" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="88" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="93" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="95" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="89" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="90" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="100" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
       <jump line="119" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
@@ -1850,6 +1843,13 @@
       <jump line="107" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
       <jump line="68" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
       <jump line="64" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" />
+      <jump line="895" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="919" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="892" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="888" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="920" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="893" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="909" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1859,7 +1859,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaW5nbGVVc2VyXD4=</text>
+        <text encoding="base64">XDxyZXNlbmRUcmFuc2Zlclw+</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
@@ -1899,9 +1899,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaW5nbGVVc2VyXD4=</last-search>
+      <last-search encoding="base64">XDxyZXNlbmRUcmFuc2Zlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaW5nbGVVc2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNlbmRUcmFuc2Zlclw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2037,6 +2037,7 @@
         <entry encoding="base64">XDxtYXhTaXplXD4=</entry>
         <entry encoding="base64">XDx3cml0ZUxvbmdcPg==</entry>
         <entry encoding="base64">XDxzaW5nbGVVc2VyXD4=</entry>
+        <entry encoding="base64">XDxyZXNlbmRUcmFuc2Zlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
