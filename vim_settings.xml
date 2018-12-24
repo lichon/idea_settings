@@ -1173,7 +1173,7 @@
         <mark key="." line="50" column="98" />
         <mark key="^" line="51" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" timestamp="1545645138683">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" timestamp="1545645808393">
         <mark key="'" line="617" column="20" />
         <mark key="[" line="618" column="0" />
         <mark key="]" line="618" column="0" />
@@ -1226,9 +1226,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/framework.jar!/com/android/ims/internal/uce/presence/IPresenceService.class" timestamp="1539759403232">
         <mark key="'" line="133" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1545645074564">
-        <mark key="'" line="777" column="50" />
-        <mark key="^" line="618" column="54" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1545645868465">
+        <mark key="'" line="778" column="50" />
+        <mark key="[" line="616" column="54" />
+        <mark key="]" line="616" column="60" />
+        <mark key="^" line="616" column="60" />
+        <mark key="." line="616" column="60" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/registry/AndroidRegistryFactory.java" timestamp="1538213717390">
         <mark key="'" line="31" column="13" />
@@ -1849,8 +1852,8 @@
       <jump line="378" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9VU0VSKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.ABORTED</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
@@ -1861,35 +1864,35 @@
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9VU0VSKTsK</text>
+      <register name="1" type="4">
+        <text>.ABORTED</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9VU0VSKTsK</text>
+      <register name="2" type="4">
+        <text>.P</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9VU0VSKTsK</text>
+      <register name="3" type="4">
+        <text>de</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>&quot;+</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1Nc3JwTWdyLmlzRXN0YWJsaXNoZWQoKSkgewo=</text>
+      <register name="5" type="4">
+        <text>aborted</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi50ZXJtaW5hdGVTZXNzaW9uKFRlcm1pbmF0aW9uUmVhc29uLlRFUk1JTkFUSU9OX0JZX1VTRVIpOwo=</text>
+      <register name="6" type="4">
+        <text>.ABORTED</text>
       </register>
       <register name="7" type="4">
-        <text>mPersistentStorage</text>
+        <text>.ABORTED</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>, transfer id: &quot; + mFileTransferId);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9TWVNURU0pOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>Cancel</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9VU0VSKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
