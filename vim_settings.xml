@@ -1226,12 +1226,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/framework.jar!/com/android/ims/internal/uce/presence/IPresenceService.class" timestamp="1539759403232">
         <mark key="'" line="133" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1545645868465">
-        <mark key="'" line="778" column="50" />
-        <mark key="[" line="616" column="54" />
-        <mark key="]" line="616" column="60" />
-        <mark key="^" line="616" column="60" />
-        <mark key="." line="616" column="60" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1545646415093">
+        <mark key="'" line="888" column="8" />
+        <mark key="[" line="616" column="55" />
+        <mark key="]" line="616" column="62" />
+        <mark key="^" line="623" column="46" />
+        <mark key="." line="616" column="55" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/registry/AndroidRegistryFactory.java" timestamp="1538213717390">
         <mark key="'" line="31" column="13" />
@@ -1750,10 +1750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
-      <jump line="57" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
-      <jump line="76" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
-      <jump line="163" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
       <jump line="205" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
       <jump line="173" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/ImsFileSharingSession.java" />
       <jump line="1825" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
@@ -1799,7 +1795,6 @@
       <jump line="317" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
       <jump line="387" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" />
       <jump line="352" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" />
-      <jump line="616" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
       <jump line="1042" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
       <jump line="358" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" />
       <jump line="617" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
@@ -1850,37 +1845,42 @@
       <jump line="617" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
       <jump line="396" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" />
       <jump line="378" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" />
+      <jump line="616" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="815" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="886" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="890" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="888" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.ABORTED</text>
+        <text>PAUSED</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>PAUSED</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlcnJ1cHRNZWRpYVw+</text>
+        <text encoding="base64">XDxzZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
       <register name="1" type="4">
-        <text>.ABORTED</text>
+        <text>.PAUSED</text>
       </register>
       <register name="2" type="4">
-        <text>.P</text>
+        <text>.ABORTED</text>
       </register>
       <register name="3" type="4">
-        <text>de</text>
+        <text>.P</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;+</text>
+        <text>de</text>
       </register>
       <register name="5" type="4">
-        <text>aborted</text>
+        <text>&quot;+</text>
       </register>
       <register name="6" type="4">
-        <text>.ABORTED</text>
+        <text>aborted</text>
       </register>
       <register name="7" type="4">
         <text>.ABORTED</text>
@@ -1888,23 +1888,23 @@
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9TWVNURU0pOwo=</text>
+      <register name="8" type="4">
+        <text>.ABORTED</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9VU0VSKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0U3RhdGVBbmRSZWFzb25Db2RlKFN0YXRlLkFCT1JURUQsIFJlYXNvbkNvZGUuQUJPUlRFRF9CWV9TWVNURU0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlcnJ1cHRNZWRpYVw+</last-search>
+      <last-search encoding="base64">XDxzZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlcnJ1cHRNZWRpYVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXNzaW9uXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2091,6 +2091,9 @@
         <entry encoding="base64">XDxhZGRPdXRnb2luZ09uZVRvT25lRmlsZVRyYW5zZmVyXD4=</entry>
         <entry>resu</entry>
         <entry encoding="base64">XDxpbnRlcnJ1cHRNZWRpYVw+</entry>
+        <entry>resumeM</entry>
+        <entry encoding="base64">XDxyZXN1bWVNc3JwRmlsZVRyYW5zZmVyXD4=</entry>
+        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
