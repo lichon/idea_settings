@@ -1499,11 +1499,8 @@
         <mark key="." line="62" column="28" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1546072342661">
-        <mark key="'" line="143" column="20" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" timestamp="1546074264557">
+        <mark key="'" line="147" column="48" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1544431853095">
         <mark key="'" line="135" column="25" />
@@ -1602,8 +1599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/ImsModule.java" />
-      <jump line="118" column="63" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="195" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="82" column="10" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="320" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/PresenceInterface.java" />
@@ -1697,11 +1692,13 @@
       <jump line="371" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="39" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="219" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/ImsManagerWrapper.java" />
-      <jump line="193" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
-      <jump line="147" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
-      <jump line="145" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="227" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="193" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="143" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="118" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="190" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="145" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="147" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1711,7 +1708,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</text>
+        <text encoding="base64">XDxmbHVzaFw+</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
@@ -1751,9 +1748,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxmbHVzaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmbHVzaFw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1821,8 +1818,8 @@
         <entry encoding="base64">XDxkZXN0cm95Q21QcmVzZW5jZVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxtVWNlU2VydmljZVw+</entry>
         <entry encoding="base64">XDxsYXN0UHVibGlzaENhcHNcPg==</entry>
-        <entry encoding="base64">XDxmbHVzaFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxmbHVzaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/case deviceConfig/case deviceConfigKeys/g</entry>
