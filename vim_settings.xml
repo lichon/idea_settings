@@ -831,12 +831,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/build/generated/source/aidl/debug/com/gsma/services/rcs/chat/IChatService.java" timestamp="1543045625090">
         <mark key="'" line="515" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" timestamp="1546069307111">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" timestamp="1546070222060">
         <mark key="'" line="39" column="41" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="31" />
-        <mark key="^" line="120" column="10" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="118" column="10" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.0-java.jar!/com/qualcomm/qti/imscmservice/V2_0/keyValuePairBufferType.class" timestamp="1535548262765">
         <mark key="'" line="32" column="64" />
@@ -1160,8 +1160,8 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/InputStream.java" timestamp="1543596369989">
         <mark key="'" line="72" column="70" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/ImsManagerWrapper.java" timestamp="1546069120614">
-        <mark key="'" line="102" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/ImsManagerWrapper.java" timestamp="1546069680131">
+        <mark key="'" line="219" column="0" />
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
@@ -1599,7 +1599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="414" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="416" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
       <jump line="205" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
@@ -1699,10 +1698,11 @@
       <jump line="343" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="371" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="39" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/ImsManagerWrapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RQdWJsaXNoQ2FwcyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHJ1biBpbiBoYW5kbGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1714,34 +1714,34 @@
         <text>msgDbI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RQdWJsaXNoQ2FwcyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHJ1biBpbiBoYW5kbGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbXNNYW5hZ2VyV3JhcHBlci5nZXRJbnN0YW5jZSgpLmFkZEltc0Nvbm5lY3Rpb25TdGF0ZUxpc3RlbmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHJ1biBpbiBoYW5kbGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDTUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLnN0b3BJbXNDb25uZWN0aW9uU3RhdGVMaXN0ZW5lcigpOwogICAgICAgIENNSW50ZXJmYWNlLmdldEluc3RhbmNlKCkuc3RhcnRJbXNDb25uZWN0aW9uU3RhdGVMaXN0ZW5lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RQdWJsaXNoQ2FwcyA9IG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ01JbnRlcmZhY2UuZ2V0SW5zdGFuY2UoKS5zdG9wSW1zQ29ubmVjdGlvblN0YXRlTGlzdGVuZXIoKTsKICAgICAgICAgICAgQ01JbnRlcmZhY2UuZ2V0SW5zdGFuY2UoKS5zdGFydEltc0Nvbm5lY3Rpb25TdGF0ZUxpc3RlbmVyKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBJbXNNYW5hZ2VyV3JhcHBlci5nZXRJbnN0YW5jZSgpLmFkZEltc0Nvbm5lY3Rpb25TdGF0ZUxpc3RlbmVyKCk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDTUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLnN0b3BJbXNDb25uZWN0aW9uU3RhdGVMaXN0ZW5lcigpOwogICAgICAgIENNSW50ZXJmYWNlLmdldEluc3RhbmNlKCkuc3RhcnRJbXNDb25uZWN0aW9uU3RhdGVMaXN0ZW5lcigpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ01JbnRlcmZhY2UuZ2V0SW5zdGFuY2UoKS5zdG9wSW1zQ29ubmVjdGlvblN0YXRlTGlzdGVuZXIoKTsKICAgICAgICAgICAgQ01JbnRlcmZhY2UuZ2V0SW5zdGFuY2UoKS5zdGFydEltc0Nvbm5lY3Rpb25TdGF0ZUxpc3RlbmVyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzQ21QcmVzZW5jZVNlcnZpY2VDcmVhdGVkKCkpIHsKICAgICAgICAgICAgY3JlYXRlUHJlc2VuY2VTZXJ2aWNlKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiU2VydmljZSBhbHJlYWR5IGNyZWF0ZWQuIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbXNNYW5hZ2VyV3JhcHBlci5nZXRJbnN0YW5jZSgpLmFkZEltc0Nvbm5lY3Rpb25TdGF0ZUxpc3RlbmVyKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbXNNYW5hZ2VyV3JhcHBlci5nZXRJbnN0YW5jZSgpLmFkZEltc0Nvbm5lY3Rpb25TdGF0ZUxpc3RlbmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>debug</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzQ21QcmVzZW5jZVNlcnZpY2VDcmVhdGVkKCkpIHsKICAgICAgICAgICAgY3JlYXRlUHJlc2VuY2VTZXJ2aWNlKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiU2VydmljZSBhbHJlYWR5IGNyZWF0ZWQuIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
