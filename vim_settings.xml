@@ -655,12 +655,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/PresenceSubscribeManager.java" timestamp="1539759824262">
         <mark key="'" line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1546590825592">
-        <mark key="'" line="974" column="0" />
-        <mark key="[" line="760" column="0" />
-        <mark key="]" line="760" column="97" />
-        <mark key="." line="965" column="0" />
-        <mark key="^" line="590" column="35" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1546595672199">
+        <mark key="'" line="842" column="28" />
+        <mark key="[" line="856" column="25" />
+        <mark key="]" line="857" column="25" />
+        <mark key="." line="857" column="25" />
+        <mark key="^" line="857" column="25" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/HttpsProvisioningService.java" timestamp="1541053414591">
         <mark key="'" line="2" column="19" />
@@ -1636,13 +1636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
-      <jump line="144" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
-      <jump line="146" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
-      <jump line="157" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
-      <jump line="158" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
-      <jump line="43" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
-      <jump line="108" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="217" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="220" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="326" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
@@ -1736,58 +1729,65 @@
       <jump line="105" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="107" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="144" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="799" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="753" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="756" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="766" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="847" column="88" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="841" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="842" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDcGltSWRlbnRpdHkgY3BpbUlkZW50aXR5ID0gbmV3IENwaW1JZGVudGl0eSgic2lwOisxNDI1ODI5Nzg4MEBtc2cucGMudC1tb2JpbGUuY29tIik7CiAgICAgICAgUGhvbmVOdW1iZXIgcmVtb3RlTnVtYmVyID0gQ29udGFjdFV0aWwuZ2V0VmFsaWRQaG9uZU51bWJlckZyb21VcmkoY3BpbUlkZW50aXR5LmdldFVyaSgpKTsKICAgICAgICBzTG9nZ2VyLmRlYnVnKCJ0ZXN0ICIgK3JlbW90ZU51bWJlci5nZXROdW1iZXIoKSk7CiAgICAgICAgaWYgKHRydWUpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25EZWxpdmVyeVN0YXR1c1JlY2VpdmVkKHJlbW90ZUlkLCBjcGltTXNnLmdldE1lc3NhZ2VDb250ZW50KCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>ChatUtils.getMembersSet(participantsFromInvite)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHcm91cENoYXRJbXBsXD4=</text>
+        <text encoding="base64">XDxudW1iZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkRlbGl2ZXJ5U3RhdHVzUmVjZWl2ZWQocmVtb3RlSWQsIGNwaW1Nc2cuZ2V0TWVzc2FnZUNvbnRlbnQoKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBDcGltSWRlbnRpdHkgY3BpbUlkZW50aXR5ID0gbmV3IENwaW1JZGVudGl0eSgic2lwOisxNDI1ODI5Nzg4MEBtc2cucGMudC1tb2JpbGUuY29tIik7CiAgICAgICAgUGhvbmVOdW1iZXIgcmVtb3RlTnVtYmVyID0gQ29udGFjdFV0aWwuZ2V0VmFsaWRQaG9uZU51bWJlckZyb21VcmkoY3BpbUlkZW50aXR5LmdldFVyaSgpKTsKICAgICAgICBzTG9nZ2VyLmRlYnVnKCJ0ZXN0ICIgK3JlbW90ZU51bWJlci5nZXROdW1iZXIoKSk7CiAgICAgICAgaWYgKHRydWUpIHJldHVybjsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>cpimIdentity.getUri()</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>String</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>contains</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>identity</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ0FjdGl2YXRlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>info</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvZ0FjdGl2YXRlZCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHcm91cENoYXRJbXBsXD4=</last-search>
+      <last-search encoding="base64">XDxudW1iZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHcm91cENoYXRJbXBsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxudW1iZXJcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1848,6 +1848,11 @@
         <entry encoding="base64">XDxpbnZpdGVQYXJ0aWNpcGFudHNcPg==</entry>
         <entry encoding="base64">XDxjb250YWN0XD4=</entry>
         <entry encoding="base64">XDxHcm91cENoYXRJbXBsXD4=</entry>
+        <entry>TMO</entry>
+        <entry>Discard delivery report send to</entry>
+        <entry>Discar</entry>
+        <entry encoding="base64">XDxyZW1vdGVJZFw+</entry>
+        <entry encoding="base64">XDxudW1iZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9kZXZpY2VDb25maWdLZXlzL3VzZXJDb25maWdLZXlzL2dj</entry>
