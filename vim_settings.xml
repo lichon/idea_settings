@@ -1203,6 +1203,9 @@
       <file name="$USER_HOME$/repos/OneplusMms/PhotoViewerLib/src/com/android/ex/photo/fragments/PhotoViewFragment.java" timestamp="1534577768436">
         <mark key="'" line="54" column="39" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1546583536012">
+        <mark key="'" line="612" column="24" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionActivityManager.java" timestamp="1542369916221">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="74" column="13" />
@@ -1575,8 +1578,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/terms/TermsConditionsService.java" timestamp="1541056441215">
         <mark key="'" line="144" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1545117627935">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1546583519050">
+        <mark key="'" line="2222" column="16" />
         <mark key="[" line="2514" column="0" />
         <mark key="]" line="2514" column="0" />
         <mark key="^" line="1003" column="65" />
@@ -1608,12 +1611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCImsNetworkInterface.java" />
-      <jump line="73" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/ImsManagerWrapper.java" />
-      <jump line="106" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/ImsManagerWrapper.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/ImsManagerWrapper.java" />
-      <jump line="99" column="9" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
-      <jump line="145" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="132" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/QCPresenceService.java" />
       <jump line="196" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCProvisioningService.java" />
       <jump line="135" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/uce/PresenceInterface.java" />
@@ -1708,6 +1705,12 @@
       <jump line="118" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="193" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
       <jump line="143" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMNetworkLayer.java" />
+      <jump line="153" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="2222" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="730" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="632" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="657" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
+      <jump line="612" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1717,7 +1720,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</text>
+        <text encoding="base64">XDxhZGRPbmVUb09uZUNoYXRDb21wb3NpbmdTdGF0dXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
@@ -1757,12 +1760,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxhZGRPbmVUb09uZUNoYXRDb21wb3NpbmdTdGF0dXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRPbmVUb09uZUNoYXRDb21wb3NpbmdTdGF0dXNcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1802,6 +1805,9 @@
         <entry encoding="base64">XDxwcm9jZXNzb3JMaXN0XD4=</entry>
         <entry encoding="base64">XDxDTVNvY2tldFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</entry>
+        <entry>onSession</entry>
+        <entry encoding="base64">XDxnZXRPbmVUb09uZUNoYXRDb21wb3NpbmdTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxhZGRPbmVUb09uZUNoYXRDb21wb3NpbmdTdGF0dXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9kZXZpY2VDb25maWdLZXlzL3VzZXJDb25maWdLZXlzL2dj</entry>
