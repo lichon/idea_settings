@@ -229,8 +229,12 @@
         <mark key="." line="47" column="23" />
         <mark key="^" line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1547633377491">
-        <mark key="'" line="822" column="19" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1547634425104">
+        <mark key="'" line="821" column="19" />
+        <mark key="[" line="826" column="23" />
+        <mark key="]" line="826" column="38" />
+        <mark key="." line="826" column="38" />
+        <mark key="^" line="826" column="38" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/system_9_0/com.qualcomm.qti.imscmservice-V1.0-java.jar!/com/qualcomm/qti/imscmservice/V1_0/IImsCmServiceListener.class" timestamp="1536923563255">
         <mark key="'" line="102" column="0" />
@@ -1737,11 +1741,11 @@
       <jump line="822" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDYXBhYmlsaXR5U2VydmljZSBjYXBhYmlsaXR5U2VydmljZSA9IENhcAo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>ChatUtils.getMembersSet(participantsFromInvite)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuTWVkaWFTZXNzaW9uXD4=</text>
@@ -1750,34 +1754,34 @@
         <text>msgDbI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDYXBhYmlsaXR5U2VydmljZSBjYXBhYmlsaXR5U2VydmljZSA9IENhcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCg2MDAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gaWdub3JlKSB7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>new CapabilityService(this);</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkRlbGl2ZXJ5U3RhdHVzUmVjZWl2ZWQocmVtb3RlSWQsIGNwaW1Nc2cuZ2V0TWVzc2FnZUNvbnRlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDcGltSWRlbnRpdHkgY3BpbUlkZW50aXR5ID0gbmV3IENwaW1JZGVudGl0eSgic2lwOisxNDI1ODI5Nzg4MEBtc2cucGMudC1tb2JpbGUuY29tIik7CiAgICAgICAgUGhvbmVOdW1iZXIgcmVtb3RlTnVtYmVyID0gQ29udGFjdFV0aWwuZ2V0VmFsaWRQaG9uZU51bWJlckZyb21VcmkoY3BpbUlkZW50aXR5LmdldFVyaSgpKTsKICAgICAgICBzTG9nZ2VyLmRlYnVnKCJ0ZXN0ICIgK3JlbW90ZU51bWJlci5nZXROdW1iZXIoKSk7CiAgICAgICAgaWYgKHRydWUpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text>cpimIdentity.getUri()</text>
+        <text encoding="base64">IGZpbmFsbHkgew==</text>
       </register>
-      <register name="6" type="4">
-        <text>String</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>contains</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUxLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>identity</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBDYXBhYmlsaXR5U2VydmljZSBjYXBhYmlsaXR5U2VydmljZSA9IENhcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
