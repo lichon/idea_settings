@@ -812,8 +812,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/libs/api/src/main/java/com/gsma/services/rcs/chat/GroupChat.java" timestamp="1539769179495">
         <mark key="'" line="220" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_debug.xml" timestamp="1547637151897">
-        <mark key="'" line="34" column="54" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_debug.xml" timestamp="1547705325641">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/TelephonyUtils.java" timestamp="1540384043814">
         <mark key="'" line="322" column="14" />
@@ -1048,6 +1050,13 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidDatagramConnection.java" timestamp="1539842338415">
         <mark key="'" line="133" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1547705689535">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="47" />
+      </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/org/apache/http/conn/ssl/SSLSocketFactory.java" timestamp="1539853635651">
         <mark key="'" line="393" column="61" />
       </file>
@@ -1246,13 +1255,6 @@
       <file name="$USER_HOME$/repos/kp/server/order/src/main/java/kp/order/LastPriceService.java" timestamp="1546004722105">
         <mark key="'" line="26" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMInterface.java" timestamp="1546069166874">
-        <mark key="'" line="467" column="16" />
-        <mark key="[" line="471" column="68" />
-        <mark key="]" line="472" column="8" />
-        <mark key="." line="472" column="8" />
-        <mark key="^" line="472" column="8" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/tests/src/com/gsma/rcs/provider/UserProfilePersistedStorageUtilTest.java" timestamp="1545213243822">
         <mark key="'" line="159" column="32" />
         <mark key="[" line="159" column="32" />
@@ -1375,6 +1377,12 @@
         <mark key="^" line="95" column="17" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_up.xml" timestamp="1547705300650">
+        <mark key="[" line="1" column="68" />
+        <mark key="]" line="1" column="68" />
+        <mark key="." line="1" column="68" />
+        <mark key="^" line="1" column="68" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactTask.java" timestamp="1536308187492">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="28" column="0" />
@@ -1453,12 +1461,12 @@
         <mark key="." line="184" column="71" />
         <mark key="^" line="184" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1547637200521">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="141" column="37" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1547705357742">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="132" column="37" />
+        <mark key="." line="133" column="53" />
       </file>
       <file name="$USER_HOME$/repos/misc/VideoCompressor/app/app.iml" timestamp="1536914795895">
         <mark key="'" line="24" column="57" />
@@ -1631,21 +1639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="819" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
-      <jump line="822" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
-      <jump line="1447" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1481" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1506" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1528" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1591" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1592" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1905" column="99" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="134" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="155" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="174" column="81" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="194" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1117" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="193" column="9" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2127" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2126" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="214" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/LauncherUtils.java" />
@@ -1661,7 +1654,6 @@
       <jump line="8" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="35" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
-      <jump line="44" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="47" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="54" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="60" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
@@ -1731,58 +1723,74 @@
       <jump line="351" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="262" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
+      <jump line="51" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_up.xml" />
+      <jump line="44" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="36" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="6" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_up.xml" />
+      <jump line="98" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="104" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_up.xml" />
+      <jump line="48" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_up.xml" />
+      <jump line="50" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_up.xml" />
+      <jump line="12" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_up.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_up.xml" />
+      <jump line="133" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="10" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_debug.xml" />
+      <jump line="41" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="22" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBiYjIwOTU5ZjAxNzA2NzJlNjdhZDdiOTgzMWNlZDA2MDlmYjUxMmI5CiAgICAgICAgY29yZSA9IENvcmUuY3JlYXRlQ29yZSh0aGlzLCB0aGlzLCBtUmNzU2V0dGluZ3MsIG1Db250YWN0TWFuYWdlciwgbU1lc3NhZ2luZ0xvZywgbUhpc3RvcnlMb2cpOwoKICAgICAgICBJbnN0YW50TWVzc2FnaW5nU2VydmljZSBpbVNlcnZpY2UgPSBjb3JlLmdldEltU2VydmljZSgpOwogICAgICAgIENhcGFiaWxpdHlTZXJ2aWNlIGNhcGFiaWxpdHlTZXJ2aWNlID0gY29yZS5nZXRDYXBhYmlsaXR5U2VydmljZSgpOwoKICAgICAgICBtQ29udGFjdEFwaSA9IG5ldyBDb250YWN0U2VydmljZUltcGwobUNvbnRhY3RNYW5hZ2VyLCBtUmNzU2V0dGluZ3MpOwogICAgICAgIG1DYXBhYmlsaXR5QXBpID0gbmV3IENhcGFiaWxpdHlTZXJ2aWNlSW1wbChjYXBhYmlsaXR5U2VydmljZSk7CiAgICAgICAgbUNoYXRBcGkgPSBuZXcgQ2hhdFNlcnZpY2VJbXBsKGltU2VydmljZSk7CiAgICAgICAgbUZ0QXBpID0gbmV3IEZpbGVUcmFuc2ZlclNlcnZpY2VJbXBsKGltU2VydmljZSwgbUNoYXRBcGkpOwoKICAgICAgICBtSGlzdG9yeUFwaSA9IG5ldyBIaXN0b3J5U2VydmljZUltcGwodGhpcyk7CiAgICAgICAgbVVwbG9hZEFwaSA9IG5ldyBGaWxlVXBsb2FkU2VydmljZUltcGwoaW1TZXJ2aWNlKTsKCiAgICAgICAgTG9nZ2VyLnNBY3RpdmF0aW9uRmxhZyA9IG1SY3NTZXR0aW5ncy5pc1RyYWNlQWN0aXZhdGVkKCk7CiAgICAgICAgTG9nZ2VyLnRyYWNlTGV2ZWwgPSBtUmNzU2V0dGluZ3MuZ2V0VHJhY2VMZXZlbCgpOwoKICAgICAgICBjb3JlLmluaXRpYWxpemUoKTsKCiAgICAgICAgY29yZS5zdGFydENvcmUoKTsKCiAgICAgICAgLy8gQ3JlYXRlIG11bHRpbWVkaWEgZGlyZWN0b3J5IG9uIHNkY2FyZAogICAgICAgIEZpbGVVdGlscy5pbml0RGlycyhtUmNzU2V0dGluZ3MpOwoKICAgICAgICAvLyBJbml0IENQVSBtYW5hZ2VyCiAgICAgICAgbUNwdU1hbmFnZXIgPSBuZXcgQ3B1TWFuYWdlcihtUmNzU2V0dGluZ3MpOwogICAgICAgIG1DcHVNYW5hZ2VyLmluaXQoKTsKCiAgICAgICAgaWYgKGxvZ0FjdGl2YXRlZCkgewogICAgICAgICAgICBzTG9nZ2VyLmluZm8oIlJDUyBjb3JlIHNlcnZpY2Ugc3RhcnRlZCB3aXRoIHN1Y2Nlc3MiKTsKPT09PT09PQo=</text>
+        <text encoding="base64">CiAgICA8c3VwcG9ydHMtc2NyZWVucwogICAgICAgIGFuZHJvaWQ6YW55RGVuc2l0eT0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmxhcmdlU2NyZWVucz0idHJ1ZSIKICAgICAgICBhbmRyb2lkOm5vcm1hbFNjcmVlbnM9InRydWUiCiAgICAgICAgYW5kcm9pZDpzbWFsbFNjcmVlbnM9InRydWUiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>start</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw8</text>
+        <text encoding="base64">XDxleHBvcnRlZFw+</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBiYjIwOTU5ZjAxNzA2NzJlNjdhZDdiOTgzMWNlZDA2MDlmYjUxMmI5CiAgICAgICAgY29yZSA9IENvcmUuY3JlYXRlQ29yZSh0aGlzLCB0aGlzLCBtUmNzU2V0dGluZ3MsIG1Db250YWN0TWFuYWdlciwgbU1lc3NhZ2luZ0xvZywgbUhpc3RvcnlMb2cpOwoKICAgICAgICBJbnN0YW50TWVzc2FnaW5nU2VydmljZSBpbVNlcnZpY2UgPSBjb3JlLmdldEltU2VydmljZSgpOwogICAgICAgIENhcGFiaWxpdHlTZXJ2aWNlIGNhcGFiaWxpdHlTZXJ2aWNlID0gY29yZS5nZXRDYXBhYmlsaXR5U2VydmljZSgpOwoKICAgICAgICBtQ29udGFjdEFwaSA9IG5ldyBDb250YWN0U2VydmljZUltcGwobUNvbnRhY3RNYW5hZ2VyLCBtUmNzU2V0dGluZ3MpOwogICAgICAgIG1DYXBhYmlsaXR5QXBpID0gbmV3IENhcGFiaWxpdHlTZXJ2aWNlSW1wbChjYXBhYmlsaXR5U2VydmljZSk7CiAgICAgICAgbUNoYXRBcGkgPSBuZXcgQ2hhdFNlcnZpY2VJbXBsKGltU2VydmljZSk7CiAgICAgICAgbUZ0QXBpID0gbmV3IEZpbGVUcmFuc2ZlclNlcnZpY2VJbXBsKGltU2VydmljZSwgbUNoYXRBcGkpOwoKICAgICAgICBtSGlzdG9yeUFwaSA9IG5ldyBIaXN0b3J5U2VydmljZUltcGwodGhpcyk7CiAgICAgICAgbVVwbG9hZEFwaSA9IG5ldyBGaWxlVXBsb2FkU2VydmljZUltcGwoaW1TZXJ2aWNlKTsKCiAgICAgICAgTG9nZ2VyLnNBY3RpdmF0aW9uRmxhZyA9IG1SY3NTZXR0aW5ncy5pc1RyYWNlQWN0aXZhdGVkKCk7CiAgICAgICAgTG9nZ2VyLnRyYWNlTGV2ZWwgPSBtUmNzU2V0dGluZ3MuZ2V0VHJhY2VMZXZlbCgpOwoKICAgICAgICBjb3JlLmluaXRpYWxpemUoKTsKCiAgICAgICAgY29yZS5zdGFydENvcmUoKTsKCiAgICAgICAgLy8gQ3JlYXRlIG11bHRpbWVkaWEgZGlyZWN0b3J5IG9uIHNkY2FyZAogICAgICAgIEZpbGVVdGlscy5pbml0RGlycyhtUmNzU2V0dGluZ3MpOwoKICAgICAgICAvLyBJbml0IENQVSBtYW5hZ2VyCiAgICAgICAgbUNwdU1hbmFnZXIgPSBuZXcgQ3B1TWFuYWdlcihtUmNzU2V0dGluZ3MpOwogICAgICAgIG1DcHVNYW5hZ2VyLmluaXQoKTsKCiAgICAgICAgaWYgKGxvZ0FjdGl2YXRlZCkgewogICAgICAgICAgICBzTG9nZ2VyLmluZm8oIlJDUyBjb3JlIHNlcnZpY2Ugc3RhcnRlZCB3aXRoIHN1Y2Nlc3MiKTsKPT09PT09PQo=</text>
+        <text encoding="base64">CiAgICA8c3VwcG9ydHMtc2NyZWVucwogICAgICAgIGFuZHJvaWQ6YW55RGVuc2l0eT0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmxhcmdlU2NyZWVucz0idHJ1ZSIKICAgICAgICBhbmRyb2lkOm5vcm1hbFNjcmVlbnM9InRydWUiCiAgICAgICAgYW5kcm9pZDpzbWFsbFNjcmVlbnM9InRydWUiIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgY2hhdGJvdCBzZXJ2aWNlIGFwaS4K</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5nc21hLnJjcyI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGQgY2hhdGJvdCBzZXJ2aWNlIGFwaS4K</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjb3JlID0gQ29yZS5jcmVhdGVDb3JlKHRoaXMsIHRoaXMsIG1SY3NTZXR0aW5ncywgbUNvbnRhY3RNYW5hZ2VyLCBtTWVzc2FnaW5nTG9nLCBtSGlzdG9yeUxvZyk7CgogICAgICAgICAgICBJbnN0YW50TWVzc2FnaW5nU2VydmljZSBpbVNlcnZpY2UgPSBjb3JlLmdldEltU2VydmljZSgpOwogICAgICAgICAgICBDYXBhYmlsaXR5U2VydmljZSBjYXBhYmlsaXR5U2VydmljZSA9IGNvcmUuZ2V0Q2FwYWJpbGl0eVNlcnZpY2UoKTsKCiAgICAgICAgICAgIG1Db250YWN0QXBpID0gbmV3IENvbnRhY3RTZXJ2aWNlSW1wbChtQ29udGFjdE1hbmFnZXIsIG1SY3NTZXR0aW5ncyk7CiAgICAgICAgICAgIG1DYXBhYmlsaXR5QXBpID0gbmV3IENhcGFiaWxpdHlTZXJ2aWNlSW1wbChjYXBhYmlsaXR5U2VydmljZSk7CiAgICAgICAgICAgIG1DaGF0QXBpID0gbmV3IENoYXRTZXJ2aWNlSW1wbChpbVNlcnZpY2UpOwogICAgICAgICAgICBtQ2hhdGJvdEFwaSA9IG5ldyBDaGF0Ym90U2VydmljZUltcGwoaW1TZXJ2aWNlKTsKICAgICAgICAgICAgbUZ0QXBpID0gbmV3IEZpbGVUcmFuc2ZlclNlcnZpY2VJbXBsKGltU2VydmljZSwgbUNoYXRBcGkpOwoKICAgICAgICAgICAgbUhpc3RvcnlBcGkgPSBuZXcgSGlzdG9yeVNlcnZpY2VJbXBsKHRoaXMpOwogICAgICAgICAgICBtVXBsb2FkQXBpID0gbmV3IEZpbGVVcGxvYWRTZXJ2aWNlSW1wbChpbVNlcnZpY2UpOwoKICAgICAgICAgICAgTG9nZ2VyLnNBY3RpdmF0aW9uRmxhZyA9IG1SY3NTZXR0aW5ncy5pc1RyYWNlQWN0aXZhdGVkKCk7CiAgICAgICAgICAgIExvZ2dlci50cmFjZUxldmVsID0gbVJjc1NldHRpbmdzLmdldFRyYWNlTGV2ZWwoKTsKCiAgICAgICAgICAgIGNvcmUuaW5pdGlhbGl6ZSgpOwoKICAgICAgICAgICAgY29yZS5zdGFydENvcmUoKTsKCiAgICAgICAgICAgIC8vIENyZWF0ZSBtdWx0aW1lZGlhIGRpcmVjdG9yeSBvbiBzZGNhcmQKICAgICAgICAgICAgRmlsZUZhY3RvcnkuY3JlYXRlRGlyZWN0b3J5KG1SY3NTZXR0aW5ncy5nZXRQaG90b1Jvb3REaXJlY3RvcnkoKSk7CiAgICAgICAgICAgIEZpbGVGYWN0b3J5LmNyZWF0ZURpcmVjdG9yeShtUmNzU2V0dGluZ3MuZ2V0VmlkZW9Sb290RGlyZWN0b3J5KCkpOwogICAgICAgICAgICBGaWxlRmFjdG9yeS5jcmVhdGVEaXJlY3RvcnkobVJjc1NldHRpbmdzLmdldEF1ZGlvUm9vdERpcmVjdG9yeSgpKTsKICAgICAgICAgICAgRmlsZUZhY3RvcnkuY3JlYXRlRGlyZWN0b3J5KG1SY3NTZXR0aW5ncy5nZXRGaWxlUm9vdERpcmVjdG9yeSgpKTsKICAgICAgICAgICAgU3RyaW5nIGZpbGVJY29uRGlyZWN0b3J5ID0gbVJjc1NldHRpbmdzLmdldEZpbGVJY29uUm9vdERpcmVjdG9yeSgpOwogICAgICAgICAgICBGaWxlRmFjdG9yeS5jcmVhdGVEaXJlY3RvcnkoZmlsZUljb25EaXJlY3RvcnkpOwogICAgICAgICAgICBGaWxlRmFjdG9yeS5zZXROb01lZGlhKGZpbGVJY29uRGlyZWN0b3J5KTsKICAgICAgICAgICAgU3RyaW5nIHNlbnRQaG90b0RpcmVjdG9yeSA9IENvbnRlbnRNYW5hZ2VyLmdldFNlbnRQaG90b1Jvb3REaXJlY3RvcnkobVJjc1NldHRpbmdzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBiYjIwOTU5ZjAxNzA2NzJlNjdhZDdiOTgzMWNlZDA2MDlmYjUxMmI5CiAgICAgICAgY29yZSA9IENvcmUuY3JlYXRlQ29yZSh0aGlzLCB0aGlzLCBtUmNzU2V0dGluZ3MsIG1Db250YWN0TWFuYWdlciwgbU1lc3NhZ2luZ0xvZywgbUhpc3RvcnlMb2cpOwoKICAgICAgICBJbnN0YW50TWVzc2FnaW5nU2VydmljZSBpbVNlcnZpY2UgPSBjb3JlLmdldEltU2VydmljZSgpOwogICAgICAgIENhcGFiaWxpdHlTZXJ2aWNlIGNhcGFiaWxpdHlTZXJ2aWNlID0gY29yZS5nZXRDYXBhYmlsaXR5U2VydmljZSgpOwoKICAgICAgICBtQ29udGFjdEFwaSA9IG5ldyBDb250YWN0U2VydmljZUltcGwobUNvbnRhY3RNYW5hZ2VyLCBtUmNzU2V0dGluZ3MpOwogICAgICAgIG1DYXBhYmlsaXR5QXBpID0gbmV3IENhcGFiaWxpdHlTZXJ2aWNlSW1wbChjYXBhYmlsaXR5U2VydmljZSk7CiAgICAgICAgbUNoYXRBcGkgPSBuZXcgQ2hhdFNlcnZpY2VJbXBsKGltU2VydmljZSk7CiAgICAgICAgbUZ0QXBpID0gbmV3IEZpbGVUcmFuc2ZlclNlcnZpY2VJbXBsKGltU2VydmljZSwgbUNoYXRBcGkpOwoKICAgICAgICBtSGlzdG9yeUFwaSA9IG5ldyBIaXN0b3J5U2VydmljZUltcGwodGhpcyk7CiAgICAgICAgbVVwbG9hZEFwaSA9IG5ldyBGaWxlVXBsb2FkU2VydmljZUltcGwoaW1TZXJ2aWNlKTsKCiAgICAgICAgTG9nZ2VyLnNBY3RpdmF0aW9uRmxhZyA9IG1SY3NTZXR0aW5ncy5pc1RyYWNlQWN0aXZhdGVkKCk7CiAgICAgICAgTG9nZ2VyLnRyYWNlTGV2ZWwgPSBtUmNzU2V0dGluZ3MuZ2V0VHJhY2VMZXZlbCgpOwoKICAgICAgICBjb3JlLmluaXRpYWxpemUoKTsKCiAgICAgICAgY29yZS5zdGFydENvcmUoKTsKCiAgICAgICAgLy8gQ3JlYXRlIG11bHRpbWVkaWEgZGlyZWN0b3J5IG9uIHNkY2FyZAogICAgICAgIEZpbGVVdGlscy5pbml0RGlycyhtUmNzU2V0dGluZ3MpOwoKICAgICAgICAvLyBJbml0IENQVSBtYW5hZ2VyCiAgICAgICAgbUNwdU1hbmFnZXIgPSBuZXcgQ3B1TWFuYWdlcihtUmNzU2V0dGluZ3MpOwogICAgICAgIG1DcHVNYW5hZ2VyLmluaXQoKTsKCiAgICAgICAgaWYgKGxvZ0FjdGl2YXRlZCkgewogICAgICAgICAgICBzTG9nZ2VyLmluZm8oIlJDUyBjb3JlIHNlcnZpY2Ugc3RhcnRlZCB3aXRoIHN1Y2Nlc3MiKTsKPT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YS5zcmNEaXJzICs9IFsnY21fc3JjJ10K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6bGFyZ2VIZWFwPSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6bmFtZT0iLnNlcnZpY2UuTWFpbkFwcGxpY2F0aW9uIgogICAgICAgIGFuZHJvaWQ6cGVyc2lzdGVudD0idHJ1ZSI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YS5zcmNEaXJzICs9IFsnY21fc3JjJ10K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIFN0YXJ0dXAgc2VydmljZSAtLT4KICAgICAgICA8c2VydmljZQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9Ii5zZXJ2aWNlLlN0YXJ0U2VydmljZSIKICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIvPgoKICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIuc2VydmljZS5NYWluQWN0aXZpdHkiPgogICAgICAgICAgICA8aW50ZW50LWZpbHRlcj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgIDwvYWN0aXZpdHk+Cgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YS5leGNsdWRlCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIFByb3Zpc2lvbmluZyBQdXNoIFNNUyBSZWNlaXZlciAtLT4KICAgICAgICA8cmVjZWl2ZXIgYW5kcm9pZDpuYW1lPSIucHJvdmlzaW9uaW5nLmh0dHBzLlByb3Zpc2lvbmluZ1B1c2hTTVNSZWNlaXZlciI+CiAgICAgICAgICAgIDxpbnRlbnQtZmlsdGVyPgogICAgICAgICAgICAgICAgPGFjdGlvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmFjdGlvbi5EQVRBX1NNU19SRUNFSVZFRCIgLz4KCiAgICAgICAgICAgICAgICA8ZGF0YQogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aG9zdD0ibG9jYWxob3N0IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cG9ydD0iMzcyNzMiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzY2hlbWU9InNtcyIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgIDwvcmVjZWl2ZXI+CgogICAgICAgIDwhLS0gSFRUUFMgcHJvdmlzaW9uaW5nIHNlcnZpY2UgLS0+CiAgICAgICAgPHNlcnZpY2UgYW5kcm9pZDpuYW1lPSIucHJvdmlzaW9uaW5nLmh0dHBzLkh0dHBzUHJvdmlzaW9uaW5nU2VydmljZSIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YS5leGNsdWRlCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIFJDUyBkYXRhIHByb3ZpZGVycyAtLT4KICAgICAgICA8cHJvdmlkZXIKICAgICAgICAgICAgYW5kcm9pZDphdXRob3JpdGllcz0iY29tLmdzbWEucmNzLnNldHRpbmc7Y29tLmdzbWEuc2VydmljZXMucmNzLnByb3ZpZGVyLnNldHRpbmciCiAgICAgICAgICAgIGFuZHJvaWQ6ZXhwb3J0ZWQ9InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iLnByb3ZpZGVyLnNldHRpbmdzLlJjc1NldHRpbmdzUHJvdmlkZXIiCiAgICAgICAgICAgIGFuZHJvaWQ6cGVybWlzc2lvbj0iY29tLmdzbWEuc2VydmljZXMucGVybWlzc2lvbi5SQ1MiIC8+CiAgICAgICAgPHByb3ZpZGVyCiAgICAgICAgICAgIGFuZHJvaWQ6YXV0aG9yaXRpZXM9ImNvbS5nc21hLnJjcy5jaGF0O2NvbS5nc21hLnNlcnZpY2VzLnJjcy5wcm92aWRlci5jaGF0IgogICAgICAgICAgICBhbmRyb2lkOmV4cG9ydGVkPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOm5hbWU9Ii5wcm92aWRlci5tZXNzYWdpbmcuQ2hhdFByb3ZpZGVyIgogICAgICAgICAgICBhbmRyb2lkOnJlYWRQZXJtaXNzaW9uPSJjb20uZ3NtYS5zZXJ2aWNlcy5wZXJtaXNzaW9uLlJDUyIKICAgICAgICAgICAgYW5kcm9pZDp3cml0ZVBlcm1pc3Npb249ImNvbS5nc21hLnNlcnZpY2VzLnBlcm1pc3Npb24uUkNTX0lOVEVSTkFMX0FDQ0VTU19PTkxZIiAvPgogICAgICAgIDxwcm92aWRlcgogICAgICAgICAgICBhbmRyb2lkOmF1dGhvcml0aWVzPSJjb20uZ3NtYS5yY3MuZ3JvdXBkZWxpdmVyeWluZm87Y29tLmdzbWEuc2VydmljZXMucmNzLnByb3ZpZGVyLmdyb3VwZGVsaXZlcnlpbmZvIgogICAgICAgICAgICBhbmRyb2lkOmV4cG9ydGVkPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOm5hbWU9Ii5wcm92aWRlci5tZXNzYWdpbmcuR3JvdXBEZWxpdmVyeUluZm9Qcm92aWRlciIKICAgICAgICAgICAgYW5kcm9pZDpyZWFkUGVybWlzc2lvbj0iY29tLmdzbWEuc2VydmljZXMucGVybWlzc2lvbi5SQ1MiCiAgICAgICAgICAgIGFuZHJvaWQ6d3JpdGVQZXJtaXNzaW9uPSJjb20uZ3NtYS5zZXJ2aWNlcy5wZXJtaXNzaW9uLlJDU19JTlRFUk5BTF9BQ0NFU1NfT05MWSIgLz4KICAgICAgICA8cHJvdmlkZXIKICAgICAgICAgICAgYW5kcm9pZDphdXRob3JpdGllcz0iY29tLmdzbWEucmNzLmZpbGV0cmFuc2Zlcjtjb20uZ3NtYS5zZXJ2aWNlcy5yY3MucHJvdmlkZXIuZmlsZXRyYW5zZmVyIgogICAgICAgICAgICBhbmRyb2lkOmV4cG9ydGVkPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOm5hbWU9Ii5wcm92aWRlci5tZXNzYWdpbmcuRmlsZVRyYW5zZmVyUHJvdmlkZXIiCiAgICAgICAgICAgIGFuZHJvaWQ6cmVhZFBlcm1pc3Npb249ImNvbS5nc21hLnNlcnZpY2VzLnBlcm1pc3Npb24uUkNTIgogICAgICAgICAgICBhbmRyb2lkOndyaXRlUGVybWlzc2lvbj0iY29tLmdzbWEuc2VydmljZXMucGVybWlzc2lvbi5SQ1NfSU5URVJOQUxfQUNDRVNTX09OTFkiIC8+CiAgICAgICAgPHByb3ZpZGVyCiAgICAgICAgICAgIGFuZHJvaWQ6YXV0aG9yaXRpZXM9ImNvbS5nc21hLnJjcy5jYXBhYmlsaXR5O2NvbS5nc21hLnNlcnZpY2VzLnJjcy5wcm92aWRlci5jYXBhYmlsaXR5IgogICAgICAgICAgICBhbmRyb2lkOmV4cG9ydGVkPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOm5hbWU9Ii5wcm92aWRlci5jb250YWN0LkNvbnRhY3RQcm92aWRlciIKICAgICAgICAgICAgYW5kcm9pZDpyZWFkUGVybWlzc2lvbj0iY29tLmdzbWEuc2VydmljZXMucGVybWlzc2lvbi5SQ1MiCiAgICAgICAgICAgIGFuZHJvaWQ6d3JpdGVQZXJtaXNzaW9uPSJjb20uZ3NtYS5zZXJ2aWNlcy5wZXJtaXNzaW9uLlJDU19JTlRFUk5BTF9BQ0NFU1NfT05MWSIgLz4KICAgICAgICA8cHJvdmlkZXIKICAgICAgICAgICAgYW5kcm9pZDphdXRob3JpdGllcz0iY29tLmdzbWEucmNzLmhpc3Rvcnk7Y29tLmdzbWEuc2VydmljZXMucmNzLnByb3ZpZGVyLmhpc3RvcnkiCiAgICAgICAgICAgIGFuZHJvaWQ6ZXhwb3J0ZWQ9InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iLnByb3ZpZGVyLmhpc3RvcnkuSGlzdG9yeVByb3ZpZGVyIgogICAgICAgICAgICBhbmRyb2lkOnJlYWRQZXJtaXNzaW9uPSJjb20uZ3NtYS5zZXJ2aWNlcy5wZXJtaXNzaW9uLlJDUyIKICAgICAgICAgICAgYW5kcm9pZDp3cml0ZVBlcm1pc3Npb249ImNvbS5nc21hLnNlcnZpY2VzLnBlcm1pc3Npb24uUkNTX0lOVEVSTkFMX0FDQ0VTU19PTkxZIiAvPgoKICAgICAgICA8IS0tIERldmljZSBldmVudHMgcmVjZWl2ZXIgLS0+CgogICAgICAgIDxyZWNlaXZlciBhbmRyb2lkOm5hbWU9Ii5zZXJ2aWNlLkRldmljZUJvb3QiPgogICAgICAgICAgICA8aW50ZW50LWZpbHRlcj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uQk9PVF9DT01QTEVURUQiIC8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4KICAgICAgICA8L3JlY2VpdmVyPgogICAgICAgIDxyZWNlaXZlciBhbmRyb2lkOm5hbWU9Ii5zZXJ2aWNlLkRldmljZVNodXRkb3duIj4KICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLkFDVElPTl9TSFVURE9XTiIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgIDwvcmVjZWl2ZXI+Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw8</last-search>
+      <last-search encoding="base64">XDxleHBvcnRlZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw8</last-pattern>
+      <last-pattern encoding="base64">XDxleHBvcnRlZFw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1790,31 +1798,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cannot pa</entry>
-        <entry>CRU</entry>
-        <entry>Gruu</entry>
-        <entry>Instan</entry>
-        <entry encoding="base64">XDxVRVB1YkdydXVcPg==</entry>
-        <entry encoding="base64">XDxwVUVQdWJHcnV1XD4=</entry>
-        <entry encoding="base64">XDxwQXJyTkNcPg==</entry>
-        <entry encoding="base64">XDxpbnZpdGVQYXJ0aWNpcGFudHNcPg==</entry>
-        <entry encoding="base64">XDxjb250YWN0XD4=</entry>
-        <entry encoding="base64">XDxHcm91cENoYXRJbXBsXD4=</entry>
-        <entry>TMO</entry>
-        <entry>Discard delivery report send to</entry>
-        <entry>Discar</entry>
-        <entry encoding="base64">XDxyZW1vdGVJZFw+</entry>
-        <entry encoding="base64">XDxudW1iZXJcPg==</entry>
-        <entry>QCPre</entry>
-        <entry>QCP</entry>
-        <entry encoding="base64">XDxtQ3VycmVudE5ldHdvcmtJbnRlcmZhY2VcPg==</entry>
-        <entry encoding="base64">XDxQcmVzZW5jZVNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVJbXNEaXNwYXRjaEVycm9yXD4=</entry>
-        <entry>termin</entry>
-        <entry>open</entry>
-        <entry encoding="base64">XDxvcGVuTWVkaWFTZXNzaW9uXD4=</entry>
-        <entry encoding="base64">XDxtVHlwZVw+</entry>
-        <entry encoding="base64">XDxzZXRHcm91cENoYXRUeXBlXD4=</entry>
         <entry>lib</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50VXNlckFjY291bnRcPg==</entry>
         <entry encoding="base64">XDxjaGVja0FjY291bnRcPg==</entry>
@@ -1835,6 +1818,8 @@
         <entry encoding="base64">XDxzdGFydENtU2VydmljZUxpc3RlbmluZ1w+</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw8</entry>
+        <entry encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</entry>
+        <entry encoding="base64">XDxleHBvcnRlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9kZXZpY2VDb25maWdLZXlzL3VzZXJDb25maWdLZXlzL2dj</entry>
