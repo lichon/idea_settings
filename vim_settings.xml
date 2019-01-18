@@ -641,8 +641,8 @@
         <mark key="^" line="205" column="29" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" timestamp="1545734596885">
-        <mark key="'" line="380" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" timestamp="1547800496323">
+        <mark key="'" line="300" column="32" />
         <mark key="[" line="1770" column="109" />
         <mark key="]" line="1771" column="11" />
         <mark key="." line="1771" column="68" />
@@ -911,10 +911,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/TelephonyUtils.java" timestamp="1540384043814">
         <mark key="'" line="322" column="14" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1547799216122">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1547801378209">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="5" column="73" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/UpdateSessionManager.java" timestamp="1536904404389">
@@ -1408,19 +1408,19 @@
         <mark key="." line="159" column="32" />
         <mark key="^" line="140" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsConnectionManager.java" timestamp="1547797484070">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsConnectionManager.java" timestamp="1547801931806">
         <mark key="'" line="49" column="27" />
-        <mark key="[" line="95" column="20" />
-        <mark key="]" line="95" column="23" />
-        <mark key="." line="95" column="23" />
-        <mark key="^" line="95" column="23" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+        <mark key="^" line="54" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" timestamp="1547799469833">
-        <mark key="'" line="261" column="57" />
-        <mark key="[" line="247" column="62" />
-        <mark key="]" line="247" column="62" />
-        <mark key="^" line="247" column="62" />
-        <mark key="." line="247" column="62" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" timestamp="1547801300197">
+        <mark key="'" line="263" column="27" />
+        <mark key="[" line="259" column="76" />
+        <mark key="]" line="259" column="89" />
+        <mark key="^" line="259" column="89" />
+        <mark key="." line="259" column="89" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCSipInterface.java" timestamp="1543056359345">
         <mark key="'" line="45" column="17" />
@@ -1815,11 +1815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
-      <jump line="180" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
-      <jump line="483" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
-      <jump line="197" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
-      <jump line="251" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="283" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="298" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="189" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
@@ -1915,58 +1910,63 @@
       <jump line="188" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="45" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="261" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
+      <jump line="306" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" />
+      <jump line="2653" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" />
+      <jump line="300" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" />
+      <jump line="257" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
+      <jump line="263" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1Db3JlLmdldENhcGFiaWxpdHlTZXJ2aWNlKCkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgbUNvcmUuZ2V0Q2FwYWJpbGl0eVNlcnZpY2UoKS5zdGFydCgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">aW52YWxpZCA=</text>
+        <text encoding="base64">XDx1c2VybmFtZVw+</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20ubWVkaWF0ZWsuaW1zLnJjc3VhLnBlcm1pc3Npb24uVVNFX1NFUlZJQ0UiIC8+Cgo=</text>
+      <register name="1" type="4">
+        <text>.start();</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iY29tLm1lZGlhdGVrLmltcy5yY3N1YS5wZXJtaXNzaW9uLlVTRV9TRVJWSUNFIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>, 'libs/mtk']</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIuc2VydmljZS5NYWluQWN0aXZpdHkiPgogICAgICAgICAgICA8aW50ZW50LWZpbHRlcj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIgLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiIC8+CiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgIDwvYWN0aXZpdHk+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBpbXBsZW1lbnRhdGlvbiBmaWxlcygnbGlicy9tdGsvY29tLm1lZGlhdGVrLmltcy5yY3N1YS5qYXInKQo=</text>
+      <register name="5" type="4">
+        <text>impu</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>impu</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20ubWVkaWF0ZWsuaW1zLnJjc3VhLnBlcm1pc3Npb24uVVNFX1NFUlZJQ0UiLz4K</text>
+      <register name="7" type="4">
+        <text>impu</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgYXQgYW5kcm9pZC5hcHAuQ29udGV4dEltcGwuc3RhcnRTZXJ2aWNlQ29tbW9uKENvbnRleHRJbXBsLmphdmE6MTU3MSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>com.mediatek.ims.rcsua.permission.USE_SERVICE</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyUGhvbmUgPSBDb250YWN0VXRpbC5nZXRWYWxpZFBob25lTnVtYmVyRnJvbVVyaShpbXB1KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">aW52YWxpZCA=</last-search>
+      <last-search encoding="base64">XDx1c2VybmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">aW52YWxpZCA=</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VybmFtZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2057,6 +2057,10 @@
         <entry>debug</entry>
         <entry encoding="base64">XDxVU0VfU0VSVklDRVw+</entry>
         <entry encoding="base64">aW52YWxpZCA=</entry>
+        <entry encoding="base64">XDxQUk9KX1JBV19DT05UQUNUX0RBVEExXD4=</entry>
+        <entry encoding="base64">XDxTRUxfREFUQV9NSU1FVFlQRV9DQVBBQklMSVRZX0lQX1ZJREVPX0NBTExcPg==</entry>
+        <entry encoding="base64">XDx1c2VyUGhvbmVcPg==</entry>
+        <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9kZXZpY2VDb25maWdLZXlzL3VzZXJDb25maWdLZXlzL2dj</entry>
