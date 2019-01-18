@@ -134,12 +134,12 @@
         <mark key="^" line="52" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" timestamp="1547805841645">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" timestamp="1547809807257">
         <mark key="'" line="407" column="17" />
-        <mark key="[" line="314" column="12" />
-        <mark key="]" line="314" column="12" />
-        <mark key="." line="314" column="12" />
-        <mark key="^" line="314" column="12" />
+        <mark key="[" line="314" column="17" />
+        <mark key="]" line="314" column="18" />
+        <mark key="." line="314" column="18" />
+        <mark key="^" line="314" column="18" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1545640418168">
         <mark key="'" line="430" column="16" />
@@ -914,11 +914,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/TelephonyUtils.java" timestamp="1540384043814">
         <mark key="'" line="322" column="14" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1547807214949">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="43" />
-        <mark key="^" line="2" column="43" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1547809703207">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/UpdateSessionManager.java" timestamp="1536904404389">
         <mark key="'" line="108" column="52" />
@@ -1094,6 +1093,11 @@
         <mark key="." line="75" column="79" />
         <mark key="^" line="75" column="79" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1547726304854">
+        <mark key="[" line="214" column="23" />
+        <mark key="]" line="214" column="23" />
+        <mark key="." line="214" column="23" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/CarrierConfigContentObserver.java" timestamp="1539857287843">
         <mark key="'" line="10" column="59" />
         <mark key="[" line="8" column="0" />
@@ -1165,12 +1169,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidDatagramConnection.java" timestamp="1539842338415">
         <mark key="'" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1547806989389">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1547810239169">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="42" />
-        <mark key="." line="52" column="42" />
-        <mark key="^" line="52" column="42" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="38" />
+        <mark key="." line="52" column="38" />
+        <mark key="^" line="52" column="38" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/org/apache/http/conn/ssl/SSLSocketFactory.java" timestamp="1539853635651">
         <mark key="'" line="393" column="61" />
@@ -1630,7 +1634,8 @@
         <mark key="." line="184" column="71" />
         <mark key="^" line="184" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1547799201528">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1547809829528">
+        <mark key="'" line="24" column="54" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="^" line="132" column="37" />
@@ -1813,9 +1818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/LauncherUtils.java" />
-      <jump line="704" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="702" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1068" column="46" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="708" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1457" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
@@ -1902,7 +1904,6 @@
       <jump line="27" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/RcsServiceApi.java" />
       <jump line="98" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/RcsServiceApi.java" />
       <jump line="455" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
-      <jump line="407" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="314" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="416" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="421" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
@@ -1913,61 +1914,65 @@
       <jump line="119" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="162" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="405" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
+      <jump line="47" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
+      <jump line="407" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
+      <jump line="53" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="24" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mtk</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3RlclNpbVN0YXRlQ2hhbmdlQnJvYWRjYXN0UmVjZWl2ZXJcPg==</text>
+        <text encoding="base64">XDxSRUFEX1BIT05FX1NUQVRFXD4=</text>
       </register>
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
       <register name="1" type="4">
-        <text>op_platform</text>
+        <text>mtk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">JiY=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>false</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIW1SY3NTZXR0aW5ncy5pc010a0NvbmZpZ3VyYXRpb25Nb2RlKCkgJiYgIW1SY3NTZXR0aW5ncy5pc1FDSU1TTW9kZSgpKSB7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
       </register>
       <register name="5" type="4">
-        <text>.isMtkConfigurationMode())</text>
+        <text>op_platform</text>
       </register>
-      <register name="6" type="4">
-        <text>system</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
       </register>
-      <register name="7" type="4">
-        <text>.phone</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIW1SY3NTZXR0aW5ncy5pc010a0NvbmZpZ3VyYXRpb25Nb2RlKCkgJiYgIW1SY3NTZXR0aW5ncy5pc1FDSU1TTW9kZSgpKSB7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>userdebug</text>
+        <text>.isMtkConfigurationMode())</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3RlclNpbVN0YXRlQ2hhbmdlQnJvYWRjYXN0UmVjZWl2ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxSRUFEX1BIT05FX1NUQVRFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3RlclNpbVN0YXRlQ2hhbmdlQnJvYWRjYXN0UmVjZWl2ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSRUFEX1BIT05FX1NUQVRFXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2069,6 +2074,9 @@
         <entry encoding="base64">XDxnZXREZXZpY2VVVUlEXD4=</entry>
         <entry>imsi</entry>
         <entry encoding="base64">XDxyZWdpc3RlclNpbVN0YXRlQ2hhbmdlQnJvYWRjYXN0UmVjZWl2ZXJcPg==</entry>
+        <entry>Mtk</entry>
+        <entry>READ_P</entry>
+        <entry encoding="base64">XDxSRUFEX1BIT05FX1NUQVRFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9kZXZpY2VDb25maWdLZXlzL3VzZXJDb25maWdLZXlzL2dj</entry>
