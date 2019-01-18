@@ -1169,12 +1169,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/AndroidDatagramConnection.java" timestamp="1539842338415">
         <mark key="'" line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1547804326879">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1547806989389">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="49" column="41" />
-        <mark key="]" line="49" column="48" />
-        <mark key="." line="49" column="48" />
-        <mark key="^" line="49" column="48" />
+        <mark key="[" line="52" column="42" />
+        <mark key="]" line="52" column="42" />
+        <mark key="." line="52" column="42" />
+        <mark key="^" line="52" column="42" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/org/apache/http/conn/ssl/SSLSocketFactory.java" timestamp="1539853635651">
         <mark key="'" line="393" column="61" />
@@ -1920,7 +1920,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>op_platform</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1931,35 +1931,35 @@
       <register name="0" type="4">
         <text>msgDbI</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
+      <register name="1" type="4">
+        <text>op_platform</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIW1SY3NTZXR0aW5ncy5pc010a0NvbmZpZ3VyYXRpb25Nb2RlKCkgJiYgIW1SY3NTZXR0aW5ncy5pc1FDSU1TTW9kZSgpKSB7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.isMtkConfigurationMode())</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>system</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.phone</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>userdebug</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFuaWZlc3Quc3JjRmlsZSAnQW5kcm9pZE1hbmlmZXN0X210ay54bWwnCg==</text>
+      <register name="9" type="4">
+        <text>userdebug</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
