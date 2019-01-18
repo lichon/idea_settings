@@ -914,10 +914,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/TelephonyUtils.java" timestamp="1540384043814">
         <mark key="'" line="322" column="14" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1547804274565">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1547807214949">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/UpdateSessionManager.java" timestamp="1536904404389">
         <mark key="'" line="108" column="52" />
@@ -1092,11 +1093,6 @@
         <mark key="]" line="75" column="79" />
         <mark key="." line="75" column="79" />
         <mark key="^" line="75" column="79" />
-      </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1547726304854">
-        <mark key="[" line="214" column="23" />
-        <mark key="]" line="214" column="23" />
-        <mark key="." line="214" column="23" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/CarrierConfigContentObserver.java" timestamp="1539857287843">
         <mark key="'" line="10" column="59" />
@@ -1299,7 +1295,7 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/graphics/Matrix.java" timestamp="1543496520706">
         <mark key="'" line="282" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" timestamp="1547803131884">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" timestamp="1547807212228">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="45" />
@@ -1919,8 +1915,8 @@
       <jump line="405" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>op_platform</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSI+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
