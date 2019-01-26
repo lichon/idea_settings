@@ -40,12 +40,11 @@
         <mark key="^" line="644" column="76" />
         <mark key="." line="644" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" timestamp="1548483213132">
-        <mark key="'" line="77" column="15" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="51" />
-        <mark key="^" line="112" column="55" />
-        <mark key="." line="112" column="55" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" timestamp="1548486369019">
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="36" />
+        <mark key="." line="55" column="36" />
+        <mark key="^" line="55" column="36" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/ProvisioningPushSMSReceiver.java" timestamp="1541153430241">
         <mark key="'" line="21" column="26" />
@@ -1310,13 +1309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="82" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="119" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="86" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="222" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="268" column="44" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="283" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="267" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="543" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="502" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
@@ -1410,58 +1402,65 @@
       <jump line="144" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="144" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
       <jump line="77" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="175" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="178" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="84" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="48" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="61" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="54" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>fileError.getSipErrorCode()</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</text>
+        <text encoding="base64">XDxJTlZJVEVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>fileError.getSipErrorCode()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCBlcnJvckNvZGUgPT0gSW1zU2Vzc2lvbkJhc2VkU2VydmljZUVycm9yLlNFU1NJT05fSU5JVElBVElPTl9GQUlMRURfU0VSVkVSX1RJTUVfT1VUCiAgICAgICAgICAgICAgICAgICAgfHwgZXJyb3JDb2RlID09IEltc1Nlc3Npb25CYXNlZFNlcnZpY2VFcnJvci5TRVNTSU9OX0lOSVRJQVRJT05fRkFJTEVEX1RJTUVfT1VUKSB7Cg==</text>
+      <register name="2" type="4">
+        <text>fileError.getSipErrorCode()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm1pbmF0ZUNoYXQoY2hhdElkLCBUZXJtaW5hdGlvblJlYXNvbi5URVJNSU5BVElPTl9CWV9TWVNURU0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlQ2hhdChjaGF0SWQsIFRlcm1pbmF0aW9uUmVhc29uLlRFUk1JTkFUSU9OX0JZX1NZU1RFTSk7Cg==</text>
+      <register name="4" type="4">
+        <text>RETRY INVITE</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHRyYW5zZmVy</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGZpbGU=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBFcnJvckFjdGlvbi5SRVRSWV9BU19ORVc7CiAgICAgICAgICAgICAgICBzd2l0Y2ggKGNvZGUpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIE1zcnBFdmVudEVycm9yLlVOS05PV05fRVZFTlQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBFcnJvckFjdGlvbi5GQUlMVVJFX0FORF9DTE9TRV9TRVNTSU9OOwogICAgICAgICAgICAgICAgICAgIGNhc2UgUmVzcG9uc2UuQkFEX1JFUVVFU1Q6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBFcnJvckFjdGlvbi5SRVRSWTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHRoZQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBFcnJvckFjdGlvbi5SRVRSWV9BU19ORVc7CiAgICAgICAgICAgIHN3aXRjaCAoY29kZSkgewogICAgICAgICAgICAgICAgY2FzZSBNc3JwRXZlbnRFcnJvci5VTktOT1dOX0VWRU5UOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBFcnJvckFjdGlvbi5GQUlMVVJFX0FORF9DTE9TRV9TRVNTSU9OOwogICAgICAgICAgICAgICAgY2FzZSBSZXNwb25zZS5CQURfUkVRVUVTVDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gRXJyb3JBY3Rpb24uUkVUUlk7CiAgICAgICAgICAgICAgICAvL1JTXzQxNDc1IFRNTyBSRVRSWSBJTlZJVEUK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="4">
-        <text>, reject</text>
+        <text>case</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMX1JDU181NTI3XzAwMQo=</text>
+      <register name="9" type="4">
+        <text>sipErrorCode</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</last-search>
+      <last-search encoding="base64">XDxJTlZJVEVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxJTlZJVEVcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1511,6 +1510,9 @@
         <entry>Impl</entry>
         <entry>Error</entry>
         <entry encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</entry>
+        <entry>ft</entry>
+        <entry encoding="base64">XDxnZXRNc3JwRXJyb3JBY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxJTlZJVEVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
