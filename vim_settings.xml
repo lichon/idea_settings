@@ -40,8 +40,8 @@
         <mark key="^" line="644" column="76" />
         <mark key="." line="644" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" timestamp="1545639622549">
-        <mark key="'" line="103" column="35" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" timestamp="1548483213132">
+        <mark key="'" line="77" column="15" />
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="51" />
         <mark key="^" line="112" column="55" />
@@ -152,8 +152,8 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="143" column="62" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1547635650719">
-        <mark key="'" line="2126" column="24" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1548483196359">
+        <mark key="'" line="144" column="20" />
         <mark key="[" line="1256" column="0" />
         <mark key="]" line="1263" column="12" />
         <mark key="^" line="211" column="43" />
@@ -1310,13 +1310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="89" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactsManager.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactsManager.java" />
-      <jump line="106" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactsManager.java" />
-      <jump line="118" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactsManager.java" />
-      <jump line="125" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactsManager.java" />
-      <jump line="142" column="9" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactsManager.java" />
       <jump line="236" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="82" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="119" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
@@ -1410,6 +1403,13 @@
       <jump line="1512" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="1516" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="100" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="105" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="107" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="126" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="140" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="144" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="144" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="77" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1419,7 +1419,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNQVhfUkVHX1JFVFJZX1RJTUVTXD4=</text>
+        <text encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
@@ -1459,9 +1459,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNQVhfUkVHX1JFVFJZX1RJTUVTXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNQVhfUkVHX1JFVFJZX1RJTUVTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1507,6 +1507,10 @@
         <entry>RETRY</entry>
         <entry>REG</entry>
         <entry encoding="base64">XDxNQVhfUkVHX1JFVFJZX1RJTUVTXD4=</entry>
+        <entry>404</entry>
+        <entry>Impl</entry>
+        <entry>Error</entry>
+        <entry encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
