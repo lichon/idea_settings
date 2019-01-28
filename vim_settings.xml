@@ -9,9 +9,6 @@
         <mark key="^" line="29" column="61" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1547721346981">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/AndroidFactory.java" timestamp="1539934337078">
         <mark key="'" line="40" column="27" />
         <mark key="[" line="29" column="0" />
@@ -537,9 +534,6 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="71" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548383170742">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ErrorUtil.java" timestamp="1542369037482">
         <mark key="'" line="47" column="35" />
         <mark key="[" line="49" column="0" />
@@ -637,9 +631,6 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1548404064212">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" timestamp="1548074726557">
         <mark key="'" line="201" column="11" />
         <mark key="[" line="113" column="52" />
@@ -660,9 +651,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="32" column="29" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtImsNetworkInterface.java" timestamp="1547721117192">
-        <mark key="[" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/FileUtil.java" timestamp="1535951838321">
         <mark key="'" line="26" column="49" />
@@ -788,12 +776,12 @@
         <mark key="^" line="157" column="9" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1547812662917">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1548647120232">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="52" column="46" />
-        <mark key="." line="52" column="46" />
-        <mark key="^" line="52" column="46" />
+        <mark key="[" line="53" column="39" />
+        <mark key="]" line="53" column="41" />
+        <mark key="." line="53" column="41" />
+        <mark key="^" line="53" column="41" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/MultimediaMessagingSessionImpl.java" timestamp="1541150836222">
         <mark key="'" line="54" column="31" />
@@ -1431,11 +1419,11 @@
       <jump line="376" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNGFmMDNjLi4uIFtJUE1FXSBncm91cCBmdCBwcm90b2NvbCBqdWRnZSBieSBncm91cCB0eXBlCg==</text>
+      <register name="&quot;" type="4">
+        <text>op_platform</text>
       </register>
       <register name="-" type="4">
-        <text>!)</text>
+        <text>op_platform</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw8</text>
@@ -1443,35 +1431,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNGFmMDNjLi4uIFtJUE1FXSBncm91cCBmdCBwcm90b2NvbCBqdWRnZSBieSBncm91cCB0eXBlCg==</text>
+      <register name="1" type="4">
+        <text>831</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+      <register name="2" type="4">
+        <text>op_platform</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiAyNGFmMDNjLi4uIFtJUE1FXSBncm91cCBmdCBwcm90b2NvbCBqdWRnZSBieSBncm91cCB0eXBlCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOmNvcmUvc3JjL2NvbS9nc21hL3Jjcy9jbS9RQ1Byb3Zpc2lvbmluZ1NlcnZpY2UuamF2YQo9PT09PT09CmltcG9ydCBjb20uZ3NtYS5yY3MuY20uQ01MaXN0ZW5lcjsKaW1wb3J0IGNvbS5nc21hLnJjcy5jbS5DTVV0aWw7Cj4+Pj4+Pj4gOTU0ODAyMS4uLiBmaXggSU5WSVRFIG1lc3NhZ2UgdG9vIGxvbmcgZm9yIHFjb206Y29yZS9zcmMvY29tL2dzbWEvcmNzL2NtL3Fjb20vUUNQcm92aXNpb25pbmdTZXJ2aWNlLmphdmEK</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
-      <register name="6" type="4">
-        <text>mRcsSettings.getManufacturerInfo() == ManufacturerInfo.Euler) {</text>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAyNGFmMDNjLi4uIFtJUE1FXSBncm91cCBmdCBwcm90b2NvbCBqdWRnZSBieSBncm91cCB0eXBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IEJ1aWxkQ29uZmlnLkRFQlVHCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOmNvcmUvc3JjL2NvbS9nc21hL3Jjcy9jbS9RQ1Byb3Zpc2lvbmluZ1NlcnZpY2UuamF2YQo9PT09PT09CmltcG9ydCBjb20uZ3NtYS5yY3MuY20uQ01MaXN0ZW5lcjsKaW1wb3J0IGNvbS5nc21hLnJjcy5jbS5DTVV0aWw7Cj4+Pj4+Pj4gOTU0ODAyMS4uLiBmaXggSU5WSVRFIG1lc3NhZ2UgdG9vIGxvbmcgZm9yIHFjb206Y29yZS9zcmMvY29tL2dzbWEvcmNzL2NtL3Fjb20vUUNQcm92aXNpb25pbmdTZXJ2aWNlLmphdmEK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5CdWlsZENvbmZpZzsK</text>
-      </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>mRcsSettings.getManufacturerInfo() == ManufacturerInfo.Euler) {</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IEJ1aWxkQ29uZmlnLkRFQlVHCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
