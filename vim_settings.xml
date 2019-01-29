@@ -10,6 +10,9 @@
         <mark key="^" line="29" column="61" />
         <mark key="." line="225" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1547721346981">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/AndroidFactory.java" timestamp="1539934337078">
         <mark key="'" line="40" column="27" />
         <mark key="[" line="29" column="0" />
@@ -528,6 +531,9 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="71" column="97" />
       </file>
+      <file name="/Dummy.txt" timestamp="1548768399170">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ErrorUtil.java" timestamp="1542369037482">
         <mark key="'" line="47" column="35" />
         <mark key="[" line="49" column="0" />
@@ -619,6 +625,9 @@
         <mark key="^" line="71" column="1" />
         <mark key="." line="154" column="62" />
       </file>
+      <file name="/fragment.java" timestamp="1548404064212">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1548761181868">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -645,6 +654,9 @@
         <mark key="^" line="32" column="29" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtImsNetworkInterface.java" timestamp="1547721117192">
+        <mark key="[" line="41" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/utils/FileUtil.java" timestamp="1535951838321">
         <mark key="'" line="26" column="49" />
         <mark key="[" line="24" column="62" />
@@ -658,6 +670,12 @@
         <mark key="]" line="164" column="45" />
         <mark key="." line="164" column="45" />
         <mark key="^" line="164" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" timestamp="1548513271648">
+        <mark key="'" line="377" column="0" />
+        <mark key="[" line="1043" column="0" />
+        <mark key="]" line="1043" column="0" />
+        <mark key="." line="1043" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingMsrpFileSharingSession.java" timestamp="1545645140250">
         <mark key="'" line="378" column="16" />
@@ -693,6 +711,12 @@
         <mark key="]" line="62" column="25" />
         <mark key="^" line="62" column="12" />
         <mark key="." line="62" column="25" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1548075378697">
+        <mark key="'" line="185" column="37" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="141" column="8" />
+        <mark key="." line="213" column="16" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CapabilityServiceImpl.java" timestamp="1545212380564">
         <mark key="'" line="162" column="42" />
@@ -886,12 +910,11 @@
         <mark key="^" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1548766660257">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1548768247515">
         <mark key="'" line="226" column="17" />
-        <mark key="[" line="383" column="38" />
-        <mark key="]" line="383" column="45" />
-        <mark key="." line="383" column="45" />
-        <mark key="^" line="383" column="45" />
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="0" />
+        <mark key="." line="382" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionActivityManager.java" timestamp="1542369916221">
         <mark key="'" line="34" column="13" />
@@ -1086,6 +1109,12 @@
         <mark key="]" line="64" column="88" />
         <mark key="^" line="64" column="88" />
         <mark key="." line="64" column="88" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMRegistrationManager.java" timestamp="1547725947115">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/QCCMService.java" timestamp="1548751655418">
         <mark key="'" line="261" column="8" />
@@ -1397,8 +1426,8 @@
       <jump line="226" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.PAGE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBNdGsgdGVzdAogICAgICAgICAgICAgICAgICAgIG1vZGUgPSBNZXNzYWdlTW9kZS5TRVNTSU9OOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1409,35 +1438,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.PAGE</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBNdGsgdGVzdAogICAgICAgICAgICAgICAgICAgIG1vZGUgPSBNZXNzYWdlTW9kZS5TRVNTSU9OOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBNdGsgdGVzdAo=</text>
+      <register name="2" type="4">
+        <text>.PAGE</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBNdGsgdGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBNdGsgdGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUhhbmRsZXIuZ2V0TG9vcGVyKCkuaXNDdXJyZW50VGhyZWFkKCkpIHsKICAgICAgICAgICAgcmV0dXJuIG1Jc0ltc1JlZ2lzdGVyZWQ7CiAgICAgICAgfQoKICAgICAgICBGdXR1cmVUYXNrPEJvb2xlYW4+IHRhc2sgPSBuZXcgRnV0dXJlVGFzazw+KCgpIC0+IG1Jc0ltc1JlZ2lzdGVyZWQpOwogICAgICAgIG1IYW5kbGVyLnBvc3QodGFzayk7CiAgICAgICAgYm9vbGVhbiByZXQ7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0ID0gdGFzay5nZXQoKTsKICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB8IEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBpbXMgc3RhdHVzIHdhcm5pbmcgIiwgZSk7CiAgICAgICAgICAgIHJldCA9IG1Jc0ltc1JlZ2lzdGVyZWQ7CiAgICAgICAgfQogICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiZ2V0IGltcyBzdGF0dXMgIiArIHJldCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUhhbmRsZXIuZ2V0TG9vcGVyKCkuaXNDdXJyZW50VGhyZWFkKCkpIHsKICAgICAgICAgICAgcmV0dXJuIG1Jc0ltc1JlZ2lzdGVyZWQ7CiAgICAgICAgfQoKICAgICAgICBGdXR1cmVUYXNrPEJvb2xlYW4+IHRhc2sgPSBuZXcgRnV0dXJlVGFzazw+KCgpIC0+IG1Jc0ltc1JlZ2lzdGVyZWQpOwogICAgICAgIG1IYW5kbGVyLnBvc3QodGFzayk7CiAgICAgICAgYm9vbGVhbiByZXQ7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0ID0gdGFzay5nZXQoKTsKICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiB8IEV4ZWN1dGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBpbXMgc3RhdHVzIHdhcm5pbmcgIiwgZSk7CiAgICAgICAgICAgIHJldCA9IG1Jc0ltc1JlZ2lzdGVyZWQ7CiAgICAgICAgfQogICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiZ2V0IGltcyBzdGF0dXMgIiArIHJldCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3RhcnRDbVNlcnZpY2UoMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hhcmVkVXNlcklkPSJhbmRyb2lkLnVpZC5waG9uZSIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gcmVzdGFydENtU2VydmljZSg1MDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3RhcnRDbVNlcnZpY2UoMTAwMCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>reutrn m</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gcmVzdGFydENtU2VydmljZSg1MDAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
