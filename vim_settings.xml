@@ -616,10 +616,10 @@
       <file name="/fragment.java" timestamp="1548404064212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1548836231006">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_mtk.xml" timestamp="1548847576706">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" timestamp="1548837055138">
         <mark key="'" line="271" column="18" />
@@ -1408,7 +1408,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkbyBub3Qgc2VuZCBmaXJzdCBtc2cgaGVyZQogICAgICAgIC8vIGlmIChtRmlyc3RNc2cgIT0gbnVsbCAmJiBtUmNzU2V0dGluZ3MuZ2V0SW1Nc2dUZWNoKCkgPT0gSW1Nc2dUZWNoLkNQTSkgewogICAgICAgIC8vICAgICBzZW5kQ2hhdE1lc3NhZ2UobUZpcnN0TXNnKTsKICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1420,34 +1420,34 @@
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkbyBub3Qgc2VuZCBmaXJzdCBtc2cgaGVyZQogICAgICAgIC8vIGlmIChtRmlyc3RNc2cgIT0gbnVsbCAmJiBtUmNzU2V0dGluZ3MuZ2V0SW1Nc2dUZWNoKCkgPT0gSW1Nc2dUZWNoLkNQTSkgewogICAgICAgIC8vICAgICBzZW5kQ2hhdE1lc3NhZ2UobUZpcnN0TXNnKTsKICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kRW1wdHlEYXRhQ2h1bmsoKTsK</text>
+        <text encoding="base64">ICAgICAgICAtLT4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiU0lQIERJU1BBVENISU5HIFxuIiArIHJlcXVlc3QudG9TdHJpbmcoKSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IENNIHByb3Zpc2lvbmluZyBzZXJ2aWNlIC0tPg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXNzaW9uICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBzZXNzaW9uLnJlY2VpdmVCeWUocmVxdWVzdCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>service</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsb2dBY3RpdmF0ZWQpIHsKICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmluZm8oIlNlbmQgMjAwIE9LIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHByb3Zpc2lvbmluZw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZXNzaW9uICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBzZXNzaW9uLnJlY2VpdmVCeWUocmVxdWVzdCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IENN</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICsgIiByZXF1ZXN0Iik7</text>
+        <text encoding="base64">PCEtLQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>.getMethod()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkbyBub3Qgc2VuZCBmaXJzdCBtc2cgaGVyZQogICAgICAgIC8vIGlmIChtRmlyc3RNc2cgIT0gbnVsbCAmJiBtUmNzU2V0dGluZ3MuZ2V0SW1Nc2dUZWNoKCkgPT0gSW1Nc2dUZWNoLkNQTSkgewogICAgICAgIC8vICAgICBzZW5kQ2hhdE1lc3NhZ2UobUZpcnN0TXNnKTsKICAgICAgICAvLyB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZW5kRW1wdHlEYXRhQ2h1bmsoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
