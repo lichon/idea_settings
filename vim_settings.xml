@@ -239,7 +239,8 @@
         <mark key="." line="257" column="0" />
         <mark key="^" line="76" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" timestamp="1548840145263">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" timestamp="1548918530831">
+        <mark key="'" line="471" column="21" />
         <mark key="[" line="252" column="0" />
         <mark key="]" line="252" column="0" />
         <mark key="." line="252" column="0" />
@@ -657,12 +658,9 @@
         <mark key="." line="24" column="65" />
         <mark key="^" line="24" column="65" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1548917204454">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1548918015390">
         <mark key="'" line="1458" column="16" />
-        <mark key="[" line="1457" column="39" />
-        <mark key="]" line="1457" column="37" />
-        <mark key="." line="1457" column="37" />
-        <mark key="^" line="1457" column="37" />
+        <mark key="^" line="1473" column="17" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" timestamp="1548513271648">
         <mark key="'" line="377" column="0" />
@@ -1284,8 +1282,8 @@
         <mark key="^" line="149" column="63" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1548731588368">
-        <mark key="'" line="963" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1548918617922">
+        <mark key="'" line="1621" column="17" />
         <mark key="[" line="337" column="8" />
         <mark key="]" line="337" column="10" />
         <mark key="^" line="337" column="10" />
@@ -1314,10 +1312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
-      <jump line="408" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
-      <jump line="49" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/SipManager.java" />
-      <jump line="129" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
       <jump line="83" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
       <jump line="105" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
       <jump line="85" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
@@ -1414,31 +1408,35 @@
       <jump line="1458" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="8" column="10" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/capability/ICapabilitiesListener.aidl" />
       <jump line="9" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/capability/ICapabilityService.aidl" />
+      <jump line="471" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
+      <jump line="1949" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="1171" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="1621" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|| !remoteCapabilities.isImStandaloneSupported()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTWVzc2FnZU1vZGUuTk9ORTsK</text>
       </register>
       <register name="-" type="4">
-        <text>|| !remoteCapabilities.isImStandaloneSupported()</text>
+        <text>(supportIMStandaloneRemote)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJQ2FwYWJpbGl0aWVzTGlzdGVuZXJcPg==</text>
+        <text>Handle one to one message delivery status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>1to1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTWVzc2FnZU1vZGUuTk9ORTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>1to1</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>1to1</text>
+        <text>if</text>
       </register>
       <register name="4" type="4">
-        <text>CHAT_MSG_LENGTH</text>
+        <text>1to1</text>
       </register>
       <register name="5" type="4">
         <text>1to1</text>
@@ -1447,25 +1445,25 @@
         <text>1to1</text>
       </register>
       <register name="7" type="4">
-        <text>1to1</text>
+        <text>CHAT_MSG_LENGTH</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtYXhTaXplMXRvTSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKChtYXhTaXplMXRvTSA9IGdldFZhbHVlQnlQYXJhbU5hbWUoIk1heFNpemUxdG9NIiwgY2hpbGRub2RlLCBUWVBFX0lOVCkpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbVJjc1NldHRpbmdzLndyaXRlSW50ZWdlcihSY3NTZXR0aW5nc0RhdGEuTUFYX0dST1VQQ0hBVF9NU0dfTEVOR1RILAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEludGVnZXIucGFyc2VJbnQobWF4U2l6ZTF0b00pKTsKICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text>1to1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0TWF4Q2hhdAo=</text>
+      <register name="9" type="4">
+        <text>1to1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJQ2FwYWJpbGl0aWVzTGlzdGVuZXJcPg==</last-search>
+      <last-search>Handle one to one message delivery status</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJQ2FwYWJpbGl0aWVzTGlzdGVuZXJcPg==</last-pattern>
+      <last-pattern>Handle one to one message delivery status</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1598,6 +1596,9 @@
         <entry encoding="base64">XDxteUNhcGFiaWxpdGllc1w+</entry>
         <entry encoding="base64">XDxzdXBwb3J0SU1TdGFuZGFsb25lU2VsZlw+</entry>
         <entry encoding="base64">XDxJQ2FwYWJpbGl0aWVzTGlzdGVuZXJcPg==</entry>
+        <entry encoding="base64">UmVjZWl2ZSA=</entry>
+        <entry encoding="base64">XDxoYW5kbGVNZXNzYWdlRGVsaXZlcnlTdGF1c1JlY2VpdmVkXD4=</entry>
+        <entry>Handle one to one message delivery status</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
