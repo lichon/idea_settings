@@ -25,10 +25,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/RcsContact.java" timestamp="1550478807905">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" timestamp="1550559866369">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" timestamp="1550560980325">
         <mark key="'" line="160" column="30" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="194" column="12" />
         <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.mediatek.ims.rcsua.jar!/com/mediatek/ims/rcsua/RcsUaService.class" timestamp="1550557204278">
@@ -163,6 +163,13 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1548656007139">
         <mark key="'" line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" timestamp="1550561810336">
+        <mark key="'" line="145" column="4" />
+        <mark key="[" line="115" column="63" />
+        <mark key="]" line="116" column="14" />
+        <mark key="^" line="116" column="14" />
+        <mark key="." line="116" column="14" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" timestamp="1550491280976">
         <mark key="'" line="1978" column="11" />
         <mark key="[" line="895" column="77" />
@@ -196,11 +203,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1550472343245">
         <mark key="'" line="910" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" timestamp="1550558633541">
-        <mark key="'" line="11" column="19" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" timestamp="1550561486926">
+        <mark key="'" line="146" column="12" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/capability/ICapabilitiesListener.aidl" timestamp="1548852684205">
         <mark key="'" line="8" column="10" />
@@ -302,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="311" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="121" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="242" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="101" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
@@ -402,58 +406,67 @@
       <jump line="155" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" />
       <jump line="158" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" />
       <jump line="160" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" />
+      <jump line="68" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
+      <jump line="139" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
+      <jump line="85" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJjc1VhU2VydmljZS5SZWdpc3RyYXRpb25TdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSY3NVYVNlcnZpY2UuZ2V0SW5zdGFuY2UoKS5zdG9wU2VydmljZSgpOwogICAgICAgIH0gY2F0Y2ggKFJ1bnRpbWVFeGNlcHRpb24gaWdub3JlKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzdGFydCA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtU2VydmljZUNsaWVudFw+</text>
+        <text>onCreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJjc1VhU2VydmljZS5SZWdpc3RyYXRpb25TdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSY3NVYVNlcnZpY2UuZ2V0SW5zdGFuY2UoKS5zdG9wU2VydmljZSgpOwogICAgICAgIH0gY2F0Y2ggKFJ1bnRpbWVFeGNlcHRpb24gaWdub3JlKSB7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHVhU2VydmljZSA9IFJjc1VhU2VydmljZS5nZXRJbnN0YW5jZSgpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByY3NVYVNlcnZpY2UucmVnaXN0ZXJBY3NFdmVudENhbGxiYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgZ2V0SW5zdGFuY2Ugb2ssIGNvbmZpZyBpcyBsb2FkZWQKICAgICAgICAgICAgbUNvbmZpZ0xvYWRlZCA9IHRydWU7CiAgICAgICAgICAgIHN0b3BTZWxmKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBBY3NFdmVudENhbGxiYWNrIG1BY3NFdmVudENhbGxiYWNrID0gbmV3IEFjc0V2ZW50Q2FsbGJhY2soKSB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgc2V0Q2FsbGJhY2tPbk1haW4oYm9vbGVhbiBiKSB7CiAgICAgICAgICAgIHN1cGVyLnNldENhbGxiYWNrT25NYWluKGIpOwogICAgICAgIH0KCiAgICB9Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMK</text>
-      </register>
-      <register name="6" type="4">
-        <text>onConf</text>
-      </register>
-      <register name="7" type="4">
-        <text>.triggerAcsRequest(0);</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQWNzRXZlbnRDYWxsYmFjayBtQWNzRXZlbnRDYWxsYmFjazsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBzZXRDYWxsYmFja09uTWFpbihib29sZWFuIGIpIHsKICAgICAgICAgICAgc3VwZXIuc2V0Q2FsbGJhY2tPbk1haW4oYik7CiAgICAgICAgfQogICAgfTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ID0gbmV3IEFjc0V2ZW50Q2FsbGJhY2soKSB7</text>
+      </register>
+      <register name="7" type="4">
+        <text>RcsUaService.Callback mServiceCallback = new RcsUaService.Callback() {</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmNzVWFTZXJ2aWNlLkNhbGxiYWNrIG1TZXJ2aWNlQ2FsbGJhY2sgPSBuZXcgUmNzVWFTZXJ2aWNlLkNhbGxiYWNrKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9wU2VsZigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtU2VydmljZUNsaWVudFw+</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtU2VydmljZUNsaWVudFw+</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -551,7 +564,6 @@
         <entry encoding="base64">XDxzdGFydENtU2VydmljZUxpc3RlbmluZ1w+</entry>
         <entry>mMain</entry>
         <entry encoding="base64">XDxtTWFpbkhhbmRsZXJcPg==</entry>
-        <entry>onCreate</entry>
         <entry encoding="base64">XDxDTUxpc3RlbmVyXD4=</entry>
         <entry encoding="base64">XDxtQ01TZXJ2aWNlUmVhZHlcPg==</entry>
         <entry encoding="base64">XDxzZXJ2aWNlQ29ubmVjdGVkXD4=</entry>
@@ -580,6 +592,7 @@
         <entry encoding="base64">XDxtUmVnQ2FsbGJhY2tcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3RlckNsaWVudFw+</entry>
         <entry encoding="base64">XDxtU2VydmljZUNsaWVudFw+</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
