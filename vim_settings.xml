@@ -163,12 +163,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1548656007139">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" timestamp="1550561810336">
-        <mark key="'" line="145" column="4" />
-        <mark key="[" line="115" column="63" />
-        <mark key="]" line="116" column="14" />
-        <mark key="^" line="116" column="14" />
-        <mark key="." line="116" column="14" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" timestamp="1550562905616">
+        <mark key="'" line="391" column="52" />
+        <mark key="[" line="385" column="56" />
+        <mark key="]" line="385" column="57" />
+        <mark key="." line="385" column="57" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" timestamp="1550491280976">
         <mark key="'" line="1978" column="11" />
@@ -309,22 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="242" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="101" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="113" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="134" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="152" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="162" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="171" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="206" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="254" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
-      <jump line="50" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
-      <jump line="306" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="21" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="73" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
@@ -409,40 +393,56 @@
       <jump line="68" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
       <jump line="139" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
       <jump line="85" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="58" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="56" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="16" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="356" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="6" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="46" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="357" column="72" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="359" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="362" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="376" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="377" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="17" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="361" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="10" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="20" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
+      <jump line="391" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSY3NVYVNlcnZpY2UuZ2V0SW5zdGFuY2UoKS5zdG9wU2VydmljZSgpOwogICAgICAgIH0gY2F0Y2ggKFJ1bnRpbWVFeGNlcHRpb24gaWdub3JlKSB7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>onCreate</text>
+        <text encoding="base64">XDxjYkNvbmZpZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSY3NVYVNlcnZpY2UuZ2V0SW5zdGFuY2UoKS5zdG9wU2VydmljZSgpOwogICAgICAgIH0gY2F0Y2ggKFJ1bnRpbWVFeGNlcHRpb24gaWdub3JlKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiIDwhLS0gPHBhcm0gbmFtZT1cIlVybFwiIHZhbHVlPVwiaHR0cHM6Ly93c2cyLnN0Zy5zaXAudC1tb2JpbGUuY29tOjQ0My9waG9uZTIwL21TdG9yZVJlbGF5L29lbWNsaWVudFwiLz4iIAogICAgICAgICAgICArICIgLS0+IiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgZ2V0SW5zdGFuY2Ugb2ssIGNvbmZpZyBpcyBsb2FkZWQKICAgICAgICAgICAgbUNvbmZpZ0xvYWRlZCA9IHRydWU7CiAgICAgICAgICAgIHN0b3BTZWxmKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiIiAKICAgICAgICAgICAgKyAiIiAKICAgICAgICAgICAgKyAiIiAKICAgICAgICAgICAgKyAiIiAKICAgICAgICAgICAgKyAiIiAKICAgICAgICAgICAgKyAiIiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBSY3NVYVNlcnZpY2UuZ2V0SW5zdGFuY2UoKS5zdG9wU2VydmljZSgpOwogICAgICAgIH0gY2F0Y2ggKFJ1bnRpbWVFeGNlcHRpb24gaWdub3JlKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQWNzRXZlbnRDYWxsYmFjayBtQWNzRXZlbnRDYWxsYmFjazsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBzZXRDYWxsYmFja09uTWFpbihib29sZWFuIGIpIHsKICAgICAgICAgICAgc3VwZXIuc2V0Q2FsbGJhY2tPbk1haW4oYik7CiAgICAgICAgfQogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ID0gbmV3IEFjc0V2ZW50Q2FsbGJhY2soKSB7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgZ2V0SW5zdGFuY2Ugb2ssIGNvbmZpZyBpcyBsb2FkZWQKICAgICAgICAgICAgbUNvbmZpZ0xvYWRlZCA9IHRydWU7CiAgICAgICAgICAgIHN0b3BTZWxmKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>RcsUaService.Callback mServiceCallback = new RcsUaService.Callback() {</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -454,19 +454,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQWNzRXZlbnRDYWxsYmFjayBtQWNzRXZlbnRDYWxsYmFjazsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBzZXRDYWxsYmFja09uTWFpbihib29sZWFuIGIpIHsKICAgICAgICAgICAgc3VwZXIuc2V0Q2FsbGJhY2tPbk1haW4oYik7CiAgICAgICAgfQogICAgfTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wU2VsZigpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ID0gbmV3IEFjc0V2ZW50Q2FsbGJhY2soKSB7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onCreate</last-search>
+      <last-search encoding="base64">XDxjYkNvbmZpZ1w+</last-search>
       <last-offset />
-      <last-pattern>onCreate</last-pattern>
+      <last-pattern encoding="base64">XDxjYkNvbmZpZ1w+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -593,6 +593,15 @@
         <entry encoding="base64">XDxyZWdpc3RlckNsaWVudFw+</entry>
         <entry encoding="base64">XDxtU2VydmljZUNsaWVudFw+</entry>
         <entry>onCreate</entry>
+        <entry encoding="base64">XDxyY3NDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxSQ1NDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxJRmFjdG9yeVw+</entry>
+        <entry encoding="base64">XDxyY3NDb25maWdMaXN0ZW5lclw+</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDxyY3NDb25maWdJbmZcPg==</entry>
+        <entry encoding="base64">XDxyY3NTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxJU2V0Q29uZmlnQ2JcPg==</entry>
+        <entry encoding="base64">XDxjYkNvbmZpZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
