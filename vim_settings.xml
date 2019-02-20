@@ -181,11 +181,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1550472343245">
         <mark key="'" line="910" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" timestamp="1550561486926">
-        <mark key="'" line="146" column="12" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" timestamp="1550580977861">
+        <mark key="'" line="97" column="12" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="52" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/capability/ICapabilitiesListener.aidl" timestamp="1548852684205">
         <mark key="'" line="8" column="10" />
@@ -271,13 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
-      <jump line="170" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
-      <jump line="174" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
-      <jump line="193" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
-      <jump line="197" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
-      <jump line="252" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
-      <jump line="258" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
       <jump line="285" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
       <jump line="289" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
       <jump line="339" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransferService.java" />
@@ -371,40 +364,47 @@
       <jump line="71" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="69" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="53" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
+      <jump line="160" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
+      <jump line="154" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
+      <jump line="113" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
+      <jump line="112" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
+      <jump line="78" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
+      <jump line="97" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVJjc1NldHRpbmdzLnNldEltU3RhbmRhbG9uZVN1cHBvcnRlZCh0cnVlKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRNc3JwQ2h1bmtTaXplXD4=</text>
+        <text encoding="base64">XDxzdG9wU2VsZlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiUHVzaCByZXF1ZXN0SWQgcmVjb3JkIHtyZXF1ZXN0SWQgWyVkXSwgdXNlckRhdGEgWyVkXX0iLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVJjc1NldHRpbmdzLnNldEltU3RhbmRhbG9uZVN1cHBvcnRlZCh0cnVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnRQcm92aXNpb25pbmcoQ29udGV4dCBjdHgpIHsKICAgICAgICBpZiAoZmlyc3RDb25maWcpIHsKICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiUmVxdWVzdCBjbSBwcm92aXNpb25pbmciKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBJbnRlbnQgcHJvdmlzaW9uaW5nSW50ZW50ID0gbmV3IEludGVudChjdHgsIFFDUHJvdmlzaW9uaW5nU2VydmljZS5jbGFzcyk7CiAgICAgICAgICAgIGN0eC5zdGFydFNlcnZpY2UocHJvdmlzaW9uaW5nSW50ZW50KTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJTa2lwIHByb3Zpc2lvbmluZyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGN0eC5zdG9wU2VydmljZShuZXcgSW50ZW50KGN0eCwgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsKICAgICAgICAgICAgUmNzU2V0dGluZ3MgcmNzU2V0dGluZ3MgPSBSY3NTZXR0aW5ncy5nZXRJbnN0YW5jZShjdHgpOwogICAgICAgICAgICBMYXVuY2hlclV0aWxzLmxhdW5jaFJjc0NvcmVTZXJ2aWNlKGN0eCwgcmNzU2V0dGluZ3MpOwogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0SW1TdGFuZGFsb25lU3VwcG9ydGVkKHRydWUpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnRQcm92aXNpb25pbmcoQ29udGV4dCBjdHgpIHsKICAgICAgICBpZiAoZmlyc3RDb25maWcpIHsKICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiUmVxdWVzdCBjbSBwcm92aXNpb25pbmciKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBJbnRlbnQgcHJvdmlzaW9uaW5nSW50ZW50ID0gbmV3IEludGVudChjdHgsIFFDUHJvdmlzaW9uaW5nU2VydmljZS5jbGFzcyk7CiAgICAgICAgICAgIGN0eC5zdGFydFNlcnZpY2UocHJvdmlzaW9uaW5nSW50ZW50KTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJTa2lwIHByb3Zpc2lvbmluZyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGN0eC5zdG9wU2VydmljZShuZXcgSW50ZW50KGN0eCwgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsKICAgICAgICAgICAgUmNzU2V0dGluZ3MgcmNzU2V0dGluZ3MgPSBSY3NTZXR0aW5ncy5nZXRJbnN0YW5jZShjdHgpOwogICAgICAgICAgICBMYXVuY2hlclV0aWxzLmxhdW5jaFJjc0NvcmVTZXJ2aWNlKGN0eCwgcmNzU2V0dGluZ3MpOwogICAgICAgIH0KICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZGlzYWJsZVJjc0ZlYXR1cmVzKFJjc1NldHRpbmdzIHJjc1NldHRpbmdzKSB7CiAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICBzTG9nZ2VyLmluZm8oImRpc2FibGUgcmNzIGZlYXR1cmVzIik7CiAgICAgICAgfQogICAgICAgIHJjc1NldHRpbmdzLnNldEltU2Vzc2lvblN1cHBvcnRlZChmYWxzZSk7CiAgICAgICAgcmNzU2V0dGluZ3Muc2V0SW1TdGFuZGFsb25lU3VwcG9ydGVkKGZhbHNlKTsKICAgICAgICByY3NTZXR0aW5ncy5zZXRGaWxlVHJhbnNmZXJTdXBwb3J0ZWQoZmFsc2UpOwogICAgICAgIHJjc1NldHRpbmdzLnNldEZpbGVUcmFuc2Zlckh0dHBTdXBwb3J0ZWQoZmFsc2UpOwogICAgICAgIHJjc1NldHRpbmdzLnNldEdlb0xvY2F0aW9uUHVzaFN1cHBvcnRlZChmYWxzZSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnRQcm92aXNpb25pbmcoQ29udGV4dCBjdHgpIHsKICAgICAgICBpZiAoZmlyc3RDb25maWcpIHsKICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiUmVxdWVzdCBjbSBwcm92aXNpb25pbmciKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBJbnRlbnQgcHJvdmlzaW9uaW5nSW50ZW50ID0gbmV3IEludGVudChjdHgsIFFDUHJvdmlzaW9uaW5nU2VydmljZS5jbGFzcyk7CiAgICAgICAgICAgIGN0eC5zdGFydFNlcnZpY2UocHJvdmlzaW9uaW5nSW50ZW50KTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJTa2lwIHByb3Zpc2lvbmluZyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGN0eC5zdG9wU2VydmljZShuZXcgSW50ZW50KGN0eCwgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsKICAgICAgICAgICAgUmNzU2V0dGluZ3MgcmNzU2V0dGluZ3MgPSBSY3NTZXR0aW5ncy5nZXRJbnN0YW5jZShjdHgpOwogICAgICAgICAgICBMYXVuY2hlclV0aWxzLmxhdW5jaFJjc0NvcmVTZXJ2aWNlKGN0eCwgcmNzU2V0dGluZ3MpOwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc3RhcnRQcm92aXNpb25pbmcoQ29udGV4dCBjdHgpIHsKICAgICAgICBpZiAoZmlyc3RDb25maWcpIHsKICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiUmVxdWVzdCBjbSBwcm92aXNpb25pbmciKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBJbnRlbnQgcHJvdmlzaW9uaW5nSW50ZW50ID0gbmV3IEludGVudChjdHgsIFFDUHJvdmlzaW9uaW5nU2VydmljZS5jbGFzcyk7CiAgICAgICAgICAgIGN0eC5zdGFydFNlcnZpY2UocHJvdmlzaW9uaW5nSW50ZW50KTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJTa2lwIHByb3Zpc2lvbmluZyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGN0eC5zdG9wU2VydmljZShuZXcgSW50ZW50KGN0eCwgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsKICAgICAgICAgICAgUmNzU2V0dGluZ3MgcmNzU2V0dGluZ3MgPSBSY3NTZXR0aW5ncy5nZXRJbnN0YW5jZShjdHgpOwogICAgICAgICAgICBMYXVuY2hlclV0aWxzLmxhdW5jaFJjc0NvcmVTZXJ2aWNlKGN0eCwgcmNzU2V0dGluZ3MpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZGlzYWJsZVJjc0ZlYXR1cmVzKFJjc1NldHRpbmdzIHJjc1NldHRpbmdzKSB7CiAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICBzTG9nZ2VyLmluZm8oImRpc2FibGUgcmNzIGZlYXR1cmVzIik7CiAgICAgICAgfQogICAgICAgIHJjc1NldHRpbmdzLnNldEltU2Vzc2lvblN1cHBvcnRlZChmYWxzZSk7CiAgICAgICAgcmNzU2V0dGluZ3Muc2V0SW1TdGFuZGFsb25lU3VwcG9ydGVkKGZhbHNlKTsKICAgICAgICByY3NTZXR0aW5ncy5zZXRGaWxlVHJhbnNmZXJTdXBwb3J0ZWQoZmFsc2UpOwogICAgICAgIHJjc1NldHRpbmdzLnNldEZpbGVUcmFuc2Zlckh0dHBTdXBwb3J0ZWQoZmFsc2UpOwogICAgICAgIHJjc1NldHRpbmdzLnNldEdlb0xvY2F0aW9uUHVzaFN1cHBvcnRlZChmYWxzZSk7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="4">
-        <text>StirngU</text>
+        <text>)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -416,19 +416,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHVzZSBnYmEgcGFzc3dvcmQgY2FjaGUK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB1cGRhdGVGdEh0dHBOYWZLZXkoKSB7CiAgICAgICAgLy8gVE9ETyB1c2UgZ2JhIHBhc3N3b3JkIGNhY2hlCiAgICAgICAgbVJjc1NldHRpbmdzLnNldEZpbGVUcmFuc2Zlckh0dHBTdXBwb3J0ZWQobVJjc1NldHRpbmdzLmdldEZ0SHR0cFNlcnZlcigpICE9IG51bGwpOwogICAgICAgIGlmICghbVJjc1NldHRpbmdzLmlzRmlsZVRyYW5zZmVySHR0cFN1cHBvcnRlZCgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgLy8gY2hlY2sgaWYgdXNlcm5hbWUgaXMgZXhwaXJlZAogICAgICAgIFN0cmluZyBmdFVzZXIgPSBtUmNzU2V0dGluZ3MuZ2V0RnRIdHRwTG9naW4oKTsKICAgICAgICBpZiAoIkdCQSIuZXF1YWxzSWdub3JlQ2FzZShmdFVzZXIpKSB7CiAgICAgICAgICAgIG1SY3NTZXR0aW5ncy51cGRhdGVGdE5hZktleSgpOwogICAgICAgIH0KICAgIH0KCg==</text>
+      <register name="9" type="4">
+        <text>StirngU</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRNc3JwQ2h1bmtTaXplXD4=</last-search>
+      <last-search encoding="base64">XDxzdG9wU2VsZlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRNc3JwQ2h1bmtTaXplXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9wU2VsZlw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -514,7 +514,6 @@
         <entry encoding="base64">XDxsYXVuY2hSY3NTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxBVFRcPg==</entry>
         <entry encoding="base64">XDxsb2FkTWFudWFsQ29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxzZXREZWZhdWx0Q29uZmlnXD4=</entry>
         <entry>Acs</entry>
         <entry>RcsUaS</entry>
         <entry encoding="base64">XDxSY3NVYVNlcnZpY2VcPg==</entry>
@@ -538,7 +537,6 @@
         <entry>stop</entry>
         <entry encoding="base64">XDxub25SY3NFeHBpcmVkXD4=</entry>
         <entry encoding="base64">XDxvdmVycmlkZUNvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxtQ29uZmlnTG9hZGVkXD4=</entry>
         <entry encoding="base64">XDxhY3NTdXBwb3J0ZWRcPg==</entry>
         <entry>startSer</entry>
         <entry encoding="base64">XDxBY3NFdmVudENhbGxiYWNrXD4=</entry>
@@ -593,6 +591,10 @@
         <entry>setDef</entry>
         <entry>setMsr</entry>
         <entry encoding="base64">XDxzZXRNc3JwQ2h1bmtTaXplXD4=</entry>
+        <entry encoding="base64">XDxzZXRJbVN0YW5kYWxvbmVTdXBwb3J0ZWRcPg==</entry>
+        <entry encoding="base64">XDxzZXREZWZhdWx0Q29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxtQ29uZmlnTG9hZGVkXD4=</entry>
+        <entry encoding="base64">XDxzdG9wU2VsZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
