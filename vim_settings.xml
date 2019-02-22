@@ -168,12 +168,11 @@
         <mark key="." line="211" column="35" />
         <mark key="^" line="211" column="35" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CapabilityServiceImpl.java" timestamp="1550814809904">
-        <mark key="'" line="190" column="27" />
-        <mark key="[" line="227" column="34" />
-        <mark key="]" line="227" column="34" />
-        <mark key="." line="227" column="34" />
-        <mark key="^" line="227" column="34" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CapabilityServiceImpl.java" timestamp="1550816265945">
+        <mark key="'" line="411" column="16" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/ConnectionOrientedMessageChannel.java" timestamp="1548921460948">
         <mark key="'" line="624" column="32" />
@@ -264,8 +263,8 @@
         <mark key="^" line="132" column="37" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1550472343245">
-        <mark key="'" line="910" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1550816419849">
+        <mark key="'" line="626" column="54" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/capability/ICapabilitiesListener.aidl" timestamp="1550672923155">
         <mark key="'" line="9" column="33" />
@@ -321,6 +320,12 @@
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" timestamp="1550816513125">
+        <mark key="[" line="563" column="0" />
+        <mark key="]" line="563" column="0" />
+        <mark key="^" line="571" column="3" />
+        <mark key="." line="563" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1550563922710">
         <mark key="[" line="0" column="0" />
       </file>
@@ -361,8 +366,8 @@
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" timestamp="1550814907434">
-        <mark key="'" line="244" column="29" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" timestamp="1550816274753">
+        <mark key="'" line="273" column="36" />
         <mark key="[" line="253" column="12" />
         <mark key="]" line="253" column="12" />
         <mark key="^" line="238" column="3" />
@@ -383,13 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="274" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" />
-      <jump line="235" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" />
-      <jump line="254" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" />
-      <jump line="265" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" />
-      <jump line="423" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
-      <jump line="428" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="433" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="436" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
       <jump line="426" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" />
@@ -483,40 +481,47 @@
       <jump line="244" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" />
       <jump line="143" column="86" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilitySubscribeManager.java" />
       <jump line="144" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilitySubscribeManager.java" />
+      <jump line="411" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CapabilityServiceImpl.java" />
+      <jump line="273" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" />
+      <jump line="629" column="72" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="600" column="63" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="619" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="624" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="626" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>com.gsma.rcs.utils.ContactUtil.createContactIdFromTrustedData(c)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWN0SWRMaXN0XD4=</text>
+        <text encoding="base64">XDxtZXRob2RcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2V0T2ZDb250YWN0cyA9IFNldHMubmV3SGFzaFNldCgpOwogICAgICAgIA==</text>
       </register>
-      <register name="1" type="4">
-        <text>com.gsma.rcs.utils.ContactUtil.createContactIdFromTrustedData(c)</text>
-      </register>
-      <register name="2" type="4">
-        <text>String</text>
-      </register>
-      <register name="3" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRPZkNvbnRhY3RzLmFkZEFsbChjb250YWN0cyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbUFub255bW91c0ZldGNoTWFuYWdlci5yZXF1ZXN0Q2FwYWJpbGl0aWVzKGNvbnRhY3QpOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtQ2FwYWJpbGl0eVNlcnZpY2UucHViCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBmb3IgKFN0cmluZyBjIDogY29udGFjdHMpIHsKICAgICAgICAvLyAgICAgaWYgKENvbnRhY3RVdGlsLmdldEluc3RhbmNlKEFuZHJvaWRGYWN0b3J5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKS5pc1Nob3J0Q29kZShjKSkgewogICAgICAgIC8vICAgICAgICAgY29udGludWU7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyAgICAgdHJ5IHsKICAgICAgICAvLyAgICAgICAgIHNldE9mQ29udGFjdHMuYWRkKGNvbS5nc21hLnJjcy51dGlscy5Db250YWN0VXRpbC5jcmVhdGVDb250YWN0SWRGcm9tVHJ1c3RlZERhdGEoYykpOwogICAgICAgIC8vICAgICB9IGNhdGNoIChSdW50aW1lRXhjZXB0aW9uIGlnbm9yZSkgewogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gfQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>com.gsma.rcs.utils.ContactUtil.createContactIdFromTrustedData(c)</text>
+      </register>
+      <register name="6" type="4">
+        <text>String</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -528,19 +533,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBVUAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRPZkNvbnRhY3RzLmFkZEFsbChjb250YWN0cyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWN0SWRMaXN0XD4=</last-search>
+      <last-search encoding="base64">XDxtZXRob2RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWN0SWRMaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtZXRob2RcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -800,6 +805,7 @@
         <entry encoding="base64">XDxyZXF1ZXN0QWxsQ29udGFjdHNDYXBhYmlsaXRpZXNcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0Q29udGFjdENhcGFiaWxpdGllc1w+</entry>
         <entry encoding="base64">XDxjb250YWN0SWRMaXN0XD4=</entry>
+        <entry encoding="base64">XDxtZXRob2RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
