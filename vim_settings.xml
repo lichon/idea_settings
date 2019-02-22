@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1550831427046">
+        <mark key="'" line="75" column="10" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="33" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMMessageFactory.java" timestamp="1550818209484">
         <mark key="[" line="37" column="20" />
         <mark key="]" line="37" column="29" />
@@ -280,11 +287,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/logger/Logger.java" timestamp="1548075656499">
         <mark key="'" line="206" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainActivity.java" timestamp="1550484175608">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="74" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="14" column="24" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainActivity.java" timestamp="1550831266168">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/DiscoveryManager.java" timestamp="1550667866742">
         <mark key="[" line="38" column="48" />
@@ -436,12 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
-      <jump line="108" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
-      <jump line="203" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
-      <jump line="224" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
-      <jump line="724" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
-      <jump line="368" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
       <jump line="392" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
       <jump line="141" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
       <jump line="332" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/scripts/carrier-config.xml" />
@@ -536,40 +536,46 @@
       <jump line="60" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityPublishTrigger.java" />
       <jump line="61" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityPublishTrigger.java" />
       <jump line="64" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityPublishTrigger.java" />
+      <jump line="9" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="48" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="67" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="65" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="53" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="74" column="10" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuIGZ0ID0gbVJjc1NldHRpbmdzLmlzRmlsZVRyYW5zZmVyU3VwcG9ydGVkKCk7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCJmdCBzdXBwb3J0ZWQgIiArIGZ0KTsK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBIYW5kbGVyIG1IYW5kbGVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnZva2VQdWJsaXNoQXRPbmNlXD4=</text>
+        <text encoding="base64">XDxEZWZhdWx0U21zQXBwbGljYXRpb25DaGFuZ2VPYnNlcnZlclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2V0T2ZDb250YWN0cyA9IFNldHMubmV3SGFzaFNldCgpOwogICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuIGZ0ID0gbVJjc1NldHRpbmdzLmlzRmlsZVRyYW5zZmVyU3VwcG9ydGVkKCk7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCJmdCBzdXBwb3J0ZWQgIiArIGZ0KTsK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBIYW5kbGVyIG1IYW5kbGVyOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>Done applying local carrier configurations.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5tSGFuZGxlciA9IG5ldyBIYW5kbGVyKGdldE1haW5Mb29wZXIoKSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuIGZ0ID0gbVJjc1NldHRpbmdzLmlzRmlsZVRyYW5zZmVyU3VwcG9ydGVkKCk7Cg==</text>
+      <register name="3" type="4">
+        <text>new Handler()</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gZnQgPSBtUmNzU2V0dGluZ3MuaXNGaWxlVHJhbnNmZXJTdXBwb3J0ZWQoKTsK</text>
+      <register name="4" type="4">
+        <text>new Handler()</text>
       </register>
-      <register name="5" type="4">
-        <text>.equals</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmNzU2V0dGluZ3MgcmNzU2V0dGluZ3MgPSBSY3NTZXR0aW5ncy5nZXRJbnN0YW5jZSh0aGlzKTsKICAgICAgICAgICAgTGF1bmNoZXJVdGlscy5sYXVuY2hSY3NTZXJ2aWNlKHRoaXMsIHRydWUsIGZhbHNlLCByY3NTZXR0aW5ncyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>(GsmaRelease</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMYXVuY2hlclV0aWxzLmxhdW5jaFJjc1NlcnZpY2UodGhpcywgdHJ1ZSwgZmFsc2UsIHJjc1NldHRpbmdzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgSGFuZGxlcigpLnBvc3REZWxheWVkKCgpIC0+IHsKICAgICAgICAgICAgUmNzU2V0dGluZ3MgcmNzU2V0dGluZ3MgPSBSY3NTZXR0aW5ncy5nZXRJbnN0YW5jZSh0aGlzKTsKICAgICAgICAgICAgTGF1bmNoZXJVdGlscy5sYXVuY2hSY3NTZXJ2aWNlKHRoaXMsIHRydWUsIGZhbHNlLCByY3NTZXR0aW5ncyk7CiAgICAgICAgfSwgNTAwMCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -580,20 +586,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>CommonServiceConfiguration.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuIGZ0ID0gbVJjc1NldHRpbmdzLmlzRmlsZVRyYW5zZmVyU3VwcG9ydGVkKCk7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCJmdCBzdXBwb3J0ZWQgIiArIGZ0KTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0ZXN0ID0gY2hpbGRub2RlLmdldE5vZGVOYW1lKCk7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJub2RlIG5hbWUgOiIgKyB0ZXN0KTsK</text>
+      <register name="9" type="4">
+        <text>Done applying local carrier configurations.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnZva2VQdWJsaXNoQXRPbmNlXD4=</last-search>
+      <last-search encoding="base64">XDxEZWZhdWx0U21zQXBwbGljYXRpb25DaGFuZ2VPYnNlcnZlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnZva2VQdWJsaXNoQXRPbmNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEZWZhdWx0U21zQXBwbGljYXRpb25DaGFuZ2VPYnNlcnZlclw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -666,6 +672,9 @@
         <entry encoding="base64">XDxnZXRNeUNhcGFiaWxpdGllc1w+</entry>
         <entry encoding="base64">XDxwdWJsaXNoTXlDYXBcPg==</entry>
         <entry encoding="base64">XDxpbnZva2VQdWJsaXNoQXRPbmNlXD4=</entry>
+        <entry encoding="base64">XDxwb3N0RGVsYXllZFw+</entry>
+        <entry encoding="base64">XDxIYW5kbGVyXD4=</entry>
+        <entry encoding="base64">XDxEZWZhdWx0U21zQXBwbGljYXRpb25DaGFuZ2VPYnNlcnZlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
