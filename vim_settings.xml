@@ -217,7 +217,7 @@
         <mark key="'" line="1153" column="48" />
         <mark key="[" line="1999" column="0" />
         <mark key="]" line="1999" column="0" />
-        <mark key="^" line="3099" column="63" />
+        <mark key="^" line="3103" column="63" />
         <mark key="." line="1999" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" timestamp="1550668591416">
@@ -374,8 +374,8 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" timestamp="1551264227125">
-        <mark key="'" line="197" column="17" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" timestamp="1551264820100">
+        <mark key="'" line="62" column="19" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" timestamp="1548926542147">
         <mark key="'" line="1758" column="16" />
@@ -383,8 +383,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/EventScanner.java" timestamp="1548920640071">
         <mark key="'" line="130" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" timestamp="1551263988928">
-        <mark key="'" line="741" column="32" />
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" timestamp="1551265068489">
+        <mark key="'" line="340" column="69" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" timestamp="1551252437049">
         <mark key="'" line="173" column="4" />
@@ -422,11 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/MmContent.java" />
-      <jump line="153" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/MmContent.java" />
-      <jump line="155" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/MmContent.java" />
-      <jump line="119" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/MmContent.java" />
-      <jump line="132" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/MmContent.java" />
       <jump line="141" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/MmContent.java" />
       <jump line="49" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/MmContent.java" />
       <jump line="46" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
@@ -519,9 +514,14 @@
       <jump line="287" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="278" column="28" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="294" column="21" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
-      <jump line="741" column="32" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
       <jump line="16" column="32" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" />
       <jump line="197" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" />
+      <jump line="40" column="17" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" />
+      <jump line="62" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" />
+      <jump line="741" column="32" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
+      <jump line="598" column="54" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
+      <jump line="319" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
+      <jump line="340" column="69" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/ui/CallActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -531,7 +531,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb25pdG9yXD4=</text>
+        <text encoding="base64">XDxhdXRvQWNjZXB0XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2V0T2ZDb250YWN0cyA9IFNldHMubmV3SGFzaFNldCgpOwogICAgICAgIA==</text>
@@ -577,9 +577,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb25pdG9yXD4=</last-search>
+      <last-search encoding="base64">XDxhdXRvQWNjZXB0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb25pdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRvQWNjZXB0XD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -647,11 +647,12 @@
         <entry encoding="base64">XDxpc0ZpbGVUcmFuc2ZlclN0b3JlRm9yd2FyZFN1cHBvcnRlZFw+</entry>
         <entry>isMoni</entry>
         <entry encoding="base64">XDxpc01vbml0b3JcPg==</entry>
-        <entry>force</entry>
         <entry encoding="base64">XDxmb3JjZUFjY2VwdFw+</entry>
         <entry encoding="base64">XDxGT1JDRV9DQUxMXD4=</entry>
         <entry encoding="base64">XDxNT05JVE9SXD4=</entry>
         <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
+        <entry>force</entry>
+        <entry encoding="base64">XDxhdXRvQWNjZXB0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
