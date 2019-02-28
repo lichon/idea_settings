@@ -409,11 +409,12 @@
         <mark key="^" line="3103" column="63" />
         <mark key="." line="1999" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/BroadcastUtils.java" timestamp="1551347352019">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/BroadcastUtils.java" timestamp="1551351737289">
         <mark key="'" line="35" column="16" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMRegistrationManager.java" timestamp="1547725947115">
         <mark key="'" line="8" column="22" />
@@ -452,12 +453,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/logger/Logger.java" timestamp="1548075656499">
         <mark key="'" line="206" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1551349145140">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="14" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1551351290005">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1551253392297">
         <mark key="'" line="350" column="14" />
@@ -582,7 +582,6 @@
       <jump line="36" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/constant/Actions.java" />
       <jump line="39" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/constant/Actions.java" />
       <jump line="42" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/constant/Actions.java" />
-      <jump line="15" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="20" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="25" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="21" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
@@ -604,7 +603,6 @@
       <jump line="93" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="26" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="67" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
-      <jump line="38" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
@@ -629,13 +627,15 @@
       <jump line="650" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="627" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="550" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="38" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fallback to mms!</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRHcm91cENoYXRUeXBlXD4=</text>
@@ -643,26 +643,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJncm91cCBjaGF0IHR5cGUgaXMgT1BFTiIpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICA8IS0tIGdyb3VwIGFjdGlvbnMgLS0+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fR1JPVVBfQ0hBVF9NQU5BR0VfTk9USUZZIiAvPgogICAgPHByb3RlY3RlZC1icm9hZGNhc3QgYW5kcm9pZDpuYW1lPSJjb20uZ3NtYS5yY3MuQUNUSU9OX0dST1VQX0NIQVRfTUFOQUdFX0ZBSUxFRCIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9HUk9VUF9DSEFUX0lOVklURSIgLz4KCiAgICA8IS0tIG1lc3NhZ2UgYWN0aW9ucyAtLT4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9NRVNTQUdFX0JBQ0tVUCIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9NRVNTQUdFX0ZJTEVfVFJBTlNGRVJfSU5WSVRFIiAvPgogICAgPHByb3RlY3RlZC1icm9hZGNhc3QgYW5kcm9pZDpuYW1lPSJjb20uZ3NtYS5yY3MuQUNUSU9OX01FU1NBR0VfRklMRV9UUkFOU0ZFUl9QUk9HUkVTUyIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9NRVNTQUdFX1JFU1RPUkUiIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9TRU5EX0ZBSUxFRCIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9NRVNTQUdFX0VNT1RJQ09OX0RPV05MT0FEX1JFU1VMVCIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9NRVNTQUdFX1NUQVRVU19DSEFOR0VEIiAvPgogICAgPHByb3RlY3RlZC1icm9hZGNhc3QgYW5kcm9pZDpuYW1lPSJjb20uZ3NtYS5yY3MuQUNUSU9OX01FU1NBR0VfRVhURU5EX0JPRFlfQ0hBTkdFRCIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9NRVNTQUdFX0ZJTEVfQ0hBTkdFRCIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9PMk1fREVUQUlMX01FU1NBR0VfU1RBVFVTX0NIQU5HRUQiIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9UUkFOU0ZFUkVEX1NNUyIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9NRVNTQUdFX1NIT1dfQ09NUE9TSU5HIiAvPgogICAgPHByb3RlY3RlZC1icm9hZGNhc3QgYW5kcm9pZDpuYW1lPSJjb20uZ3NtYS5yY3MuQUNUSU9OX01FU1NBR0VfTk9USUZZIiAvPgogICAgPHByb3RlY3RlZC1icm9hZGNhc3QgYW5kcm9pZDpuYW1lPSJjb20uZ3NtYS5yY3MuQUNUSU9OX01FU1NBR0VfR1JPVVBfQ0hBVF9OT1RJRlkiIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9SRVBPUlQiIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9ET1dOTE9BRF9FTU9USUNPTl9SRVNVTFQiIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9TTVNfUE9MSUNZX05PVF9TRVQiIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9DT01QT1NJTkciIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9GQUxMQkFDS19NTVMiIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9GQUxMQkFDS19TTVMiIC8+CiAgICA8cHJvdGVjdGVkLWJyb2FkY2FzdCBhbmRyb2lkOm5hbWU9ImNvbS5nc21hLnJjcy5BQ1RJT05fTUVTU0FHRV9QRUVSX0lOVEVSUlVQVCIgLz4KICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0iY29tLmdzbWEucmNzLkFDVElPTl9NRVNTQUdFX0lOSVRfU1RBVFVTIiAvPgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>fallback to mms!</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>GroupChat</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBHcm91cENoYXQuR3JvdXBDaGF0VHlwZSB0eXBlID0gZ2V0R3JvdXBDaGF0VHlwZShjb250YWN0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBHcm91cENoYXQuR3JvdXBDaGF0VHlwZSB0eXBlID0gZ2V0R3JvdXBDaGF0VHlwZShjb250YWN0cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0ib25lcGx1cy5pbnRlbnQuYWN0aW9uLkNBUlJJRVJfQ09ORklHX1VQREFURV9GSU5JU0giIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBHcm91cENoYXQuR3JvdXBDaGF0VHlwZSB0eXBlID0gZ2V0R3JvdXBDaGF0VHlwZShjb250YWN0cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwcm90ZWN0ZWQtYnJvYWRjYXN0IGFuZHJvaWQ6bmFtZT0ib25lcGx1cy5pbnRlbnQuYWN0aW9uLkNBUlJJRVJfQ09ORklHX1VQREFURV9GSU5JU0giIC8+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -673,11 +673,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>group</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CgoKCg==</text>
+      <register name="9" type="4">
+        <text>group</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
