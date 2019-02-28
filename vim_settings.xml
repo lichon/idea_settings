@@ -144,12 +144,6 @@
         <mark key="." line="300" column="10" />
         <mark key="^" line="300" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1551262480907">
-        <mark key="[" line="449" column="37" />
-        <mark key="]" line="449" column="86" />
-        <mark key="^" line="449" column="86" />
-        <mark key="." line="449" column="86" />
-      </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1548922247874">
         <mark key="'" line="92" column="28" />
       </file>
@@ -398,6 +392,10 @@
         <mark key="^" line="3103" column="63" />
         <mark key="." line="1999" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/BroadcastUtils.java" timestamp="1551346584132">
+        <mark key="'" line="14" column="13" />
+        <mark key="." line="52" column="90" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMRegistrationManager.java" timestamp="1547725947115">
         <mark key="'" line="8" column="22" />
         <mark key="[" line="8" column="7" />
@@ -435,8 +433,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/logger/Logger.java" timestamp="1548075656499">
         <mark key="'" line="206" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1551343889572">
-        <mark key="'" line="27" column="72" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" timestamp="1551346197745">
+        <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="82" />
@@ -483,6 +481,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" timestamp="1550816573490">
         <mark key="'" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MessageBroadcastReceiverCache.java" timestamp="1551346633730" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCUceService.java" timestamp="1550829270401">
         <mark key="'" line="125" column="36" />
         <mark key="[" line="125" column="36" />
@@ -499,11 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1316" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1245" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1305" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1195" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1239" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="320" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="1687" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="298" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
@@ -599,6 +593,11 @@
       <jump line="311" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="63" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="29" column="72" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="14" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/BroadcastUtils.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
