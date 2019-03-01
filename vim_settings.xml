@@ -225,8 +225,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" timestamp="1550573159442">
         <mark key="'" line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMUtil.java" timestamp="1548836201489">
-        <mark key="'" line="208" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMUtil.java" timestamp="1551421752744">
+        <mark key="'" line="201" column="0" />
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
@@ -527,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1657" column="82" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="1663" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="1049" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="970" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
@@ -627,6 +626,7 @@
       <jump line="125" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="606" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="245" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="201" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -636,7 +636,7 @@
         <text>throw new ServerApiUnsupportedOperationException(&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>requestNe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJncm91cCBjaGF0IHR5cGUgaXMgT1BFTiIpOwo=</text>
@@ -682,9 +682,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search>requestNe</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern>requestNe</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -713,6 +713,10 @@
         <entry encoding="base64">XDxtYXJrTWVzc2FnZUFzUmVhZFw+</entry>
         <entry>init</entry>
         <entry>bind</entry>
+        <entry>isRom</entry>
+        <entry>Roma</entry>
+        <entry>roma</entry>
+        <entry>requestNe</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
