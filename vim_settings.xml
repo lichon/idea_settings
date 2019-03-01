@@ -177,12 +177,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/IIMErrorProcessor.java" timestamp="1551254314493">
         <mark key="'" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1551342757203">
-        <mark key="'" line="1183" column="19" />
-        <mark key="[" line="1046" column="28" />
-        <mark key="]" line="1046" column="38" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1551438977165">
+        <mark key="'" line="748" column="24" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="1046" column="38" />
-        <mark key="." line="1046" column="38" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" timestamp="1551425143112">
         <mark key="'" line="200" column="17" />
@@ -482,9 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="575" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="387" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="574" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="361" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" />
       <jump line="468" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="491" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
@@ -582,40 +579,43 @@
       <jump line="63" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="58" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="64" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
+      <jump line="1847" column="5" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="302" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="749" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTWVNURU1fUFJPUEVSVFlfU0VTX0RFVklDRV9VQSA9ICJvcC5yY3MuY2FycmllcmNvbmZpZy51YSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGVsZXBob255LlBob25lTnVtYmVyVXRpbHM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>device.group</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX1VSTFw+</text>
+        <text>ABAN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGVsZXBob255LlBob25lTnVtYmVyVXRpbHM7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTWVNURU1fUFJPUEVSVFlfU0VTX0RFVklDRV9VQSA9ICJvcC5yY3MuY2FycmllcmNvbmZpZy51YSI7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>device.</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gU0VTX1NFUlZFUl9VUkw7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>DEVICE_UA</text>
       </register>
       <register name="5" type="4">
         <text>DEVICE_UA</text>
       </register>
       <register name="6" type="4">
-        <text>DEVICE_GROUP</text>
+        <text>DEVICE_UA</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU0VTX0RFVklDRV9VQTsK</text>
+      <register name="7" type="4">
+        <text>DEVICE_GROUP</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -626,8 +626,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>GROUP</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU0VTX0RFVklDRV9VQTsK</text>
       </register>
       <register name="9" type="4">
         <text>GROUP</text>
@@ -637,9 +637,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX1VSTFw+</last-search>
+      <last-search>ABAN</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX1VSTFw+</last-pattern>
+      <last-pattern>ABAN</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -720,6 +720,9 @@
         <entry encoding="base64">XDxTRVNfU0VSVkVSX1VSTFw+</entry>
         <entry encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX0RFVklDRV9HUk9VUFw+</entry>
         <entry encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX1VSTFw+</entry>
+        <entry>ABA</entry>
+        <entry encoding="base64">XDxBQkFORE9ORURcPg==</entry>
+        <entry>ABAN</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
