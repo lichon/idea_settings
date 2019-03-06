@@ -312,8 +312,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" timestamp="1550835775091">
         <mark key="'" line="229" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" timestamp="1551442292084">
-        <mark key="'" line="65" column="32" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" timestamp="1551858306376">
+        <mark key="'" line="60" column="32" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="44" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupChatLog.java" timestamp="1551252455338">
         <mark key="'" line="414" column="19" />
@@ -357,8 +359,12 @@
         <mark key="." line="307" column="30" />
         <mark key="^" line="307" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1551853771463">
-        <mark key="'" line="156" column="29" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1551858504910">
+        <mark key="'" line="473" column="20" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="329" column="0" />
+        <mark key="^" line="334" column="47" />
+        <mark key="." line="329" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/header/Reason.class" timestamp="1551251153022">
         <mark key="'" line="15" column="24" />
@@ -508,9 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1488" column="69" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="1509" column="50" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="1512" column="50" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
       <jump line="1591" column="28" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
       <jump line="1592" column="38" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
       <jump line="1597" column="47" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
@@ -522,8 +525,6 @@
       <jump line="151" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="147" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="61" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
-      <jump line="148" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
-      <jump line="60" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="167" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="63" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="64" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
@@ -552,7 +553,6 @@
       <jump line="66" column="90" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="67" column="65" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="68" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
-      <jump line="65" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="49" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesRequestProcessor.java" />
       <jump line="66" column="11" filename="$USER_HOME$/android/sdk/sources/android-26/android/net/Network.java" />
       <jump line="247" column="25" filename="$USER_HOME$/android/sdk/sources/android-26/android/net/Network.java" />
@@ -608,40 +608,46 @@
       <jump line="902" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="216" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="203" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="443" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="453" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="65" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
+      <jump line="148" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
+      <jump line="60" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
+      <jump line="473" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZlYXR1cmVUYWcgPQogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVUYWdzLkZFQVRVUkVfM0dQUCArICI9XCIiICsgRmVhdHVyZVRhZ3MuRkVBVFVSRV8zR1BQX0NQTV9TRVNTSU9OX01PREVfQ0hBVCArICJcIiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>().)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kR3JvdXBDaGF0RGlzcGxheWVkRGVsaXZlcnlSZXBvcnRcPg==</text>
+        <text encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZlYXR1cmVUYWcgPQogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVUYWdzLkZFQVRVUkVfM0dQUCArICI9XCIiICsgRmVhdHVyZVRhZ3MuRkVBVFVSRV8zR1BQX0NQTV9TRVNTSU9OX01PREVfQ0hBVCArICJcIiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>featureTag</text>
+        <text />
       </register>
       <register name="3" type="4">
-        <text>featureTag</text>
+        <text>activeNetwork</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZlYXR1cmVUYWcgPQogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVUYWdzLkZFQVRVUkVfM0dQUCArICI9XCIiICsgRmVhdHVyZVRhZ3MuRkVBVFVSRV8zR1BQX0NQTV9TRVNTSU9OX01PREVfQ0hBVCArICJcIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.FEATURE_3GPP_STANDALONE_MSG</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU2VzVXRpbHMuZ2V0U2VzU2VydmVyVXJsKCkuY29udGFpbnMoInRlc3QuY29tIikpIHsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZlYXR1cmVUYWcgPSBNZXNzYWdlVXRpbHMuZ2V0TWVzc2FnZUZlYXR1cmVUYWcobU1lc3NhZ2luZ0xvZywgbXNnSWQpOwo=</text>
+      <register name="6" type="4">
+        <text>Api</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IC8=</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -652,23 +658,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>null;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZlYXR1cmVUYWcgPQogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVUYWdzLkZFQVRVUkVfM0dQUCArICI9XCIiICsgRmVhdHVyZVRhZ3MuRkVBVFVSRV8zR1BQX0NQTV9TRVNTSU9OX01PREVfQ0hBVCArICJcIiI7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1NZXNzYWdpbmdMb2cubWFya0ZpbGVUcmFuc2ZlckFzUmVhZEJ5VGhyZWFkKFN0cmluZy52YWx1ZU9mKHRocmVhZElkKSwgdGltZXN0YW1wKSA9PSAwKSB7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJhbGwgZmlsZSByZWFkIGluIHRoZSB0aHJlYWQ6ICIgKyB0aHJlYWRJZCk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
+      <register name="9" type="4">
+        <text>featureTag</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kR3JvdXBDaGF0RGlzcGxheWVkRGVsaXZlcnlSZXBvcnRcPg==</last-search>
+      <last-search encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kR3JvdXBDaGF0RGlzcGxheWVkRGVsaXZlcnlSZXBvcnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -730,7 +736,6 @@
         <entry encoding="base64">XDxzdGFydENvcmVTZXJ2aWNlXD4=</entry>
         <entry>absent</entry>
         <entry encoding="base64">XDxtU2VydmljZVN0YXJ0ZWRcPg==</entry>
-        <entry encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</entry>
         <entry>carrier config ok</entry>
         <entry>format</entry>
         <entry encoding="base64">XDxtUHJlc2VuY2VMaXN0ZW5lckhhbmRsZVw+</entry>
@@ -744,7 +749,6 @@
         <entry>default</entry>
         <entry encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX0RFVklDRV9VQVw+</entry>
         <entry encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX0RFVklDRV9HUk9VUFw+</entry>
-        <entry encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX1VSTFw+</entry>
         <entry>ABA</entry>
         <entry encoding="base64">XDxBQkFORE9ORURcPg==</entry>
         <entry>ABAN</entry>
@@ -756,7 +760,6 @@
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>OP7</entry>
         <entry encoding="base64">XDxTRVNfREVWSUNFX05BTUVcPg==</entry>
-        <entry encoding="base64">XDxTRVNfU0VSVkVSX1VSTFw+</entry>
         <entry>open</entry>
         <entry encoding="base64">XDxvcGVuQ29ubmVjdGlvblw+</entry>
         <entry encoding="base64">XDxVUkxcPg==</entry>
@@ -778,6 +781,11 @@
         <entry encoding="base64">XDxzZW5kRGlzcGxheWVkRGVsaXZlcnlSZXBvcnRcPg==</entry>
         <entry encoding="base64">XDxzZW5kTWVzc2FnZURlbGl2ZXJ5U3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxzZW5kR3JvdXBDaGF0RGlzcGxheWVkRGVsaXZlcnlSZXBvcnRcPg==</entry>
+        <entry>network</entry>
+        <entry>setNet</entry>
+        <entry encoding="base64">XDxTRVNfU0VSVkVSX1VSTFw+</entry>
+        <entry encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX1VSTFw+</entry>
+        <entry encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
