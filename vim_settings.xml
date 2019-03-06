@@ -56,11 +56,11 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/net/URLConnection.java" timestamp="1551443903217">
         <mark key="'" line="959" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1551866881598">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1551867639203">
         <mark key="'" line="203" column="16" />
-        <mark key="[" line="1190" column="81" />
-        <mark key="]" line="1191" column="16" />
-        <mark key="." line="1191" column="16" />
+        <mark key="[" line="1194" column="0" />
+        <mark key="]" line="1194" column="0" />
+        <mark key="." line="1194" column="0" />
         <mark key="^" line="1191" column="16" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" timestamp="1550472636410">
@@ -626,7 +626,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1NZXNzYWdpbmdMb2cubWFya0ZpbGVUcmFuc2ZlckFzUmVhZEJ5VGhyZWFkKFN0cmluZy52YWx1ZU9mKHRocmVhZElkKSwgdGltZXN0YW1wKSA9PSAwKSB7CiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCJtYXJrIGFsbCBmaWxlIHJlYWQgaW4gdGhlIHRocmVhZDogIiArIHRocmVhZElkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -638,28 +638,28 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1NZXNzYWdpbmdMb2cubWFya0ZpbGVUcmFuc2ZlckFzUmVhZEJ5VGhyZWFkKFN0cmluZy52YWx1ZU9mKHRocmVhZElkKSwgdGltZXN0YW1wKSA9PSAwKSB7CiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCJtYXJrIGFsbCBmaWxlIHJlYWQgaW4gdGhlIHRocmVhZDogIiArIHRocmVhZElkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoImFsbCBmaWxlIHJlYWQgaW4gdGhlIHRocmVhZDogIiArIHRocmVhZElkKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>message</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>debug</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>-
 -
 -
 -</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29ubmVjdGl2aXR5TWFuYWdlci5iaW5kUHJvY2Vzc1RvTmV0d29yayhudWxsKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU1lc3NhZ2luZ0xvZy5zZXRGaWxlVHJhbnNmZXJTdGF0ZShmdElkLCBTdGF0ZS5GQUlMRUQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29ubmVjdGl2aXR5TWFuYWdlci5iaW5kUHJvY2Vzc1RvTmV0d29yayhudWxsKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -671,10 +671,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU1lc3NhZ2luZ0xvZy5zZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU1lc3NhZ2luZ0xvZy5zZXRGaWxlVHJhbnNmZXJTdGF0ZShmdElkLCBTdGF0ZS5GQUlMRUQpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>mImService.getFile</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbU1lc3NhZ2luZ0xvZy5zZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
