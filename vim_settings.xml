@@ -192,6 +192,12 @@
         <mark key="." line="122" column="46" />
         <mark key="^" line="122" column="46" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" timestamp="1551873553471">
+        <mark key="'" line="62" column="13" />
+        <mark key="[" line="871" column="0" />
+        <mark key="]" line="880" column="13" />
+        <mark key="." line="871" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/capability/ICapabilitiesListener.aidl" timestamp="1550672923155">
         <mark key="'" line="9" column="33" />
         <mark key="[" line="3" column="0" />
@@ -246,8 +252,8 @@
         <mark key="." line="350" column="0" />
         <mark key="^" line="350" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" timestamp="1550573159442">
-        <mark key="'" line="44" column="22" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" timestamp="1551873580660">
+        <mark key="'" line="240" column="25" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMUtil.java" timestamp="1551424753158">
         <mark key="'" line="159" column="11" />
@@ -266,8 +272,18 @@
         <mark key="^" line="571" column="3" />
         <mark key="." line="563" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1551862388923">
-        <mark key="'" line="912" column="32" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/OriginatingHttpFileSharingSession.java" timestamp="1551873581247">
+        <mark key="'" line="48" column="13" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1551873548526">
+        <mark key="'" line="939" column="16" />
+        <mark key="[" line="946" column="0" />
+        <mark key="]" line="955" column="17" />
+        <mark key="." line="947" column="90" />
+        <mark key="^" line="947" column="90" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" timestamp="1551264820100">
         <mark key="'" line="62" column="19" />
@@ -512,8 +528,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatMessage.java" timestamp="1551865266662">
         <mark key="'" line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" timestamp="1551871490809">
-        <mark key="'" line="395" column="35" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" timestamp="1551873455379">
+        <mark key="'" line="330" column="25" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" timestamp="1550816573490">
         <mark key="'" line="23" column="0" />
@@ -534,14 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="573" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="593" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="893" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="902" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="216" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="203" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="443" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="453" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="65" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="148" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="60" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
@@ -634,40 +642,48 @@
       <jump line="158" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingGCMsrpFileSharingSession.java" />
       <jump line="170" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingGCMsrpFileSharingSession.java" />
       <jump line="251" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingLargeMsgMsrpSession.java" />
+      <jump line="932" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="330" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
+      <jump line="44" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" />
+      <jump line="126" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" />
+      <jump line="939" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
+      <jump line="61" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
+      <jump line="240" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" />
+      <jump line="48" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/OriginatingHttpFileSharingSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getHttpMaxSize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1NZXNzYWdpbmdMb2cuZ2V0RmlsZVRyYW5zZmVyU3RhdGUobUZpbGVUcmFuc2ZlcklkKSA9PSBTdGF0ZS5BQk9SVEVEKSB7CiAgICAgICAgICAgICAgICBGaWxlU2hhcmluZ1Nlc3Npb24gc2Vzc2lvbiA9IG1JbVNlcnZpY2UuZ2V0RmlsZVNoYXJpbmdTZXNzaW9uKG1GaWxlVHJhbnNmZXJJZCk7CiAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbi5pbnRlcnJ1cHRNZWRpYSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mMessagingLog.getFileTransferState(mFileTransferId)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXhTaXplXD4=</text>
+        <text encoding="base64">XDxvblBhdXNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>.getMaxFileTransferSize();</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1NZXNzYWdpbmdMb2cuZ2V0RmlsZVRyYW5zZmVyU3RhdGUobUZpbGVUcmFuc2ZlcklkKSA9PSBTdGF0ZS5BQk9SVEVEKSB7CiAgICAgICAgICAgICAgICBGaWxlU2hhcmluZ1Nlc3Npb24gc2Vzc2lvbiA9IG1JbVNlcnZpY2UuZ2V0RmlsZVNoYXJpbmdTZXNzaW9uKG1GaWxlVHJhbnNmZXJJZCk7CiAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbi5pbnRlcnJ1cHRNZWRpYSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86CiAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiAhPSBudWxsKSB7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>MsrpFile</text>
       </register>
-      <register name="4" type="4">
-        <text>.FAILED_SEND</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="5" type="4">
-        <text>RE</text>
+        <text>.getMaxFileTransferSize();</text>
       </register>
-      <register name="6" type="4">
-        <text>String chatId,</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE86CiAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>chat</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -678,20 +694,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVhc29uQ29kZSBjb2RlID0gcmVhc29uQ29kZTsK</text>
+      <register name="8" type="4">
+        <text>.FAILED_SEND</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUmV0cnkoZmlsZVRyYW5zZmVySWQpKSB7CiAgICAgICAgICAgICAgICBjb2RlID0gUmVhc29uQ29kZS5SRVRSWTsKICAgICAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>RE</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXhTaXplXD4=</last-search>
+      <last-search encoding="base64">XDxvblBhdXNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXhTaXplXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvblBhdXNlXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -835,6 +851,11 @@
         <entry encoding="base64">XDxpc0ZpbGVTaXplRXhjZWVkZWRcPg==</entry>
         <entry encoding="base64">XDxpc0ZpbGVDYXBhY2l0eUFjY2VwdGFibGVcPg==</entry>
         <entry encoding="base64">XDxtYXhTaXplXD4=</entry>
+        <entry>Session s</entry>
+        <entry encoding="base64">XDxpbnRlcnJ1cHRNZWRpYVw+</entry>
+        <entry>onPau</entry>
+        <entry encoding="base64">XDxvblNlc3Npb25TdGFydGVkXD4=</entry>
+        <entry encoding="base64">XDxvblBhdXNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
@@ -854,9 +875,9 @@
         <entry>137</entry>
         <entry>189</entry>
         <entry>69</entry>
-        <entry>W</entry>
         <entry>tabprevious</entry>
         <entry>934</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
