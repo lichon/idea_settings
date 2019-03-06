@@ -17,11 +17,12 @@
         <mark key="^" line="64" column="15" />
         <mark key="." line="176" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1550836108801">
-        <mark key="'" line="231" column="37" />
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="59" />
-        <mark key="." line="230" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1551859455659">
+        <mark key="'" line="184" column="59" />
+        <mark key="[" line="225" column="53" />
+        <mark key="]" line="225" column="53" />
+        <mark key="^" line="198" column="34" />
+        <mark key="." line="225" column="53" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1551854539271">
         <mark key="'" line="320" column="36" />
@@ -181,12 +182,12 @@
         <mark key="." line="895" column="77" />
         <mark key="^" line="895" column="77" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/TerminatingHttpFileSharingSession.java" timestamp="1550835913865">
-        <mark key="'" line="207" column="20" />
-        <mark key="[" line="119" column="63" />
-        <mark key="]" line="119" column="72" />
-        <mark key="." line="119" column="72" />
-        <mark key="^" line="119" column="71" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/TerminatingHttpFileSharingSession.java" timestamp="1551859120240">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="122" column="45" />
+        <mark key="]" line="122" column="46" />
+        <mark key="." line="122" column="46" />
+        <mark key="^" line="122" column="46" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/capability/ICapabilitiesListener.aidl" timestamp="1550672923155">
         <mark key="'" line="9" column="33" />
@@ -288,7 +289,6 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.mediatek.ims.rcsua.jar!/com/mediatek/ims/rcsua/Client.class" timestamp="1550488594797">
         <mark key="'" line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1551427762988" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" timestamp="1551349255082">
         <mark key="'" line="171" column="21" />
       </file>
@@ -514,15 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1591" column="28" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="1592" column="38" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="1597" column="47" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="1601" column="65" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="1602" column="21" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="1606" column="49" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="1611" column="51" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" />
-      <jump line="157" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
-      <jump line="151" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="147" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="61" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="167" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
@@ -614,40 +605,49 @@
       <jump line="148" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="60" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="473" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="175" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="176" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/TerminatingHttpFileSharingSession.java" />
+      <jump line="198" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="215" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="225" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="282" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="183" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="184" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>().)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</text>
+        <text>416</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgSHR0cFVSTENvbm5lY3Rpb24uSFRUUF9PSzoK</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>statusCode</text>
       </register>
-      <register name="3" type="4">
-        <text>activeNetwork</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU2VzVXRpbHMuZ2V0U2VzU2VydmVyVXJsKCkuY29udGFpbnMoInRlc3QuY29tIikpIHsK</text>
+      <register name="5" type="4">
+        <text />
       </register>
       <register name="6" type="4">
-        <text>Api</text>
+        <text>activeNetwork</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -659,22 +659,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZlYXR1cmVUYWcgPQogICAgICAgICAgICAgICAgICAgIEZlYXR1cmVUYWdzLkZFQVRVUkVfM0dQUCArICI9XCIiICsgRmVhdHVyZVRhZ3MuRkVBVFVSRV8zR1BQX0NQTV9TRVNTSU9OX01PREVfQ0hBVCArICJcIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU2VzVXRpbHMuZ2V0U2VzU2VydmVyVXJsKCkuY29udGFpbnMoInRlc3QuY29tIikpIHsK</text>
       </register>
       <register name="9" type="4">
-        <text>featureTag</text>
+        <text>Api</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</last-search>
+      <last-search>416</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</last-pattern>
+      <last-pattern>416</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -786,6 +786,13 @@
         <entry encoding="base64">XDxTRVNfU0VSVkVSX1VSTFw+</entry>
         <entry encoding="base64">XDxTWVNURU1fUFJPUEVSVFlfU0VTX1VSTFw+</entry>
         <entry encoding="base64">XDxpc05ldHdvcmtDb25uZWN0ZWRcPg==</entry>
+        <entry encoding="base64">XDxwcm9wZXJ0aWVzXD4=</entry>
+        <entry encoding="base64">XDxGaWxlTm90RG93bmxvYWRlZEV4Y2VwdGlvblw+</entry>
+        <entry>Http get file</entry>
+        <entry>http get</entry>
+        <entry>http get fi</entry>
+        <entry encoding="base64">XDxzdGF0dXNDb2RlXD4=</entry>
+        <entry>416</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
