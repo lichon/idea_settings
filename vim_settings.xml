@@ -17,12 +17,12 @@
         <mark key="^" line="64" column="15" />
         <mark key="." line="176" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1551859455659">
-        <mark key="'" line="184" column="59" />
-        <mark key="[" line="225" column="53" />
-        <mark key="]" line="225" column="53" />
-        <mark key="^" line="198" column="34" />
-        <mark key="." line="225" column="53" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1551875900271">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="196" column="34" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1551867153996">
         <mark key="'" line="211" column="73" />
@@ -550,8 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
-      <jump line="148" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="60" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
       <jump line="473" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="175" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
@@ -650,10 +648,12 @@
       <jump line="61" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupFileTransferImpl.java" />
       <jump line="240" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" />
       <jump line="48" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/OriginatingHttpFileSharingSession.java" />
+      <jump line="149" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="142" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1NZXNzYWdpbmdMb2cuZ2V0RmlsZVRyYW5zZmVyU3RhdGUobUZpbGVUcmFuc2ZlcklkKSA9PSBTdGF0ZS5BQk9SVEVEKSB7CiAgICAgICAgICAgICAgICBGaWxlU2hhcmluZ1Nlc3Npb24gc2Vzc2lvbiA9IG1JbVNlcnZpY2UuZ2V0RmlsZVNoYXJpbmdTZXNzaW9uKG1GaWxlVHJhbnNmZXJJZCk7CiAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbi5pbnRlcnJ1cHRNZWRpYSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mMessagingLog.getFileTransferState(mFileTransferId)</text>
@@ -665,25 +665,25 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1NZXNzYWdpbmdMb2cuZ2V0RmlsZVRyYW5zZmVyU3RhdGUobUZpbGVUcmFuc2ZlcklkKSA9PSBTdGF0ZS5BQk9SVEVEKSB7CiAgICAgICAgICAgICAgICBGaWxlU2hhcmluZ1Nlc3Npb24gc2Vzc2lvbiA9IG1JbVNlcnZpY2UuZ2V0RmlsZVNoYXJpbmdTZXNzaW9uKG1GaWxlVHJhbnNmZXJJZCk7CiAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbi5pbnRlcnJ1cHRNZWRpYSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>MsrpFile</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1NZXNzYWdpbmdMb2cuZ2V0RmlsZVRyYW5zZmVyU3RhdGUobUZpbGVUcmFuc2ZlcklkKSA9PSBTdGF0ZS5BQk9SVEVEKSB7CiAgICAgICAgICAgICAgICBGaWxlU2hhcmluZ1Nlc3Npb24gc2Vzc2lvbiA9IG1JbVNlcnZpY2UuZ2V0RmlsZVNoYXJpbmdTZXNzaW9uKG1GaWxlVHJhbnNmZXJJZCk7CiAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbi5pbnRlcnJ1cHRNZWRpYSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc2Vzc2lvbiAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>.getMaxFileTransferSize();</text>
+        <text>MsrpFile</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86CiAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>.getMaxFileTransferSize();</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -694,11 +694,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>.FAILED_SEND</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE86CiAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>RE</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
