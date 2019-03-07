@@ -343,12 +343,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1551261788168">
         <mark key="'" line="232" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" timestamp="1551958021366">
-        <mark key="'" line="129" column="12" />
-        <mark key="[" line="101" column="79" />
-        <mark key="]" line="101" column="86" />
-        <mark key="." line="101" column="86" />
-        <mark key="^" line="101" column="86" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" timestamp="1551958188341">
+        <mark key="'" line="123" column="12" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupChatLog.java" timestamp="1551252455338">
         <mark key="'" line="414" column="19" />
@@ -683,7 +679,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FEATURE_3GPP_CPM_SESSION_MODE_CHAT</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
         <text>FEATURE_3GPP_CPM_SESSION_MODE_CHAT</text>
@@ -695,25 +691,25 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>3GPP</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">KTsK</text>
-      </register>
-      <register name="3" type="4">
-        <text>acceptFeatureTag</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkV3JhcHBlZFR5cGVzKEZpbGVUcmFuc2Zlckh0dHBJbmZvRG9jdW1lbnQuTUlNRV9UWVBFKTsK</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBhZGRXcmFwcGVkVHlwZXMoIm11bHRpcGFydC9yZWxhdGVkIik7</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVJjc1NldHRpbmdzLmlzRmlsZVRyYW5zZmVySHR0cFN1cHBvcnRlZCgpKSB7CiAgICAgICAgICAgIGFjY2VwdEZlYXR1cmVUYWdzLmFkZCgKICAgICAgICAgICAgICAgICAgICBGZWF0dXJlVGFncy5GRUFUVVJFX1JDU0UgKyAiPVwiIiArIEZlYXR1cmVUYWdzLkZFQVRVUkVfUkNTRV9GVF9IVFRQICsgIlwiIik7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>3GPP</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KTsK</text>
+      </register>
       <register name="6" type="4">
-        <text>FileTransferHttpInfoDocument.MIME_TYPE</text>
+        <text>acceptFeatureTag</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZnRIdHRwRmVhdHVyZVRhZyA9CiAgICAgICAgICAgICAgICBGZWF0dXJlVGFncy5GRUFUVVJFX1JDU0UgKyAiPVwiIiArIEZlYXR1cmVUYWdzLkZFQVRVUkVfUkNTRV9GVF9IVFRQICsgIlwiIjsKICAgICAgICBhY2NlcHRGZWF0dXJlVGFncy5hZGQoZnRIdHRwRmVhdHVyZVRhZyk7CiAgICAgICAgYWNjZXB0RmVhdHVyZVRhZ3MuYWRkKCJleHBsaWNpdDtyZXF1aXJlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkV3JhcHBlZFR5cGVzKEZpbGVUcmFuc2Zlckh0dHBJbmZvRG9jdW1lbnQuTUlNRV9UWVBFKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -724,11 +720,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZnRIdHRwRmVhdHVyZVRhZyA9CiAgICAgICAgICAgICAgICBGZWF0dXJlVGFncy5GRUFUVVJFX1JDU0UgKyAiPVwiIiArIEZlYXR1cmVUYWdzLkZFQVRVUkVfUkNTRV9GVF9IVFRQICsgIlwiIjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="9" type="4">
-        <text>ftHttpFeatureTag</text>
+        <text>FileTransferHttpInfoDocument.MIME_TYPE</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
