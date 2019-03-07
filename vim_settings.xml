@@ -477,12 +477,12 @@
         <mark key="." line="91" column="61" />
         <mark key="^" line="91" column="61" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" timestamp="1551948645218">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" timestamp="1551949266814">
         <mark key="'" line="38" column="31" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="59" />
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="35" />
+        <mark key="." line="45" column="35" />
+        <mark key="^" line="45" column="35" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" timestamp="1551433743730">
         <mark key="'" line="34" column="45" />
@@ -681,8 +681,8 @@
       <jump line="38" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -693,26 +693,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>String</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBmcmFnbWVudHMgPSBuZXcgU3RyaW5nW117fTsKICAgICAgICBmb3IgKFN0cmluZyBmcmFnbWVudCA6IGZyYWdtZW50cykgewogICAgICAgICAgICBpZiAoZnJhZ21lbnQubGVuZ3RoKCkgPiAwICYmICFCT1VOREFSWV9ERUxJTUlURVIuZXF1YWxzKGZyYWdtZW50KSkgewogICAgICAgICAgICAgICAgaW50IGJlZ2luID0gZnJhZ21lbnQuaW5kZXhPZihET1VCTEVfQ1JMRik7CiAgICAgICAgICAgICAgICBpZiAoYmVnaW4gIT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICBiZWdpbiArPSBET1VCTEVfQ1JMRi5sZW5ndGgoKTsKICAgICAgICAgICAgICAgICAgICAvKiBFeHRyYWN0IGNvbnRlbnQgdHlwZSAqLwogICAgICAgICAgICAgICAgICAgIFN0cmluZyB0eXBlID0gZnJhZ21lbnQuc3Vic3RyaW5nKDAsIGJlZ2luKTsKICAgICAgICAgICAgICAgICAgICAvKiBFeHRyYWN0IE1JTUUgdHlwZSBmcm9tIGNvbnRlbnQgdHlwZSAqLwogICAgICAgICAgICAgICAgICAgIGludCBiZWdpblR5cGUgPSB0eXBlLmluZGV4T2YoQ29udGVudFR5cGVIZWFkZXIuTkFNRSk7CiAgICAgICAgICAgICAgICAgICAgaW50IGVuZFR5cGUgPSB0eXBlLmluZGV4T2YoU2lwVXRpbHMuQ1JMRiwgYmVnaW5UeXBlKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbWltZTsKICAgICAgICAgICAgICAgICAgICBpZiAoZW5kVHlwZSA9PSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICBtaW1lID0gdHlwZS5zdWJzdHJpbmcoYmVnaW5UeXBlICsgQ29udGVudFR5cGVIZWFkZXIuTkFNRS5sZW5ndGgoKSArIDEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRyaW0oKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBtaW1lID0gdHlwZS5zdWJzdHJpbmcoYmVnaW5UeXBlICsgQ29udGVudFR5cGVIZWFkZXIuTkFNRS5sZW5ndGgoKSArIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kVHlwZSkudHJpbSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvKiBFeHRyYWN0IGNvbnRlbnQgcGFydCAqLwogICAgICAgICAgICAgICAgICAgIFN0cmluZyBwYXJ0ID0gZnJhZ21lbnQuc3Vic3RyaW5nKGJlZ2luKTsKICAgICAgICAgICAgICAgICAgICBpbnQgZW5kUGFydCA9IHBhcnQubGFzdEluZGV4T2YoU2lwVXRpbHMuQ1JMRik7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVuZFBhcnQgIT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFydCA9IHBhcnQuc3Vic3RyaW5nKDAsIGVuZFBhcnQpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBwYXJ0cy5wdXQobWltZS50b0xvd2VyQ2FzZSgpLCBwYXJ0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>content</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBmcmFnbWVudHMgPSBuZXcgU3RyaW5nW117fTsKICAgICAgICBmb3IgKFN0cmluZyBmcmFnbWVudCA6IGZyYWdtZW50cykgewogICAgICAgICAgICBpZiAoZnJhZ21lbnQubGVuZ3RoKCkgPiAwICYmICFCT1VOREFSWV9ERUxJTUlURVIuZXF1YWxzKGZyYWdtZW50KSkgewogICAgICAgICAgICAgICAgaW50IGJlZ2luID0gZnJhZ21lbnQuaW5kZXhPZihET1VCTEVfQ1JMRik7CiAgICAgICAgICAgICAgICBpZiAoYmVnaW4gIT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICBiZWdpbiArPSBET1VCTEVfQ1JMRi5sZW5ndGgoKTsKICAgICAgICAgICAgICAgICAgICAvKiBFeHRyYWN0IGNvbnRlbnQgdHlwZSAqLwogICAgICAgICAgICAgICAgICAgIFN0cmluZyB0eXBlID0gZnJhZ21lbnQuc3Vic3RyaW5nKDAsIGJlZ2luKTsKICAgICAgICAgICAgICAgICAgICAvKiBFeHRyYWN0IE1JTUUgdHlwZSBmcm9tIGNvbnRlbnQgdHlwZSAqLwogICAgICAgICAgICAgICAgICAgIGludCBiZWdpblR5cGUgPSB0eXBlLmluZGV4T2YoQ29udGVudFR5cGVIZWFkZXIuTkFNRSk7CiAgICAgICAgICAgICAgICAgICAgaW50IGVuZFR5cGUgPSB0eXBlLmluZGV4T2YoU2lwVXRpbHMuQ1JMRiwgYmVnaW5UeXBlKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbWltZTsKICAgICAgICAgICAgICAgICAgICBpZiAoZW5kVHlwZSA9PSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICBtaW1lID0gdHlwZS5zdWJzdHJpbmcoYmVnaW5UeXBlICsgQ29udGVudFR5cGVIZWFkZXIuTkFNRS5sZW5ndGgoKSArIDEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRyaW0oKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBtaW1lID0gdHlwZS5zdWJzdHJpbmcoYmVnaW5UeXBlICsgQ29udGVudFR5cGVIZWFkZXIuTkFNRS5sZW5ndGgoKSArIDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kVHlwZSkudHJpbSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvKiBFeHRyYWN0IGNvbnRlbnQgcGFydCAqLwogICAgICAgICAgICAgICAgICAgIFN0cmluZyBwYXJ0ID0gZnJhZ21lbnQuc3Vic3RyaW5nKGJlZ2luKTsKICAgICAgICAgICAgICAgICAgICBpbnQgZW5kUGFydCA9IHBhcnQubGFzdEluZGV4T2YoU2lwVXRpbHMuQ1JMRik7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVuZFBhcnQgIT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFydCA9IHBhcnQuc3Vic3RyaW5nKDAsIGVuZFBhcnQpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBwYXJ0cy5wdXQobWltZS50b0xvd2VyQ2FzZSgpLCBwYXJ0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>//content.split(BOUNDARY_DELIMITER + boundary);</text>
+        <text>content</text>
       </register>
       <register name="6" type="4">
-        <text>Arrays.</text>
+        <text>//content.split(BOUNDARY_DELIMITER + boundary);</text>
       </register>
       <register name="7" type="4">
-        <text>String</text>
+        <text>Arrays.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -723,11 +723,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>String</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xvc2VhYmxlVXRpbHMudHJ5VG9DbG9zZShtRmlsZURvd25sb2FkU3RyZWFtKTsKICAgICAgICAgICAgRmlsZUZhY3RvcnkuZ2V0RmFjdG9yeSgpLnVwZGF0ZU1lZGlhU3RvcmFnZShtRG93bmxvYWRlZEZpbGUuZ2V0RW5jb2RlZFBhdGgoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
