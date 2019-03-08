@@ -119,8 +119,8 @@
         <mark key="." line="196" column="40" />
         <mark key="^" line="197" column="81" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1551955182948">
-        <mark key="'" line="344" column="36" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1552029676415">
+        <mark key="'" line="261" column="26" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/videocompress/VideoController.java" timestamp="1550652961096">
         <mark key="'" line="211" column="16" />
@@ -457,12 +457,11 @@
         <mark key="." line="91" column="61" />
         <mark key="^" line="91" column="61" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" timestamp="1551955191987">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="45" column="35" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" timestamp="1552029417107">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" timestamp="1551433743730">
         <mark key="'" line="34" column="45" />
@@ -578,8 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
-      <jump line="266" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
       <jump line="315" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
       <jump line="279" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
       <jump line="1159" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
@@ -592,7 +589,6 @@
       <jump line="334" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
       <jump line="38" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="344" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="46" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="42" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="51" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingOneToOneChatSession.java" />
@@ -678,40 +674,43 @@
       <jump line="187" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/FileTransferHttpInfoDocument.java" />
       <jump line="1212" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferLog.java" />
       <jump line="1209" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferLog.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
+      <jump line="247" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
+      <jump line="261" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FILE_DISPOSITION_RENDER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBieXRlW10K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRGaWxlVHJhbnNmZXJEb3dubG9hZEluZm9cPg==</text>
+        <text encoding="base64">XDxyZWFkU3RyaW5nTGluZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>FILE_DISPOSITION_RENDER</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBieXRlW10K</text>
       </register>
       <register name="2" type="4">
-        <text>.FORM_DATA</text>
+        <text>String</text>
       </register>
       <register name="3" type="4">
-        <text>.getExpiration()</text>
+        <text>String[] fragments = content.split(</text>
       </register>
       <register name="4" type="4">
-        <text>.KEY_FILE_EXPIRATION</text>
+        <text>FILE_DISPOSITION_RENDER</text>
       </register>
       <register name="5" type="4">
-        <text>.ATTACH</text>
+        <text>.FORM_DATA</text>
       </register>
       <register name="6" type="4">
-        <text>.ATTACH</text>
+        <text>.getExpiration()</text>
       </register>
       <register name="7" type="4">
-        <text>FileTransfer.</text>
+        <text>.KEY_FILE_EXPIRATION</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -722,23 +721,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>.ATTACH</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZJTEVfRElTUE9TSVRJT05fUkVOREVSOwo=</text>
+      <register name="9" type="4">
+        <text>.ATTACH</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRGaWxlVHJhbnNmZXJEb3dubG9hZEluZm9cPg==</last-search>
+      <last-search encoding="base64">XDxyZWFkU3RyaW5nTGluZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRGaWxlVHJhbnNmZXJEb3dubG9hZEluZm9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFkU3RyaW5nTGluZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -897,7 +896,6 @@
         <entry>getCon</entry>
         <entry encoding="base64">XDxnZXRSYXdDb250ZW50XD4=</entry>
         <entry encoding="base64">XDxvblNpcENwaW1NZXNzYWdlUmVjZWl2ZWRcPg==</entry>
-        <entry>read</entry>
         <entry encoding="base64">XDxyZWFkQ2h1bmtUb0VuZFRhZzJcPg==</entry>
         <entry encoding="base64">XDxyZWFkVG9FbmRGbGFnXD4=</entry>
         <entry encoding="base64">XDxCT1VOREFSWV9ERUxJTUlURVJcPg==</entry>
@@ -930,6 +928,8 @@
         <entry encoding="base64">XDxkaXNwb3NpdGlvblw+</entry>
         <entry encoding="base64">XDxtRmlsZURpc3Bvc2l0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZXRGaWxlVHJhbnNmZXJEb3dubG9hZEluZm9cPg==</entry>
+        <entry>read</entry>
+        <entry encoding="base64">XDxyZWFkU3RyaW5nTGluZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
