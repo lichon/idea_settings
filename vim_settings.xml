@@ -464,12 +464,12 @@
         <mark key="." line="91" column="61" />
         <mark key="^" line="91" column="61" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" timestamp="1552032758296">
-        <mark key="'" line="94" column="20" />
-        <mark key="[" line="71" column="33" />
-        <mark key="]" line="71" column="33" />
-        <mark key="." line="71" column="33" />
-        <mark key="^" line="71" column="34" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" timestamp="1552034082034">
+        <mark key="'" line="64" column="16" />
+        <mark key="[" line="92" column="38" />
+        <mark key="]" line="92" column="63" />
+        <mark key="." line="92" column="63" />
+        <mark key="^" line="92" column="63" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" timestamp="1551433743730">
         <mark key="'" line="34" column="45" />
@@ -585,8 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingOneToOneChatSession.java" />
-      <jump line="307" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
       <jump line="226" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
       <jump line="284" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
       <jump line="236" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
@@ -676,7 +674,6 @@
       <jump line="83" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="77" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="72" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
-      <jump line="64" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="167" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="92" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="116" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
@@ -685,40 +682,43 @@
       <jump line="136" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="102" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="94" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
+      <jump line="91" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
+      <jump line="135" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
+      <jump line="64" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>currentLine.</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>newContentPart</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdXRcPg==</text>
+        <text encoding="base64">XDxpc0JpbmFyeUNvbnRlbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjdXJyZW50TGluZS5lcXVhbHMoYm91bmRhcnlGbGFnICsgQk9VTkRBUllfREVMSU1JVEVSKSkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>currentLine.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjdXJyZW50TGluZS5lcXVhbHMoYm91bmRhcnlGbGFnICsgQk9VTkRBUllfREVMSU1JVEVSKSkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>.rep</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50TGVuZ3RoID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICBjb250ZW50RW5jb2RpbmcgPSBudWxsOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudExpbmUgPSAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+      <register name="4" type="4">
+        <text>newContentPart</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdCb3VuZGFyeSA9IHRydWU7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIG5ld0JvdW5kYXJ5ID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZW50SGVhZGVycyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgY29udGVudEhlYWRlcnMuYXBwZW5kKGN1cnJlbnRMaW5lKQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>ignore</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50SGVhZGVycwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -730,22 +730,22 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>base64Content</text>
+        <text>new StringBuffer();</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>newBoundary</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdXRcPg==</last-search>
+      <last-search encoding="base64">XDxpc0JpbmFyeUNvbnRlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc0JpbmFyeUNvbnRlbnRcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -943,6 +943,8 @@
         <entry encoding="base64">XDxtaW1lXD4=</entry>
         <entry encoding="base64">XDxwYXJ0c1w+</entry>
         <entry encoding="base64">XDxwdXRcPg==</entry>
+        <entry encoding="base64">XDxDUkxGXD4=</entry>
+        <entry encoding="base64">XDxpc0JpbmFyeUNvbnRlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
