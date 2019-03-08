@@ -155,7 +155,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" timestamp="1551943990850">
         <mark key="'" line="163" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1552041442769">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1552042358666">
         <mark key="'" line="709" column="0" />
         <mark key="[" line="691" column="52" />
         <mark key="]" line="691" column="55" />
@@ -279,6 +279,9 @@
         <mark key="^" line="3103" column="63" />
         <mark key="." line="1999" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" timestamp="1552043047241">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromResumeFileSharingSession.java" timestamp="1551941750644">
         <mark key="'" line="88" column="47" />
         <mark key="[" line="91" column="63" />
@@ -340,6 +343,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/javax/sip/message/Message.class" timestamp="1550818040803">
         <mark key="'" line="20" column="9" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactId.java" timestamp="1552043018831">
+        <mark key="'" line="69" column="11" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/FileUtils.java" timestamp="1552034789137">
         <mark key="'" line="87" column="23" />
       </file>
@@ -378,15 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingOneToOneChatSession.java" />
-      <jump line="141" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
-      <jump line="384" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
-      <jump line="139" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
-      <jump line="214" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
-      <jump line="512" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/SipMessageFactory.java" />
-      <jump line="310" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
-      <jump line="87" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
-      <jump line="426" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="399" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="41" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/DeviceUtils.java" />
       <jump line="21" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingOneToOneChatSession.java" />
@@ -478,6 +475,15 @@
       <jump line="791" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
       <jump line="794" column="44" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
       <jump line="694" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactId.java" />
+      <jump line="38" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactId.java" />
+      <jump line="59" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactId.java" />
+      <jump line="107" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactId.java" />
+      <jump line="69" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactId.java" />
+      <jump line="371" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" />
+      <jump line="474" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" />
+      <jump line="479" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -487,7 +493,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text>new ContactId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
@@ -533,9 +539,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search>new ContactId</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern>new ContactId</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -751,6 +757,9 @@
         <entry>ove</entry>
         <entry>sendIcon</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxDb250YWN0SWRcPg==</entry>
+        <entry>new Contact</entry>
+        <entry>new ContactId</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
