@@ -279,8 +279,8 @@
         <mark key="^" line="3103" column="63" />
         <mark key="." line="1999" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" timestamp="1552043047241">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" timestamp="1552043848324">
+        <mark key="'" line="458" column="21" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromResumeFileSharingSession.java" timestamp="1551941750644">
         <mark key="'" line="88" column="47" />
@@ -384,7 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="399" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="41" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/DeviceUtils.java" />
       <jump line="21" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingOneToOneChatSession.java" />
       <jump line="110" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
@@ -484,6 +483,7 @@
       <jump line="474" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" />
       <jump line="479" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" />
+      <jump line="458" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -493,7 +493,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>new ContactId</text>
+        <text encoding="base64">XDxmb3JtYXRDb250YWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
@@ -535,13 +535,13 @@
         <text>contentBuffer.toString()</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>464</text>
       </register>
     </registers>
     <search>
-      <last-search>new ContactId</last-search>
+      <last-search encoding="base64">XDxmb3JtYXRDb250YWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>new ContactId</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JtYXRDb250YWN0XD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -760,6 +760,7 @@
         <entry encoding="base64">XDxDb250YWN0SWRcPg==</entry>
         <entry>new Contact</entry>
         <entry>new ContactId</entry>
+        <entry encoding="base64">XDxmb3JtYXRDb250YWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
@@ -784,6 +785,7 @@
         <entry>W</entry>
         <entry>261</entry>
         <entry>w</entry>
+        <entry>464</entry>
       </history-cmd>
       <history-expr />
       <history-input />
