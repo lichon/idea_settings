@@ -488,12 +488,12 @@
         <mark key="." line="91" column="61" />
         <mark key="^" line="91" column="61" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" timestamp="1552034690896">
-        <mark key="'" line="201" column="19" />
-        <mark key="[" line="110" column="46" />
-        <mark key="]" line="111" column="29" />
-        <mark key="." line="111" column="29" />
-        <mark key="^" line="111" column="29" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" timestamp="1552036764278">
+        <mark key="'" line="89" column="50" />
+        <mark key="[" line="74" column="83" />
+        <mark key="]" line="74" column="104" />
+        <mark key="." line="74" column="104" />
+        <mark key="^" line="74" column="104" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfig.java" timestamp="1551433743730">
         <mark key="'" line="34" column="45" />
@@ -522,11 +522,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCPresenceService.java" timestamp="1551435165834">
         <mark key="'" line="158" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainActivity.java" timestamp="1552035803211">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="10" />
-        <mark key="." line="19" column="8" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainActivity.java" timestamp="1552036262134">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="37" column="18" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferLog.java" timestamp="1551966471349">
         <mark key="'" line="1209" column="16" />
@@ -618,9 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="97" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/FeatureTags.java" />
-      <jump line="81" column="90" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/FeatureTags.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/FeatureTags.java" />
       <jump line="41" column="113" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/FeatureTags.java" />
       <jump line="46" column="117" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/FeatureTags.java" />
       <jump line="51" column="116" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/FeatureTags.java" />
@@ -718,40 +715,44 @@
       <jump line="1257" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="34" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
       <jump line="30" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="67" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
+      <jump line="87" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
+      <jump line="88" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>currentLine</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>local</text>
+        <text encoding="base64">XDxjb250ZW50RW5jb2RpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>inputStream.available()</text>
+        <text>currentLine</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGxpbmU=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgewo=</text>
+      <register name="3" type="4">
+        <text>read</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="4" type="4">
+        <text>currentLine</text>
       </register>
       <register name="5" type="4">
-        <text>rcsSettings</text>
+        <text encoding="base64">IGxpbmU=</text>
       </register>
       <register name="6" type="4">
-        <text>RcsSettings rcsSettings</text>
+        <text>read</text>
       </register>
       <register name="7" type="4">
-        <text>Application</text>
+        <text>;
+                    contentEncoding</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -763,19 +764,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNvbnRlbnRFbmNvZGluZyA9IG51bGw7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB0ZXN0TXVsdGlQYXJ0KFJjc1NldHRpbmdzIHJjc1NldHRpbmdzKSB7CiAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocmNzU2V0dGluZ3MuZ2V0Q29uZmlnc1Jvb3REaXJlY3RvcnkoKSwgIm5vdGlmeS5sb2ciKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBGaWxlSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgRmlsZUlucHV0U3RyZWFtKGZpbGUpOwogICAgICAgICAgICBieXRlW10gdGVzdCA9IG5ldyBieXRlW2lucHV0U3RyZWFtLmF2YWlsYWJsZSgpXTsKICAgICAgICAgICAgaW5wdXRTdHJlYW0ucmVhZCh0ZXN0KTsKICAgICAgICAgICAgTXVsdGlwYXJ0IG11bHRpcGFydCA9IG5ldyBNdWx0aXBhcnQodGVzdCwgImJvdW5kYXJ5MSIpOwogICAgICAgICAgICBzTG9nZ2VyLmluZm8oIj09PT0gdGVzdCBpcyBtdWx0aXBhcnQgIiArIG11bHRpcGFydC5pc011bHRpcGFydCgpKTsKICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCI9PT09IHBhcnQxICIgKyBtdWx0aXBhcnQuZ2V0UGFydCgiYXBwbGljYXRpb24vY29uZmVyZW5jZS1pbmZvK3htbCIpKTsKICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCI9PT09IHBhcnQyICIgKyBtdWx0aXBhcnQuZ2V0UGFydCgiaW1hZ2UvanBlZyIpKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0KCg==</text>
+      <register name="9" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>local</last-search>
+      <last-search encoding="base64">XDxjb250ZW50RW5jb2RpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern>local</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZW50RW5jb2RpbmdcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -977,11 +978,11 @@
         <entry encoding="base64">XDxwdXRcPg==</entry>
         <entry encoding="base64">XDxDUkxGXD4=</entry>
         <entry encoding="base64">XDxpc0JpbmFyeUNvbnRlbnRcPg==</entry>
-        <entry encoding="base64">XDxjb250ZW50RW5jb2RpbmdcPg==</entry>
         <entry encoding="base64">XDxjb250ZW50QnVmZmVyXD4=</entry>
         <entry encoding="base64">XDxjb250ZW50UGFydFw+</entry>
         <entry encoding="base64">XDxyZWFkTGVuZ3RoXD4=</entry>
         <entry>local</entry>
+        <entry encoding="base64">XDxjb250ZW50RW5jb2RpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
