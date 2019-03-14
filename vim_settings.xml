@@ -121,8 +121,8 @@
         <mark key="." line="81" column="47" />
         <mark key="^" line="81" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1550666723811">
-        <mark key="'" line="291" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552567187578">
+        <mark key="'" line="143" column="20" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="141" column="8" />
         <mark key="." line="213" column="16" />
@@ -367,12 +367,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransfer.java" timestamp="1551965128106">
         <mark key="'" line="54" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1551871176219">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1552567647448">
         <mark key="'" line="1041" column="0" />
-        <mark key="[" line="976" column="0" />
-        <mark key="]" line="976" column="0" />
-        <mark key="." line="976" column="0" />
-        <mark key="^" line="939" column="19" />
+        <mark key="[" line="789" column="20" />
+        <mark key="]" line="789" column="24" />
+        <mark key="." line="789" column="24" />
+        <mark key="^" line="789" column="24" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1551261788168">
         <mark key="'" line="232" column="22" />
@@ -678,12 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="311" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="502" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="52" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransfer.java" />
-      <jump line="54" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransfer.java" />
-      <jump line="514" column="80" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="515" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="523" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
       <jump line="524" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
@@ -778,40 +772,46 @@
       <jump line="910" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="295" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/event/ConferenceEventSubscribeManager.java" />
       <jump line="495" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/event/ConferenceEventSubscribeManager.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="94" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="185" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="222" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="261" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="143" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0RnRIdHRwU2VydmVyKG51bGwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KG1heFNpemVJbkJhc2U2NCAqIDMpID4+IDI7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXJtaW5hdGVkQnlTZXJ2ZXJcPg==</text>
+        <text>handle cm message exception</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0RnRIdHRwU2VydmVyKG51bGwpOwo=</text>
+      <register name="1" type="4">
+        <text>info</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0RmlsZVRyYW5zZmVySHR0cFN1cHBvcnRlZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0RnRIdHRwU2VydmVyKG51bGwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhTaXplID0gcmNzU2V0dGluZ3MuZ2V0TWF4RmlsZUljb25TaXplKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0RmlsZVRyYW5zZmVySHR0cFN1cHBvcnRlZChmYWxzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYXhTaXplID0gcmNzU2V0dGluZ3MuZ2V0TWF4RmlsZUljb25TaXplKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0TWF4RmlsZUljb25TaXplKDQgKiAxMDI0KTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>rcsSettings.getMaxFileIconSize();</text>
       </register>
-      <register name="6" type="4">
-        <text>long</text>
-      </register>
       <register name="7" type="4">
-        <text>.setFtHttpServer(null);</text>
+        <text>long</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -822,23 +822,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0TWF4RmlsZUljb25TaXplKDQgKiAxMDI0KTsK</text>
+      <register name="8" type="4">
+        <text>.setFtHttpServer(null);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEJ1aWxkIGEgQ1BJTSBtZXNzYWdlCiAgICAgKgogICAgICogQHBhcmFtIGZyb20gRnJvbQogICAgICogQHBhcmFtIHRvIFRvCiAgICAgKiBAcGFyYW0gY29udGVudCBDb250ZW50CiAgICAgKiBAcGFyYW0gY29udGVudFR5cGUgQ29udGVudCB0eXBlCiAgICAgKiBAcGFyYW0gdGltZXN0YW1wU2VudCBUaW1lc3RhbXAgc2VudCBpbiBwYXlsb2FkIGZvciBDUElNIERhdGVUaW1lcwogICAgICogQHJldHVybiBTdHJpbmcKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBieXRlW10gYnVpbGRDcGltTWVzc2FnZShTdHJpbmcgZnJvbSwgU3RyaW5nIHRvLCBieXRlW10gY29udGVudCwKICAgICAgICAgICAgU3RyaW5nIGNvbnRlbnRUeXBlLCBsb25nIHRpbWVzdGFtcFNlbnQpIHsKICAgICAgICBpZiAoY29udGVudCAhPSBudWxsKSB7CiAgICAgICAgICAgIFN0cmluZyBtc2cgPSBDcGltTWVzc2FnZS5IRUFERVJfRlJPTSArICI6ICIgKyBmb3JtYXRDcGltU2lwVXJpKGZyb20pICsgQ1JMRgogICAgICAgICAgICAgICAgICAgICsgQ3BpbU1lc3NhZ2UuSEVBREVSX1RPICsgIjogIiArIGZvcm1hdENwaW1TaXBVcmkodG8pICsgQ1JMRgogICAgICAgICAgICAgICAgICAgICsgQ3BpbU1lc3NhZ2UuSEVBREVSX0RBVEVUSU1FICsgIjogIiArIERhdGVVdGlscy5lbmNvZGVEYXRlKHRpbWVzdGFtcFNlbnQpICsgQ1JMRjsKICAgICAgICAgICAgaWYgKGdldE15RmVhdHVyZUhlYWRlcigpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIG1zZyA9IG1zZyArIGdldE15RmVhdHVyZUhlYWRlcigpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIG1zZyA9IG1zZyArIENwaW1NZXNzYWdlLkhFQURFUl9DT05URU5UX1RZUEUgKyAiOiAiICsgY29udGVudFR5cGUgKyAiO2NoYXJzZXQ9IgogICAgICAgICAgICAgICAgICAgICsgVVRGOF9TVFIgKyBDUkxGICsgQ1JMRjsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBvdXQgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKG1zZy5sZW5ndGgoKSArIGNvbnRlbnQubGVuZ3RoKTsKICAgICAgICAgICAgICAgIG91dC53cml0ZShtc2cuZ2V0Qnl0ZXMoKSk7CiAgICAgICAgICAgICAgICBvdXQud3JpdGUoY29udGVudCk7CiAgICAgICAgICAgICAgICByZXR1cm4gb3V0LnRvQnl0ZUFycmF5KCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGlnbm9yZSkgewogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIFN0cmluZyBtc2cgPSBDcGltTWVzc2FnZS5IRUFERVJfRlJPTSArICI6ICIgKyBmb3JtYXRDcGltU2lwVXJpKGZyb20pICsgQ1JMRgogICAgICAgICAgICAgICAgKyBDcGltTWVzc2FnZS5IRUFERVJfVE8gKyAiOiAiICsgZm9ybWF0Q3BpbVNpcFVyaSh0bykgKyBDUkxGCiAgICAgICAgICAgICAgICArIENwaW1NZXNzYWdlLkhFQURFUl9EQVRFVElNRSArICI6ICIgKyBEYXRlVXRpbHMuZW5jb2RlRGF0ZSh0aW1lc3RhbXBTZW50KSArIENSTEY7CiAgICAgICAgaWYgKGdldE15RmVhdHVyZUhlYWRlcigpICE9IG51bGwpIHsKICAgICAgICAgICAgbXNnID0gbXNnICsgZ2V0TXlGZWF0dXJlSGVhZGVyKCk7CiAgICAgICAgfQogICAgICAgIG1zZyA9IG1zZyArIENSTEY7CiAgICAgICAgcmV0dXJuIG1zZy5nZXRCeXRlcygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtUmNzU2V0dGluZ3Muc2V0TWF4RmlsZUljb25TaXplKDQgKiAxMDI0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXJtaW5hdGVkQnlTZXJ2ZXJcPg==</last-search>
+      <last-search>handle cm message exception</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXJtaW5hdGVkQnlTZXJ2ZXJcPg==</last-pattern>
+      <last-pattern>handle cm message exception</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1067,6 +1067,13 @@
         <entry encoding="base64">XDxNQVhfUEhPVE9fSUNPTl9TSVpFXD4=</entry>
         <entry encoding="base64">XDxERUZBVUxUX01BWF9QSE9UT19JQ09OX1NJWkVcPg==</entry>
         <entry encoding="base64">XDx0ZXJtaW5hdGVkQnlTZXJ2ZXJcPg==</entry>
+        <entry>createSocket 002</entry>
+        <entry>close CMSO</entry>
+        <entry>close CMS</entry>
+        <entry>close CM</entry>
+        <entry>close CMI</entry>
+        <entry encoding="base64">Y2xvc2Ug</entry>
+        <entry>handle cm message exception</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
