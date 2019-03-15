@@ -115,11 +115,11 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" timestamp="1552649251456">
         <mark key="'" line="137" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552651019688">
-        <mark key="'" line="172" column="19" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="196" column="13" />
-        <mark key="." line="193" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552651680153">
+        <mark key="'" line="257" column="12" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MimeManager.java" timestamp="1551865504140">
         <mark key="'" line="262" column="17" />
@@ -192,8 +192,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1551946269219">
         <mark key="'" line="45" column="13" />
       </file>
-      <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1552646171891">
-        <mark key="'" line="134" column="7" />
+      <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1552651285663">
+        <mark key="'" line="310" column="19" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1548656007139">
         <mark key="'" line="74" column="0" />
@@ -661,11 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="576" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="577" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="97" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="165" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="166" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
       <jump line="559" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
       <jump line="46" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMMessageFactory.java" />
       <jump line="34" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
@@ -689,10 +684,6 @@
       <jump line="317" column="8" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
       <jump line="425" column="46" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
       <jump line="455" column="0" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="54" column="21" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="261" column="37" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="310" column="19" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="450" column="8" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
       <jump line="242" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="130" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="179" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
@@ -745,7 +736,6 @@
       <jump line="136" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="183" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="116" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="138" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="143" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="144" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="113" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
@@ -761,37 +751,47 @@
       <jump line="135" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="137" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="172" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="111" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="138" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="187" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="190" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="243" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="450" column="8" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
+      <jump line="54" column="21" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
+      <jump line="261" column="37" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
+      <jump line="310" column="19" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
+      <jump line="257" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNvY2tldElucHV0U3RyZWFtICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHNvY2tldElucHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBzb2NrZXRJbnB1dFN0cmVhbSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb2NrZXRJbnB1dFN0cmVhbVw+</text>
+        <text>createSocket 002</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNvY2tldElucHV0U3RyZWFtICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHNvY2tldElucHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBzb2NrZXRJbnB1dFN0cmVhbSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ID0gbnVsbDs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc29ja2V0SW5wdXRTdHJlYW0gPSBudWxsOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ID0gbnVsbDs=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNvY2tldElucHV0U3RyZWFtICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHNvY2tldElucHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNvY2tldElucHV0U3RyZWFtID0gbnVsbDsK</text>
@@ -806,19 +806,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgc3luY2hyb25pemVkIGJvb2xlYW4gaXNDbG9zZWQoKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNvY2tldElucHV0U3RyZWFtICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHNvY2tldElucHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBzb2NrZXRJbnB1dFN0cmVhbSA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZW5kaW5nIGJ1ZmZlcgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ID0gbnVsbDs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb2NrZXRJbnB1dFN0cmVhbVw+</last-search>
+      <last-search>createSocket 002</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb2NrZXRJbnB1dFN0cmVhbVw+</last-pattern>
+      <last-pattern>createSocket 002</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,7 +1086,6 @@
         <entry encoding="base64">XDxzZW5kS2VlcEFsaXZlXD4=</entry>
         <entry encoding="base64">XDxzZW5kSGVhcnRiZWF0XD4=</entry>
         <entry>coreateSOcket</entry>
-        <entry>createSocket 002</entry>
         <entry encoding="base64">XDxzdGFja1w+</entry>
         <entry encoding="base64">XDxnZXRTb2NrZXRcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVTb2NrZXRcPg==</entry>
@@ -1105,7 +1104,6 @@
         <entry>close</entry>
         <entry>mySock\.cl</entry>
         <entry>isClosed</entry>
-        <entry encoding="base64">XDxjbG9zZWRcPg==</entry>
         <entry encoding="base64">XDxteVNvY2tcPg==</entry>
         <entry>sendReq</entry>
         <entry encoding="base64">XDxtZXNzYWdlVG9TZW5kXD4=</entry>
@@ -1151,7 +1149,6 @@
         <entry>end de</entry>
         <entry encoding="base64">XDxyZWFkU2lkZVw+</entry>
         <entry>close(</entry>
-        <entry encoding="base64">XDxjbG9zZWRCeVJlYWRlclw+</entry>
         <entry encoding="base64">XDxDTUlucHV0U3RyZWFtXD4=</entry>
         <entry encoding="base64">XDxjb25uZWN0ZWRcPg==</entry>
         <entry encoding="base64">XDxjbVNlcnZpY2VIYW5kbGVcPg==</entry>
@@ -1164,6 +1161,9 @@
         <entry encoding="base64">XDxzb2NrZXRPdXRwdXRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxDTU91dHB1dFN0cmVhbVw+</entry>
         <entry encoding="base64">XDxzb2NrZXRJbnB1dFN0cmVhbVw+</entry>
+        <entry encoding="base64">XDxjbG9zZWRcPg==</entry>
+        <entry encoding="base64">XDxjbG9zZWRCeVJlYWRlclw+</entry>
+        <entry>createSocket 002</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
