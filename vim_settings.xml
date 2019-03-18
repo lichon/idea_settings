@@ -193,8 +193,12 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1552651285663">
         <mark key="'" line="310" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1548656007139">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1552877705958">
+        <mark key="'" line="79" column="41" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="52" column="41" />
+        <mark key="." line="52" column="41" />
+        <mark key="^" line="52" column="41" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" timestamp="1552046176287">
         <mark key="'" line="910" column="43" />
@@ -639,8 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="18" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" />
-      <jump line="202" column="32" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
       <jump line="998" column="15" filename="$USER_HOME$/android/sdk/sources/android-26/java/lang/Thread.java" />
       <jump line="150" column="26" filename="$USER_HOME$/android/sdk/sources/android-26/java/lang/Thread.java" />
       <jump line="567" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
@@ -739,40 +741,42 @@
       <jump line="138" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="194" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="153" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="49" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="79" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>op_platform</text>
       </register>
       <register name="-" type="4">
-        <text>network</text>
+        <text>op_platform</text>
       </register>
       <register name="/" type="4">
-        <text>handleCM</text>
+        <text encoding="base64">XDx1c2VyZGVidWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>op_platform</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkYXRhU3RyZWFtRnJvbUNNLmNvbm5lY3Qoc29ja2V0SW5wdXRTdHJlYW0pOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiaW5wdXQgc3RyZWFtIGNvbm5lY3QgZXhjZXB0aW9uOiAiICsgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkYXRhU3RyZWFtRnJvbUNNLmNvbm5lY3Qoc29ja2V0SW5wdXRTdHJlYW0pOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiaW5wdXQgc3RyZWFtIGNvbm5lY3QgZXhjZXB0aW9uOiAiICsgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIFBpcGVkSW5wdXRTdHJlYW0gc29ja2V0SW5wdXRTdHJlYW0gPSBuZXcgQ01JbnB1dFN0cmVhbSg0ICogMTAyNCk7CiAgICAgICAgcHJpdmF0ZSBQaXBlZE91dHB1dFN0cmVhbSBkYXRhU3RyZWFtRnJvbUNNID0gbmV3IFBpcGVkT3V0cHV0U3RyZWFtKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>info</text>
-      </register>
       <register name="7" type="4">
-        <text>debug</text>
+        <text>info</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -787,19 +791,19 @@
         <text>debug</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;cm network layer flush message len:&quot; + length</text>
+        <text>debug</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>handleCM</last-search>
+      <last-search encoding="base64">XDx1c2VyZGVidWdcPg==</last-search>
       <last-offset />
-      <last-pattern>handleCM</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyZGVidWdcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1143,6 +1147,7 @@
         <entry>createSocket 002</entry>
         <entry encoding="base64">XDxjbG9zZWRcPg==</entry>
         <entry>handleCM</entry>
+        <entry encoding="base64">XDx1c2VyZGVidWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
