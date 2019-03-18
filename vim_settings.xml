@@ -198,7 +198,7 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1552886010071">
         <mark key="'" line="88" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1552879998224">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1552898273280">
         <mark key="'" line="44" column="8" />
         <mark key="[" line="52" column="39" />
         <mark key="]" line="52" column="41" />
@@ -801,7 +801,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>op_platform</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -813,25 +813,25 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>new CMSocket();</text>
+        <text>op_platform</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmVTb2NrZXQub3BlblNvY2tldCgpOwo=</text>
+      <register name="2" type="4">
+        <text>new CMSocket();</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBhY3RpdmVTb2NrZXQub3BlblNvY2tldCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmVTb2NrZXQub3BlblNvY2tldCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENNU29ja2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBoYW5kbGVDTU1lc3NhZ2UoYnl0ZVtdIG1lc3NhZ2UsIGludCBsZW5ndGgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGRhdGFTdHJlYW1Gcm9tQ00gPT0gbnVsbCkgewogICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmVycm9yKCJjbSBzb2NrZXQgaXMgbm90IG9wZW4hIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBkYXRhU3RyZWFtRnJvbUNNLndyaXRlKG1lc3NhZ2UsIDAsIGxlbmd0aCk7CiAgICAgICAgZGF0YVN0cmVhbUZyb21DTS5mbHVzaCgpOwogICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiY20gbmV0d29yayBsYXllciBmbHVzaCBtZXNzYWdlIGxlbjoiICsgbGVuZ3RoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIENNU29ja2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQ01NZXNzYWdlKGRhdGEsIGxlbmd0aCk7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBoYW5kbGVDTU1lc3NhZ2UoYnl0ZVtdIG1lc3NhZ2UsIGludCBsZW5ndGgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgaWYgKGRhdGFTdHJlYW1Gcm9tQ00gPT0gbnVsbCkgewogICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICBzTG9nZ2VyLmVycm9yKCJjbSBzb2NrZXQgaXMgbm90IG9wZW4hIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBkYXRhU3RyZWFtRnJvbUNNLndyaXRlKG1lc3NhZ2UsIDAsIGxlbmd0aCk7CiAgICAgICAgZGF0YVN0cmVhbUZyb21DTS5mbHVzaCgpOwogICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiY20gbmV0d29yayBsYXllciBmbHVzaCBtZXNzYWdlIGxlbjoiICsgbGVuZ3RoKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -843,10 +843,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBjbG9zZWQgPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlQ01NZXNzYWdlKGRhdGEsIGxlbmd0aCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0Nsb3NlZCgpKSB7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBjbG9zZWQgPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
