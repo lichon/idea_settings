@@ -193,7 +193,7 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1552651285663">
         <mark key="'" line="310" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1552877908997">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1552879998224">
         <mark key="'" line="44" column="8" />
         <mark key="[" line="52" column="39" />
         <mark key="]" line="52" column="41" />
@@ -414,6 +414,13 @@
         <mark key="]" line="476" column="51" />
         <mark key="." line="475" column="0" />
         <mark key="^" line="307" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1552880058632">
+        <mark key="'" line="290" column="30" />
+        <mark key="[" line="167" column="20" />
+        <mark key="]" line="167" column="26" />
+        <mark key="." line="167" column="26" />
+        <mark key="^" line="167" column="26" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/header/Reason.class" timestamp="1551251153022">
         <mark key="'" line="15" column="24" />
@@ -746,7 +753,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>op_platform</text>
+        <text>retrun;</text>
       </register>
       <register name="-" type="4">
         <text>op_platform</text>
@@ -758,25 +765,25 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>op_platform</text>
+        <text>retrun;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>op_platform</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>op_platform</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkYXRhU3RyZWFtRnJvbUNNLmNvbm5lY3Qoc29ja2V0SW5wdXRTdHJlYW0pOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiaW5wdXQgc3RyZWFtIGNvbm5lY3QgZXhjZXB0aW9uOiAiICsgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFBpcGVkSW5wdXRTdHJlYW0gc29ja2V0SW5wdXRTdHJlYW0gPSBuZXcgQ01JbnB1dFN0cmVhbSg0ICogMTAyNCk7CiAgICAgICAgcHJpdmF0ZSBQaXBlZE91dHB1dFN0cmVhbSBkYXRhU3RyZWFtRnJvbUNNID0gbmV3IFBpcGVkT3V0cHV0U3RyZWFtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>info</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -787,11 +794,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>debug</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkYXRhU3RyZWFtRnJvbUNNLmNvbm5lY3Qoc29ja2V0SW5wdXRTdHJlYW0pOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiaW5wdXQgc3RyZWFtIGNvbm5lY3QgZXhjZXB0aW9uOiAiICsgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>debug</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFBpcGVkSW5wdXRTdHJlYW0gc29ja2V0SW5wdXRTdHJlYW0gPSBuZXcgQ01JbnB1dFN0cmVhbSg0ICogMTAyNCk7CiAgICAgICAgcHJpdmF0ZSBQaXBlZE91dHB1dFN0cmVhbSBkYXRhU3RyZWFtRnJvbUNNID0gbmV3IFBpcGVkT3V0cHV0U3RyZWFtKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1169,11 +1176,11 @@
         <entry>189</entry>
         <entry>69</entry>
         <entry>934</entry>
-        <entry>W</entry>
         <entry>261</entry>
         <entry>464</entry>
         <entry>tabprevious</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
