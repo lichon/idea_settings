@@ -17,8 +17,8 @@
         <mark key="^" line="64" column="15" />
         <mark key="." line="176" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1551965117538">
-        <mark key="'" line="502" column="40" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1552889486111">
+        <mark key="'" line="68" column="13" />
         <mark key="[" line="519" column="40" />
         <mark key="]" line="519" column="45" />
         <mark key="." line="519" column="45" />
@@ -650,7 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="113" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="182" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="218" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
@@ -750,6 +749,7 @@
       <jump line="43" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="267" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="265" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="68" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -759,7 +759,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>close CMS</text>
+        <text>503</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
@@ -805,9 +805,9 @@
       </register>
     </registers>
     <search>
-      <last-search>close CMS</last-search>
+      <last-search>503</last-search>
       <last-offset />
-      <last-pattern>close CMS</last-pattern>
+      <last-pattern>503</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1162,6 +1162,7 @@
         <entry encoding="base64">XDxoYW5kbGVDTU1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxDTVNlcnZlclNvY2tldFw+</entry>
         <entry>close CMS</entry>
+        <entry>503</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
