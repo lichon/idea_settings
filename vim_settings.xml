@@ -109,12 +109,10 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" timestamp="1552649251456">
         <mark key="'" line="137" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552652216801">
-        <mark key="'" line="263" column="12" />
-        <mark key="[" line="144" column="45" />
-        <mark key="]" line="144" column="47" />
-        <mark key="." line="144" column="47" />
-        <mark key="^" line="144" column="47" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552653975692">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MimeManager.java" timestamp="1551865504140">
         <mark key="'" line="262" column="17" />
@@ -151,7 +149,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatApi.java" timestamp="1551349248938">
         <mark key="'" line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1552648999153">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1552653242264">
         <mark key="'" line="223" column="24" />
         <mark key="[" line="383" column="0" />
         <mark key="]" line="383" column="0" />
@@ -176,6 +174,11 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsNetworkInterface.java" timestamp="1552636961620">
         <mark key="'" line="637" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCSipInterface.java" timestamp="1552568858530">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="67" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" timestamp="1551429729490">
         <mark key="'" line="361" column="42" />
@@ -243,12 +246,12 @@
         <mark key="." line="86" column="55" />
         <mark key="^" line="86" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" timestamp="1548925762456">
-        <mark key="'" line="184" column="15" />
-        <mark key="[" line="237" column="31" />
-        <mark key="]" line="237" column="31" />
-        <mark key="." line="237" column="31" />
-        <mark key="^" line="237" column="31" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" timestamp="1552653940275">
+        <mark key="'" line="159" column="24" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="148" column="13" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="269" column="29" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/IIMErrorProcessor.java" timestamp="1551254314493">
         <mark key="'" line="18" column="16" />
@@ -316,6 +319,11 @@
         <mark key="]" line="178" column="30" />
         <mark key="." line="178" column="30" />
         <mark key="^" line="178" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMListener.java" timestamp="1552636755089">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.mediatek.ims.rcsua.jar!/com/mediatek/ims/rcsua/Client.class" timestamp="1550488594797">
         <mark key="'" line="64" column="20" />
@@ -527,6 +535,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/QCPresenceService.java" timestamp="1551435165834">
         <mark key="'" line="158" column="48" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/PresenceSubscribeManager.java" timestamp="1552038018363">
+        <mark key="[" line="119" column="78" />
+        <mark key="]" line="119" column="78" />
+        <mark key="." line="119" column="78" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferLog.java" timestamp="1551966471349">
         <mark key="'" line="1209" column="16" />
         <mark key="[" line="1218" column="63" />
@@ -626,15 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="559" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="46" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMMessageFactory.java" />
-      <jump line="34" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
-      <jump line="119" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
-      <jump line="36" column="84" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
-      <jump line="555" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/SipMessageFactory.java" />
-      <jump line="193" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="256" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="139" column="22" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" />
       <jump line="156" column="18" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" />
       <jump line="202" column="32" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
       <jump line="998" column="15" filename="$USER_HOME$/android/sdk/sources/android-26/java/lang/Thread.java" />
@@ -702,7 +706,6 @@
       <jump line="183" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="116" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="143" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="144" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="113" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="182" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="218" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
@@ -711,13 +714,10 @@
       <jump line="147" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="263" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="114" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="132" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="133" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="135" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="137" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="172" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="111" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="138" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="187" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="190" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="243" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
@@ -726,40 +726,53 @@
       <jump line="261" column="37" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
       <jump line="310" column="19" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
       <jump line="257" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="144" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="136" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="112" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="139" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="188" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="191" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="193" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="196" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="111" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="138" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="194" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="153" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>network</text>
       </register>
       <register name="/" type="4">
-        <text>createSocket 002</text>
+        <text>handleCM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>info</text>
-      </register>
-      <register name="2" type="4">
-        <text>debug</text>
-      </register>
-      <register name="3" type="4">
-        <text>debug</text>
-      </register>
-      <register name="4" type="4">
-        <text>&quot;cm network layer flush message len:&quot; + length</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkYXRhU3RyZWFtRnJvbUNNLmNvbm5lY3Qoc29ja2V0SW5wdXRTdHJlYW0pOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiaW5wdXQgc3RyZWFtIGNvbm5lY3QgZXhjZXB0aW9uOiAiICsgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFBpcGVkSW5wdXRTdHJlYW0gc29ja2V0SW5wdXRTdHJlYW0gPSBuZXcgQ01JbnB1dFN0cmVhbSg0ICogMTAyNCk7CiAgICAgICAgcHJpdmF0ZSBQaXBlZE91dHB1dFN0cmVhbSBkYXRhU3RyZWFtRnJvbUNNID0gbmV3IFBpcGVkT3V0cHV0U3RyZWFtKCk7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>info</text>
+      </register>
+      <register name="7" type="4">
+        <text>debug</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -770,20 +783,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>debug</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>&quot;cm network layer flush message len:&quot; + length</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>createSocket 002</last-search>
+      <last-search>handleCM</last-search>
       <last-offset />
-      <last-pattern>createSocket 002</last-pattern>
+      <last-pattern>handleCM</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1126,9 +1139,10 @@
         <entry encoding="base64">XDxzb2NrZXRPdXRwdXRTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDxDTU91dHB1dFN0cmVhbVw+</entry>
         <entry encoding="base64">XDxzb2NrZXRJbnB1dFN0cmVhbVw+</entry>
-        <entry encoding="base64">XDxjbG9zZWRcPg==</entry>
         <entry encoding="base64">XDxjbG9zZWRCeVJlYWRlclw+</entry>
         <entry>createSocket 002</entry>
+        <entry encoding="base64">XDxjbG9zZWRcPg==</entry>
+        <entry>handleCM</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
