@@ -193,8 +193,8 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1552651285663">
         <mark key="'" line="310" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1552877705958">
-        <mark key="'" line="79" column="41" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1552877908997">
+        <mark key="'" line="44" column="8" />
         <mark key="[" line="52" column="39" />
         <mark key="]" line="52" column="41" />
         <mark key="." line="52" column="41" />
@@ -643,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="998" column="15" filename="$USER_HOME$/android/sdk/sources/android-26/java/lang/Thread.java" />
       <jump line="150" column="26" filename="$USER_HOME$/android/sdk/sources/android-26/java/lang/Thread.java" />
       <jump line="567" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
       <jump line="373" column="28" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
@@ -743,6 +742,7 @@
       <jump line="153" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
       <jump line="49" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="79" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="44" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -752,7 +752,7 @@
         <text>op_platform</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyZGVidWdcPg==</text>
+        <text encoding="base64">XDx2ZXJzaW9uTmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
@@ -798,9 +798,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyZGVidWdcPg==</last-search>
+      <last-search encoding="base64">XDx2ZXJzaW9uTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyZGVidWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJzaW9uTmFtZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -1148,6 +1148,7 @@
         <entry encoding="base64">XDxjbG9zZWRcPg==</entry>
         <entry>handleCM</entry>
         <entry encoding="base64">XDx1c2VyZGVidWdcPg==</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
