@@ -415,12 +415,12 @@
         <mark key="." line="475" column="0" />
         <mark key="^" line="307" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1552880058632">
-        <mark key="'" line="290" column="30" />
-        <mark key="[" line="167" column="20" />
-        <mark key="]" line="167" column="26" />
-        <mark key="." line="167" column="26" />
-        <mark key="^" line="167" column="26" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1552882187761">
+        <mark key="'" line="503" column="20" />
+        <mark key="[" line="232" column="26" />
+        <mark key="]" line="232" column="50" />
+        <mark key="." line="232" column="50" />
+        <mark key="^" line="232" column="50" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/header/Reason.class" timestamp="1551251153022">
         <mark key="'" line="15" column="24" />
@@ -481,12 +481,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactTask.java" timestamp="1550674465470">
         <mark key="'" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1552633217601">
-        <mark key="'" line="3142" column="75" />
-        <mark key="[" line="3141" column="0" />
-        <mark key="]" line="3143" column="9" />
-        <mark key="^" line="3106" column="63" />
-        <mark key="." line="2002" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1552882173632">
+        <mark key="'" line="3144" column="75" />
+        <mark key="[" line="3119" column="26" />
+        <mark key="]" line="3119" column="30" />
+        <mark key="^" line="3119" column="30" />
+        <mark key="." line="3119" column="30" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/BroadcastUtils.java" timestamp="1551351737289">
         <mark key="'" line="35" column="16" />
@@ -650,10 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="26" filename="$USER_HOME$/android/sdk/sources/android-26/java/lang/Thread.java" />
-      <jump line="567" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="373" column="28" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="220" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="199" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="137" column="16" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" />
       <jump line="61" column="11" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
@@ -750,40 +746,44 @@
       <jump line="49" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="79" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
       <jump line="44" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" />
+      <jump line="529" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="209" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="474" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="499" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>retrun;</text>
+        <text>Start applying default configurations.</text>
       </register>
       <register name="-" type="4">
         <text>op_platform</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJzaW9uTmFtZVw+</text>
+        <text encoding="base64">XDxpc1NpbUFic2VudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>retrun;</text>
+        <text>Start applying default configurations.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+      <register name="2" type="4">
+        <text>Begin</text>
       </register>
       <register name="3" type="4">
-        <text>op_platform</text>
+        <text encoding="base64">IHByb3Zpc2lvbmluZw==</text>
       </register>
       <register name="4" type="4">
-        <text>op_platform</text>
+        <text>manual</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjbG9zZWQpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>treu</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -794,23 +794,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBkYXRhU3RyZWFtRnJvbUNNLmNvbm5lY3Qoc29ja2V0SW5wdXRTdHJlYW0pOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygiaW5wdXQgc3RyZWFtIGNvbm5lY3QgZXhjZXB0aW9uOiAiICsgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text>void</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFBpcGVkSW5wdXRTdHJlYW0gc29ja2V0SW5wdXRTdHJlYW0gPSBuZXcgQ01JbnB1dFN0cmVhbSg0ICogMTAyNCk7CiAgICAgICAgcHJpdmF0ZSBQaXBlZE91dHB1dFN0cmVhbSBkYXRhU3RyZWFtRnJvbUNNID0gbmV3IFBpcGVkT3V0cHV0U3RyZWFtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShnZXRDb25maWdzUm9vdERpcmVjdG9yeSgpLCBmaWxlbmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJzaW9uTmFtZVw+</last-search>
+      <last-search encoding="base64">XDxpc1NpbUFic2VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJzaW9uTmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc1NpbUFic2VudFw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -859,7 +859,6 @@
         <entry encoding="base64">XDxPdmVycmlkZVw+</entry>
         <entry>mConfigLo</entry>
         <entry encoding="base64">XDxtQ29uZmlnTG9hZGVkXD4=</entry>
-        <entry encoding="base64">XDxzdGFydFByb3Zpc2lvbmluZ1w+</entry>
         <entry>Done ap</entry>
         <entry encoding="base64">XDxjb25maWdYbWxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxyY3NDb25maWdMaXN0ZW5lclw+</entry>
@@ -1156,6 +1155,8 @@
         <entry>handleCM</entry>
         <entry encoding="base64">XDx1c2VyZGVidWdcPg==</entry>
         <entry encoding="base64">XDx2ZXJzaW9uTmFtZVw+</entry>
+        <entry encoding="base64">XDxzdGFydFByb3Zpc2lvbmluZ1w+</entry>
+        <entry encoding="base64">XDxpc1NpbUFic2VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>347</entry>
@@ -1179,8 +1180,8 @@
         <entry>261</entry>
         <entry>464</entry>
         <entry>tabprevious</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
