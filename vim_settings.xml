@@ -138,6 +138,13 @@
         <mark key="." line="196" column="40" />
         <mark key="^" line="197" column="81" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/ChunkReceiver.java" timestamp="1552978276618">
+        <mark key="'" line="144" column="27" />
+        <mark key="[" line="192" column="68" />
+        <mark key="]" line="192" column="68" />
+        <mark key="." line="192" column="68" />
+        <mark key="^" line="192" column="68" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/TCPMessageProcessor.java" timestamp="1552638583148">
         <mark key="'" line="63" column="41" />
       </file>
@@ -801,8 +808,8 @@
       <jump line="615" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZmFpbGVkIHRvIGdldCBzZXMgcmVzcG9uc2UiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.append(dataLen);</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -813,26 +820,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZmFpbGVkIHRvIGdldCBzZXMgcmVzcG9uc2UiKTsK</text>
+      <register name="1" type="4">
+        <text>.append(dataLen);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFjZS5hcHBlbmQoKS5hcHBlbmQoZGF0YUxlbik7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>UnknownHostException</text>
+        <text>&quot;read length: &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFkZHJlc3MgPSBDTUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldFBjc2NmQWRkcmVzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZmFpbGVkIHRvIGdldCBzZXMgcmVzcG9uc2UiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5ldEFkZHJlc3NbXSBpbmV0QWRkcnMgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChpbmV0QWRkcnMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGluZXRBZGRyc1swXTsgLy9vbmx5IG9uZQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="6" type="4">
+        <text>UnknownHostException</text>
       </register>
-      <register name="7" type="4">
-        <text>inetAddrs =</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFkZHJlc3MgPSBDTUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldFBjc2NmQWRkcmVzcygpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -846,8 +853,8 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW5ldEFkZHJlc3NbXSBpbmV0QWRkcnMgPSBudWxsOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>UnknownHostException</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChpbmV0QWRkcnMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGluZXRBZGRyc1swXTsgLy9vbmx5IG9uZQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -949,8 +956,8 @@
         <entry>168</entry>
         <entry>288</entry>
         <entry>966</entry>
-        <entry>w</entry>
         <entry>tabprevious</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
