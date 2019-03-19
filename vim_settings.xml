@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" timestamp="1552957803509">
         <mark key="'" line="118" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552958090188">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552960960158">
         <mark key="'" line="214" column="12" />
-        <mark key="[" line="191" column="15" />
-        <mark key="]" line="191" column="15" />
-        <mark key="." line="191" column="15" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MimeManager.java" timestamp="1551865504140">
         <mark key="'" line="262" column="17" />
@@ -197,7 +197,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1551946269219">
         <mark key="'" line="45" column="13" />
       </file>
-      <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1552957843942">
+      <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" timestamp="1552960788170">
         <mark key="'" line="288" column="22" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1552898273280">
@@ -820,8 +820,8 @@
       <jump line="214" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -832,23 +832,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>synchronized</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuY2xvc2UoKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="4">
+        <text>synchronized</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuY2xvc2UoKTsK</text>
+      </register>
+      <register name="4" type="4">
         <text>close</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gbmV3IFRocm93YWJsZSgpLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsb3NlZCA9IHRydWU7Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChDTVNvY2tldC50aGlzLmlzQ2xvc2VkKCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsb3NlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChDTVNvY2tldC50aGlzLmlzQ2xvc2VkKCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
@@ -863,10 +863,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChDTVNvY2tldC50aGlzLmlzQ2xvc2VkKCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.closed</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
