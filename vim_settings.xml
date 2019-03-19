@@ -50,6 +50,10 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/net/URLConnection.java" timestamp="1552967764489">
         <mark key="'" line="717" column="19" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkSipInterface.java" timestamp="1552970112656">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="94" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1551944731177">
         <mark key="'" line="1143" column="30" />
         <mark key="[" line="1194" column="0" />
@@ -118,12 +122,11 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" timestamp="1552957803509">
         <mark key="'" line="118" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552965806562">
-        <mark key="'" line="202" column="31" />
-        <mark key="[" line="210" column="20" />
-        <mark key="]" line="210" column="20" />
-        <mark key="^" line="98" column="89" />
-        <mark key="." line="210" column="20" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" timestamp="1552970818026">
+        <mark key="[" line="223" column="21" />
+        <mark key="]" line="223" column="29" />
+        <mark key="^" line="223" column="29" />
+        <mark key="." line="223" column="29" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MimeManager.java" timestamp="1551865504140">
         <mark key="'" line="262" column="17" />
@@ -176,6 +179,12 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsNetworkInterface.java" timestamp="1552636961620">
         <mark key="'" line="637" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCSipInterface.java" timestamp="1552970410761">
+        <mark key="'" line="57" column="59" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="94" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/Core.java" timestamp="1551429729490">
         <mark key="'" line="361" column="42" />
@@ -250,12 +259,12 @@
         <mark key="." line="86" column="55" />
         <mark key="^" line="86" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" timestamp="1552653940275">
-        <mark key="'" line="159" column="24" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="148" column="13" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="269" column="29" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" timestamp="1552970791414">
+        <mark key="'" line="278" column="26" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+        <mark key="^" line="207" column="29" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/event/ConferenceEventSubscribeManager.java" timestamp="1552559852837">
         <mark key="'" line="495" column="29" />
@@ -313,8 +322,8 @@
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" timestamp="1551264820100">
         <mark key="'" line="62" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" timestamp="1552643265498">
-        <mark key="'" line="1318" column="15" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" timestamp="1552970256964">
+        <mark key="'" line="1756" column="16" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/SIPClientTransactionImpl.java" timestamp="1552642184899">
         <mark key="'" line="285" column="32" />
@@ -433,9 +442,12 @@
         <mark key="." line="475" column="0" />
         <mark key="^" line="307" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1552968533104">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1552971179216">
         <mark key="'" line="475" column="8" />
-        <mark key="[" line="220" column="44" />
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="393" column="0" />
+        <mark key="^" line="393" column="68" />
+        <mark key="." line="393" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/header/Reason.class" timestamp="1551251153022">
         <mark key="'" line="15" column="24" />
@@ -480,14 +492,14 @@
         <mark key="." line="231" column="46" />
         <mark key="^" line="231" column="46" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" timestamp="1552642594162">
-        <mark key="'" line="873" column="59" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" timestamp="1552970258882">
+        <mark key="'" line="1419" column="14" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/net/SocksSocketImpl.java" timestamp="1552885770748">
         <mark key="'" line="251" column="27" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/ConnectionOrientedMessageChannel.java" timestamp="1548921460948">
-        <mark key="'" line="624" column="32" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/ConnectionOrientedMessageChannel.java" timestamp="1552970376208">
+        <mark key="'" line="393" column="58" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1552046404196">
         <mark key="'" line="363" column="12" />
@@ -690,36 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="161" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="52" column="29" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" />
-      <jump line="98" column="19" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" />
-      <jump line="101" column="8" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" />
-      <jump line="118" column="12" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" />
-      <jump line="202" column="32" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="289" column="8" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="313" column="23" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="320" column="16" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="53" column="12" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="261" column="19" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="288" column="22" filename="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedInputStream.java" />
-      <jump line="151" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="163" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="162" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="155" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="51" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="117" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="130" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="208" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="214" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="184" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="105" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="114" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="102" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="50" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
-      <jump line="169" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceConfigurationImpl.java" />
-      <jump line="184" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceConfigurationImpl.java" />
       <jump line="58" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
       <jump line="425" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
       <jump line="441" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
@@ -790,40 +772,70 @@
       <jump line="101" column="42" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TCPMessageChannel.class" />
       <jump line="180" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TCPMessageChannel.class" />
       <jump line="265" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TCPMessageChannel.class" />
+      <jump line="1420" column="44" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
+      <jump line="1761" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" />
+      <jump line="142" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" />
+      <jump line="199" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" />
+      <jump line="1755" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" />
+      <jump line="1757" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" />
+      <jump line="1760" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" />
+      <jump line="1756" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/SIPTransactionStack.class" />
+      <jump line="1418" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
+      <jump line="1419" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
+      <jump line="399" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/ConnectionOrientedMessageChannel.java" />
+      <jump line="397" column="93" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/ConnectionOrientedMessageChannel.java" />
+      <jump line="334" column="161" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/ConnectionOrientedMessageChannel.java" />
+      <jump line="393" column="58" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/ConnectionOrientedMessageChannel.java" />
+      <jump line="299" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="56" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCSipInterface.java" />
+      <jump line="57" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCSipInterface.java" />
+      <jump line="219" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="31" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="205" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="239" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="280" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="129" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="159" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="160" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="170" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="204" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="279" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
+      <jump line="300" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="232" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZmFpbGVkIHRvIGdldCBzZXMgcmVzcG9uc2UiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbG9zZVw+</text>
+        <text encoding="base64">XDxnZXRJbmV0QWRkcmVzc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZmFpbGVkIHRvIGdldCBzZXMgcmVzcG9uc2UiKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>public</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+      <register name="3" type="4">
+        <text>UnknownHostException</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBjYXJyaWVyIGNvbmZpZyBleGNlcHRpb24gIiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFkZHJlc3MgPSBDTUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldFBjc2NmQWRkcmVzcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5ldEFkZHJlc3NbXSBpbmV0QWRkcnMgPSBudWxsOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>postDe</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChpbmV0QWRkcnMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGluZXRBZGRyc1swXTsgLy9vbmx5IG9uZQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>Name</text>
+        <text>inetAddrs =</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -834,20 +846,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YWRkIGRlbGF5IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW5ldEFkZHJlc3NbXSBpbmV0QWRkcnMgPSBudWxsOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text>UnknownHostException</text>
       </register>
       <register name=":" type="4">
-        <text>966</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbG9zZVw+</last-search>
+      <last-search encoding="base64">XDxnZXRJbmV0QWRkcmVzc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbG9zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRJbmV0QWRkcmVzc1w+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -904,6 +916,14 @@
         <entry>close\(</entry>
         <entry>close</entry>
         <entry encoding="base64">XDxjbG9zZVw+</entry>
+        <entry encoding="base64">XDxwYXRjaFJlY2VpdmVkUnBvcnRcPg==</entry>
+        <entry encoding="base64">XDxpc1BhdGNoUmVjZWl2ZWRScG9ydFw+</entry>
+        <entry encoding="base64">XDxzZXRQYXRjaFJlY2VpdmVkUnBvcnRcPg==</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxORVZFUl9BRERfUkVDRUlWRURfUlBPUlRcPg==</entry>
+        <entry encoding="base64">XDxnZXRJbnN0YW5jZVw+</entry>
+        <entry encoding="base64">XDxpbmV0QWRkcnNcPg==</entry>
+        <entry encoding="base64">XDxnZXRJbmV0QWRkcmVzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>865</entry>
@@ -927,8 +947,8 @@
         <entry>W</entry>
         <entry>168</entry>
         <entry>288</entry>
-        <entry>w</entry>
         <entry>966</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
