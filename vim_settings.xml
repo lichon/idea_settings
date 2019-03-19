@@ -442,12 +442,12 @@
         <mark key="." line="475" column="0" />
         <mark key="^" line="307" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1552971179216">
-        <mark key="'" line="475" column="8" />
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1552975026041">
+        <mark key="'" line="283" column="17" />
+        <mark key="[" line="220" column="74" />
+        <mark key="]" line="220" column="75" />
         <mark key="^" line="393" column="68" />
-        <mark key="." line="393" column="0" />
+        <mark key="." line="220" column="75" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/header/Reason.class" timestamp="1551251153022">
         <mark key="'" line="15" column="24" />
@@ -702,7 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
       <jump line="425" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
       <jump line="441" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
       <jump line="527" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" />
@@ -802,6 +801,7 @@
       <jump line="279" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkCMNetworkLayer.java" />
       <jump line="300" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
       <jump line="232" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMNetworkLayer.java" />
+      <jump line="283" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -811,7 +811,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRJbmV0QWRkcmVzc1w+</text>
+        <text>10000</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
@@ -857,12 +857,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRJbmV0QWRkcmVzc1w+</last-search>
+      <last-search>10000</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRJbmV0QWRkcmVzc1w+</last-pattern>
+      <last-pattern>10000</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -924,6 +924,7 @@
         <entry encoding="base64">XDxnZXRJbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxpbmV0QWRkcnNcPg==</entry>
         <entry encoding="base64">XDxnZXRJbmV0QWRkcmVzc1w+</entry>
+        <entry>10000</entry>
       </history-search>
       <history-cmd>
         <entry>865</entry>
