@@ -340,8 +340,8 @@
         <mark key="." line="178" column="30" />
         <mark key="^" line="178" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" timestamp="1553086343663">
-        <mark key="'" line="106" column="34" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" timestamp="1553087706528">
+        <mark key="'" line="123" column="15" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceConfigurationImpl.java" timestamp="1552991973313">
         <mark key="'" line="31" column="13" />
@@ -703,9 +703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1189" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="908" column="46" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="504" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="560" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="114" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="124" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
@@ -801,8 +798,11 @@
       <jump line="80" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
       <jump line="107" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
       <jump line="83" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimMessage.java" />
-      <jump line="123" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
       <jump line="106" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
+      <jump line="110" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
+      <jump line="24" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
+      <jump line="127" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
+      <jump line="123" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -812,7 +812,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZW50SGVhZGVyc1w+</text>
+        <text encoding="base64">XDxjaGFyU2V0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
@@ -858,9 +858,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250ZW50SGVhZGVyc1w+</last-search>
+      <last-search encoding="base64">XDxjaGFyU2V0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZW50SGVhZGVyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFyU2V0XD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1049,8 +1049,10 @@
         <entry encoding="base64">XDxtQ29udGVudFw+</entry>
         <entry encoding="base64">XDxtTXNnQ29udGVudFw+</entry>
         <entry>Multi</entry>
-        <entry encoding="base64">XDxjaGFyU2V0XD4=</entry>
         <entry encoding="base64">XDxjb250ZW50SGVhZGVyc1w+</entry>
+        <entry>sLogger</entry>
+        <entry encoding="base64">XDxDaGFyc2V0XD4=</entry>
+        <entry encoding="base64">XDxjaGFyU2V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>865</entry>
