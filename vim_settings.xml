@@ -196,8 +196,8 @@
         <mark key="." line="52" column="41" />
         <mark key="^" line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" timestamp="1553055745319">
-        <mark key="'" line="908" column="46" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" timestamp="1553059093659">
+        <mark key="'" line="966" column="43" />
         <mark key="[" line="908" column="58" />
         <mark key="]" line="908" column="63" />
         <mark key="." line="908" column="63" />
@@ -687,8 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="143" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="310" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="305" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="144" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
@@ -787,6 +785,8 @@
       <jump line="494" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="327" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="625" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="317" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
+      <jump line="966" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -796,7 +796,7 @@
         <text>N</text>
       </register>
       <register name="/" type="4">
-        <text>50</text>
+        <text encoding="base64">XDxGVF9NU1JQX01BWF9TSVpFXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdHJ5IHRvIHN0b3AgY29yZSBzZXJ2aWNlIGZpcnN0LCBpZiBhcHAgcmVjb3ZlciBmcm9tIGNyYXNoCiAgICAgICAgICAgIHN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQodGhpcywgUmNzQ29yZVNlcnZpY2UuY2xhc3MpKTsK</text>
@@ -842,9 +842,9 @@
       </register>
     </registers>
     <search>
-      <last-search>50</last-search>
+      <last-search encoding="base64">XDxGVF9NU1JQX01BWF9TSVpFXD4=</last-search>
       <last-offset />
-      <last-pattern>50</last-pattern>
+      <last-pattern encoding="base64">XDxGVF9NU1JQX01BWF9TSVpFXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -914,7 +914,6 @@
         <entry encoding="base64">XDx0cmFjZVw+</entry>
         <entry encoding="base64">XDxyZXNwXD4=</entry>
         <entry encoding="base64">XDxyZXN1bWVUcmFuc2Zlclw+</entry>
-        <entry encoding="base64">XDxGVF9NU1JQX01BWF9TSVpFXD4=</entry>
         <entry>ftMsrp</entry>
         <entry>ftMs</entry>
         <entry>ftM</entry>
@@ -1005,6 +1004,7 @@
         <entry encoding="base64">XDxvblJlZnJlc2hUaW1lckZpcmVkXD4=</entry>
         <entry encoding="base64">XDxzdGFydFJldHJ5QWxhcm1cPg==</entry>
         <entry>50</entry>
+        <entry encoding="base64">XDxGVF9NU1JQX01BWF9TSVpFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>865</entry>
