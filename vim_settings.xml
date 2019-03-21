@@ -726,12 +726,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TCPMessageChannel.class" timestamp="1552969409089">
         <mark key="'" line="265" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1553147880461">
-        <mark key="'" line="1246" column="25" />
-        <mark key="[" line="1236" column="28" />
-        <mark key="]" line="1236" column="28" />
-        <mark key="." line="1236" column="28" />
-        <mark key="^" line="1230" column="39" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1553148709985">
+        <mark key="'" line="1253" column="31" />
+        <mark key="[" line="1207" column="0" />
+        <mark key="]" line="1207" column="0" />
+        <mark key="." line="1207" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatMessage.java" timestamp="1551865266662">
         <mark key="'" line="28" column="13" />
@@ -778,8 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
-      <jump line="116" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
       <jump line="118" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
       <jump line="119" column="65" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
       <jump line="133" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimParser.java" />
@@ -878,40 +875,42 @@
       <jump line="1203" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="1244" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
       <jump line="802" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="1206" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
+      <jump line="1253" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJDb250ZW50LXR5cGU6IGFwcGxpY2F0aW9uL2NwbS1ncm91cC1tYW5hZ2VtZW50K3htbCIgKyBDUkxGICsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZW50VHlwZVw+</text>
+        <text encoding="base64">XDxhcHBsaWNhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoY29udGVudFR5cGUuY29udGFpbnMoTWltZVR5cGUuVEVYVF9NRVNTQUdFKSkgewogICAgICAgICAgICBwYXJzZVRleHRDb250ZW50KGNvbnRlbnRUeXBlLCBoZWFkZXJzLCBjb250ZW50SGVhZGVycywgZGF0YSwgbWltZUNvbnRlbnRIZWFkZXIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>CRLF +</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJDb250ZW50LXR5cGU6IGFwcGxpY2F0aW9uL2NwbS1ncm91cC1tYW5hZ2VtZW50K3htbCIgKyBDUkxGICsK</text>
       </register>
-      <register name="2" type="4">
-        <text>+ UTF8_STR</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uL2NwbS1ncm91cC1tYW5hZ2VtZW50K3htbAo=</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;;charset=&quot;</text>
+        <text>CRLF +</text>
       </register>
       <register name="4" type="4">
-        <text>new</text>
+        <text>+ UTF8_STR</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNwbS1ncm91cC1tYW5hZ2VtZW50K3htbAo=</text>
+      <register name="5" type="4">
+        <text>&quot;;charset=&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>]</text>
+        <text>new</text>
       </register>
-      <register name="7" type="4">
-        <text>groupdata</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNwbS1ncm91cC1tYW5hZ2VtZW50K3htbAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -923,22 +922,22 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>oma.</text>
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>vnd.</text>
+        <text>groupdata</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250ZW50VHlwZVw+</last-search>
+      <last-search encoding="base64">XDxhcHBsaWNhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZW50VHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBsaWNhdGlvblw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1229,6 +1228,9 @@
         <entry encoding="base64">XDxzZW5kMTgwUmluZ2luZ1w+</entry>
         <entry encoding="base64">XDxidWlsZEdyb3VwZGF0YUljb25cPg==</entry>
         <entry encoding="base64">XDxjb250ZW50VHlwZVw+</entry>
+        <entry encoding="base64">XDxjcG1cPg==</entry>
+        <entry encoding="base64">XDxtYW5hZ2VtZW50XD4=</entry>
+        <entry encoding="base64">XDxhcHBsaWNhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>865</entry>
