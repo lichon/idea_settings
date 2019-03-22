@@ -50,6 +50,9 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/net/URLConnection.java" timestamp="1552967764489">
         <mark key="'" line="717" column="19" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1553241953745">
+        <mark key="'" line="636" column="23" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" timestamp="1553105614114">
         <mark key="'" line="1064" column="12" />
         <mark key="[" line="390" column="0" />
@@ -754,14 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1091" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
-      <jump line="1092" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
-      <jump line="1106" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
-      <jump line="1118" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
-      <jump line="1131" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
-      <jump line="1136" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
-      <jump line="1150" column="44" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
-      <jump line="1171" column="44" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
       <jump line="1197" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
       <jump line="1198" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
       <jump line="1212" column="41" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" />
@@ -854,6 +849,14 @@
       <jump line="802" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
       <jump line="107" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/PollingManager.java" />
       <jump line="112" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/PollingManager.java" />
+      <jump line="96" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="207" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="213" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="348" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="381" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="548" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="625" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="636" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -863,7 +866,7 @@
         <text>MIME_GROUP_MANAGEMENT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRMYXN0UG9sbGluZ1RpbWVzdGFtcFw+</text>
+        <text>getGroupChat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoY29udGVudFR5cGUuY29udGFpbnMoTWltZVR5cGUuVEVYVF9NRVNTQUdFKSkgewogICAgICAgICAgICBwYXJzZVRleHRDb250ZW50KGNvbnRlbnRUeXBlLCBoZWFkZXJzLCBjb250ZW50SGVhZGVycywgZGF0YSwgbWltZUNvbnRlbnRIZWFkZXIpOwo=</text>
@@ -909,9 +912,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRMYXN0UG9sbGluZ1RpbWVzdGFtcFw+</last-search>
+      <last-search>getGroupChat</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRMYXN0UG9sbGluZ1RpbWVzdGFtcFw+</last-pattern>
+      <last-pattern>getGroupChat</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -982,6 +985,7 @@
         <entry encoding="base64">XDxjb250ZW50VHlwZVw+</entry>
         <entry>setLast</entry>
         <entry encoding="base64">XDxzZXRMYXN0UG9sbGluZ1RpbWVzdGFtcFw+</entry>
+        <entry>getGroupChat</entry>
       </history-search>
       <history-cmd>
         <entry>tabnext</entry>
