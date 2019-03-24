@@ -399,6 +399,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/LargeMsgContent.java" timestamp="1553099205443">
         <mark key="'" line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TLSMessageChannel.class" timestamp="1553406630475">
+        <mark key="'" line="209" column="39" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/imdn/ImdnDocument.java" timestamp="1553351980828">
         <mark key="'" line="53" column="7" />
       </file>
@@ -868,10 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1421" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="1430" column="74" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="1432" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="1558" column="84" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
       <jump line="262" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="265" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="269" column="72" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
@@ -968,6 +967,10 @@
       <jump line="771" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningManager.java" />
       <jump line="353" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
       <jump line="529" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/StartService.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TLSMessageChannel.class" />
+      <jump line="215" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TLSMessageChannel.class" />
+      <jump line="208" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TLSMessageChannel.class" />
+      <jump line="209" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/TLSMessageChannel.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -977,7 +980,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0FjY291bnRcPg==</text>
+        <text>Stor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoY29udGVudFR5cGUuY29udGFpbnMoTWltZVR5cGUuVEVYVF9NRVNTQUdFKSkgewogICAgICAgICAgICBwYXJzZVRleHRDb250ZW50KGNvbnRlbnRUeXBlLCBoZWFkZXJzLCBjb250ZW50SGVhZGVycywgZGF0YSwgbWltZUNvbnRlbnRIZWFkZXIpOwo=</text>
@@ -1023,9 +1026,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0FjY291bnRcPg==</last-search>
+      <last-search>Stor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0FjY291bnRcPg==</last-pattern>
+      <last-pattern>Stor</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1060,6 +1063,10 @@
         <entry encoding="base64">XDxjb25uZWN0aW9uRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxtRmlyc3RQcm92QWZ0ZXJCb290XD4=</entry>
         <entry encoding="base64">XDxjaGVja0FjY291bnRcPg==</entry>
+        <entry encoding="base64">IGZvciB0aGlzIGNoYW5uZWw=</entry>
+        <entry>3.Stor</entry>
+        <entry>3\.</entry>
+        <entry>Stor</entry>
       </history-search>
       <history-cmd>
         <entry>1738</entry>
