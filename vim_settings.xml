@@ -65,8 +65,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MimeManager.java" timestamp="1553097869865">
         <mark key="'" line="250" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" timestamp="1551338389641">
-        <mark key="'" line="155" column="22" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" timestamp="1553542315644">
+        <mark key="'" line="218" column="26" />
         <mark key="[" line="196" column="40" />
         <mark key="]" line="196" column="40" />
         <mark key="." line="196" column="40" />
@@ -866,11 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="820" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
-      <jump line="33" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSessionListener.java" />
-      <jump line="1909" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="673" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" />
-      <jump line="692" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" />
       <jump line="693" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" />
       <jump line="637" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" />
       <jump line="638" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/MessagingLog.java" />
@@ -966,6 +961,11 @@
       <jump line="361" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="1099" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="486" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="158" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="217" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="127" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
+      <jump line="218" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -975,7 +975,7 @@
         <text>mLongChatId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRPbmVUb09uZUNoYXRcPg==</text>
+        <text encoding="base64">XDxDQUxMX09SX1RSQU5TQUNUSU9OX0RPRVNfTk9UX0VYSVNUXD4=</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -1023,12 +1023,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRPbmVUb09uZUNoYXRcPg==</last-search>
+      <last-search encoding="base64">XDxDQUxMX09SX1RSQU5TQUNUSU9OX0RPRVNfTk9UX0VYSVNUXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRPbmVUb09uZUNoYXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDQUxMX09SX1RSQU5TQUNUSU9OX0RPRVNfTk9UX0VYSVNUXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1232,6 +1232,8 @@
         <entry encoding="base64">Pj4+</entry>
         <entry>getOne</entry>
         <entry encoding="base64">XDxnZXRPbmVUb09uZUNoYXRcPg==</entry>
+        <entry>481</entry>
+        <entry encoding="base64">XDxDQUxMX09SX1RSQU5TQUNUSU9OX0RPRVNfTk9UX0VYSVNUXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1738</entry>
@@ -1253,8 +1255,8 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
-        <entry>tabprevious</entry>
         <entry>w</entry>
+        <entry>tabprevious</entry>
       </history-cmd>
       <history-expr />
       <history-input />
