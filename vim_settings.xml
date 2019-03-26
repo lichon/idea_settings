@@ -239,6 +239,13 @@
         <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.mediatek.ims.rcsua.jar!/com/mediatek/ims/rcsua/AcsEventCallback.class" timestamp="1553498346897" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactUtil.java" timestamp="1553609192359">
+        <mark key="'" line="458" column="21" />
+        <mark key="[" line="472" column="56" />
+        <mark key="]" line="472" column="62" />
+        <mark key="^" line="472" column="62" />
+        <mark key="." line="472" column="62" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/StackLogger.java" timestamp="1553507230672">
         <mark key="'" line="78" column="4" />
         <mark key="[" line="12" column="4" />
@@ -399,8 +406,8 @@
       <jump line="2600" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBURVJNSU5BVElPTl9CWV9SRU1PVEU6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>contact</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -411,26 +418,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKEdyb3VwRmlsZVRyYW5zZmVySW1wbCkgZnQpLm9uVHJhbnNmZXJFcnJvcihlcnJvciwgbnVsbCk7CiAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>contact</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBURVJNSU5BVElPTl9CWV9SRU1PVEU6Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>.TERMINATION_BY_REMOTE</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>TerminationReason</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>410</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>410</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -442,10 +449,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqIGNvbm5lY3Rpb24gaXMgcmVnYWluZWQK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAqIHRvIEFCT1JURUQgc3RhdGUgaW4gdGhpcyBjYXNlIGFzIGl0IHdpbGwgdHJ5IHRvIGJlIGF1dG8tcmVqb2luZWQgd2hlbiBJTVMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAqIGNvbm5lY3Rpb24gaXMgcmVnYWluZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
