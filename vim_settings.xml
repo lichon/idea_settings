@@ -191,12 +191,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" timestamp="1551943367022">
         <mark key="'" line="122" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" timestamp="1553686412795">
-        <mark key="'" line="54" column="45" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="99" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="89" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" timestamp="1553687194723">
+        <mark key="'" line="55" column="45" />
+        <mark key="[" line="47" column="59" />
+        <mark key="]" line="47" column="60" />
+        <mark key="." line="47" column="60" />
+        <mark key="^" line="47" column="60" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/capability/ICapabilitiesListener.aidl" timestamp="1553672311427">
         <mark key="'" line="9" column="33" />
@@ -629,7 +629,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buildFts()));</text>
+        <text>CMUtil.buildFts()</text>
       </register>
       <register name="-" type="4">
         <text>buildFts()));</text>
@@ -640,26 +640,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoKEdyb3VwRmlsZVRyYW5zZmVySW1wbCkgZnQpLm9uVHJhbnNmZXJFcnJvcihlcnJvciwgbnVsbCk7CiAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>CMUtil.buildFts()</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJjc1VhU2VydmljZS51cGRhdGVDYXBhYmlsaXRpZXMobmV3IENhcGFiaWxpdHkoQ01VdGlsLmJ1aWxkRnRzKCkpKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>integratedMessagingMode</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>newCaps</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -670,11 +670,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>myCapabilities</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>oldCaps</text>
+        <text>myCapabilities</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
