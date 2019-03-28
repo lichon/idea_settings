@@ -212,6 +212,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/SIPTransactionStack.java" timestamp="1552642930872">
         <mark key="'" line="1824" column="42" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/TerminatingHttpFileSharingSession.java" timestamp="1553776741142">
+        <mark key="'" line="47" column="40" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" timestamp="1551943367022">
         <mark key="'" line="122" column="37" />
       </file>
@@ -260,6 +263,13 @@
         <mark key="]" line="49" column="16" />
         <mark key="^" line="49" column="16" />
         <mark key="." line="49" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1553776959001">
+        <mark key="'" line="656" column="20" />
+        <mark key="[" line="648" column="0" />
+        <mark key="]" line="648" column="0" />
+        <mark key="." line="648" column="0" />
+        <mark key="^" line="648" column="82" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/OriginatingHttpFileSharingSession.java" timestamp="1553591515873">
         <mark key="'" line="186" column="16" />
@@ -492,11 +502,10 @@
         <mark key="." line="121" column="59" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1553763193773">
-        <mark key="'" line="364" column="37" />
-        <mark key="[" line="365" column="44" />
-        <mark key="]" line="365" column="48" />
-        <mark key="^" line="365" column="48" />
-        <mark key="." line="365" column="48" />
+        <mark key="[" line="355" column="44" />
+        <mark key="]" line="355" column="48" />
+        <mark key="^" line="355" column="48" />
+        <mark key="." line="355" column="48" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/javax/sip/message/Message.class" timestamp="1550818040803">
         <mark key="'" line="20" column="9" />
@@ -583,35 +592,14 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/lang/Thread.java" timestamp="1553325784303">
         <mark key="'" line="789" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1553733292504">
-        <mark key="'" line="827" column="69" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1553776663265">
+        <mark key="'" line="95" column="58" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromAcceptFileSharingSession.java" timestamp="1551943355229">
         <mark key="'" line="35" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="213" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/PresenceInterface.java" />
-      <jump line="254" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/PresenceInterface.java" />
-      <jump line="559" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="571" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="549" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="580" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="303" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="379" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="540" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="537" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="251" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="378" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="258" column="71" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="377" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="397" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="252" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="256" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="543" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="257" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="380" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="143" column="13" filename="$USER_HOME$/android/sdk/sources/android-26/android/provider/BlockedNumberContract.java" />
       <jump line="2448" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" />
       <jump line="36" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" />
@@ -691,40 +679,61 @@
       <jump line="42" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
       <jump line="74" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
       <jump line="78" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="99" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/TerminatingHttpFileSharingSession.java" />
+      <jump line="2258" column="78" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="2410" column="79" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="95" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="88" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/TerminatingHttpFileSharingSession.java" />
+      <jump line="47" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/TerminatingHttpFileSharingSession.java" />
+      <jump line="557" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="580" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="630" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="631" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="579" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="581" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="593" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="594" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="641" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="509" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="564" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="60" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="667" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="648" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="656" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>User</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>fsDir</text>
+        <text encoding="base64">XDxmaWxlVHJhbnNmZXJIdHRwVGh1bWJuYWlsXD4=</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>User</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>get</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name="3" type="4">
-        <text>serverPort</text>
+        <text>{</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGVUcmFuc2Zlckh0dHBUaHVtYm5haWwgZmlsZVRyYW5zZmVySHR0cFRodW1ibmFpbCA9IGZpbGVUcmFuc2ZlckluZm8uZ2V0RmlsZVRodW1ibmFpbCgpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="5" type="4">
+        <text>User</text>
       </register>
       <register name="6" type="4">
-        <text>error</text>
+        <text>get</text>
       </register>
       <register name="7" type="4">
-        <text>channels json is empty</text>
+        <text>serverPort</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -735,20 +744,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>channels json is empty</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>ignore</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fsDir</last-search>
+      <last-search encoding="base64">XDxmaWxlVHJhbnNmZXJIdHRwVGh1bWJuYWlsXD4=</last-search>
       <last-offset />
-      <last-pattern>fsDir</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlVHJhbnNmZXJIdHRwVGh1bWJuYWlsXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -756,15 +765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
-        <entry>defaultConf</entry>
-        <entry encoding="base64">XDxkZWZhdWx0Q29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxpc0FpcnBsYW5lTW9kZVw+</entry>
-        <entry encoding="base64">XDxCbG9ja2VkTnVtYmVyQ29udHJhY3RcPg==</entry>
-        <entry encoding="base64">XDx1c2VBbmRyb2lkQmxvY2tlZE51bWJlclw+</entry>
-        <entry>add</entry>
-        <entry encoding="base64">XDxhZGRNZW1iZXJcPg==</entry>
-        <entry>status</entry>
         <entry encoding="base64">XDxGU19DSEFOTkVMX1RPUElDXD4=</entry>
         <entry encoding="base64">XDxDbGllbnRTdGF0dXNFdmVudFw+</entry>
         <entry>un</entry>
@@ -785,6 +785,10 @@
         <entry encoding="base64">XDxmc0dhdGV3YXlVc2VyXD4=</entry>
         <entry encoding="base64">XDxzZXJ2ZXJQb3J0XD4=</entry>
         <entry>fsDir</entry>
+        <entry encoding="base64">XDxEb3dubG9hZEZyb21JbnZpdGVGaWxlU2hhcmluZ1Nlc3Npb25cPg==</entry>
+        <entry encoding="base64">XDxtRG93bmxvYWRNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxGaWxlVHJhbnNmZXJIdHRwVGh1bWJuYWlsXD4=</entry>
+        <entry encoding="base64">XDxmaWxlVHJhbnNmZXJIdHRwVGh1bWJuYWlsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
@@ -805,8 +809,8 @@
         <entry>tabprevious</entry>
         <entry>307</entry>
         <entry>258</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
