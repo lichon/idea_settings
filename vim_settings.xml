@@ -122,8 +122,12 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/io/PipedOutputStream.java" timestamp="1552957803509">
         <mark key="'" line="118" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" timestamp="1553769954570">
-        <mark key="'" line="390" column="21" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" timestamp="1553772841393">
+        <mark key="'" line="392" column="68" />
+        <mark key="[" line="409" column="15" />
+        <mark key="]" line="409" column="15" />
+        <mark key="^" line="146" column="62" />
+        <mark key="." line="409" column="15" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MimeManager.java" timestamp="1553097869865">
         <mark key="'" line="250" column="13" />
@@ -580,11 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="110" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="52" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="75" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
       <jump line="113" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
       <jump line="137" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
       <jump line="116" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
@@ -640,9 +639,7 @@
       <jump line="471" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="140" column="32" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="145" column="32" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
-      <jump line="436" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="40" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
-      <jump line="425" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="227" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="44" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="188" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
@@ -680,40 +677,47 @@
       <jump line="364" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
       <jump line="390" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="45" column="11" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/FreeswitchService.java" />
+      <jump line="124" column="14" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="160" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="425" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="436" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="100" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="474" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="393" column="68" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>OnePlus</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93Q2hhbm5lbHNcPg==</text>
+        <text encoding="base64">XDxmb3JjZVw+</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
-        <text>true</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUNvbmZlcmVuY2VTdWJzY3JpYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgLy8gVE1PIDIzODAxNl8wMDEgZG8gbm90IHNlbmQgdW4tc3ViCiAgICAgICAgICAgIC8vIG1Db25mZXJlbmNlU3Vic2NyaWJlci50ZXJtaW5hdGUoKTsKICAgICAgICAgICAgbUNvbmZlcmVuY2VTdWJzY3JpYmVyLnRlcm1pbmF0ZSh0cnVlKTsKICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>error</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUNvbmZlcmVuY2VTdWJzY3JpYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgLy8gVE1PIDIzODAxNl8wMDEgZG8gbm90IHNlbmQgdW4tc3ViCiAgICAgICAgICAgIC8vIG1Db25mZXJlbmNlU3Vic2NyaWJlci50ZXJtaW5hdGUoKTsKICAgICAgICAgICAgbUNvbmZlcmVuY2VTdWJzY3JpYmVyLnRlcm1pbmF0ZSh0cnVlKTsKICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>channels json is empty</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>channels json is empty</text>
       </register>
       <register name="6" type="4">
-        <text>getManufacturerInfo() == RcsSettingsData.ManufacturerInfo.OnePlus) {</text>
+        <text>ignore</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoIkFuZHJvaWQgYmxvY2sgdGhpcyBudW1iZXIsIGJsb2NrZWQgPSAiICsgYmxvY2tlZCk7Cg==</text>
+      <register name="7" type="4">
+        <text>true</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -725,147 +729,26 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>getManufacturerInfo() == ManufacturerInfo.OnePlus) {</text>
+        <text>true</text>
       </register>
-      <register name="9" type="4">
-        <text>Ma)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobUNvbmZlcmVuY2VTdWJzY3JpYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgLy8gVE1PIDIzODAxNl8wMDEgZG8gbm90IHNlbmQgdW4tc3ViCiAgICAgICAgICAgIC8vIG1Db25mZXJlbmNlU3Vic2NyaWJlci50ZXJtaW5hdGUoKTsKICAgICAgICAgICAgbUNvbmZlcmVuY2VTdWJzY3JpYmVyLnRlcm1pbmF0ZSh0cnVlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93Q2hhbm5lbHNcPg==</last-search>
+      <last-search encoding="base64">XDxmb3JjZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93Q2hhbm5lbHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JjZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onSession</entry>
-        <entry>tryto</entry>
-        <entry>onSessionAbo</entry>
-        <entry encoding="base64">XDxvblNlc3Npb25BYm9ydGVkXD4=</entry>
-        <entry encoding="base64">XDxmYWxsQmFja01lc3NhZ2VcPg==</entry>
-        <entry>dequeue</entry>
-        <entry encoding="base64">XDx0cnlUb0RlcXVldWVPbmVUb09uZUNoYXRNZXNzYWdlc1w+</entry>
-        <entry>SENDING</entry>
-        <entry encoding="base64">XDxTRU5ESU5HXD4=</entry>
-        <entry>mark</entry>
-        <entry encoding="base64">XDx0cnlUb01hcmtRdWV1ZWRHcm91cENoYXRNZXNzYWdlc0FuZEdyb3VwRmlsZVRyYW5zZmVyc0FzRmFpbGVkXD4=</entry>
-        <entry>tryToMakr</entry>
-        <entry>tryToMark</entry>
-        <entry encoding="base64">XDxPbmVUb09uZUNoYXRUZXJtaW5hbEV4Y2VwdGlvblRhc2tcPg==</entry>
-        <entry encoding="base64">XDxtQ2hhdElkXD4=</entry>
-        <entry encoding="base64">XDx0cnlUb01hcmtRdWV1ZWRDaGF0TWVzc2FnZXNBbmRGaWxlVHJhbnNmZXJzQXNGYWlsZWRcPg==</entry>
-        <entry>tryToM</entry>
-        <entry encoding="base64">XDxzdGFydFNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxhdHRyMlw+</entry>
-        <entry encoding="base64">XDxmaWxlRGlzcG9WYWx1ZVw+</entry>
-        <entry encoding="base64">XDxEZWxheVRocmVhZFRhc2tcPg==</entry>
-        <entry encoding="base64">XDxtQmxvY2tEZWxheVw+</entry>
-        <entry encoding="base64">XDxtRGVsYXlUaHJlYWRcPg==</entry>
-        <entry encoding="base64">XDxzeW5jaHJvbml6ZUNvbnRhY3RzVGFza1w+</entry>
-        <entry encoding="base64">XDxpbnZpdGVQYXJ0aWNpcGFudHNcPg==</entry>
-        <entry encoding="base64">XDxBQ1RJT05fU0lNX1NUQVRFX0NIQU5HRURcPg==</entry>
-        <entry>mConfigLo</entry>
-        <entry encoding="base64">XDxnZXRJbnN0YW5jZVw+</entry>
-        <entry>load last</entry>
-        <entry encoding="base64">XDxzdGFydENvcmVTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxhdXRvbWF0YVw+</entry>
-        <entry encoding="base64">XDxDYXBhYmlsaXRpZXNMaXN0ZW5lclw+</entry>
-        <entry encoding="base64">XDxzZXRGaWxlVHJhbnNmZXJIdHRwXD4=</entry>
-        <entry>updateF</entry>
-        <entry>update</entry>
-        <entry encoding="base64">XDxyY3NVYVNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxtQ29uZmlnTG9hZGVkXD4=</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDxwdWJsaXNoTXlDYXBzXD4=</entry>
-        <entry>public</entry>
-        <entry>publish</entry>
-        <entry encoding="base64">XDxVUFw+</entry>
-        <entry encoding="base64">XDxjaGVja1NlcnZpY2VSZWFkeVw+</entry>
-        <entry>publishM</entry>
-        <entry encoding="base64">XDxteUNhcGFiaWxpdGllc1w+</entry>
-        <entry encoding="base64">XDxpbnRlZ3JhdGVkTWVzc2FnaW5nTW9kZVw+</entry>
-        <entry encoding="base64">XDxtQXBpXD4=</entry>
-        <entry>toString</entry>
-        <entry>build</entry>
-        <entry>stand</entry>
-        <entry>standal</entry>
-        <entry encoding="base64">XDxzdGFuZGFsb25lTXNnXD4=</entry>
-        <entry encoding="base64">XDxnZXRDYXBhYmlsaXR5U2VydmljZVw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVDYXBhYmlsaXRpZXNcPg==</entry>
-        <entry encoding="base64">XDxwdWJsaXNoTXlDYXBcPg==</entry>
-        <entry encoding="base64">XDxtSGFuZGxlclw+</entry>
-        <entry>ftHttpS</entry>
-        <entry encoding="base64">XDxhcHBsaWNhdGlvblw+</entry>
-        <entry encoding="base64">XDxnZXRDYXBhYmlsaXR5RXhwaXJ5VGltZW91dFw+</entry>
-        <entry encoding="base64">XDxzZXROb25SY3NDYXBhYmlsaXRpZXNDYWNoZUV4cGlyZVw+</entry>
-        <entry>bin</entry>
-        <entry encoding="base64">XDxiaW5kSW1zTmV0d29ya1w+</entry>
-        <entry>bindDef</entry>
-        <entry encoding="base64">XDxiaW5kRGVmYXVsdE5ldHdvcmtcPg==</entry>
-        <entry>100</entry>
-        <entry>Session error</entry>
-        <entry>503</entry>
-        <entry encoding="base64">XDxURVJNSU5BVElPTl9CWV9SRU1PVEVfNTAzXD4=</entry>
-        <entry>FILE</entry>
-        <entry>Direc</entry>
-        <entry>Handling group file delivery status</entry>
-        <entry>setFileTransferMode</entry>
-        <entry>dequeue group filetransfer</entry>
-        <entry>add out</entry>
-        <entry encoding="base64">XDxzZXRGaWxlVHJhbnNmZXJQcm90b2NvbFw+</entry>
-        <entry encoding="base64">XDxwcm90b2NvbFw+</entry>
-        <entry>State</entry>
-        <entry>12</entry>
-        <entry>RECEIVED</entry>
-        <entry encoding="base64">T0dDIA==</entry>
-        <entry encoding="base64">XDxpbml0aWF0ZUdyb3VwQ2hhdFw+</entry>
-        <entry>getGroup</entry>
-        <entry>481</entry>
-        <entry encoding="base64">XDxDQUxMX09SX1RSQU5TQUNUSU9OX0RPRVNfTk9UX0VYSVNUXD4=</entry>
-        <entry>423</entry>
-        <entry encoding="base64">XDxJTlRFUlZBTF9UT09fQlJJRUZcPg==</entry>
-        <entry encoding="base64">XDxUSU1FT1VUXD4=</entry>
-        <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
-        <entry>add tr</entry>
-        <entry>handleResp</entry>
-        <entry>not found</entry>
-        <entry>mSend</entry>
-        <entry encoding="base64">XDxtU2VuZGVyTG9ja1w+</entry>
-        <entry>transaction tieout</entry>
-        <entry>transaction timeout</entry>
-        <entry encoding="base64">XDxuZWVkRmFpbHVyZVJlcG9ydEZvclR5cGVcPg==</entry>
-        <entry encoding="base64">XDx3YWl0QWxsUmVzcG9uc2VzXD4=</entry>
-        <entry encoding="base64">XDxzdGFydFRpbWVyXD4=</entry>
-        <entry encoding="base64">XDxhYm9ydFw+</entry>
-        <entry>waitingCount</entry>
-        <entry encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</entry>
-        <entry>timeout</entry>
-        <entry>try to add</entry>
-        <entry encoding="base64">XDxtc3JwSWRcPg==</entry>
-        <entry>all tr</entry>
-        <entry encoding="base64">XDx3YWl0aW5nQ291bnRcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVSZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxhZGRNc3JwVHJhbnNhY3Rpb25JbmZvXD4=</entry>
-        <entry encoding="base64">XDxtTXNycFRyYW5zYWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxpc1dhaXRpbmdcPg==</entry>
-        <entry encoding="base64">XDxub3RpZnlcPg==</entry>
-        <entry encoding="base64">XDxzdG9wVGltZXJcPg==</entry>
-        <entry>new group</entry>
-        <entry>startPro</entry>
-        <entry encoding="base64">XDxzdGFydFByb3Zpc2lvbmluZ1w+</entry>
-        <entry encoding="base64">XDxmaWx0ZXJfYWlycGxhbmVNb2RlXD4=</entry>
-        <entry encoding="base64">XDxpc1NpbUFic2VudFw+</entry>
-        <entry encoding="base64">XDxnZXRSZWFkeVNpbVw+</entry>
-        <entry>network not</entry>
-        <entry>isAir</entry>
-        <entry>not rea</entry>
         <entry>default</entry>
         <entry>defaultConf</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q29uZmlnXD4=</entry>
@@ -884,8 +767,11 @@
         <entry encoding="base64">XDxVTlNVQlNDUklCRVw+</entry>
         <entry>sub</entry>
         <entry encoding="base64">XDx0ZXJtaW5hdGVcPg==</entry>
-        <entry encoding="base64">XDxzZW5kQ2hhbm5lbFN0YXR1c1w+</entry>
         <entry encoding="base64">XDxzaG93Q2hhbm5lbHNcPg==</entry>
+        <entry encoding="base64">XDxFdmVudFJlY2VpdmVyXD4=</entry>
+        <entry encoding="base64">XDxldmVudFNlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxzZW5kQ2hhbm5lbFN0YXR1c1w+</entry>
+        <entry encoding="base64">XDxmb3JjZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
