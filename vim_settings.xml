@@ -290,8 +290,8 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/provider/BlockedNumberContract.java" timestamp="1553757232708">
         <mark key="'" line="143" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/FreeswitchService.java" timestamp="1553769974622">
-        <mark key="'" line="45" column="11" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/FreeswitchService.java" timestamp="1553773566008">
+        <mark key="'" line="67" column="15" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/LargeMsgContent.java" timestamp="1553099205443">
         <mark key="'" line="25" column="11" />
@@ -326,6 +326,13 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" timestamp="1551349255082">
         <mark key="'" line="171" column="21" />
+      </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" timestamp="1553773700736">
+        <mark key="'" line="78" column="29" />
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="78" column="29" />
+        <mark key="." line="78" column="29" />
+        <mark key="^" line="78" column="29" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransfer.java" timestamp="1553734017746">
         <mark key="'" line="123" column="8" />
@@ -584,16 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="137" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="116" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="139" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="168" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="642" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="309" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="225" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="587" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
-      <jump line="529" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="246" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="213" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/PresenceInterface.java" />
       <jump line="254" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/uce/PresenceInterface.java" />
@@ -684,40 +681,50 @@
       <jump line="100" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="474" column="28" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="393" column="68" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/FreeswitchService.java" />
+      <jump line="130" column="74" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/FreeswitchService.java" />
+      <jump line="67" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/FreeswitchService.java" />
+      <jump line="44" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="46" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="88" column="18" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="73" column="18" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="42" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="74" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="78" column="29" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>User</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JjZVw+</text>
+        <text>fsDir</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7Cg==</text>
+      <register name="1" type="4">
+        <text>User</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="2" type="4">
+        <text>get</text>
       </register>
       <register name="3" type="4">
-        <text>error</text>
+        <text>serverPort</text>
       </register>
-      <register name="4" type="4">
-        <text>channels json is empty</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>channels json is empty</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygiY2xpZW50IGlzIG5vdCBjb25zb2xlIik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>ignore</text>
+        <text>error</text>
       </register>
       <register name="7" type="4">
-        <text>true</text>
+        <text>channels json is empty</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -729,19 +736,19 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>true</text>
+        <text>channels json is empty</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUNvbmZlcmVuY2VTdWJzY3JpYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgLy8gVE1PIDIzODAxNl8wMDEgZG8gbm90IHNlbmQgdW4tc3ViCiAgICAgICAgICAgIC8vIG1Db25mZXJlbmNlU3Vic2NyaWJlci50ZXJtaW5hdGUoKTsKICAgICAgICAgICAgbUNvbmZlcmVuY2VTdWJzY3JpYmVyLnRlcm1pbmF0ZSh0cnVlKTsKICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>ignore</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JjZVw+</last-search>
+      <last-search>fsDir</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JjZVw+</last-pattern>
+      <last-pattern>fsDir</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -772,9 +779,14 @@
         <entry encoding="base64">XDxldmVudFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxzZW5kQ2hhbm5lbFN0YXR1c1w+</entry>
         <entry encoding="base64">XDxmb3JjZVw+</entry>
+        <entry>fsG</entry>
+        <entry encoding="base64">XDxmc0dhdGV3YXlQd2RcPg==</entry>
+        <entry encoding="base64">XDxmc0Rpclw+</entry>
+        <entry encoding="base64">XDxmc0dhdGV3YXlVc2VyXD4=</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJQb3J0XD4=</entry>
+        <entry>fsDir</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>137</entry>
         <entry>189</entry>
         <entry>69</entry>
@@ -794,6 +806,7 @@
         <entry>307</entry>
         <entry>258</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
