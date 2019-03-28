@@ -218,6 +218,9 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" timestamp="1553762739154">
+        <mark key="'" line="174" column="9" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingLargeMsgMsrpSession.java" timestamp="1553106959942">
         <mark key="'" line="175" column="48" />
       </file>
@@ -474,6 +477,13 @@
         <mark key="^" line="121" column="59" />
         <mark key="." line="121" column="59" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1553763193773">
+        <mark key="'" line="364" column="37" />
+        <mark key="[" line="365" column="44" />
+        <mark key="]" line="365" column="48" />
+        <mark key="^" line="365" column="48" />
+        <mark key="." line="365" column="48" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/javax/sip/message/Message.class" timestamp="1550818040803">
         <mark key="'" line="20" column="9" />
       </file>
@@ -567,39 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="565" column="105" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="587" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="346" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="353" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="354" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="106" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="111" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="128" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="95" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="102" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="845" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="832" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="846" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="332" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="315" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="310" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="986" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="990" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="991" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="992" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="997" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="308" column="59" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="42" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="74" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="91" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
-      <jump line="335" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="317" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="982" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="78" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="161" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="163" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
-      <jump line="292" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
       <jump line="293" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" />
       <jump line="177" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpTransaction.java" />
@@ -667,40 +644,73 @@
       <jump line="425" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="227" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="44" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="188" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="191" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="269" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="275" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="277" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="284" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="303" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="180" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="417" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="418" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="45" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="49" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="59" column="65" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="74" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="76" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="91" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="95" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="118" column="10" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="122" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="123" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="142" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="146" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="155" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="158" column="14" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="159" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="164" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="167" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="173" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="174" column="9" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/presence/SubscribeManager.java" />
+      <jump line="355" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="365" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="364" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
         <text>OnePlus</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDbGllbnRTdGF0dXNFdmVudFw+</text>
+        <text encoding="base64">XDx0ZXJtaW5hdGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>getManufacturerInfo() == RcsSettingsData.ManufacturerInfo.OnePlus) {</text>
+        <text>true</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoIkFuZHJvaWQgYmxvY2sgdGhpcyBudW1iZXIsIGJsb2NrZWQgPSAiICsgYmxvY2tlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUNvbmZlcmVuY2VTdWJzY3JpYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgLy8gVE1PIDIzODAxNl8wMDEgZG8gbm90IHNlbmQgdW4tc3ViCiAgICAgICAgICAgIC8vIG1Db25mZXJlbmNlU3Vic2NyaWJlci50ZXJtaW5hdGUoKTsKICAgICAgICAgICAgbUNvbmZlcmVuY2VTdWJzY3JpYmVyLnRlcm1pbmF0ZSh0cnVlKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>getManufacturerInfo() == ManufacturerInfo.OnePlus) {</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobUNvbmZlcmVuY2VTdWJzY3JpYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgLy8gVE1PIDIzODAxNl8wMDEgZG8gbm90IHNlbmQgdW4tc3ViCiAgICAgICAgICAgIC8vIG1Db25mZXJlbmNlU3Vic2NyaWJlci50ZXJtaW5hdGUoKTsKICAgICAgICAgICAgbUNvbmZlcmVuY2VTdWJzY3JpYmVyLnRlcm1pbmF0ZSh0cnVlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>Ma)</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="6" type="4">
-        <text>.System</text>
+        <text>getManufacturerInfo() == RcsSettingsData.ManufacturerInfo.OnePlus) {</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNBaXJwbGFuZU1vZGUoKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoIkFuZHJvaWQgYmxvY2sgdGhpcyBudW1iZXIsIGJsb2NrZWQgPSAiICsgYmxvY2tlZCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -711,23 +721,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0FpcnBsYWluKCkgewogICAgICAgIFRlbGVwaG9ueU1hbmFnZXIgdGVsZXBob255TWFuYWdlciA9IChUZWxlcGhvbnlNYW5hZ2VyKSBnZXRTeXN0ZW1TZXJ2aWNlKFNlcnZpY2UuVEVMRVBIT05ZX1NFUlZJQ0UpOwogICAgICAgIGFzc2VydCB0ZWxlcGhvbnlNYW5hZ2VyICE9IG51bGw7CiAgICAgICAgaW50IHN0YXRlID0gdGVsZXBob255TWFuYWdlci5nZXRTaW1TdGF0ZSgpOwogICAgICAgIHJldHVybiBzdGF0ZSA9PSBUZWxlcGhvbnlNYW5hZ2VyLlNJTV9TVEFURV9BQlNFTlQ7CiAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>getManufacturerInfo() == ManufacturerInfo.OnePlus) {</text>
       </register>
       <register name="9" type="4">
-        <text>this.</text>
+        <text>Ma)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDbGllbnRTdGF0dXNFdmVudFw+</last-search>
+      <last-search encoding="base64">XDx0ZXJtaW5hdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDbGllbnRTdGF0dXNFdmVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXJtaW5hdGVcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -865,6 +875,13 @@
         <entry encoding="base64">XDxGU19DSEFOTkVMX1RPUElDXD4=</entry>
         <entry encoding="base64">XDxzZW5kQ2hhbm5lbFN0YXR1c1w+</entry>
         <entry encoding="base64">XDxDbGllbnRTdGF0dXNFdmVudFw+</entry>
+        <entry>un</entry>
+        <entry encoding="base64">XDx1blN1YnNjcmliZVw+</entry>
+        <entry encoding="base64">XDxVbnN1YnNjcmliZVw+</entry>
+        <entry encoding="base64">XDxVblN1YnNjcmliZVw+</entry>
+        <entry encoding="base64">XDxVTlNVQlNDUklCRVw+</entry>
+        <entry>sub</entry>
+        <entry encoding="base64">XDx0ZXJtaW5hdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
