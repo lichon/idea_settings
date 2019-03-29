@@ -239,6 +239,13 @@
         <mark key="." line="255" column="41" />
         <mark key="^" line="255" column="41" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" timestamp="1553885312848">
+        <mark key="'" line="208" column="25" />
+        <mark key="[" line="208" column="57" />
+        <mark key="]" line="209" column="70" />
+        <mark key="^" line="209" column="70" />
+        <mark key="." line="209" column="70" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMUtil.java" timestamp="1553849983820">
         <mark key="'" line="191" column="11" />
       </file>
@@ -594,9 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="768" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
-      <jump line="66" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" />
-      <jump line="28" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/HttpConnection.java" />
       <jump line="68" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="281" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="404" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
@@ -694,6 +698,9 @@
       <jump line="573" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="826" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="1524" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="202" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="337" column="85" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="208" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -703,7 +710,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0dyb3VwQ2hhdEhhc1Jlam9pbklkXD4=</text>
+        <text encoding="base64">XDxzdGFydE5ldHdvcmtSZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text />
@@ -749,9 +756,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0dyb3VwQ2hhdEhhc1Jlam9pbklkXD4=</last-search>
+      <last-search encoding="base64">XDxzdGFydE5ldHdvcmtSZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0dyb3VwQ2hhdEhhc1Jlam9pbklkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydE5ldHdvcmtSZXF1ZXN0XD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -841,6 +848,8 @@
         <entry>hasRejoin</entry>
         <entry encoding="base64">XDxoYXNSZWpvaW5JZFw+</entry>
         <entry encoding="base64">XDxpc0dyb3VwQ2hhdEhhc1Jlam9pbklkXD4=</entry>
+        <entry encoding="base64">XDxyZXN0YXJ0TmV0d29ya1JlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxzdGFydE5ldHdvcmtSZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
