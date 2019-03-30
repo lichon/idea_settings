@@ -315,12 +315,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" timestamp="1551349255082">
         <mark key="'" line="171" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" timestamp="1553877632207">
-        <mark key="'" line="77" column="15" />
-        <mark key="[" line="60" column="33" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
-        <mark key="^" line="60" column="33" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" timestamp="1553919715935">
+        <mark key="'" line="76" column="19" />
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="60" column="30" />
+        <mark key="." line="60" column="30" />
+        <mark key="^" line="60" column="30" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/filetransfer/FileTransfer.java" timestamp="1553807171108">
         <mark key="'" line="375" column="8" />
@@ -648,9 +648,6 @@
       <jump line="2305" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="410" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="60" column="4" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
-      <jump line="61" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
-      <jump line="76" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
-      <jump line="77" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
       <jump line="149" column="59" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="118" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="507" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
@@ -695,40 +692,43 @@
       <jump line="648" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
       <jump line="655" column="90" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
       <jump line="654" column="94" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="77" column="15" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="61" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
+      <jump line="76" column="19" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/ApplicationConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNoYXRTZXJ2aWNlLnNlbmRGaWxlSW5mb1dpdGhpblNlc3Npb24oc2Vzc2lvbiwgZ3JvdXBGaWxlVHJhbnNmZXIsIGZpbGVUcmFuc2ZlcklkLAogICAgICAgICAgICAgICAgICAgIGZpbGVJbmZvLCBkaXNwbGF5ZWRSZXBvcnRFbmFibGVkLCBkZWxpdmVyZWRSZXBvcnRFbmFibGVkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/data/fs</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>/data/fs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRFeHBpcmF0aW9uXD4=</text>
+        <text encoding="base64">XDxlbmFibGVDaGFubmVsUmVxdWVzdFw+</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNoYXRTZXJ2aWNlLnNlbmRGaWxlSW5mb1dpdGhpblNlc3Npb24oc2Vzc2lvbiwgZ3JvdXBGaWxlVHJhbnNmZXIsIGZpbGVUcmFuc2ZlcklkLAogICAgICAgICAgICAgICAgICAgIGZpbGVJbmZvLCBkaXNwbGF5ZWRSZXBvcnRFbmFibGVkLCBkZWxpdmVyZWRSZXBvcnRFbmFibGVkKTsK</text>
+      <register name="1" type="4">
+        <text>.request</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUNoYXRTZXJ2aWNlLnNlbmRGaWxlSW5mb1dpdGhpblNlc3Npb24oc2Vzc2lvbiwgZ3JvdXBGaWxlVHJhbnNmZXIsIGZpbGVUcmFuc2ZlcklkLAogICAgICAgICAgICAgICAgICAgIGZpbGVJbmZvLCBkaXNwbGF5ZWRSZXBvcnRFbmFibGVkLCBkZWxpdmVyZWRSZXBvcnRFbmFibGVkKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3RpZnlJbXNNb2R1bGUoZmFsc2UpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>mCMRegistered</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscy5pc051bGxPckVtcHR5KG1NZXNzYWdpbmdMb2cuZ2V0R3JvdXBDaGF0UmVqb2luSWQobUNoYXRJZCkpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpc0dyb3VwQ2hhdEhhc1Jlam9pbklkKCkK</text>
-      </register>
-      <register name="7" type="4">
-        <text>StringUtils.isNullOrEmpty(mMessagingLog.getGroupChatRejoinId(mChatId));</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -739,20 +739,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
+      <register name="8" type="4">
+        <text>StringUtils.isNullOrEmpty(mMessagingLog.getGroupChatRejoinId(mChatId));</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2V0Q2hhdE1lc3NldENoYXRNZXNzYWdlU3RhdHVzQW5kUmVhc29uQ29kZShtc2dJZCwgU3RhdHVzLkZBSUxFRCwgTWVzc2FnZS5SZWFzb25Db2RlLlVOU1BFQ0lGSUVEKTtzYWdlU3RhdHVzQW5kUmVhc29uQ29kZShtc2dJZCwgU3RhdHVzLkZBSUxFRCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>setChatMessageStatusAndReasonCode(msgId, Status.FAILED, Message.ReasonCode.UNSPECIFIED);</text>
-      </register>
       <register name=":" type="4">
-        <text>649</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRFeHBpcmF0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxlbmFibGVDaGFubmVsUmVxdWVzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRFeHBpcmF0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbmFibGVDaGFubmVsUmVxdWVzdFw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -836,7 +836,6 @@
         <entry>fallbackM</entry>
         <entry encoding="base64">XDxmYWxsYmFja1RvTU1TXD4=</entry>
         <entry encoding="base64">XDxmYWxsQmFja01lc3NhZ2VcPg==</entry>
-        <entry encoding="base64">XDxlbmFibGVDaGFubmVsUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxzZXRDaGF0TWVzc2FnZVN0YXR1c0FuZFJlYXNvbkNvZGVcPg==</entry>
         <entry>isRejoin</entry>
         <entry>hasRejoin</entry>
@@ -853,6 +852,7 @@
         <entry encoding="base64">XDxjcmVhdGVDb3B5T2ZTZW50RmlsZVw+</entry>
         <entry>getEx</entry>
         <entry encoding="base64">XDxnZXRFeHBpcmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxlbmFibGVDaGFubmVsUmVxdWVzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
@@ -874,9 +874,9 @@
         <entry>307</entry>
         <entry>258</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>469</entry>
         <entry>649</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
