@@ -264,6 +264,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMUtil.java" timestamp="1553849983820">
         <mark key="'" line="191" column="11" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1553967982886">
+        <mark key="[" line="141" column="30" />
+        <mark key="]" line="141" column="44" />
+        <mark key="." line="141" column="44" />
+        <mark key="^" line="141" column="44" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/OriginatingHttpFileSharingSession.java" timestamp="1553591515873">
         <mark key="'" line="186" column="16" />
         <mark key="[" line="272" column="54" />
@@ -338,8 +344,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" timestamp="1551349255082">
         <mark key="'" line="171" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" timestamp="1553966647745">
-        <mark key="'" line="173" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" timestamp="1553967785146">
+        <mark key="'" line="90" column="30" />
         <mark key="[" line="90" column="30" />
         <mark key="]" line="90" column="41" />
         <mark key="." line="90" column="41" />
@@ -755,43 +761,43 @@
       <jump line="1095" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="846" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="612" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="90" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" />
       <jump line="173" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" />
       <jump line="58" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RejoinGroupChatSession.java" />
+      <jump line="90" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/RestartGroupChatSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UUID.randomUUID().toString()</text>
+        <text>getConver</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>getContr</text>
+        <text>getConv</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="4">
-        <text>UUID.randomUUID().toString()</text>
+        <text>getConver</text>
       </register>
       <register name="2" type="4">
-        <text>UUID.randomUUID().toString()</text>
+        <text>getContributionId()</text>
       </register>
       <register name="3" type="4">
-        <text>UUID.randomUUID().toString(),</text>
+        <text>mFirstMsg.</text>
       </register>
       <register name="4" type="4">
-        <text>UUID.randomUUID().toString(),</text>
+        <text>UUID.randomUUID().toString()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFydGljaXBhbnRzLnJlbW92ZShJbXNNb2R1bGUuZ2V0SW1zVXNlclByb2ZpbGUoKS5nZXRVc2VybmFtZSgpKTsK</text>
+      <register name="5" type="4">
+        <text>UUID.randomUUID().toString()</text>
       </register>
       <register name="6" type="4">
-        <text>.setConversationId</text>
+        <text>UUID.randomUUID().toString(),</text>
       </register>
       <register name="7" type="4">
-        <text>UUID.randomUUID().toString();</text>
+        <text>UUID.randomUUID().toString(),</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -802,20 +808,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>action</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFydGljaXBhbnRzLnJlbW92ZShJbXNNb2R1bGUuZ2V0SW1zVXNlclByb2ZpbGUoKS5nZXRVc2VybmFtZSgpKTsK</text>
       </register>
       <register name="9" type="4">
-        <text>DATA_TRANSFER</text>
+        <text>.setConversationId</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getContr</last-search>
+      <last-search>getConv</last-search>
       <last-offset />
-      <last-pattern>getContr</last-pattern>
+      <last-pattern>getConv</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -865,6 +871,7 @@
         <entry encoding="base64">XDxkZXF1ZXVlRmlsZVRyYW5zZmVyXD4=</entry>
         <entry>getCOntr</entry>
         <entry>getContr</entry>
+        <entry>getConv</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
