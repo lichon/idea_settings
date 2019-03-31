@@ -650,8 +650,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/http/HttpAuthenticationAgent.java" timestamp="1553991254649">
         <mark key="'" line="117" column="57" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1554008064640">
-        <mark key="'" line="479" column="24" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1554022790633">
+        <mark key="'" line="312" column="49" />
         <mark key="[" line="479" column="57" />
         <mark key="]" line="479" column="57" />
         <mark key="." line="479" column="57" />
@@ -694,9 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
-      <jump line="243" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
-      <jump line="244" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="63" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="261" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
       <jump line="292" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
@@ -794,6 +791,9 @@
       <jump line="1052" column="46" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="621" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1337" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
+      <jump line="392" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
+      <jump line="325" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
+      <jump line="312" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -803,7 +803,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDQVBBQklMSVRZX0ZJTEVfVFJBTlNGRVJfVEhVTUJOQUlMXD4=</text>
+        <text encoding="base64">XDxGRUFUVVJFX1JDU0VfRlRfVEhVTUJOQUlMXD4=</text>
       </register>
       <register name="0" type="4">
         <text />
@@ -849,9 +849,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDQVBBQklMSVRZX0ZJTEVfVFJBTlNGRVJfVEhVTUJOQUlMXD4=</last-search>
+      <last-search encoding="base64">XDxGRUFUVVJFX1JDU0VfRlRfVEhVTUJOQUlMXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDQVBBQklMSVRZX0ZJTEVfVFJBTlNGRVJfVEhVTUJOQUlMXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxGRUFUVVJFX1JDU0VfRlRfVEhVTUJOQUlMXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1002,6 +1002,8 @@
         <entry encoding="base64">XDxERUZBVUxUX0NBUEFCSUxJVFlfRlRfVEhVTUJOQUlMXD4=</entry>
         <entry encoding="base64">XDxDYXBhYmlsaXR5RmlsZVRyYW5zZmVyVGh1bWJuYWlsXD4=</entry>
         <entry encoding="base64">XDxDQVBBQklMSVRZX0ZJTEVfVFJBTlNGRVJfVEhVTUJOQUlMXD4=</entry>
+        <entry>FT_T</entry>
+        <entry encoding="base64">XDxGRUFUVVJFX1JDU0VfRlRfVEhVTUJOQUlMXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
