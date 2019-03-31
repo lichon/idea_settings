@@ -10,12 +10,12 @@
         <mark key="." line="257" column="68" />
         <mark key="^" line="257" column="68" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1553998115348">
-        <mark key="'" line="578" column="34" />
-        <mark key="[" line="344" column="12" />
-        <mark key="]" line="344" column="84" />
-        <mark key="." line="344" column="12" />
-        <mark key="^" line="344" column="11" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1553998832898">
+        <mark key="'" line="578" column="31" />
+        <mark key="[" line="578" column="46" />
+        <mark key="]" line="578" column="58" />
+        <mark key="." line="578" column="58" />
+        <mark key="^" line="578" column="58" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/RcsContact.java" timestamp="1550478807905">
         <mark key="'" line="0" column="0" />
@@ -672,9 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="793" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="100" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="398" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="179" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/OriginatingHttpGroupFileSharingSession.java" />
       <jump line="134" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="357" column="58" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
@@ -769,43 +766,46 @@
       <jump line="320" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="321" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="344" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="572" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="586" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="578" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="555" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="554" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="586" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="572" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="580" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="578" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0TGlzdGVuZXIoKS5vbkh0dHBUcmFuc2ZlclByb2dyZXNzKDEsIG1Db250ZW50LmdldFNpemUoKSk7</text>
+        <text>10 * CHUNK_MAX_SIZE</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>10 * CHUNK_MAX_SIZE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkh0dHBUcmFuc2ZlclByb2dyZXNzXD4=</text>
+        <text encoding="base64">XDxwcm9ncmVzc1NpemVcPg==</text>
       </register>
       <register name="0" type="4">
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0TGlzdGVuZXIoKS5vbkh0dHBUcmFuc2ZlclByb2dyZXNzKDEsIG1Db250ZW50LmdldFNpemUoKSk7</text>
+        <text encoding="base64">ICogMC4xOw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0TGlzdGVuZXIoKS5vbkh0dHBUcmFuc2ZlclByb2dyZXNzKDEsIG1Db250ZW50LmdldFNpemUoKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>Size</text>
       </register>
       <register name="3" type="4">
-        <text>fileSize</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0TGlzdGVuZXIoKS5vbkh0dHBUcmFuc2ZlclByb2dyZXNzKDEsIG1Db250ZW50LmdldFNpemUoKSk7</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0TGlzdGVuZXIoKS5vbkh0dHBUcmFuc2ZlclByb2dyZXNzKDEsIG1Db250ZW50LmdldFNpemUoKSk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>fileSize</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ2V0TGlzdGVuZXIoKS5vbkh0dHBUcmFuc2ZlclByb2dyZXNzKDEsIGZpbGVTaXplKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRMaXN0ZW5lcigpLm9uSHR0cFRyYW5zZmVyUHJvZ3Jlc3MoMSwgZmlsZVNpemUpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDUpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGZpbGVTaXplID0gbUNvbnRlbnQuZ2V0U2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRMaXN0ZW5lcigpLm9uSHR0cFRyYW5zZmVyUHJvZ3Jlc3MoMSwgZmlsZVNpemUpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -816,23 +816,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICsgIkNvbnRlbnQtTGVuZ3RoOiAiICsgZmlsZVNpemUgKyBMSU5FX0VORAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDUpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZVBhcnRIZWFkZXIgPSAK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGZpbGVTaXplID0gbUNvbnRlbnQuZ2V0U2l6ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkh0dHBUcmFuc2ZlclByb2dyZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxwcm9ncmVzc1NpemVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkh0dHBUcmFuc2ZlclByb2dyZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9ncmVzc1NpemVcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -882,7 +882,6 @@
         <entry>getConv</entry>
         <entry>setFixedLengthStreamingMode</entry>
         <entry encoding="base64">XDxmbHVzaFw+</entry>
-        <entry encoding="base64">XDxmaWxlU2l6ZVw+</entry>
         <entry encoding="base64">XDxCb2R5XD4=</entry>
         <entry encoding="base64">XDxyZXN1bWVJbmZvXD4=</entry>
         <entry encoding="base64">XDxGaWxlVHJhbnNmZXJIdHRwUmVzdW1lSW5mb1w+</entry>
@@ -935,6 +934,8 @@
         <entry encoding="base64">XDx3cml0ZUZpbGVNdWx0aXBhcnRcPg==</entry>
         <entry encoding="base64">XDx0aWRCb2R5XD4=</entry>
         <entry encoding="base64">XDxvbkh0dHBUcmFuc2ZlclByb2dyZXNzXD4=</entry>
+        <entry encoding="base64">XDxmaWxlU2l6ZVw+</entry>
+        <entry encoding="base64">XDxwcm9ncmVzc1NpemVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
