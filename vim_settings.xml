@@ -423,7 +423,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactTask.java" timestamp="1550674465470">
         <mark key="'" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1554077811455">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1554108747135">
         <mark key="'" line="1714" column="19" />
         <mark key="[" line="110" column="63" />
         <mark key="]" line="110" column="89" />
@@ -646,8 +646,8 @@
       <jump line="541" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNNUmVnaXN0ZXJlZCA9IGZhbHNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>persist.rcs.limit_icon_size</text>
       </register>
       <register name="-" type="4">
         <text>mCMRegistered)</text>
