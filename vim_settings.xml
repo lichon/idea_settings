@@ -412,12 +412,12 @@
         <mark key="." line="60" column="30" />
         <mark key="^" line="60" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1554077815838">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1554079601630">
         <mark key="'" line="727" column="25" />
         <mark key="[" line="607" column="20" />
-        <mark key="]" line="607" column="23" />
-        <mark key="^" line="607" column="23" />
-        <mark key="." line="607" column="23" />
+        <mark key="]" line="607" column="24" />
+        <mark key="^" line="607" column="24" />
+        <mark key="." line="607" column="24" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1551261788168">
         <mark key="'" line="232" column="22" />
@@ -843,7 +843,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>info</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
@@ -855,22 +855,22 @@
         <text />
       </register>
       <register name="1" type="4">
+        <text>info</text>
+      </register>
+      <register name="2" type="4">
         <text>debug</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGVja0lwQW5kUmVzdGFydFN0YWNrKCk7Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGVja0lwQW5kUmVzdGFydFN0YWNrKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1SY3NTZXR0aW5ncy5pc0xpbWl0SWNvblNpemUoKSkgewogICAgICAgICAgICAgICAgbVJjc1NldHRpbmdzLnNldE1heEZpbGVJY29uU2l6ZSg0ICogMTAyNCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBtUmNzU2V0dGluZ3Muc2V0TWF4RmlsZUljb25TaXplKDEwICogMTAyNCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtSW1zTW9kdWxlLnN0b3BJbXNTZXJ2aWNlcyhUZXJtaW5hdGlvblJlYXNvbi5URVJNSU5BVElPTl9CWV9TWVNURU0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1SY3NTZXR0aW5ncy5pc0xpbWl0SWNvblNpemUoKSkgewogICAgICAgICAgICAgICAgbVJjc1NldHRpbmdzLnNldE1heEZpbGVJY29uU2l6ZSg0ICogMTAyNCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBtUmNzU2V0dGluZ3Muc2V0TWF4RmlsZUljb25TaXplKDEwICogMTAyNCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtSW1zTW9kdWxlLnN0b3BJbXNTZXJ2aWNlcyhUZXJtaW5hdGlvblJlYXNvbi5URVJNSU5BVElPTl9CWV9TWVNURU0pOwo=</text>
@@ -885,10 +885,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtSW1zTW9kdWxlLnN0b3BJbXNTZXJ2aWNlcyhUZXJtaW5hdGlvblJlYXNvbi5URVJNSU5BVElPTl9CWV9TWVNURU0pOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.TERMINATION_BY_SYSTEM</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
