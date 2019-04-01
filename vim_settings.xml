@@ -423,8 +423,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/SyncContactTask.java" timestamp="1550674465470">
         <mark key="'" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1554108747135">
-        <mark key="'" line="1714" column="19" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1554108885602">
+        <mark key="'" line="110" column="63" />
         <mark key="[" line="110" column="63" />
         <mark key="]" line="110" column="89" />
         <mark key="^" line="446" column="74" />
@@ -544,7 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2278" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2323" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2327" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="1021" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
@@ -644,6 +643,7 @@
       <jump line="362" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="429" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="541" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="110" column="63" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -653,10 +653,10 @@
         <text>mCMRegistered)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9wU2VydmljZVw+</text>
+        <text>persist.rcs.limit_icon_size</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>persist.rcs.limit_icon_size</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUNNUmVnaXN0ZXJlZCA9IGZhbHNlOwo=</text>
@@ -699,9 +699,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9wU2VydmljZVw+</last-search>
+      <last-search>persist.rcs.limit_icon_size</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9wU2VydmljZVw+</last-pattern>
+      <last-pattern>persist.rcs.limit_icon_size</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -893,7 +893,6 @@
         <entry encoding="base64">XDx0ZXJtaW5hdGVcPg==</entry>
         <entry>unreg</entry>
         <entry>termin</entry>
-        <entry>persist.rcs.limit_icon_size</entry>
         <entry encoding="base64">XDxpc0xpbWl0SWNvblNpemVcPg==</entry>
         <entry>stop</entry>
         <entry>restartCm</entry>
@@ -974,6 +973,7 @@
         <entry>stopService</entry>
         <entry encoding="base64">XDxtQ01SZWdpc3RlcmVkXD4=</entry>
         <entry encoding="base64">XDxzdG9wU2VydmljZVw+</entry>
+        <entry>persist.rcs.limit_icon_size</entry>
       </history-search>
       <history-cmd>
         <entry>69</entry>
