@@ -506,12 +506,11 @@
       <file name="$USER_HOME$/android/sdk/sources/android-26/java/lang/Thread.java" timestamp="1553325784303">
         <mark key="'" line="789" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1554257975885">
-        <mark key="'" line="1009" column="32" />
-        <mark key="[" line="1009" column="32" />
-        <mark key="]" line="1009" column="48" />
-        <mark key="." line="1009" column="48" />
-        <mark key="^" line="1009" column="48" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1554260411449">
+        <mark key="[" line="1001" column="42" />
+        <mark key="]" line="1001" column="42" />
+        <mark key="." line="1001" column="42" />
+        <mark key="^" line="999" column="15" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromAcceptFileSharingSession.java" timestamp="1551943355229">
         <mark key="'" line="35" column="13" />
@@ -621,10 +620,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXJtaW5hdGVTZXNzaW9uXD4=</text>
@@ -633,25 +632,25 @@
         <text>persist.rcs.limit_icon_size</text>
       </register>
       <register name="1" type="4">
-        <text>public</text>
+        <text encoding="base64">IHNlc3Npb24=</text>
       </register>
-      <register name="2" type="4">
-        <text>public</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNsb3NlIG9sZCBzZW5kaW5nIHNlc3Npb24K</text>
       </register>
-      <register name="3" type="4">
-        <text>closeSession</text>
+      <register name="3" type="2">
+        <text encoding="base64">IC8vIGNsb3NlIG9sZCBzZW5kaW5nIHNlc3Npb24K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IC8vIGNsb3NlIG9sZCBzZW5kaW5nIHNlc3Npb24=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgLy8gY2xvc2Ugb2xkIHNlbmRpbmcgc2Vzc2lvbgogICAgICAgICAgICAgICAgICAgIHNlc3Npb24gPSBnZXRGaWxlU2hhcmluZ1Nlc3Npb24oZmlsZXRyYW5zZmVySWQpOwogICAgICAgICAgICAgICAgICAgIGlmIChzZXNzaW9uICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2Vzc2lvbi50ZXJtaW5hdGVTZXNzaW9uKFRlcm1pbmF0aW9uUmVhc29uLlRFUk1JTkFUSU9OX0JZX1JFTU9URSk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="4">
-        <text>SYSTEM</text>
+        <text>public</text>
       </register>
       <register name="7" type="4">
-        <text>ChatService</text>
+        <text>public</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -663,10 +662,10 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text>_ERROR</text>
+        <text>closeSession</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
