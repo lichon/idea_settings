@@ -75,12 +75,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/imdn/ImdnUtils.java" timestamp="1553351860524">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1554265811374">
-        <mark key="'" line="1037" column="55" />
-        <mark key="[" line="581" column="17" />
-        <mark key="]" line="581" column="25" />
-        <mark key="." line="581" column="25" />
-        <mark key="^" line="581" column="25" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1554286806495">
+        <mark key="'" line="564" column="16" />
+        <mark key="[" line="565" column="0" />
+        <mark key="]" line="565" column="0" />
+        <mark key="." line="565" column="0" />
+        <mark key="^" line="578" column="25" />
       </file>
       <file name="$USER_HOME$/android/sdk/sources/android-26/android/provider/Settings.java" timestamp="1551437148818">
         <mark key="'" line="1611" column="51" />
@@ -112,11 +112,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/stack/TCPMessageProcessor.java" timestamp="1552638583148">
         <mark key="'" line="63" column="41" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/platform/network/SocketConnection.java" timestamp="1554272785266">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CapabilityServiceImpl.java" timestamp="1554196973301">
         <mark key="'" line="159" column="70" />
       </file>
@@ -131,11 +126,6 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1554105286728">
         <mark key="'" line="349" column="9" />
-      </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/ResumeUploadGroupFileSharingSession.java" timestamp="1554221094058">
-        <mark key="[" line="82" column="17" />
-        <mark key="]" line="82" column="17" />
-        <mark key="." line="82" column="17" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/IOHandler.class" timestamp="1552911666440">
         <mark key="'" line="162" column="24" />
@@ -564,10 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
-      <jump line="55" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" />
-      <jump line="89" column="30" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
-      <jump line="55" column="6" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
       <jump line="57" column="30" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
       <jump line="68" column="34" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
       <jump line="84" column="11" filename="$USER_HOME$/android/sdk/sources/android-26/java/net/Socket.java" />
@@ -664,40 +650,44 @@
       <jump line="61" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpClientConnection.java" />
       <jump line="130" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpClientConnection.java" />
       <jump line="126" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpClientConnection.java" />
+      <jump line="63" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="522" column="65" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="537" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="564" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>connected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcyBpbnN0YW5jZW9mIENoYXRTZXNzaW9uKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>connected</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbm5vdW5jZWRGaW5nZXJwcmludFw+</text>
+        <text encoding="base64">XDxkZWxldGVTZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>persist.rcs.limit_icon_size</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcyBpbnN0YW5jZW9mIENoYXRTZXNzaW9uKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>IMS</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIj09PSIsIGUpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb2NrLmNvCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>localAddress.e</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzTAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>socket0w</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -708,23 +698,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NrZXQub3BlbihyZW1vdGVBZGRyZXNzLCByZW1vdGVQb3J0LCBsb2NhbEFkZHJlc3MsIGxvY2FsUG9ydCk7Cg==</text>
+      <register name="8" type="4">
+        <text>socket0w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvY2tldCA9IG5ldyAK</text>
+        <text encoding="base64">ICAgICAgICBzb2NrZXQub3BlbihyZW1vdGVBZGRyZXNzLCByZW1vdGVQb3J0LCBsb2NhbEFkZHJlc3MsIGxvY2FsUG9ydCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbm5vdW5jZWRGaW5nZXJwcmludFw+</last-search>
+      <last-search encoding="base64">XDxkZWxldGVTZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbm5vdW5jZWRGaW5nZXJwcmludFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVTZXNzaW9uXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -853,7 +843,6 @@
         <entry>single</entry>
         <entry encoding="base64">XDxTdGF0dXNcPg==</entry>
         <entry>Status</entry>
-        <entry encoding="base64">XDxjbG9zZVNlc3Npb25cPg==</entry>
         <entry encoding="base64">XDx0ZXJtaW5hdGVTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDx0cmFuc2ZlcklkXD4=</entry>
         <entry encoding="base64">XDx0cmFuc2ZlcmlkXD4=</entry>
@@ -912,6 +901,10 @@
         <entry encoding="base64">XDxzZXRHcm91cEZpbGVEZWxpdmVyeVN0YXR1c0Rpc3BsYXllZFw+</entry>
         <entry encoding="base64">XDxjb250YWN0XD4=</entry>
         <entry encoding="base64">XDxhbm5vdW5jZWRGaW5nZXJwcmludFw+</entry>
+        <entry>closeSess</entry>
+        <entry encoding="base64">XDxjbG9zZVNlc3Npb25cPg==</entry>
+        <entry>deleteS</entry>
+        <entry encoding="base64">XDxkZWxldGVTZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
