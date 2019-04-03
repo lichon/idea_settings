@@ -9,12 +9,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" timestamp="1554196220466">
         <mark key="'" line="259" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1554222677848">
-        <mark key="'" line="162" column="27" />
-        <mark key="[" line="434" column="62" />
-        <mark key="]" line="434" column="62" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1554271945327">
+        <mark key="'" line="536" column="36" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
         <mark key="^" line="434" column="61" />
-        <mark key="." line="434" column="62" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1554027559499">
         <mark key="'" line="209" column="34" />
@@ -418,6 +418,13 @@
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1553761865301">
         <mark key="'" line="44" column="35" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" timestamp="1554272480586">
+        <mark key="'" line="282" column="24" />
+        <mark key="[" line="282" column="67" />
+        <mark key="]" line="282" column="67" />
+        <mark key="^" line="282" column="67" />
+        <mark key="." line="282" column="67" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/header/Reason.class" timestamp="1551251153022">
         <mark key="'" line="15" column="24" />
       </file>
@@ -637,13 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="430" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="339" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
-      <jump line="172" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMUtil.java" />
-      <jump line="314" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
-      <jump line="315" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="161" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="208" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
       <jump line="346" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
@@ -737,40 +737,47 @@
       <jump line="800" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
       <jump line="1037" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
       <jump line="1049" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="783" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="536" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="116" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
+      <jump line="249" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
+      <jump line="280" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
+      <jump line="281" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
+      <jump line="282" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Removal</text>
+        <text>.&quot;+D.gebindImsNetwork(context, null);</text>
       </register>
       <register name="-" type="4">
         <text>isPendingForRemoval()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1BlbmRpbmdGb3JSZW1vdmFsXD4=</text>
+        <text encoding="base64">XDxtSW1zTmV0d29ya1w+</text>
       </register>
       <register name="0" type="4">
         <text>persist.rcs.limit_icon_size</text>
       </register>
       <register name="1" type="4">
+        <text>.&quot;+D.gebindImsNetwork(context, null);</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBiZDVlMzM1MWMwMTVhYzM5OGNmNWIzYzdkMGRkMjY1ZTY0YTQ2OGUzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgLyogQ2hlY2sgcmVzcG9uc2Ugc3RhdHVzIGNvZGUgKi8KICAgICAgICAgICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmVycm9yKCJjb25uZWN0aW9uIGVycm9yIiwgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAvKiBSZXRyeSBwcm9jZWR1cmUgKi8KICAgICAgICAgICAgICAgIGlmIChtUmV0cnlDb3VudCA8IFJFVFJZX01BWCkgewogICAgICAgICAgICAgICAgICAgIG1SZXRyeUNvdW50Kys7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHVwbG9hZEZpbGUoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHRocm93IGU7Cj4+Pj4+Pj4gW01US10gZnQgaHR0cCB1cGxvYWQgcmV0cnkK</text>
+      </register>
+      <register name="4" type="4">
         <text>Removal</text>
-      </register>
-      <register name="2" type="4">
-        <text>TERMINATION_BY_SYSTEM</text>
-      </register>
-      <register name="3" type="4">
-        <text>no longer marked as the active one for outgoing operations and</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>Removal</text>
+        <text>TERMINATION_BY_SYSTEM</text>
       </register>
       <register name="6" type="4">
-        <text>Removal</text>
+        <text>no longer marked as the active one for outgoing operations and</text>
       </register>
-      <register name="7" type="4">
-        <text>Leaving</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -785,16 +792,16 @@
         <text>Removal</text>
       </register>
       <register name="9" type="4">
-        <text>USER</text>
+        <text>Removal</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1BlbmRpbmdGb3JSZW1vdmFsXD4=</last-search>
+      <last-search encoding="base64">XDxtSW1zTmV0d29ya1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1BlbmRpbmdGb3JSZW1vdmFsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtSW1zTmV0d29ya1w+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -921,8 +928,6 @@
         <entry encoding="base64">XDxnZXRSZXNwb25zZUNvZGVcPg==</entry>
         <entry encoding="base64">XDxzZW5kTXVsdGlwYXJ0UG9zdFw+</entry>
         <entry encoding="base64">XDxyZXRyeU9yVGhyb3dcPg==</entry>
-        <entry>bind</entry>
-        <entry encoding="base64">XDxiaW5kSW1zTmV0d29ya1w+</entry>
         <entry>request</entry>
         <entry encoding="base64">XDxyZXN0YXJ0TmV0d29ya1JlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxiaW5kUHJvY2Vzc1RvTmV0d29ya1w+</entry>
@@ -953,6 +958,10 @@
         <entry>SYSTEM</entry>
         <entry encoding="base64">XDxtUGVuZGluZ1RvTGVhdmVcPg==</entry>
         <entry encoding="base64">XDxpc1BlbmRpbmdGb3JSZW1vdmFsXD4=</entry>
+        <entry>===</entry>
+        <entry>bind</entry>
+        <entry encoding="base64">XDxiaW5kSW1zTmV0d29ya1w+</entry>
+        <entry encoding="base64">XDxtSW1zTmV0d29ya1w+</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
