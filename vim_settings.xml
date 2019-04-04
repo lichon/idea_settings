@@ -112,7 +112,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/stack/IOHandler.class" timestamp="1552911666440">
         <mark key="'" line="162" column="24" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" timestamp="1554306689125">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" timestamp="1554337472846">
         <mark key="'" line="380" column="16" />
         <mark key="[" line="324" column="16" />
         <mark key="]" line="324" column="16" />
@@ -314,8 +314,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/ListeningPointImpl.class" timestamp="1552638581686">
         <mark key="'" line="124" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1554104749110">
-        <mark key="'" line="59" column="8" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1554337437995">
+        <mark key="'" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" timestamp="1551349255082">
         <mark key="'" line="171" column="21" />
@@ -342,6 +342,13 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupDeliveryInfoLog.java" timestamp="1554280296005">
         <mark key="'" line="112" column="7" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1554337615435">
+        <mark key="'" line="237" column="36" />
+        <mark key="[" line="197" column="4" />
+        <mark key="]" line="197" column="16" />
+        <mark key="." line="197" column="16" />
+        <mark key="^" line="197" column="16" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/header/Reason.class" timestamp="1551251153022">
         <mark key="'" line="15" column="24" />
@@ -522,13 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
-      <jump line="103" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
-      <jump line="117" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
-      <jump line="153" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
-      <jump line="160" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
-      <jump line="52" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
-      <jump line="64" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
       <jump line="78" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
       <jump line="2062" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="235" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
@@ -622,6 +622,13 @@
       <jump line="1013" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
       <jump line="371" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" />
       <jump line="380" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" />
+      <jump line="158" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="238" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="347" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="128" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="161" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="237" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -631,31 +638,31 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>ACK re</text>
+        <text encoding="base64">XDxzdGFydENvcmVTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>persist.rcs.limit_icon_size</text>
       </register>
-      <register name="1" type="4">
-        <text>UnsupportedOperationException.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghbVJjc1NldHRpbmdzLmlzU2VydmljZUFjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJza2lwIGF1dG8gY29uZmlnIGZvciByY3MgZGlzYWJsZWQuIik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHN0YXJ0Q29yZVNlcnZpY2UoKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>ServceApiUtil.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>RcsServiceApi.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobUNvbmZpZ0xvYWRlZCAmJiBtU2VydmljZVN0YXJ0ZWQpIHsKICAgICAgICAgICAgbVNlcnZpY2VTdGFydGVkID0gZmFsc2U7CiAgICAgICAgICAgIHN0YXJ0Q29yZVNlcnZpY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>testIms</text>
+        <text>Delayed()</text>
       </register>
       <register name="5" type="4">
-        <text>debug</text>
+        <text>for requesting config update</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlRmlsZVRyYW5zZmVyKGZ0SWQsIGlzR3JvdXAsIEVycm9yQWN0aW9uLkZBSUxVUkUsIGVycm9yQ29kZSk7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTaW1wbGVEYXRlRm9ybWF0IERBVEVfVElNRV9GT1JNQVQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eU1NZGRfSEhtbXNzIik7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybWluYXRlRmlsZVRyYW5zZmVyKGZ0SWQsIGlzR3JvdXAsIEVycm9yQWN0aW9uLkZBSUxVUkUsIGVycm9yQ29kZSk7Cg==</text>
+      <register name="7" type="4">
+        <text>UnsupportedOperationException.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -666,20 +673,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFUVCB3YXZlMSBSRVEK</text>
+      <register name="8" type="4">
+        <text>ServceApiUtil.</text>
       </register>
       <register name="9" type="4">
-        <text>DELIVERY</text>
+        <text>RcsServiceApi.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ACK re</last-search>
+      <last-search encoding="base64">XDxzdGFydENvcmVTZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern>ACK re</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydENvcmVTZXJ2aWNlXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -891,6 +898,8 @@
         <entry encoding="base64">XDxvblRyYW5zZmVyRXJyb3JcPg==</entry>
         <entry>recei</entry>
         <entry>ACK re</entry>
+        <entry encoding="base64">XDxtQ29uZmlnTG9hZGVkXD4=</entry>
+        <entry encoding="base64">XDxzdGFydENvcmVTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
