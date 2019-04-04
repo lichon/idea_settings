@@ -54,8 +54,8 @@
         <mark key="." line="49" column="81" />
         <mark key="^" line="49" column="81" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1554364014225">
-        <mark key="'" line="647" column="22" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1554367026796">
+        <mark key="'" line="611" column="39" />
         <mark key="[" line="683" column="27" />
         <mark key="]" line="683" column="41" />
         <mark key="^" line="601" column="64" />
@@ -616,10 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" />
-      <jump line="309" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" />
-      <jump line="67" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMMessageFactory.java" />
-      <jump line="25" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMMessageFactory.java" />
       <jump line="76" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
       <jump line="49" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMMessageFactory.java" />
       <jump line="54" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMMessageFactory.java" />
@@ -716,6 +712,10 @@
       <jump line="49" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatApi.java" />
       <jump line="593" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="647" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="609" column="46" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="687" column="74" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="686" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="611" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -725,7 +725,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWF0ZUdyb3VwQ2hhdFw+</text>
+        <text encoding="base64">XDxNTVNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
@@ -771,9 +771,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0aWF0ZUdyb3VwQ2hhdFw+</last-search>
+      <last-search encoding="base64">XDxNTVNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWF0ZUdyb3VwQ2hhdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxNTVNcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1027,6 +1027,8 @@
         <entry encoding="base64">XDxnZXRHcm91cENoYXRUeXBlXD4=</entry>
         <entry encoding="base64">XDxnZXRHcm91cENoYXRcPg==</entry>
         <entry encoding="base64">XDxpbml0aWF0ZUdyb3VwQ2hhdFw+</entry>
+        <entry encoding="base64">XDxtbXNcPg==</entry>
+        <entry encoding="base64">XDxNTVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
