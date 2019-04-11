@@ -545,8 +545,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingAdhocGroupChatSession.java" timestamp="1554265400454">
         <mark key="'" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1554026559161">
-        <mark key="'" line="266" column="67" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" timestamp="1554985081991">
+        <mark key="'" line="197" column="28" />
+        <mark key="[" line="200" column="13" />
+        <mark key="]" line="201" column="11" />
+        <mark key="^" line="201" column="11" />
+        <mark key="." line="201" column="11" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactManager.java" timestamp="1554301881806">
         <mark key="'" line="1758" column="20" />
@@ -733,10 +737,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" />
-      <jump line="3" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" />
-      <jump line="696" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="695" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
       <jump line="119" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
       <jump line="94" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/javax/sip/header/HeaderFactory.class" />
       <jump line="63" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/javax/sip/header/HeaderFactory.class" />
@@ -833,6 +833,10 @@
       <jump line="93" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
       <jump line="54" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
       <jump line="267" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="492" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="170" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="186" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
+      <jump line="197" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileTransferUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -842,7 +846,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSY3NTZXR0aW5nc0RhdGFcPg==</text>
+        <text encoding="base64">XDxjcmVhdGVGaWxlSWNvbkZyb21JbWFnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
@@ -888,9 +892,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSY3NTZXR0aW5nc0RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVGaWxlSWNvbkZyb21JbWFnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSY3NTZXR0aW5nc0RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVGaWxlSWNvbkZyb21JbWFnZVw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1033,6 +1037,8 @@
         <entry encoding="base64">XDxlbmFibGVRY29tQ2FycmllckNvbmZpZ1w+</entry>
         <entry encoding="base64">XDxERUZBVUxUX01FU1NBR0lOR19BUFBcPg==</entry>
         <entry encoding="base64">XDxSY3NTZXR0aW5nc0RhdGFcPg==</entry>
+        <entry>createFile</entry>
+        <entry encoding="base64">XDxjcmVhdGVGaWxlSWNvbkZyb21JbWFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
