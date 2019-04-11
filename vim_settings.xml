@@ -197,6 +197,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsConnectionManager.java" timestamp="1554046030767">
         <mark key="'" line="106" column="26" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/build.gradle" timestamp="1554973871668">
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="78" column="10" />
+        <mark key="." line="78" column="10" />
+        <mark key="^" line="78" column="10" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/ChatMessageDeleteByChatIdTask.java" timestamp="1554082234196">
         <mark key="'" line="85" column="12" />
       </file>
@@ -811,8 +817,8 @@
       <jump line="63" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtQ01JbnRlcmZhY2Uuc2V0SW1zTGlzdGVuZXIobUNNTGlzdGVuZXIsIHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>qcom</text>
       </register>
       <register name="-" type="4">
         <text>&quot;X-RESPONSE&quot;</text>
@@ -823,26 +829,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtQ01JbnRlcmZhY2Uuc2V0SW1zTGlzdGVuZXIobUNNTGlzdGVuZXIsIHRydWUpOwo=</text>
+      <register name="1" type="4">
+        <text>qcom</text>
       </register>
       <register name="2" type="4">
-        <text>false</text>
+        <text>att</text>
       </register>
       <register name="3" type="4">
-        <text>.setStatusListener(mCMListener);</text>
+        <text>fih</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnZlcnNhdGlvbklESAo=</text>
+      <register name="4" type="4">
+        <text>release</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIZWFkZXIuCg==</text>
+      <register name="5" type="4">
+        <text>qcom</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIZWFkZXJDb24K</text>
+        <text encoding="base64">ICAgICAgICBtQ01JbnRlcmZhY2Uuc2V0SW1zTGlzdGVuZXIobUNNTGlzdGVuZXIsIHRydWUpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>false</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -853,11 +859,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1SY3NTZXR0aW5ncy5pc010a0NvbmZpZ3VyYXRpb25Nb2RlKCkpIHsKICAgICAgICAgICAgICAgIGFjay5hZGRIZWFkZXJOb3RSZXBsYWNlKCJYLVJFU1BPTlNFIiwgIjIwMCIpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>.setStatusListener(mCMListener);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjay5hZGRIZWFkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnZlcnNhdGlvbklESAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
