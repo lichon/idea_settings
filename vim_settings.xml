@@ -410,8 +410,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/ListeningPointImpl.class" timestamp="1552638581686">
         <mark key="'" line="124" column="66" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1555081746610">
-        <mark key="'" line="138" column="57" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1555087141315">
+        <mark key="'" line="143" column="55" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -721,9 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/HistoryServiceImpl.java" />
-      <jump line="100" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
-      <jump line="3082" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="1568" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="1584" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="1235" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
@@ -821,6 +818,9 @@
       <jump line="397" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/FileUtils.java" />
       <jump line="399" column="67" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/FileUtils.java" />
       <jump line="401" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/FileUtils.java" />
+      <jump line="108" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="138" column="81" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="143" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -830,7 +830,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHRlbnNpb25cPg==</text>
+        <text encoding="base64">XDxpc0RlZmF1bHRTbXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
@@ -876,12 +876,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHRlbnNpb25cPg==</last-search>
+      <last-search encoding="base64">XDxpc0RlZmF1bHRTbXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHRlbnNpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc0RlZmF1bHRTbXNcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1043,6 +1043,7 @@
         <entry encoding="base64">XDx0ZXN0UmNzXD4=</entry>
         <entry>createO</entry>
         <entry encoding="base64">XDxleHRlbnNpb25cPg==</entry>
+        <entry encoding="base64">XDxpc0RlZmF1bHRTbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
