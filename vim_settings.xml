@@ -408,6 +408,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/CoreServiceTest.java" timestamp="1551261788168">
         <mark key="'" line="232" column="22" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactProvider.java" timestamp="1555061464468">
+        <mark key="'" line="510" column="21" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" timestamp="1555036424407">
         <mark key="'" line="292" column="23" />
         <mark key="[" line="422" column="33" />
@@ -699,12 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
-      <jump line="21" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/javax/sip/message/Response.class" />
-      <jump line="40" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/javax/sip/message/Response.class" />
-      <jump line="149" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForATTImpl.java" />
-      <jump line="186" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForATTImpl.java" />
-      <jump line="52" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForATTImpl.java" />
       <jump line="81" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForATTImpl.java" />
       <jump line="117" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForATTImpl.java" />
       <jump line="63" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
@@ -799,6 +796,12 @@
       <jump line="2411" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="51" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/ChatProvider.java" />
+      <jump line="176" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactProvider.java" />
+      <jump line="211" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactProvider.java" />
+      <jump line="506" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactProvider.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactProvider.java" />
+      <jump line="114" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactProvider.java" />
+      <jump line="510" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/contact/ContactProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -808,7 +811,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDaGF0UHJvdmlkZXJcPg==</text>
+        <text encoding="base64">XDxjcmVhdGVEYlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
@@ -854,9 +857,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDaGF0UHJvdmlkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVEYlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDaGF0UHJvdmlkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVEYlw+</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -890,6 +893,8 @@
         <entry encoding="base64">XDxMb2NhbENvbnRlbnRSZXNvbHZlclw+</entry>
         <entry encoding="base64">XDxtTG9jYWxDb250ZW50UmVzb2x2ZXJcPg==</entry>
         <entry encoding="base64">XDxDaGF0UHJvdmlkZXJcPg==</entry>
+        <entry encoding="base64">XDxtT3BlbkhlbHBlclw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVEYlw+</entry>
       </history-search>
       <history-cmd>
         <entry>934</entry>
