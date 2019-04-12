@@ -32,11 +32,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/ContactProvider.java" timestamp="1553431478027">
         <mark key="'" line="90" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" timestamp="1554963226600">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/UAInterface.java" timestamp="1555035746926">
         <mark key="'" line="358" column="8" />
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="0" />
-        <mark key="." line="368" column="0" />
+        <mark key="[" line="368" column="8" />
+        <mark key="]" line="368" column="8" />
+        <mark key="." line="368" column="8" />
+        <mark key="^" line="368" column="8" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.mediatek.ims.rcsua.jar!/com/mediatek/ims/rcsua/RcsUaService.class" timestamp="1553496205491">
         <mark key="'" line="76" column="51" />
@@ -326,12 +327,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" timestamp="1554214399067">
         <mark key="'" line="110" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1554992374274">
-        <mark key="'" line="943" column="51" />
-        <mark key="[" line="561" column="78" />
-        <mark key="]" line="562" column="16" />
-        <mark key="." line="562" column="16" />
-        <mark key="^" line="562" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" timestamp="1555035421544">
+        <mark key="'" line="550" column="50" />
+        <mark key="[" line="551" column="36" />
+        <mark key="]" line="551" column="39" />
+        <mark key="." line="551" column="39" />
+        <mark key="^" line="551" column="39" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallSession.java" timestamp="1551264820100">
         <mark key="'" line="62" column="19" />
@@ -737,7 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
       <jump line="85" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
       <jump line="121" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
       <jump line="125" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" />
@@ -837,10 +837,11 @@
       <jump line="56" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
       <jump line="329" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
       <jump line="327" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
+      <jump line="550" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneFileTransferImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygidHJhbnNmZXIgcXVldWUgc3RhdGUsIHNldCBhYm9ydGVkIGFuZCByZXR1cm4iKTsK</text>
+      <register name="&quot;" type="4">
+        <text>debug</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -851,26 +852,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>debug</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5kZWJ1ZygidHJhbnNmZXIgcXVldWUgc3RhdGUsIHNldCBhYm9ydGVkIGFuZCByZXR1cm4iKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>RcsSettingsData.DEFAULT_MESSAGING_APP</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.getIpmeApplicationName();</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>String ipmeApplicationName =</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>enableQcomCarrierConfig |</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgc3RhdGljIGJvb2xlYW4gZW5hYmxlUWNvbUNhcnJpZXJDb25maWcgPSAiU1M4ODMxIi5lcXVhbHNJZ25vcmVDYXNlKEJ1aWxkLk1PREVMKQogICAgICAgICAgICB8fCAiR00xOTE1Ii5lcXVhbHNJZ25vcmVDYXNlKEJ1aWxkLk1PREVMKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -881,11 +882,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>public</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgc3RhdGljIGJvb2xlYW4gZW5hYmxlUWNvbUNhcnJpZXJDb25maWcgPSAiU1M4ODMxIi5lcXVhbHNJZ25vcmVDYXNlKEJ1aWxkLk1PREVMKQogICAgICAgICAgICB8fCAiR00xOTE1Ii5lcXVhbHNJZ25vcmVDYXNlKEJ1aWxkLk1PREVMKTsK</text>
       </register>
       <register name="9" type="4">
-        <text>qcom</text>
+        <text>public</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
