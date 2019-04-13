@@ -632,8 +632,8 @@
         <mark key="." line="1412" column="65" />
         <mark key="^" line="1412" column="65" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1555068975022">
-        <mark key="'" line="579" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1555137507676">
+        <mark key="'" line="204" column="5" />
         <mark key="[" line="589" column="70" />
         <mark key="]" line="590" column="19" />
         <mark key="." line="590" column="19" />
@@ -745,7 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="905" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="904" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="76" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
@@ -845,6 +844,7 @@
       <jump line="397" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
       <jump line="395" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
       <jump line="419" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
+      <jump line="204" column="5" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -854,7 +854,7 @@
         <text>Unregister from IMS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3RyYXRpb25UZXJtaW5hdGVkXD4=</text>
+        <text>termin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
@@ -900,9 +900,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3RyYXRpb25UZXJtaW5hdGVkXD4=</last-search>
+      <last-search>termin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3RyYXRpb25UZXJtaW5hdGVkXD4=</last-pattern>
+      <last-pattern>termin</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -954,6 +954,7 @@
         <entry encoding="base64">XDxVbnJlZ2lzdGVyXD4=</entry>
         <entry encoding="base64">XDx1bnJlZ2lzdGVyXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3RyYXRpb25UZXJtaW5hdGVkXD4=</entry>
+        <entry>termin</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
