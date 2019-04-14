@@ -10,12 +10,12 @@
         <mark key="." line="145" column="29" />
         <mark key="^" line="145" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1555215352687">
-        <mark key="'" line="96" column="29" />
-        <mark key="[" line="96" column="41" />
-        <mark key="]" line="96" column="42" />
-        <mark key="." line="96" column="42" />
-        <mark key="^" line="200" column="25" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1555217197897">
+        <mark key="'" line="649" column="27" />
+        <mark key="[" line="652" column="16" />
+        <mark key="]" line="652" column="22" />
+        <mark key="." line="652" column="22" />
+        <mark key="^" line="652" column="22" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/javax/sip/header/HeaderFactory.class" timestamp="1554957737208">
         <mark key="'" line="26" column="4" />
@@ -367,6 +367,13 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/capability/CapabilityService.java" timestamp="1554196126876">
         <mark key="'" line="247" column="16" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1555217224308">
+        <mark key="'" line="386" column="16" />
+        <mark key="[" line="177" column="58" />
+        <mark key="]" line="177" column="58" />
+        <mark key="." line="177" column="58" />
+        <mark key="^" line="297" column="31" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/contact/RcsContact.java" timestamp="1550478807905">
         <mark key="'" line="0" column="0" />
       </file>
@@ -701,24 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/ChatMessageDeleteByChatIdTask.java" />
-      <jump line="105" column="44" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/ChatMessageDeleteByChatIdTask.java" />
-      <jump line="98" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/ChatMessageDeleteByChatIdTask.java" />
-      <jump line="117" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/ChatMessageDeleteByChatIdTask.java" />
-      <jump line="1468" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="44" column="5" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/ChatMessageDeleteByChatIdTask.java" />
-      <jump line="2755" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="2801" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="2780" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="1055" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1036" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="21" column="2" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/chat/IChatService.aidl" />
-      <jump line="7" column="34" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/chat/IChatService.aidl" />
-      <jump line="19" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/chat/IChatService.aidl" />
-      <jump line="23" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/chat/IChatService.aidl" />
-      <jump line="302" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1248" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="41" column="7" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/aidl/com/gsma/services/rcs/chat/IChatService.aidl" />
       <jump line="355" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" />
       <jump line="339" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" />
       <jump line="155" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/chat/ChatService.java" />
@@ -798,19 +787,37 @@
       <jump line="685" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="842" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="71" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
-      <jump line="185" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="200" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="96" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="206" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="120" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="185" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="186" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="188" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="203" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="204" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="209" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="767" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="710" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="776" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="662" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="667" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="648" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="666" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="671" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="916" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="645" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
+      <jump line="649" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>, NetworkException</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRVRSWV9NQVhcPg==</text>
+        <text encoding="base64">XDxzZW5kR2V0RG93bmxvYWRJbmZvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
@@ -818,23 +825,23 @@
       <register name="1" type="4">
         <text>, NetworkException</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBsb25nIEZJUlNUX1JFVFJZX1RJTUVSID0gNTAwMDsKICAgIHByaXZhdGUgc3RhdGljIGxvbmcgUkVUUllfVElNRVIgPSAzMDAwOwo=</text>
+      <register name="2" type="4">
+        <text>OrThrow</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChtUmV0cnlDb3VudCA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKEZJUlNUX1JFVFJZX1RJTUVSKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKFJFVFJZX1RJTUVSKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGlnbm9yZSkgewogICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>retry</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKiBSZXRyeSBwcm9jZWR1cmUgKi8KICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmV0cnlPclRocm93KG5ldyBJT0V4Y2VwdGlvbigidXBsb2FkIHJlc3BvbnNlIGVycm9yIikpOwo=</text>
+      <register name="4" type="4">
+        <text>isDebugActivated</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      <register name="5" type="4">
+        <text>, NetworkException</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNQYXVzZWQoKQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBsb25nIEZJUlNUX1JFVFJZX1RJTUVSID0gNTAwMDsKICAgIHByaXZhdGUgc3RhdGljIGxvbmcgUkVUUllfVElNRVIgPSAzMDAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGlmIChtUmV0cnlDb3VudCA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKEZJUlNUX1JFVFJZX1RJTUVSKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKFJFVFJZX1RJTUVSKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGlnbm9yZSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -848,17 +855,17 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKiBSZXRyeSBwcm9jZWR1cmUgKi8KICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmV0cnlPclRocm93KG5ldyBJT0V4Y2VwdGlvbigidXBsb2FkIHJlc3BvbnNlIGVycm9yIikpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;Unable to upload file URI &quot; + mContent.getUri() + &quot;!&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRVRSWV9NQVhcPg==</last-search>
+      <last-search encoding="base64">XDxzZW5kR2V0RG93bmxvYWRJbmZvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRVRSWV9NQVhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kR2V0RG93bmxvYWRJbmZvXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1075,6 +1082,11 @@
         <entry encoding="base64">XDxGSVJTVF9SRVRSWV9USU1FUlw+</entry>
         <entry encoding="base64">XDxIVFRQX1JFQURfVElNRU9VVFw+</entry>
         <entry encoding="base64">XDxSRVRSWV9NQVhcPg==</entry>
+        <entry encoding="base64">XDxtUmV0cnlDb3VudFw+</entry>
+        <entry>writeRemainingFileData</entry>
+        <entry encoding="base64">XDx3cml0ZVJlbWFpbmluZ0ZpbGVEYXRhXD4=</entry>
+        <entry encoding="base64">XDxzZW5kUHV0Rm9yUmVzdW1pbmdVcGxvYWRcPg==</entry>
+        <entry encoding="base64">XDxzZW5kR2V0RG93bmxvYWRJbmZvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
