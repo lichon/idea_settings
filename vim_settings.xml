@@ -90,12 +90,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/FeatureTags.java" timestamp="1554177450476">
         <mark key="'" line="146" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" timestamp="1555233159226">
-        <mark key="'" line="584" column="20" />
-        <mark key="[" line="593" column="12" />
-        <mark key="]" line="593" column="12" />
-        <mark key="." line="593" column="12" />
-        <mark key="^" line="593" column="12" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" timestamp="1555234005274">
+        <mark key="'" line="701" column="23" />
+        <mark key="[" line="776" column="0" />
+        <mark key="]" line="776" column="0" />
+        <mark key="." line="776" column="0" />
+        <mark key="^" line="657" column="14" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkProvisioningService.java" timestamp="1555231981282">
         <mark key="'" line="115" column="0" />
@@ -699,11 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
-      <jump line="201" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="223" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="194" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="40" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
       <jump line="227" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
       <jump line="58" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
       <jump line="198" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
@@ -799,40 +794,45 @@
       <jump line="584" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="37" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForATTImpl.java" />
       <jump line="41" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForATTImpl.java" />
+      <jump line="657" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="773" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="647" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="774" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="701" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIud2FybigiZmlsZSB0cmFuc2ZlciBhbHJlYWR5IG9uZ29pbmcsIGNhbm5vdCByZXN1bWUuICIgKyBtRmlsZVRyYW5zZmVySWQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm90b2NvbFw+</text>
+        <text encoding="base64">XDxpc0ZpbGVUcmFuc2ZlckFscmVhZHlPbmdvaW5nXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIud2FybigiZmlsZSB0cmFuc2ZlciBhbHJlYWR5IG9uZ29pbmcsIGNhbm5vdCByZXN1bWUuICIgKyBtRmlsZVRyYW5zZmVySWQpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.RETRY_AFTER_DELAY</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc0xvZ2dlci53YXJuKCJmaWxlIHRyYW5zZmVyIGFscmVhZHkgb25nb2luZywgY2FuJ3QgcmVzZW5kLiAiICsgbUZpbGVUcmFuc2ZlcklkKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmCg==</text>
+      <register name="3" type="4">
+        <text>.PAUSED</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgSHR0cFVSTENvbm5lY3Rpb24uSFRUUF9GT1JCSURERU46IHsKICAgICAgICAgICAgICAgICAgICBpZiAobVJjc1NldHRpbmdzLmdldE9wZXJhdG9yTW9kZSgpID09IE9wZXJhdG9yTW9kZS5UTU8pIHsKICAgICAgICAgICAgICAgICAgICAgICAgbVJjc1NldHRpbmdzLnNldEZpbGVUcmFuc2Zlckh0dHBTdXBwb3J0ZWQoZmFsc2UpOwogICAgICAgICAgICAgICAgICAgICAgICBtUmNzU2V0dGluZ3MudHJpZ2dlckNtUmVzdGFydCgpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1SY3NTZXR0aW5ncy50cmlnZ2VyQWNzKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiVXBsb2FkIGZpbGUgVVJJICIgKyBtQ29udGVudC5nZXRVcmkoKSArICIgRm9yYmlkZGVuISIpOwogICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.HTTP_ACCEPTED</text>
+      <register name="5" type="4">
+        <text>.RETRY_AFTER_DELAY</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgSHR0cFVSTENvbm5lY3Rpb24uSFRUUF9GT1JCSURERU46IHsKICAgICAgICAgICAgICAgICAgICBpZiAobVJjc1NldHRpbmdzLmdldE9wZXJhdG9yTW9kZSgpID09IE9wZXJhdG9yTW9kZS5UTU8pIHsKICAgICAgICAgICAgICAgICAgICAgICAgbVJjc1NldHRpbmdzLnNldEZpbGVUcmFuc2Zlckh0dHBTdXBwb3J0ZWQoZmFsc2UpOwogICAgICAgICAgICAgICAgICAgICAgICBtUmNzU2V0dGluZ3MudHJpZ2dlckNtUmVzdGFydCgpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1SY3NTZXR0aW5ncy50cmlnZ2VyQWNzKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJT0V4Y2VwdGlvbigiVXBsb2FkIGZpbGUgVVJJICIgKyBtQ29udGVudC5nZXRVcmkoKSArICIgRm9yYmlkZGVuISIpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -843,23 +843,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHJlc3RhcnQ=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>acs</text>
+        <text>.HTTP_ACCEPTED</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm90b2NvbFw+</last-search>
+      <last-search encoding="base64">XDxpc0ZpbGVUcmFuc2ZlckFscmVhZHlPbmdvaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm90b2NvbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc0ZpbGVUcmFuc2ZlckFscmVhZHlPbmdvaW5nXD4=</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1103,6 +1103,7 @@
         <entry>resume</entry>
         <entry encoding="base64">XDxpc0FsbG93ZWRUb1Jlc3VtZVRyYW5zZmVyXD4=</entry>
         <entry encoding="base64">XDxwcm90b2NvbFw+</entry>
+        <entry encoding="base64">XDxpc0ZpbGVUcmFuc2ZlckFscmVhZHlPbmdvaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
