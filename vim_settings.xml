@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" timestamp="1555222459141">
-        <mark key="'" line="58" column="20" />
-        <mark key="[" line="194" column="19" />
-        <mark key="]" line="194" column="44" />
-        <mark key="." line="194" column="44" />
-        <mark key="^" line="194" column="44" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" timestamp="1555224136185">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="199" column="12" />
+        <mark key="]" line="199" column="14" />
+        <mark key="^" line="199" column="14" />
+        <mark key="." line="199" column="14" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" timestamp="1555219953082">
         <mark key="'" line="249" column="41" />
@@ -708,15 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="811" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="864" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="819" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="818" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="821" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="817" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="820" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="848" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
-      <jump line="1288" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="28" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/support/SupportApi.java" />
       <jump line="106" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/preference/CommonServiceConfiguration.java" />
       <jump line="354" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/preference/CommonServiceConfiguration.java" />
@@ -807,41 +798,50 @@
       <jump line="194" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
       <jump line="40" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
       <jump line="359" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
-      <jump line="58" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="227" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="58" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="198" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="205" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="231" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="209" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="202" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="101" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="62" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.set(false);</text>
+        <text>.setIPVideoCallSupport</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>publishN</text>
+        <text encoding="base64">XDxwdWJsaXNoTXlDYXBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZXRJbnN0YW5jZUlkKERldmljZVV0aWxzLmdldEluc3RhbmNlSWQoY3R4LCByY3NTZXR0aW5ncykpOwogICAgICAgIGlmIChVQUludGVyZmFjZS5nZXRJbnN0YW5jZSgpLmdldEltc0NvbmZpZygpICE9IG51bGwpIHsK</text>
       </register>
       <register name="1" type="4">
-        <text>.set(false);</text>
+        <text>.setIPVideoCallSupport</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2xkQ2Fwcy5zZXQoZmFsc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.setFileTransferSupport</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9sYXRpbGUgYm9vbGVhbiBtRmlyc3RQdWI7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>.setFileTransferHttpSupport</text>
+        <text>.setFileTransferSupport(false);</text>
       </register>
       <register name="5" type="4">
-        <text>.setStandaloneMsgSupport(false);</text>
+        <text>mFirstPub</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tLmdzbWEuc2VydmljZXMucmNzLmNhcGFiaWxpdHkuQ2FwYWJpbGl0aWVzIG5ld0NhcHMgPSBDb250YWN0U2VydmljZUltcGwKICAgICAgICAgICAgICAgICAgICAuZ2V0Q2FwYWJpbGl0aWVzKG5ldyBDYXBhYmlsaXRpZXNCdWlsZGVyKCkuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>newCaps</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbUhhbmRsZXIucG9zdCgoKSAtPiB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -853,22 +853,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1GaXJzdFB1YiA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>publishN</last-search>
+      <last-search encoding="base64">XDxwdWJsaXNoTXlDYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>publishN</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaXNoTXlDYXBcPg==</last-pattern>
       <last-replace>userConfigKeys</last-replace>
       <last-substitute encoding="base64">XDxtQ3R4XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1087,10 +1087,10 @@
         <entry encoding="base64">XDxIVFRQX1JFQURfVElNRU9VVFw+</entry>
         <entry encoding="base64">XDxGaWxlTm90RG93bmxvYWRlZEV4Y2VwdGlvblw+</entry>
         <entry encoding="base64">XDx3cml0ZUh0dHBDb250ZW50VG9GaWxlXD4=</entry>
-        <entry encoding="base64">XDxwdWJsaXNoTXlDYXBcPg==</entry>
         <entry>onErr</entry>
         <entry encoding="base64">XDxwdWJsaXNoTm9SY3NcPg==</entry>
         <entry>publishN</entry>
+        <entry encoding="base64">XDxwdWJsaXNoTXlDYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
