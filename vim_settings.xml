@@ -77,6 +77,9 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" timestamp="1556026754912">
+        <mark key="'" line="434" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" timestamp="1556020654546">
         <mark key="'" line="1007" column="16" />
       </file>
@@ -94,19 +97,18 @@
       <file name="/fragment.java" timestamp="1556012853285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1556025061054">
-        <mark key="'" line="2451" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1556026827641">
+        <mark key="'" line="1556" column="16" />
+        <mark key="[" line="765" column="0" />
+        <mark key="]" line="765" column="0" />
+        <mark key="." line="765" column="0" />
+        <mark key="^" line="764" column="12" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1556017969198">
         <mark key="'" line="100" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
-      <jump line="405" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
-      <jump line="154" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_0/IImsCMConnection.class" />
-      <jump line="674" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_0/IImsCMConnection.class" />
-      <jump line="80" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_0/IImsCMConnection.class" />
       <jump line="226" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_0/IImsCMConnection.class" />
       <jump line="163" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_0/IImsCMConnection.class" />
       <jump line="242" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_0/IImsCmService.class" />
@@ -202,62 +204,65 @@
       <jump line="2505" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2448" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2451" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="1554" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="441" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" />
+      <jump line="130" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" />
+      <jump line="211" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" />
+      <jump line="434" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobVR5cGUgPT0gR3JvdXBDaGF0VHlwZS5PUEVORUQgJiYgbVBlcnNpc3RlZFN0b3JhZ2UuZ2V0U3RhdGUoKSAhPSBTdGF0ZS5BQkFORE9ORUQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkR3JvdXBDaGF0UmVtb3ZlRXZlbnQobVJjc1NldHRpbmdzLmdldFVzZXJQcm9maWxlSW1zVXNlck5hbWUoKSwgY3VyVGltZXN0YW1wKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.ABORTED</text>
+        <text>.isSessionEstablished())</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWxsYmFja1RvTU1TXD4=</text>
+        <text encoding="base64">XDxtU2Vzc2lvbkVzdGFibGlzaGVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobVR5cGUgPT0gR3JvdXBDaGF0VHlwZS5PUEVORUQgJiYgbVBlcnNpc3RlZFN0b3JhZ2UuZ2V0U3RhdGUoKSAhPSBTdGF0ZS5BQkFORE9ORUQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkR3JvdXBDaGF0UmVtb3ZlRXZlbnQobVJjc1NldHRpbmdzLmdldFVzZXJQcm9maWxlSW1zVXNlck5hbWUoKSwgY3VyVGltZXN0YW1wKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobVR5cGUgPT0gR3JvdXBDaGF0VHlwZS5PUEVORUQgJiYgbVBlcnNpc3RlZFN0b3JhZ2UuZ2V0U3RhdGUoKSAhPSBTdGF0ZS5BQkFORE9ORUQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkR3JvdXBDaGF0UmVtb3ZlRXZlbnQobVJjc1NldHRpbmdzLmdldFVzZXJQcm9maWxlSW1zVXNlck5hbWUoKSwgY3VyVGltZXN0YW1wKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIGN1clRpbWVzdGFtcCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobVR5cGUgPT0gR3JvdXBDaGF0VHlwZS5PUEVORUQgJiYgbVBlcnNpc3RlZFN0b3JhZ2UuZ2V0U3RhdGUoKSAhPSBTdGF0ZS5BQkFORE9ORUQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRkR3JvdXBDaGF0UmVtb3ZlRXZlbnQobVJjc1NldHRpbmdzLmdldFVzZXJQcm9maWxlSW1zVXNlck5hbWUoKSwgY3VyVGltZXN0YW1wKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdC5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBjdXJUaW1lc3RhbXAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIGN1clRpbWVzdGFtcCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdC5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBjdXJUaW1lc3RhbXAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIGN1clRpbWVzdGFtcCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWxsYmFja1RvTU1TXD4=</last-search>
+      <last-search encoding="base64">XDxtU2Vzc2lvbkVzdGFibGlzaGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWxsYmFja1RvTU1TXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtU2Vzc2lvbkVzdGFibGlzaGVkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxfaGlkbF9jYlw+</entry>
         <entry encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</entry>
         <entry>HTTP_G</entry>
         <entry encoding="base64">XDxkZWxldGVGaWxlXD4=</entry>
@@ -276,6 +281,8 @@
         <entry>LeaveEv</entry>
         <entry encoding="base64">XDxhZGRHcm91cENoYXRSZW1vdmVFdmVudFw+</entry>
         <entry encoding="base64">XDxmYWxsYmFja1RvTU1TXD4=</entry>
+        <entry encoding="base64">XDxzZXRBZG1pbmlzdHJhdG9yXD4=</entry>
+        <entry encoding="base64">XDxtU2Vzc2lvbkVzdGFibGlzaGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -289,6 +296,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
