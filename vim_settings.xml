@@ -9,6 +9,22 @@
       <file name="/Dummy.txt" timestamp="1556011842418">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" timestamp="1556012679884">
+        <mark key="[" line="184" column="23" />
+        <mark key="]" line="184" column="30" />
+        <mark key="." line="184" column="30" />
+        <mark key="^" line="184" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/FileExpiredException.java" timestamp="1556012920913">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="67" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1556012808401">
+        <mark key="'" line="324" column="27" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1556010487214">
         <mark key="'" line="278" column="9" />
         <mark key="[" line="283" column="0" />
@@ -27,7 +43,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_0/IImsCmService.class" timestamp="1556010228527">
         <mark key="'" line="562" column="156" />
       </file>
-      <file name="/fragment.java" timestamp="1556005756341">
+      <file name="/fragment.java" timestamp="1556012853285">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -100,35 +116,51 @@
       <jump line="289" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
       <jump line="286" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
       <jump line="278" column="9" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
+      <jump line="324" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/FileExpiredException.java" />
+      <jump line="31" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/FileExpiredException.java" />
+      <jump line="0" column="1" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/FileExpiredException.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoImRlSW5pdFNlcnZpY2UiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJjbG9zZSBjbSBjb25uZWN0aW9uIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gMUw7Cg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gMUw7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChDKSAyMDE1IFNvbnkgTW9iaWxlIENvbW11bmljYXRpb25zIEluYy4KICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7IHlvdSBtYXkgbm90CiAqIHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4gWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mCiAqIHRoZSBMaWNlbnNlIGF0CiAqCiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsIFdJVEhPVVQKICogV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLiBTZWUgdGhlCiAqIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kIGxpbWl0YXRpb25zIHVuZGVyCiAqIHRoZSBMaWNlbnNlLgogKi8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIENvbnN0cnVjdG9yCiAgICAgKgogICAgICogQHBhcmFtIG1lc3NhZ2UgRXJyb3IgbWVzc2FnZSBvYnRhaW5lZCBlaXRoZXIgZnJvbSBhIGNvbnN0YW50IHN0cmluZyBvciB0aHJvdWdoIGUuZ2V0TWVzc2FnZSgpCiAgICAgKiBAcGFyYW0gY2F1c2UgdGhlIGNhdXNlICh3aGljaCBpcyBzYXZlZCBmb3IgbGF0ZXIgcmV0cmlldmFsIGJ5IHRoZSBUaHJvd2FibGUuZ2V0Q2F1c2UoKSBtZXRob2QpLiAoQSBudWxsIHZhbHVlIGlzCiAgICAgKiBwZXJtaXR0ZWQsIGFuZCBpbmRpY2F0ZXMgdGhhdCB0aGUgY2F1c2UgaXMgbm9uZXhpc3RlbnQgb3IgdW5rbm93bi4pCiAgICAgKi8KICAgIHB1YmxpYyBGaWxlRXhwaXJlZEV4Y2VwdGlvbihTdHJpbmcgbWVzc2FnZSwgVGhyb3dhYmxlIGNhdXNlKSB7CiAgICAgICAgc3VwZXIobWVzc2FnZSwgY2F1c2UpOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBza2lwcGVkIGNvcHkgb2Ygc2VuZGluZyBmaWxlCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmRlYnVnKCJjbG9zZSBjbSBjb25uZWN0aW9uIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNtQ29ubmVjdGlvbi5jbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>deInitService</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</text>
+        <text>HTTP_G</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</last-search>
+      <last-search>HTTP_G</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>HTTP_G</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -148,6 +180,7 @@
         <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxfaGlkbF9jYlw+</entry>
         <entry encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</entry>
+        <entry>HTTP_G</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -158,6 +191,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
@@ -182,6 +218,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
