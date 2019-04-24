@@ -19,8 +19,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromAcceptFileSharingSession.java" timestamp="1556032237201">
         <mark key="'" line="37" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1556096640118">
-        <mark key="'" line="2769" column="16" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1556099032113">
+        <mark key="'" line="2311" column="43" />
         <mark key="[" line="1727" column="0" />
         <mark key="]" line="1727" column="0" />
         <mark key="." line="1727" column="0" />
@@ -41,7 +41,7 @@
         <mark key="." line="59" column="40" />
         <mark key="^" line="59" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1556097955217">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1556098963011">
         <mark key="'" line="114" column="43" />
         <mark key="[" line="809" column="0" />
         <mark key="]" line="809" column="0" />
@@ -60,6 +60,13 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpSession.java" timestamp="1556079715119">
         <mark key="'" line="402" column="12" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1556099765520">
+        <mark key="'" line="678" column="57" />
+        <mark key="[" line="670" column="68" />
+        <mark key="]" line="670" column="84" />
+        <mark key="." line="670" column="84" />
+        <mark key="^" line="670" column="84" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1556015465115">
         <mark key="'" line="165" column="17" />
@@ -205,11 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
-      <jump line="134" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
-      <jump line="117" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
-      <jump line="68" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferDequeueTask.java" />
-      <jump line="546" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="198" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
       <jump line="43" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
       <jump line="59" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" />
@@ -305,62 +307,65 @@
       <jump line="563" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="1011" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="114" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="1968" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="2311" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="670" column="63" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="678" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="672" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldEdyb3VwQ2hhdChTdHJpbmcudmFsdWVPZihjaGF0SWQpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>GroupChatImpl groupChat =</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtR3JvdXBDaGF0Q2FjaGVcPg==</text>
+        <text encoding="base64">XDxmaWxlU2Vzc2lvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHcm91cENoYXRJbXBsIGdyb3VwQ2hhdCA9IG1Hcm91cENoYXRDYWNoZS5nZXQoTG9uZy52YWx1ZU9mKGNoYXRJZCkpOwogICAgICAgIGlmIChncm91cENoYXQgPT0gbnVsbCAmJiBtTWVzc2FnaW5nTG9nLmlzR3JvdXBDaGF0UGVyc2lzdGVkKGNoYXRJZCkpIHsKICAgICAgICAgICAgR3JvdXBDaGF0UGVyc2lzdGVkU3RvcmFnZUFjY2Vzc29yIHBlcnNpc3RlZFN0b3JhZ2UgPSBuZXcgR3JvdXBDaGF0UGVyc2lzdGVkU3RvcmFnZUFjY2Vzc29yKAogICAgICAgICAgICAgICAgICAgIGNoYXRJZCwgbU1lc3NhZ2luZ0xvZywgbVJjc1NldHRpbmdzKTsKICAgICAgICAgICAgU3RyaW5nIGNvbnZlcnNhdGlvbklkID0gcGVyc2lzdGVkU3RvcmFnZS5nZXRDb252ZXJzYXRpb25JZCgpOwogICAgICAgICAgICBncm91cENoYXQgPSBuZXcgR3JvdXBDaGF0SW1wbCh0aGlzLCBjaGF0SWQsIGNvbnZlcnNhdGlvbklkLCBwZXJzaXN0ZWRTdG9yYWdlKTsKICAgICAgICAgICAgZ3JvdXBDaGF0LnNldEdyb3VwQ2hhdFR5cGUocGVyc2lzdGVkU3RvcmFnZS5nZXRUeXBlKCkpOwogICAgICAgICAgICBtR3JvdXBDaGF0Q2FjaGUucHV0KExvbmcudmFsdWVPZihjaGF0SWQpLCBncm91cENoYXQpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZ3JvdXBDaGF0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmVycm9yKCJGYWlsZWQgdG8gZG93bmxvYWQgZmlsZSBpY29uISIpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldEdyb3VwQ2hhdChTdHJpbmcudmFsdWVPZihjaGF0SWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpY29uRG93bmxvYWRlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdyb3VwQ2hhdCA9PSBudWxsICYmIG1NZXNzYWdpbmdMb2cuaXNHcm91cENoYXRQZXJzaXN0ZWQoY2hhdElkKSkgewogICAgICAgICAgICAgICAgR3JvdXBDaGF0UGVyc2lzdGVkU3RvcmFnZUFjY2Vzc29yIHBlcnNpc3RlZFN0b3JhZ2UgPSBuZXcgR3JvdXBDaGF0UGVyc2lzdGVkU3RvcmFnZUFjY2Vzc29yKAogICAgICAgICAgICAgICAgICAgICAgICBjaGF0SWQsIG1NZXNzYWdpbmdMb2csIG1SY3NTZXR0aW5ncyk7CiAgICAgICAgICAgICAgICBTdHJpbmcgY29udmVyc2F0aW9uSWQgPSBwZXJzaXN0ZWRTdG9yYWdlLmdldENvbnZlcnNhdGlvbklkKCk7CiAgICAgICAgICAgICAgICBncm91cENoYXQgPSBuZXcgR3JvdXBDaGF0SW1wbCh0aGlzLCBjaGF0SWQsIGNvbnZlcnNhdGlvbklkLCBwZXJzaXN0ZWRTdG9yYWdlKTsKICAgICAgICAgICAgICAgIGdyb3VwQ2hhdC5zZXRHcm91cENoYXRUeXBlKHBlcnNpc3RlZFN0b3JhZ2UuZ2V0VHlwZSgpKTsKICAgICAgICAgICAgICAgIG1Hcm91cENoYXRDYWNoZS5wdXQoTG9uZy52YWx1ZU9mKGNoYXRJZCksIGdyb3VwQ2hhdCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGdyb3VwQ2hhdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpbGVUcmFuc2Zlckh0dHBUaHVtYm5haWwgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ2hhdFNlcnZpY2UuZ2V0T3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0R3JvdXBDaGF0KGNoYXRJZCwgdHJ1ZSkuaXNHcm91cENoYXRBYmFuZG9uZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpY29uRG93bmxvYWRlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgbU1lc3NhZ2luZ0xvZy5kZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldEdyb3VwQ2hhdChTdHJpbmcudmFsdWVPZihjaGF0SWQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyQ2hhdElkID0gU3RyaW5nLnZhbHVlT2YoY2hhdElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdyb3VwQ2hhdCA9PSBudWxsICYmIG1NZXNzYWdpbmdMb2cuaXNHcm91cENoYXRQZXJzaXN0ZWQoY2hhdElkKSkgewogICAgICAgICAgICAgICAgR3JvdXBDaGF0UGVyc2lzdGVkU3RvcmFnZUFjY2Vzc29yIHBlcnNpc3RlZFN0b3JhZ2UgPSBuZXcgR3JvdXBDaGF0UGVyc2lzdGVkU3RvcmFnZUFjY2Vzc29yKAogICAgICAgICAgICAgICAgICAgICAgICBjaGF0SWQsIG1NZXNzYWdpbmdMb2csIG1SY3NTZXR0aW5ncyk7CiAgICAgICAgICAgICAgICBTdHJpbmcgY29udmVyc2F0aW9uSWQgPSBwZXJzaXN0ZWRTdG9yYWdlLmdldENvbnZlcnNhdGlvbklkKCk7CiAgICAgICAgICAgICAgICBncm91cENoYXQgPSBuZXcgR3JvdXBDaGF0SW1wbCh0aGlzLCBjaGF0SWQsIGNvbnZlcnNhdGlvbklkLCBwZXJzaXN0ZWRTdG9yYWdlKTsKICAgICAgICAgICAgICAgIGdyb3VwQ2hhdC5zZXRHcm91cENoYXRUeXBlKHBlcnNpc3RlZFN0b3JhZ2UuZ2V0VHlwZSgpKTsKICAgICAgICAgICAgICAgIG1Hcm91cENoYXRDYWNoZS5wdXQoTG9uZy52YWx1ZU9mKGNoYXRJZCksIGdyb3VwQ2hhdCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGdyb3VwQ2hhdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udmVyc2F0aW9uSWQgPSBDaGF0VXRpbHMuZ2V0Q29udmVyc2F0aW9uSWQobU1lc3NhZ2luZ0xvZywgc3RyQ2hhdElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ2hhdFNlcnZpY2UuZ2V0T3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHR5cGUgPT0gR3JvdXBDaGF0VHlwZS5PUEVORUQpIHsKICAgICAgICAgICAgICAgIC8vIGNhbiBub3QgY3JlYXRlIE9HQyB3aXRoIGV4aXN0aW5nIGNoYXRJZCwgZmFsbGJhY2sgdG8gY2xvc2VkIGdyb3VwCiAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCJvcGVuIGdyb3VwIGNoYXQgZmFsbGJhY2sgdG8gY2xvc2VkIGdyb3VwIGNoYXQgZm9yIGV4aXN0aW5nIGNoYXRJZCAiICsgY2hhdElkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHR5cGUgPSBHcm91cENoYXRUeXBlLkNMT1NFRDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0R3JvdXBDaGF0KGNoYXRJZCwgdHJ1ZSkuaXNHcm91cENoYXRBYmFuZG9uZWQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgbU1lc3NhZ2luZ0xvZy5kZWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtR3JvdXBDaGF0Q2FjaGVcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlU2Vzc2lvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtR3JvdXBDaGF0Q2FjaGVcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxmaWxlU2Vzc2lvblw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sendFile</entry>
-        <entry encoding="base64">XDxnZXRGaWxlVHJhbnNmZXJQcm90b2NvbEZvckdyb3VwQ2hhdFw+</entry>
         <entry>mType</entry>
         <entry encoding="base64">XDxtVHlwZVw+</entry>
         <entry encoding="base64">XDxhZGRPdXRnb2luZ0dyb3VwRmlsZVRyYW5zZmVyXD4=</entry>
@@ -379,6 +384,8 @@
         <entry encoding="base64">XDxzdGFydEdyb3VwQ2hhdEZpbGVCeUZpbGVUcmFuc2Zlclw+</entry>
         <entry encoding="base64">XDxkZXF1ZXVlR3JvdXBGaWxlVHJhbnNmZXJcPg==</entry>
         <entry encoding="base64">XDxtR3JvdXBDaGF0Q2FjaGVcPg==</entry>
+        <entry encoding="base64">XDxkb3dubG9hZEZpbGVJY29uXD4=</entry>
+        <entry encoding="base64">XDxmaWxlU2Vzc2lvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
