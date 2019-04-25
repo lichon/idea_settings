@@ -292,10 +292,11 @@
       <file name="/fragment.java" timestamp="1556012853285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1556169586179">
-        <mark key="'" line="1530" column="12" />
-        <mark key="[" line="1466" column="0" />
-        <mark key="]" line="1466" column="83" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1556172187987">
+        <mark key="'" line="1526" column="12" />
+        <mark key="[" line="1441" column="46" />
+        <mark key="]" line="1441" column="46" />
+        <mark key="." line="1441" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -401,11 +402,11 @@
       <jump line="1530" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwQ2hhdFNlc3Npb24gc2Vzc2lvbiA9IG1JbVNlcnZpY2UuZ2V0R3JvdXBDaGF0U2Vzc2lvbihtQ2hhdElkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>IgnoreCase</text>
       </register>
       <register name="-" type="4">
-        <text>boolean needActive = false;</text>
+        <text>IgnoreCase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN0YXJ0R3JvdXBDaGF0XD4=</text>
@@ -414,31 +415,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwQ2hhdFNlc3Npb24gc2Vzc2lvbiA9IG1JbVNlcnZpY2UuZ2V0R3JvdXBDaGF0U2Vzc2lvbihtQ2hhdElkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDaGF0TWVzc2FnZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoUmNzU2V0dGluZ3MuaXNRY0NsZWFudXBFbmFibGVkKCkpIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChSY3NTZXR0aW5ncy5pc1FjQ2xlYW51cEVuYWJsZWQoKSkgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGJvb2xlYW4gaXNRY0NsZWFudXBFbmFibGVkKCkgewogICAgICAgIFN0cmluZyBzdXBwb3J0ZWQgPSBTeXN0ZW1Qcm9wZXJ0aWVzLmdldChQRVJTSVNUX1JDU19RQ19DTEVBTlVQLCAiMCIpOwogICAgICAgIHJldHVybiAiMSIuZXF1YWxzKHN1cHBvcnRlZCk7CiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKG5lZWRBY3RpdmUpIHsKICAgICAgICAgICAgcmVhY3RpdmVHcm91cENoYXQoY2hhdE1lc3NhZ2UpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBDaGF0TWVzc2FnZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoUmNzU2V0dGluZ3MuaXNRY0NsZWFudXBFbmFibGVkKCkpIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChSY3NTZXR0aW5ncy5pc1FjQ2xlYW51cEVuYWJsZWQoKSkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQRVJTSVNUX1JDU19RQ19DTEVBTlVQID0gInBlcnNpc3QucmNzLnFjX2NsZWFudXAiOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGJvb2xlYW4gaXNRY0NsZWFudXBFbmFibGVkKCkgewogICAgICAgIFN0cmluZyBzdXBwb3J0ZWQgPSBTeXN0ZW1Qcm9wZXJ0aWVzLmdldChQRVJTSVNUX1JDU19RQ19DTEVBTlVQLCAiMCIpOwogICAgICAgIHJldHVybiAiMSIuZXF1YWxzKHN1cHBvcnRlZCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
