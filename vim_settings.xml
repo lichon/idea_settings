@@ -292,15 +292,14 @@
       <file name="/fragment.java" timestamp="1556012853285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1556172187987">
-        <mark key="'" line="1526" column="12" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1556175213910">
+        <mark key="'" line="1281" column="24" />
         <mark key="[" line="1441" column="46" />
         <mark key="]" line="1441" column="46" />
         <mark key="." line="1441" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMConnection.java" />
       <jump line="66" column="72" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMConnection.java" />
       <jump line="187" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMConnection.java" />
       <jump line="37" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMConnection.java" />
@@ -400,6 +399,7 @@
       <jump line="740" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
       <jump line="1594" column="9" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="1530" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
+      <jump line="1281" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -409,7 +409,7 @@
         <text>IgnoreCase</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN0YXJ0R3JvdXBDaGF0XD4=</text>
+        <text encoding="base64">XDxzZW5kTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEdyb3VwQ2hhdFNlc3Npb24gc2Vzc2lvbiA9IG1JbVNlcnZpY2UuZ2V0R3JvdXBDaGF0U2Vzc2lvbihtQ2hhdElkKTsK</text>
@@ -446,15 +446,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN0YXJ0R3JvdXBDaGF0XD4=</last-search>
+      <last-search encoding="base64">XDxzZW5kTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN0YXJ0R3JvdXBDaGF0XD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzZW5kTWVzc2FnZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQRVJTSVNUX1JDU19RQ19DTEVBTlVQXD4=</entry>
         <entry encoding="base64">XDxtQ3BtR3JvdXBDaGF0TWFuYWdlckNvbnRyb2xcPg==</entry>
         <entry encoding="base64">XDxhZGRHcm91cENoYXRNYW5hZ2VyQ29udHJvbFw+</entry>
         <entry encoding="base64">XDxpc0dyb3VwQ2hhdEhhc1Jlam9pbklkXD4=</entry>
@@ -474,6 +473,7 @@
         <entry encoding="base64">XDxzZXRJY29uXD4=</entry>
         <entry encoding="base64">XDxhZGRHcm91cENoYXRcPg==</entry>
         <entry encoding="base64">XDxyZXN0YXJ0R3JvdXBDaGF0XD4=</entry>
+        <entry encoding="base64">XDxzZW5kTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
