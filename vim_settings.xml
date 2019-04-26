@@ -149,8 +149,8 @@
         <mark key="." line="180" column="0" />
         <mark key="^" line="212" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1556213973608">
-        <mark key="'" line="432" column="12" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1556264562401">
+        <mark key="'" line="443" column="78" />
         <mark key="[" line="432" column="50" />
         <mark key="]" line="432" column="50" />
         <mark key="." line="432" column="50" />
@@ -351,11 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferDeleteByChatIdTask.java" />
-      <jump line="107" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferDeleteByChatIdTask.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferDeleteByChatIdTask.java" />
-      <jump line="50" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupChatDeleteTask.java" />
-      <jump line="73" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupChatDeleteTask.java" />
       <jump line="298" column="82" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/DeleteTask.java" />
       <jump line="297" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/DeleteTask.java" />
       <jump line="63" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/DeleteTask.java" />
@@ -451,6 +446,11 @@
       <jump line="338" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingAdhocGroupChatSession.java" />
       <jump line="60" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingOneToOneChatSession.java" />
       <jump line="314" column="66" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingOneToOneChatSession.java" />
+      <jump line="87" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
+      <jump line="147" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
+      <jump line="146" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
+      <jump line="38" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
+      <jump line="443" column="78" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -460,7 +460,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVQUNfUk9MRVw+</text>
+        <text encoding="base64">XDxBVVRPX0NPTkZJR19VU0VSREFUQVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByb2xsYmFjayBmb3IgSU9UIHRlc3QK</text>
@@ -497,16 +497,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVQUNfUk9MRVw+</last-search>
+      <last-search encoding="base64">XDxBVVRPX0NPTkZJR19VU0VSREFUQVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVQUNfUk9MRVw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxBVVRPX0NPTkZJR19VU0VSREFUQVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTaXBFcnJvckFjdGlvblw+</entry>
-        <entry>404</entry>
         <entry>NOTF</entry>
         <entry>NOT_</entry>
         <entry encoding="base64">XDx7XD4=</entry>
@@ -525,6 +523,8 @@
         <entry>ref</entry>
         <entry encoding="base64">XDxjcmVhdGVSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxVQUNfUk9MRVw+</entry>
+        <entry>autoConfig =</entry>
+        <entry encoding="base64">XDxBVVRPX0NPTkZJR19VU0VSREFUQVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
