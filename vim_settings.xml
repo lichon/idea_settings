@@ -304,7 +304,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/7653a40bae9bb03bdc0692525c126f4822473c05/android-jain-sip-ri-1.3.0-32.jar!/android/gov/nist/javax/sip/message/MessageFactoryImpl.class" timestamp="1556084246468">
         <mark key="'" line="202" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" timestamp="1556269579881">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" timestamp="1556271266003">
+        <mark key="'" line="304" column="17" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
         <mark key="^" line="139" column="16" />
@@ -339,9 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2799" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
-      <jump line="178" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="68" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpUploadManager.java" />
       <jump line="40" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
       <jump line="162" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
       <jump line="76" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMConnection.java" />
@@ -439,6 +437,9 @@
       <jump line="249" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
       <jump line="216" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
       <jump line="222" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OneToOneChatSession.java" />
+      <jump line="138" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
+      <jump line="331" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
+      <jump line="304" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -448,7 +449,7 @@
         <text>PERSIST_CARRIER_CONFIG_WRITE_SDCARD</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kTXNycE1lc3NhZ2VEZWxpdmVyeVN0YXR1c1w+</text>
+        <text encoding="base64">XDxsb2FkTG9jYWxDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghbUNvbmZpZ0xvYWRlZCkgewogICAgICAgICAgICAgICAgICAgIG1DTUludGVyZmFjZS5yZXF1ZXN0QXV0b0NvbmZpZygpOwogICAgICAgICAgICAgICAgfQo=</text>
@@ -485,15 +486,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kTXNycE1lc3NhZ2VEZWxpdmVyeVN0YXR1c1w+</last-search>
+      <last-search encoding="base64">XDxsb2FkTG9jYWxDb25maWdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kTXNycE1lc3NhZ2VEZWxpdmVyeVN0YXR1c1w+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxsb2FkTG9jYWxDb25maWdcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>retry</entry>
         <entry encoding="base64">XDxSRVRSWV9NQVhcPg==</entry>
         <entry encoding="base64">XDxtQ29uZmlnTG9hZGVkXD4=</entry>
         <entry>uac</entry>
@@ -513,6 +513,7 @@
         <entry>Display</entry>
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxzZW5kTXNycE1lc3NhZ2VEZWxpdmVyeVN0YXR1c1w+</entry>
+        <entry encoding="base64">XDxsb2FkTG9jYWxDb25maWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
