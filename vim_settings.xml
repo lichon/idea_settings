@@ -203,8 +203,8 @@
         <mark key="^" line="213" column="21" />
         <mark key="." line="213" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1556255028465">
-        <mark key="'" line="230" column="34" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" timestamp="1556511006211">
+        <mark key="'" line="109" column="17" />
         <mark key="[" line="180" column="0" />
         <mark key="]" line="180" column="0" />
         <mark key="." line="180" column="0" />
@@ -456,7 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="809" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
       <jump line="197" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/imdn/ImdnManager.java" />
       <jump line="204" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/imdn/ImdnManager.java" />
       <jump line="223" column="45" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/imdn/ImdnManager.java" />
@@ -556,6 +555,7 @@
       <jump line="538" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="532" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="206" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
+      <jump line="109" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -565,7 +565,7 @@
         <text>.getPart()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZURhdGFBbmROb3RpZnlMaXN0ZW5lcnNcPg==</text>
+        <text encoding="base64">XDxyZXN1bWVPclRocm93XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEdldCBwYXJ0IGZyb20gaXRzIE1JTUUtdHlwZQogICAgICoKICAgICAqIEBwYXJhbSB0eXBlIE1JTUUtdHlwZQogICAgICogQHJldHVybiBQYXJ0IGFzIHN0cmluZwogICAgICovCiAgICBwdWJsaWMgU3RyaW5nIGdldFBhcnQoU3RyaW5nIHR5cGUpIHsKICAgICAgICByZXR1cm4gcGFydHMuZ2V0KHR5cGUudG9Mb3dlckNhc2UoKSk7CiAgICB9Cg==</text>
@@ -602,15 +602,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZURhdGFBbmROb3RpZnlMaXN0ZW5lcnNcPg==</last-search>
+      <last-search encoding="base64">XDxyZXN1bWVPclRocm93XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZURhdGFBbmROb3RpZnlMaXN0ZW5lcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN1bWVPclRocm93XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb252ZXJzYXRpb25JZFw+</entry>
         <entry encoding="base64">XDxnZXRPckNyZWF0ZUdyb3VwQ2hhdFw+</entry>
         <entry>isNo</entry>
         <entry encoding="base64">XDxvblN0YXJ0Q29tbWFuZFw+</entry>
@@ -630,6 +629,7 @@
         <entry encoding="base64">XDxnZXRQYXJ0XD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDx3cml0ZURhdGFBbmROb3RpZnlMaXN0ZW5lcnNcPg==</entry>
+        <entry encoding="base64">XDxyZXN1bWVPclRocm93XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
