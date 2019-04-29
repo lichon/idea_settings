@@ -16,11 +16,12 @@
         <mark key="." line="855" column="64" />
         <mark key="^" line="848" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" timestamp="1556273030433">
-        <mark key="'" line="681" column="21" />
-        <mark key="[" line="387" column="0" />
-        <mark key="]" line="387" column="0" />
-        <mark key="." line="387" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" timestamp="1556529116374">
+        <mark key="'" line="66" column="49" />
+        <mark key="[" line="65" column="20" />
+        <mark key="]" line="65" column="20" />
+        <mark key="." line="65" column="20" />
+        <mark key="^" line="65" column="20" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipMessage.java" timestamp="1556509644569">
         <mark key="[" line="343" column="0" />
@@ -212,6 +213,9 @@
         <mark key="]" line="180" column="0" />
         <mark key="." line="180" column="0" />
         <mark key="^" line="212" column="33" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1556528368014">
+        <mark key="'" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpEventListener.java" timestamp="1556116824897">
         <mark key="'" line="73" column="9" />
@@ -421,12 +425,11 @@
         <mark key="." line="161" column="69" />
         <mark key="^" line="161" column="69" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" timestamp="1556519266716">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" timestamp="1556528975482">
         <mark key="'" line="44" column="13" />
-        <mark key="[" line="479" column="0" />
-        <mark key="]" line="479" column="38" />
-        <mark key="." line="479" column="0" />
-        <mark key="^" line="442" column="56" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainActivity.java" timestamp="1556517589896">
         <mark key="[" line="36" column="8" />
@@ -434,8 +437,8 @@
         <mark key="." line="36" column="8" />
         <mark key="^" line="34" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" timestamp="1556509070054">
-        <mark key="'" line="91" column="13" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" timestamp="1556529062466">
+        <mark key="'" line="311" column="55" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" timestamp="1556249631672">
         <mark key="'" line="2085" column="60" />
@@ -446,23 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/ContentManager.java" />
-      <jump line="305" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/ContentManager.java" />
-      <jump line="307" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/ContentManager.java" />
-      <jump line="313" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/ContentManager.java" />
-      <jump line="311" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/ContentManager.java" />
-      <jump line="312" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/ContentManager.java" />
-      <jump line="91" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
-      <jump line="37" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMSipInterface.java" />
-      <jump line="149" column="23" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/CMSipInterface.java" />
-      <jump line="493" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
-      <jump line="204" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
-      <jump line="538" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
-      <jump line="206" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
-      <jump line="109" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpDownloadManager.java" />
-      <jump line="66" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
-      <jump line="186" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimMessage.java" />
-      <jump line="124" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="249" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/sip/Multipart.java" />
       <jump line="198" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
       <jump line="80" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/FileSharingSession.java" />
@@ -546,64 +532,77 @@
       <jump line="534" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
       <jump line="535" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
       <jump line="204" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
+      <jump line="700" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
+      <jump line="334" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
+      <jump line="450" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
+      <jump line="311" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" />
+      <jump line="33" column="6" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="512" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="513" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="520" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="521" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="532" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="533" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="540" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="541" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="548" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="225" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
+      <jump line="66" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/CMInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10006</text>
+        <text>volatile</text>
       </register>
       <register name="-" type="4">
         <text>10006</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kT25lMk9uZURpc3BsYXllZERlbGl2ZXJ5UmVwb3J0XD4=</text>
+        <text encoding="base64">XDxtVXNlckNvbmZpZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQ2FycmllciBjb25maWcgZ2V0IGZhaWxlZC4iKTsK</text>
+      <register name="0" type="4">
+        <text>volatile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBjYXJyaWVyIGNvbmZpZyBleGNlcHRpb24gIiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBjYXJyaWVyIGNvbmZpZyBleGNlcHRpb24gIiwgZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBjYXJyaWVyIGNvbmZpZyBleGNlcHRpb24gIiwgZSk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoIkNhcnJpZXIgY29uZmlnIGdldCBmYWlsZWQuIik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBjYXJyaWVyIGNvbmZpZyBleGNlcHRpb24gIiwgZSk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoInJlc3BvbnNlcyBpcyBudWxsLCBjYXJyaWVyIGNvbmZpZyBnZXQgZmFpbGVkLiIpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoIkNhcnJpZXIgY29uZmlnIGdldCBmYWlsZWQuIik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoInJlc3BvbnNlcyBpcyBudWxsLCBjYXJyaWVyIGNvbmZpZyBnZXQgZmFpbGVkLiIpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZmFpbGVkIHRvIGdldCBzZXMgcmVzcG9uc2UiKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZmFpbGVkIHRvIGdldCBzZXMgcmVzcG9uc2UiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kT25lMk9uZURpc3BsYXllZERlbGl2ZXJ5UmVwb3J0XD4=</last-search>
+      <last-search encoding="base64">XDxtVXNlckNvbmZpZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kT25lMk9uZURpc3BsYXllZERlbGl2ZXJ5UmVwb3J0XD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxtVXNlckNvbmZpZ1w+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzTXVsdGlwYXJ0XD4=</entry>
-        <entry encoding="base64">XDxub3RpZmllZFw+</entry>
-        <entry encoding="base64">XDxCT1VOREFSWV9ERUxJTUlURVJcPg==</entry>
-        <entry encoding="base64">XDxCT1VOREFSWVw+</entry>
         <entry encoding="base64">XDxtQWNjZXB0VHlwZXNcPg==</entry>
         <entry encoding="base64">XDxtQWNjZXB0V3JhcHBlZFR5cGVzXD4=</entry>
         <entry encoding="base64">XDxnZXRXcmFwcGVkVHlwZXNcPg==</entry>
@@ -620,6 +619,10 @@
         <entry encoding="base64">XDxzZW5kRGlzcGxheWVkRGVsaXZlcnlSZXBvcnRcPg==</entry>
         <entry encoding="base64">XDxzZW5kTXNycE1lc3NhZ2VEZWxpdmVyeVN0YXR1c1w+</entry>
         <entry encoding="base64">XDxzZW5kT25lMk9uZURpc3BsYXllZERlbGl2ZXJ5UmVwb3J0XD4=</entry>
+        <entry>user con</entry>
+        <entry>createV</entry>
+        <entry>getLoca</entry>
+        <entry encoding="base64">XDxtVXNlckNvbmZpZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
