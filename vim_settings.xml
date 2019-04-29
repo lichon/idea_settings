@@ -431,8 +431,8 @@
         <mark key="." line="161" column="69" />
         <mark key="^" line="161" column="69" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" timestamp="1556122828802">
-        <mark key="'" line="393" column="25" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" timestamp="1556519266716">
+        <mark key="'" line="44" column="13" />
         <mark key="[" line="479" column="0" />
         <mark key="]" line="479" column="38" />
         <mark key="." line="479" column="0" />
@@ -462,7 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="113" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="114" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="115" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
@@ -562,6 +561,7 @@
       <jump line="251" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="252" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="241" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
+      <jump line="44" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -571,7 +571,7 @@
         <text>FIXME support multi files for each session</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRXcmFwcGVkVHlwZXNcPg==</text>
+        <text>unre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBGSVhNRSBzdXBwb3J0IG11bHRpIGZpbGVzIGZvciBlYWNoIHNlc3Npb24K</text>
@@ -608,16 +608,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRXcmFwcGVkVHlwZXNcPg==</last-search>
+      <last-search>unre</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRXcmFwcGVkVHlwZXNcPg==</last-pattern>
+      <last-pattern>unre</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN1bWVPclRocm93XD4=</entry>
-        <entry encoding="base64">XDxpc0Jhc2U2NFw+</entry>
         <entry>isT</entry>
         <entry encoding="base64">XDxtQ29udGVudFw+</entry>
         <entry encoding="base64">XDxvbkZpbGVUcmFuc2ZlcnJlZFw+</entry>
@@ -636,6 +634,8 @@
         <entry encoding="base64">XDxtQWNjZXB0VHlwZXNcPg==</entry>
         <entry encoding="base64">XDxtQWNjZXB0V3JhcHBlZFR5cGVzXD4=</entry>
         <entry encoding="base64">XDxnZXRXcmFwcGVkVHlwZXNcPg==</entry>
+        <entry>unRe</entry>
+        <entry>unre</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
