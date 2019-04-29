@@ -213,12 +213,12 @@
         <mark key="." line="180" column="0" />
         <mark key="^" line="212" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1556522326299">
-        <mark key="'" line="220" column="73" />
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="35" column="54" />
-        <mark key="." line="35" column="54" />
-        <mark key="^" line="434" column="72" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" timestamp="1556524584992">
+        <mark key="'" line="256" column="0" />
+        <mark key="[" line="35" column="52" />
+        <mark key="]" line="35" column="53" />
+        <mark key="." line="35" column="53" />
+        <mark key="^" line="36" column="55" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpEventListener.java" timestamp="1556116824897">
         <mark key="'" line="73" column="9" />
@@ -376,12 +376,12 @@
         <mark key="^" line="114" column="41" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1556458195149">
-        <mark key="'" line="160" column="15" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="163" column="76" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1556524281248">
+        <mark key="'" line="313" column="20" />
+        <mark key="[" line="495" column="21" />
+        <mark key="]" line="495" column="22" />
+        <mark key="." line="495" column="22" />
+        <mark key="^" line="495" column="22" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" timestamp="1556101922592">
         <mark key="'" line="204" column="16" />
@@ -453,10 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1097" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
-      <jump line="1131" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
-      <jump line="1146" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
-      <jump line="1161" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="1176" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="1181" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="73" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
@@ -553,61 +549,64 @@
       <jump line="561" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="70" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingGCLargeMsgMsrpSession.java" />
       <jump line="68" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/OriginatingGCLargeMsgMsrpSession.java" />
+      <jump line="474" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="249" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="313" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="256" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCMService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text>10006</text>
       </register>
       <register name="-" type="4">
-        <text>BOUNDARY</text>
+        <text>10006</text>
       </register>
       <register name="/" type="4">
-        <text>BOUN</text>
+        <text encoding="base64">XDxlcnJvclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>BOUNDARY_TAG</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiQ2FycmllciBjb25maWcgZ2V0IGZhaWxlZC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZUlucHV0U3RyZWFtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBjYXJyaWVyIGNvbmZpZyBleGNlcHRpb24gIiwgZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBhbmRyb2lkLmdvdi5uaXN0LmphdmF4LnNpcC5tZXNzYWdlLk11bHRpcGFydE1pbWVDb250ZW50SW1wbC5CT1VOREFSWTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoImdldCBjYXJyaWVyIGNvbmZpZyBleGNlcHRpb24gIiwgZSk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoIkNhcnJpZXIgY29uZmlnIGdldCBmYWlsZWQuIik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCBzdGF0aWMgU3RyaW5nIEJPVU5EQVJZID0gImJvdW5kYXJ5MSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNMb2dnZXIuZXJyb3IoInJlc3BvbnNlcyBpcyBudWxsLCBjYXJyaWVyIGNvbmZpZyBnZXQgZmFpbGVkLiIpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuamF2YXguc2lwLmhlYWRlci5IZWFkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuamF2YXguc2lwLmhlYWRlci5Db250ZW50VHlwZUhlYWRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5lcnJvcigiZmFpbGVkIHRvIGdldCBzZXMgcmVzcG9uc2UiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYmFzZTY0Q29udGVudCA9IG11bHRpcGFydC5nZXRQYXJ0KG1pbWUpOwogICAgICAgICAgICAgICAgICAgIGJ5dGVbXSBmaWxlQ29udGVudCA9IEJhc2U2NC5nZXREZWNvZGVyKCkuZGVjb2RlKGJhc2U2NENvbnRlbnQuZ2V0Qnl0ZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BOUN</last-search>
+      <last-search encoding="base64">XDxlcnJvclw+</last-search>
       <last-offset />
-      <last-pattern>BOUN</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50VHlwZVw+</entry>
         <entry encoding="base64">XDxub3RpZnlBdXRvQWNjZXB0RnRcPg==</entry>
         <entry encoding="base64">XDx3cml0ZURhdGFBbmROb3RpZnlMaXN0ZW5lcnNcPg==</entry>
         <entry encoding="base64">XDxtc2dJZFw+</entry>
@@ -627,6 +626,7 @@
         <entry encoding="base64">XDxjbG9zZVRyYW5zYWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxDUkVBVEVfU1JWX1VTRVJEQVRBXD4=</entry>
         <entry>BOUN</entry>
+        <entry encoding="base64">XDxlcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
