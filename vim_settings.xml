@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesRequestProcessor.java" timestamp="1556254141878">
         <mark key="'" line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionActivityManager.java" timestamp="1556520352889">
+        <mark key="'" line="103" column="16" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatUtils.java" timestamp="1556355550010">
         <mark key="'" line="910" column="80" />
         <mark key="[" line="855" column="64" />
@@ -462,8 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
-      <jump line="114" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="115" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="157" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
       <jump line="207" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/RcsCoreService.java" />
@@ -562,6 +563,8 @@
       <jump line="252" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="241" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="44" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="73" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionActivityManager.java" />
+      <jump line="103" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionActivityManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -571,7 +574,7 @@
         <text>FIXME support multi files for each session</text>
       </register>
       <register name="/" type="4">
-        <text>unre</text>
+        <text encoding="base64">XDxwZXJpb2RpY1Byb2Nlc3NpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBGSVhNRSBzdXBwb3J0IG11bHRpIGZpbGVzIGZvciBlYWNoIHNlc3Npb24K</text>
@@ -608,16 +611,14 @@
       </register>
     </registers>
     <search>
-      <last-search>unre</last-search>
+      <last-search encoding="base64">XDxwZXJpb2RpY1Byb2Nlc3NpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern>unre</last-pattern>
+      <last-pattern encoding="base64">XDxwZXJpb2RpY1Byb2Nlc3NpbmdcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isT</entry>
-        <entry encoding="base64">XDxtQ29udGVudFw+</entry>
         <entry encoding="base64">XDxvbkZpbGVUcmFuc2ZlcnJlZFw+</entry>
         <entry encoding="base64">XDxkaXNwb3N0aW9uTm90aWZ5XD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0RGlzcGxheVJlcG9ydFw+</entry>
@@ -636,6 +637,8 @@
         <entry encoding="base64">XDxnZXRXcmFwcGVkVHlwZXNcPg==</entry>
         <entry>unRe</entry>
         <entry>unre</entry>
+        <entry encoding="base64">XDxzdGFydFw+</entry>
+        <entry encoding="base64">XDxwZXJpb2RpY1Byb2Nlc3NpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
