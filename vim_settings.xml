@@ -288,12 +288,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" timestamp="1556033014855">
         <mark key="'" line="142" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" timestamp="1556515314320">
-        <mark key="'" line="515" column="43" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="1135" column="3" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" timestamp="1557050273473">
+        <mark key="'" line="1092" column="49" />
+        <mark key="[" line="842" column="0" />
+        <mark key="]" line="842" column="0" />
+        <mark key="^" line="1134" column="3" />
+        <mark key="." line="842" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1556540526545">
         <mark key="'" line="332" column="17" />
@@ -430,14 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="238" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="92" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="94" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="214" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="77" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="100" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="110" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
@@ -530,55 +522,63 @@
       <jump line="94" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
       <jump line="53" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
       <jump line="112" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="44" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="1088" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="1096" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="1099" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="838" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="1085" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="842" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="1093" column="49" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGZyb21TeXN0ZW0gPSByZWFzb25Db2RlID09IFJlYXNvbkNvZGUuUkVKRUNURURfQllfU1lTVEVNOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>90000</text>
+        <text encoding="base64">XDxSRUpFQ1RFRF9CWV9TWVNURU1cPg==</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
-      <register name="1" type="4">
-        <text>90000);/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGZyb21TeXN0ZW0gPSByZWFzb25Db2RlID09IFJlYXNvbkNvZGUuUkVKRUNURURfQllfU1lTVEVNOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>90000);/</text>
+        <text>fromSystem ? State.FAILED :</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ID0gbmV3IFNlc3Npb25UaW1lck1hbmFnZXIodGhpcyk7</text>
+        <text>90000);/</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IFNlc3Npb25UaW1lck1hbmFnZXI=</text>
+        <text>90000);/</text>
       </register>
       <register name="5" type="4">
-        <text>private</text>
+        <text encoding="base64">ID0gbmV3IFNlc3Npb25UaW1lck1hbmFnZXIodGhpcyk7</text>
       </register>
       <register name="6" type="4">
-        <text>ContactId</text>
+        <text encoding="base64">IFNlc3Npb25UaW1lck1hbmFnZXI=</text>
       </register>
       <register name="7" type="4">
-        <text>contactId</text>
+        <text>private</text>
       </register>
       <register name="8" type="4">
-        <text>.getCore().getRcsSettings();</text>
+        <text>ContactId</text>
       </register>
       <register name="9" type="4">
-        <text>Last session refresh time</text>
+        <text>contactId</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>90000</last-search>
+      <last-search encoding="base64">XDxSRUpFQ1RFRF9CWV9TWVNURU1cPg==</last-search>
       <last-offset />
-      <last-pattern>90000</last-pattern>
+      <last-pattern encoding="base64">XDxSRUpFQ1RFRF9CWV9TWVNURU1cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -622,6 +622,10 @@
         <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
         <entry encoding="base64">XDxtSW1zTW9kdWxlXD4=</entry>
         <entry>90000</entry>
+        <entry>Session rej</entry>
+        <entry encoding="base64">XDxoYW5kbGVTZXNzaW9uUmVqZWN0ZWRcPg==</entry>
+        <entry encoding="base64">XDxvblNlc3Npb25SZWplY3RlZFw+</entry>
+        <entry encoding="base64">XDxSRUpFQ1RFRF9CWV9TWVNURU1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
