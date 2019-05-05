@@ -123,8 +123,8 @@
         <mark key="^" line="309" column="44" />
         <mark key="." line="309" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1556537964227">
-        <mark key="'" line="569" column="8" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1557044293684">
+        <mark key="'" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferDequeueByChatIdTask.java" timestamp="1556442176926">
         <mark key="'" line="110" column="49" />
@@ -175,8 +175,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" timestamp="1556079025238">
         <mark key="'" line="72" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingAdhocGroupChatSession.java" timestamp="1556263055825">
-        <mark key="'" line="338" column="69" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingAdhocGroupChatSession.java" timestamp="1557044200403">
+        <mark key="'" line="338" column="43" />
         <mark key="[" line="337" column="0" />
         <mark key="]" line="337" column="44" />
         <mark key="." line="337" column="27" />
@@ -190,6 +190,9 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" timestamp="1556032538732">
         <mark key="'" line="178" column="60" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" timestamp="1557043718072">
+        <mark key="'" line="126" column="8" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1556343026611">
         <mark key="'" line="148" column="5" />
@@ -246,6 +249,13 @@
         <mark key="]" line="108" column="7" />
         <mark key="^" line="108" column="7" />
         <mark key="." line="108" column="7" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" timestamp="1557044635893">
+        <mark key="'" line="120" column="29" />
+        <mark key="[" line="124" column="30" />
+        <mark key="]" line="124" column="52" />
+        <mark key="^" line="124" column="52" />
+        <mark key="." line="124" column="52" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/FileExpiredException.java" timestamp="1556012920913">
         <mark key="'" line="0" column="1" />
@@ -423,24 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1065" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
-      <jump line="363" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
-      <jump line="1013" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1682" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1684" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1737" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1729" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1725" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1712" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="397" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
-      <jump line="754" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
-      <jump line="639" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="580" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="894" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="114" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="199" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="497" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="537" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="569" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="656" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
       <jump line="658" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
@@ -523,57 +515,79 @@
       <jump line="285" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="67" column="50" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
       <jump line="1413" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="174" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="292" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="168" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="126" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" />
+      <jump line="64" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingAdhocGroupChatSession.java" />
+      <jump line="117" column="66" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingAdhocGroupChatSession.java" />
+      <jump line="330" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingAdhocGroupChatSession.java" />
+      <jump line="338" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/TerminatingAdhocGroupChatSession.java" />
+      <jump line="101" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="152" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="149" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="78" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="69" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="89" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="135" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="134" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="123" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="120" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>&quot;Start session timer for session &quot;
+                        + mSession.getId() + &quot; (role=&quot; + refresher
+                        + &quot;, expire=&quot; + expirePeriod + &quot;ms)&quot;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>openMe</text>
+        <text encoding="base64">XDxyZWZyZXNoZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUlNfNDE0ODgsIGRlbGF5IHNlbmQgQllFCg==</text>
+      <register name="1" type="4">
+        <text>&quot;Start session timer for session &quot;
+                        + mSession.getId() + &quot; (role=&quot; + refresher
+                        + &quot;, expire=&quot; + expirePeriod + &quot;ms)&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtTXNycE1nci5vcGVuTXNycFNlc3Npb24oREVGQVVMVF9TT19USU1FT1VUKTsKICAgICAgICBzZW5kRW1wdHlEYXRhQ2h1bmsoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobVJjc1NldHRpbmdzLmdldE9wZXJhdG9yTW9kZSgpID09IE9wZXJhdG9yTW9kZS5UTU8gJiYgcmVmcmVzaGVyLmVxdWFsc0lnbm9yZUNhc2UoVUFTX1JPTEUpKSB7CiAgICAgICAgICAgIGlmIChtTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgICAgIG1Mb2dnZXIuZGVidWcoIlN0YXJ0IHNlc3Npb24gdGltZXIgZm9yIHNlc3Npb24gIgogICAgICAgICAgICAgICAgICAgICAgICArIG1TZXNzaW9uLmdldElkKCkgKyAiIChyb2xlPSIgKyByZWZyZXNoZXIKICAgICAgICAgICAgICAgICAgICAgICAgKyAiLCBleHBpcmU9IiArIGV4cGlyZVBlcmlvZCArICJtcykiKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoIm9wZW5NZWRpYVNlc3Npb24iKTsKICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ID0gbVNlc3Npb24uZ2V0SW1zU2VydmljZSgpLmdldEltc01vZHVsZSgpLmdldENvcmUoKS5nZXRSY3NTZXR0aW5ncygpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5jbS5DTVV0aWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtU2Vzc2lvbi5nZXRJbXNTZXJ2aWNlKCkuZ2V0SW1zTW9kdWxlKCkuZ2V0Q29yZSgpLmdldFJjc1NldHRpbmdzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdENvbmZpZyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBtU2Vzc2lvbi5nZXRSY3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvbGF0aWxlIGJvb2xlYW4gZmlyc3RDb25maWcgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUlNfNDE0ODgsIGRlbGF5IHNlbmQgQllFCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtTXNycE1nci5vcGVuTXNycFNlc3Npb24oREVGQVVMVF9TT19USU1FT1VUKTsKICAgICAgICBzZW5kRW1wdHlEYXRhQ2h1bmsoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGltc05ldHdvcmsgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIG1NYWluSGFuZGxlci5wb3N0KCgpIC0+IHsKICAgICAgICAgICAgICAgIGlmICghbUhhc0ltc05ldHdvcmspIHsKICAgICAgICAgICAgICAgICAgICByZXN0YXJ0UHJvdmlzaW9uaW5nKHRydWUpOwogICAgICAgICAgICAgICAgICAgIG1IYXNJbXNOZXR3b3JrID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoIm9wZW5NZWRpYVNlc3Npb24iKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>openMe</last-search>
+      <last-search encoding="base64">XDxyZWZyZXNoZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>openMe</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern encoding="base64">XDxyZWZyZXNoZXJcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -592,6 +606,13 @@
         <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxfaGlkbF9jYlw+</entry>
         <entry encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxzZXNzaW9uUmVmcmVzaEZvclVBU1w+</entry>
+        <entry encoding="base64">XDxwZXJpb2RpY1Byb2Nlc3NpbmdcPg==</entry>
+        <entry>start</entry>
+        <entry>mSe</entry>
+        <entry encoding="base64">XDxtUmNzU2V0dGluZ3NcPg==</entry>
+        <entry encoding="base64">XDxtU2Vzc2lvblw+</entry>
+        <entry encoding="base64">XDxyZWZyZXNoZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
