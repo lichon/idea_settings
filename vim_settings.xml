@@ -91,6 +91,9 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsNetworkInterface.java" timestamp="1557078651808">
+        <mark key="'" line="351" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" timestamp="1556804596182">
         <mark key="'" line="67" column="50" />
         <mark key="[" line="292" column="0" />
@@ -428,6 +431,13 @@
         <mark key="." line="161" column="69" />
         <mark key="^" line="161" column="69" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" timestamp="1557079139904">
+        <mark key="'" line="399" column="24" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="143" column="70" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" timestamp="1556529062466">
         <mark key="'" line="311" column="55" />
       </file>
@@ -449,16 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="100" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="110" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="212" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="187" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="169" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="208" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="165" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="198" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="218" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="54" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="222" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="255" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
@@ -549,68 +549,70 @@
       <jump line="113" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
       <jump line="123" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
       <jump line="29" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/userprofile/SettingsUserProfileInterface.java" />
+      <jump line="115" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsNetworkInterface.java" />
+      <jump line="170" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsNetworkInterface.java" />
+      <jump line="351" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsNetworkInterface.java" />
+      <jump line="167" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="416" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="154" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="158" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="143" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="139" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="403" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja0lwQW5kUmVzdGFydFN0YWNrKCkgdGhyb3dzIFBheWxvYWRFeGNlcHRpb24gewogICAgICAgIHN0YXJ0SW1zU3RhY2soKTsKICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>us.iot.</text>
+        <text>checkIpAndRestartStack</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW51YWxDb25maWdcPg==</text>
+        <text encoding="base64">XDxjaGVja0lwQW5kUmVzdGFydFN0YWNrXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbUVycm9yUHJvY2Vzc0ltcGwgPSBpbUVycm9yUHJvY2VzczsK</text>
+      <register name="0" type="4">
+        <text>startImsStack</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja0lwQW5kUmVzdGFydFN0YWNrKCkgdGhyb3dzIFBheWxvYWRFeGNlcHRpb24gewogICAgICAgIHN0YXJ0SW1zU3RhY2soKTsKICAgIH0KCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGVzdCBkb21haW4KICAgICAgICAgICAgU3RyaW5nIGRvbWFpbiA9IG1SY3NTZXR0aW5ncy5nZXRVc2VyUHJvZmlsZUltc0RvbWFpbigpOwogICAgICAgICAgICBpZiAoZG9tYWluLmVxdWFscygidXMuaW90LnJjcy5zdGFnaW5nLnRlbGVwaG9ueS5nb29nIikpIHsKICAgICAgICAgICAgICAgIFN0cmluZyB0ZXN0RG9tYWluID0gInVzLnNwcmludC5yY3MudGVsZXBob255Lmdvb2ciOwogICAgICAgICAgICAgICAgbVJjc1NldHRpbmdzLnNldFVzZXJQcm9maWxlSW1zUHJpdmF0ZUlkKGNvbnRhY3QgKyAiQCIgKyB0ZXN0RG9tYWluKTsKICAgICAgICAgICAgICAgIG1SY3NTZXR0aW5ncy5zZXRVc2VyUHJvZmlsZUltc0RvbWFpbih0ZXN0RG9tYWluKTsKICAgICAgICAgICAgICAgIG1SY3NTZXR0aW5ncy5zZXRVc2VyUHJvZmlsZUltc1JlYWxtKHRlc3REb21haW4pOwogICAgICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICAgICAgc0xvZ2dlci5pbmZvKCJuZXcgaXA6ICIgKyBuZXdJcCArICIsIG5ldyBwb3J0OiAiICsgbmV3UG9ydCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5ld0lwID0gbUNNSW50ZXJmYWNlLmdldExvY2FsQWRkcmVzcygpOwogICAgICAgICAgICBpbnQgbmV3UG9ydCA9IG1DTUludGVyZmFjZS5nZXRMb2NhbFBvcnQoKTsK</text>
       </register>
-      <register name="4" type="8">
-        <text>+
-+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmV3SXAgPSBtQ01JbnRlcmZhY2UuZ2V0TG9jYWxBZGRyZXNzKCk7CiAgICAgICAgaW50IG5ld1BvcnQgPSBtQ01JbnRlcmZhY2UuZ2V0TG9jYWxQb3J0KCk7CiAgICAgICAgaWYgKHNMb2dnZXIuaXNBY3RpdmF0ZWQoKSkgewogICAgICAgICAgICBzTG9nZ2VyLmluZm8oIm5ldyBpcDogIiArIG5ld0lwICsgIiwgbmV3IHBvcnQ6ICIgKyBuZXdQb3J0KTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>+
-+
-+
-+
-+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2xkSXAgPSBudWxsOwogICAgICAgIGludCBvbGRQb3J0ID0gMDsKICAgICAgICBpZiAobVNpcC5nZXRTaXBTdGFjaygpICE9IG51bGwpIHsKICAgICAgICAgICAgb2xkSXAgPSBtU2lwLmdldFNpcFN0YWNrKCkuZ2V0TG9jYWxJcEFkZHJlc3MoKTsKICAgICAgICAgICAgb2xkUG9ydCA9IG1TaXAuZ2V0U2lwU3RhY2soKS5nZXRMb2NhbFBvcnQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS1hbmRyb2lkOnNoYXJlZFVzZXJJZD0iYW5kcm9pZC51aWQucGhvbmUiLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2xkSXAgPSBudWxsOwogICAgICAgIGludCBvbGRQb3J0ID0gMDsKICAgICAgICBpZiAobVNpcC5nZXRTaXBTdGFjaygpICE9IG51bGwpIHsKICAgICAgICAgICAgb2xkSXAgPSBtU2lwLmdldFNpcFN0YWNrKCkuZ2V0TG9jYWxJcEFkZHJlc3MoKTsKICAgICAgICAgICAgb2xkUG9ydCA9IG1TaXAuZ2V0U2lwU3RhY2soKS5nZXRMb2NhbFBvcnQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiB1c2UgcXVhbGNvbW0gY2FycmllciBjb25maWcKICAgICAgICAgKi8KICAgICAgICBRQ19DQVJSSUVSX0NPTkZJRyg0KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKCFTdHJpbmdVdGlscy5pc051bGxPckVtcHR5KG5ld0lwKSAmJiAhbmV3SXAuZXF1YWxzKG9sZElwKSkgfHwgKG9sZFBvcnQgIT0gbmV3UG9ydCkpIHsKICAgICAgICAgICAgLy8gaXAgY2hhbmdlZCwgYnV0IG5vIGltcyBvZmZsaW5lIGNhbGxiYWNrCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRJbXNTdGFjaygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nc21hLnJjcy5jb3JlLmltcy5zZXJ2aWNlLmltLmVycm9yUHJvY2Vzc29yLmltcGwuSU1FcnJvclByb2Nlc3NvckRlZmF1bHRJbXBsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW51YWxDb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxjaGVja0lwQW5kUmVzdGFydFN0YWNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW51YWxDb25maWdcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxjaGVja0lwQW5kUmVzdGFydFN0YWNrXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERUZBVUxUX0lQTUVfQVBQTENUSU9OX05BTUVcPg==</entry>
-        <entry encoding="base64">XDxidWlsZENvbnRlbnRQcm92aWRlck9wXD4=</entry>
-        <entry>Oper</entry>
         <entry encoding="base64">XDxPcGVyYXRvck1vZGVcPg==</entry>
         <entry encoding="base64">XDxERUZBVUxUX09QRVJBVE9SX01PREVcPg==</entry>
         <entry encoding="base64">XDxnZXRPcGVyYXRvck1vZGVcPg==</entry>
@@ -628,6 +630,9 @@
         <entry>Qcom</entry>
         <entry>isQcom</entry>
         <entry encoding="base64">XDxtYW51YWxDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxtQWNjZXNzXD4=</entry>
+        <entry encoding="base64">XDxzdGFydEltc1N0YWNrXD4=</entry>
+        <entry encoding="base64">XDxjaGVja0lwQW5kUmVzdGFydFN0YWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
