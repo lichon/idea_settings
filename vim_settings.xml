@@ -220,7 +220,7 @@
         <mark key="." line="288" column="0" />
         <mark key="^" line="287" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1557073470652">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1557075754473">
         <mark key="'" line="2353" column="80" />
         <mark key="[" line="2336" column="23" />
         <mark key="]" line="2336" column="22" />
@@ -299,8 +299,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/MsrpEventError.java" timestamp="1556072160356">
         <mark key="'" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1557072143412">
-        <mark key="'" line="86" column="24" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" timestamp="1557075759911">
+        <mark key="'" line="123" column="16" />
         <mark key="[" line="94" column="40" />
         <mark key="]" line="94" column="56" />
         <mark key="." line="94" column="56" />
@@ -440,10 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="94" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="214" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="77" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="100" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
@@ -540,6 +536,10 @@
       <jump line="73" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/IMErrorProcessorFactory.java" />
       <jump line="1951" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="2353" column="80" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
+      <jump line="117" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="95" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="113" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
+      <jump line="123" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/MainApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -549,7 +549,7 @@
         <text>QCIMSCM</text>
       </register>
       <register name="/" type="4">
-        <text>isQcom</text>
+        <text encoding="base64">XDxtYW51YWxDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbUVycm9yUHJvY2Vzc0ltcGwgPSBpbUVycm9yUHJvY2VzczsK</text>
@@ -586,15 +586,14 @@
       </register>
     </registers>
     <search>
-      <last-search>isQcom</last-search>
+      <last-search encoding="base64">XDxtYW51YWxDb25maWdcPg==</last-search>
       <last-offset />
-      <last-pattern>isQcom</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxtYW51YWxDb25maWdcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>openMe</entry>
         <entry encoding="base64">XDxERUZBVUxUX0lQTUVfQVBQTENUSU9OX05BTUVcPg==</entry>
         <entry encoding="base64">XDxidWlsZENvbnRlbnRQcm92aWRlck9wXD4=</entry>
         <entry>Oper</entry>
@@ -614,6 +613,7 @@
         <entry>isQC</entry>
         <entry>Qcom</entry>
         <entry>isQcom</entry>
+        <entry encoding="base64">XDxtYW51YWxDb25maWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
