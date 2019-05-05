@@ -121,8 +121,8 @@
         <mark key="^" line="309" column="44" />
         <mark key="." line="309" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1557048263201">
-        <mark key="'" line="112" column="4" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1557051711977">
+        <mark key="'" line="258" column="48" />
         <mark key="[" line="1053" column="65" />
         <mark key="]" line="1053" column="65" />
         <mark key="^" line="1053" column="73" />
@@ -187,8 +187,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" timestamp="1556032538732">
         <mark key="'" line="178" column="60" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" timestamp="1557043718072">
-        <mark key="'" line="126" column="8" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" timestamp="1557051758323">
+        <mark key="'" line="147" column="24" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1556343026611">
         <mark key="'" line="148" column="5" />
@@ -237,12 +237,8 @@
         <mark key="^" line="108" column="7" />
         <mark key="." line="108" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" timestamp="1557047032859">
-        <mark key="'" line="53" column="49" />
-        <mark key="[" line="96" column="62" />
-        <mark key="]" line="96" column="89" />
-        <mark key="^" line="96" column="89" />
-        <mark key="." line="96" column="89" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" timestamp="1557051826138">
+        <mark key="'" line="195" column="17" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/FileExpiredException.java" timestamp="1556012920913">
         <mark key="'" line="0" column="1" />
@@ -430,18 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="187" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="169" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="208" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="165" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="198" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="218" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="54" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="222" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="255" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="141" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
-      <jump line="232" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="51" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="139" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
       <jump line="300" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCProvisioningService.java" />
@@ -530,55 +514,67 @@
       <jump line="838" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="1096" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="1099" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="1053" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="258" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="124" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" />
+      <jump line="50" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" />
+      <jump line="65" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" />
+      <jump line="108" column="77" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" />
+      <jump line="71" column="25" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" />
+      <jump line="147" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/PeriodicRefresher.java" />
+      <jump line="162" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="181" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="195" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.REJECTED</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>fromSystem</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVTZXNzaW9uUmVqZWN0ZWRcPg==</text>
+        <text encoding="base64">XDxzZXNzaW9uUmVmcmVzaEZvclVBQ1w+</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
       <register name="1" type="4">
-        <text>.REJECTED</text>
+        <text>BYE</text>
       </register>
       <register name="2" type="4">
-        <text>.ABORTED</text>
+        <text>skip</text>
       </register>
-      <register name="3" type="4">
-        <text>reject</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVJjc1NldHRpbmdzLmdldE9wZXJhdG9yTW9kZSgpID09IE9wZXJhdG9yTW9kZS5UTU8gJiYgbVNlc3Npb24uaXNJbml0aWF0ZWRCeVJlbW90ZSgpKSB7CiAgICAgICAgICAgIGlmIChtTG9nZ2VyLmlzQWN0aXZhdGVkKCkpIHsKICAgICAgICAgICAgICAgIG1Mb2dnZXIuZGVidWcoInNraXAgTVQgc2Vzc2lvbiBCWUUgdGltZXIiKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>fromSystem</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>.ABORTED_BY_SYSTEM</text>
+        <text>mSession.isInitiatedByRemote()</text>
       </register>
       <register name="6" type="4">
-        <text>.REJECTED_BY_TIMEOUT</text>
+        <text>uas</text>
       </register>
       <register name="7" type="4">
-        <text>.REJECTED_BY_USER</text>
+        <text encoding="base64">IGlzTXRTZXNzaW9u</text>
       </register>
       <register name="8" type="4">
-        <text>.REJECTED_BY_SYSTEM</text>
+        <text>, boolean</text>
       </register>
       <register name="9" type="4">
-        <text>);</text>
+        <text>.REJECTED</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVTZXNzaW9uUmVqZWN0ZWRcPg==</last-search>
+      <last-search encoding="base64">XDxzZXNzaW9uUmVmcmVzaEZvclVBQ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVTZXNzaW9uUmVqZWN0ZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXNzaW9uUmVmcmVzaEZvclVBQ1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -600,7 +596,6 @@
         <entry encoding="base64">XDxfaGlkbF9jYlw+</entry>
         <entry encoding="base64">XDxjbG9zZUNvbm5lY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxzZXNzaW9uUmVmcmVzaEZvclVBU1w+</entry>
-        <entry encoding="base64">XDxwZXJpb2RpY1Byb2Nlc3NpbmdcPg==</entry>
         <entry>mSe</entry>
         <entry encoding="base64">XDxtUmNzU2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxtU2Vzc2lvblw+</entry>
@@ -626,6 +621,11 @@
         <entry encoding="base64">XDxvblNlc3Npb25SZWplY3RlZFw+</entry>
         <entry encoding="base64">XDxSRUpFQ1RFRF9CWV9TWVNURU1cPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVTZXNzaW9uUmVqZWN0ZWRcPg==</entry>
+        <entry encoding="base64">XDxnZXRTZXNzaW9uVGltZXJFeHBpcmVcPg==</entry>
+        <entry>uac</entry>
+        <entry encoding="base64">XDxtQWxhcm1JbnRlbnRcPg==</entry>
+        <entry encoding="base64">XDxwZXJpb2RpY1Byb2Nlc3NpbmdcPg==</entry>
+        <entry encoding="base64">XDxzZXNzaW9uUmVmcmVzaEZvclVBQ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
