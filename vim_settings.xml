@@ -185,8 +185,8 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1557080086386">
-        <mark key="'" line="1334" column="40" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1557132188967">
+        <mark key="'" line="110" column="92" />
         <mark key="[" line="2336" column="23" />
         <mark key="]" line="2336" column="22" />
         <mark key="." line="2336" column="22" />
@@ -236,10 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="372" column="10" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="374" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
-      <jump line="376" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="378" column="47" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="624" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="628" column="18" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
@@ -336,6 +332,10 @@
       <jump line="488" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="490" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
       <jump line="491" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferImpl.java" />
+      <jump line="1333" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
+      <jump line="22" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
+      <jump line="110" column="92" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -345,7 +345,7 @@
         <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>Cancel</text>
+        <text>http</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpyZXF1aXJlZD0iZmFsc2UiIC8+Cg==</text>
@@ -382,17 +382,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Cancel</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>Cancel</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtRXhwaXJlUGVyaW9kXD4=</entry>
-        <entry encoding="base64">XDxERUZBVUxUX0NIQVRfU09fVElNRU9VVFw+</entry>
-        <entry>update</entry>
         <entry>getInsta</entry>
         <entry encoding="base64">XDx1cGRhdGVDb25maWdcPg==</entry>
         <entry encoding="base64">XDxnZXRJbnN0YW5jZVw+</entry>
@@ -410,6 +407,9 @@
         <entry encoding="base64">XDxhYm9ydFRyYW5zZmVyXD4=</entry>
         <entry>Cancel s</entry>
         <entry>Cancel</entry>
+        <entry>psersist.rcs</entry>
+        <entry>rcs</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
