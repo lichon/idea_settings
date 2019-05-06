@@ -180,8 +180,8 @@
         <mark key="." line="398" column="0" />
         <mark key="^" line="396" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1556804562988">
-        <mark key="'" line="78" column="22" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1557122564998">
+        <mark key="'" line="88" column="29" />
         <mark key="[" line="841" column="0" />
         <mark key="]" line="854" column="9" />
         <mark key="." line="795" column="116" />
@@ -466,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/autoconfigTriggerReason.class" />
       <jump line="13" column="11" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/autoconfigRequestStatus.class" />
       <jump line="9" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/autoconfigRequestStatus.class" />
       <jump line="370" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/LargeMsgMsrpSession.java" />
@@ -566,6 +565,7 @@
       <jump line="148" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
       <jump line="75" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
       <jump line="125" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/SessionTimerManager.java" />
+      <jump line="88" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -575,7 +575,7 @@
         <text>checkIpAndRestartStack</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtRXhwaXJlUGVyaW9kXD4=</text>
+        <text encoding="base64">XDxERUZBVUxUX0NIQVRfU09fVElNRU9VVFw+</text>
       </register>
       <register name="0" type="4">
         <text>startImsStack</text>
@@ -612,15 +612,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtRXhwaXJlUGVyaW9kXD4=</last-search>
+      <last-search encoding="base64">XDxERUZBVUxUX0NIQVRfU09fVElNRU9VVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtRXhwaXJlUGVyaW9kXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxERUZBVUxUX0NIQVRfU09fVElNRU9VVFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPUEVSQVRPUl9NT0RFXD4=</entry>
         <entry encoding="base64">XDxzZXRPcGVyYXRvck1vZGVcPg==</entry>
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry encoding="base64">XDxzZXRDb25maWd1cmF0aW9uTW9kZVw+</entry>
@@ -640,6 +639,7 @@
         <entry encoding="base64">XDxDSEFUX0lETEVfRFVSQVRJT05cPg==</entry>
         <entry encoding="base64">XDxleHBpcmVQZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxtRXhwaXJlUGVyaW9kXD4=</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0NIQVRfU09fVElNRU9VVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
