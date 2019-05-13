@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesRequestProcessor.java" timestamp="1556254141878">
         <mark key="'" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/constant/Actions.java" timestamp="1557738698003">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/constant/Actions.java" timestamp="1557739517435">
         <mark key="'" line="107" column="20" />
         <mark key="[" line="110" column="20" />
         <mark key="]" line="110" column="43" />
@@ -56,6 +56,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" timestamp="1556267605445">
         <mark key="'" line="338" column="16" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/AndroidManifest_release.xml" timestamp="1557739677483">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferPersistedStorageAccessor.java" timestamp="1556178894748">
         <mark key="'" line="57" column="17" />
       </file>
@@ -89,6 +95,9 @@
         <mark key="]" line="124" column="50" />
         <mark key="." line="124" column="50" />
         <mark key="^" line="124" column="50" />
+      </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1557739527344">
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" timestamp="1556101922592">
         <mark key="'" line="204" column="16" />
@@ -245,13 +254,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/IImsCmService.class" timestamp="1556797987010">
         <mark key="'" line="271" column="41" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfigFactory.java" timestamp="1557739577360" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipInterface.java" timestamp="1556529062466">
         <mark key="'" line="311" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
-      <jump line="457" column="29" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="369" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="488" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
@@ -350,6 +358,8 @@
       <jump line="2104" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="619" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="606" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
+      <jump line="570" column="46" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,7 +369,7 @@
         <text>chat</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNpemVUb0xhcmdlTW9kZVNpemVcPg==</text>
+        <text>Fac</text>
       </register>
       <register name="0" type="4">
         <text>ACTION_MESSAGE_RESIZE_FT</text>
@@ -396,15 +406,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNpemVUb0xhcmdlTW9kZVNpemVcPg==</last-search>
+      <last-search>Fac</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNpemVUb0xhcmdlTW9kZVNpemVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Fac</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZUxvbmdcPg==</entry>
         <entry>fallback</entry>
         <entry encoding="base64">XDxBQ1RJT05fTUVTU0FHRV9SRVNJWkVfRlRcPg==</entry>
         <entry encoding="base64">XDxzZW5kUmVzaXplTGFyZ2VNb2RlQnJvYWRjYXN0XD4=</entry>
@@ -424,6 +433,7 @@
         <entry encoding="base64">XDxzZW5kUmVzaXplRmlsZVRyYW5zZmVyQnJvYWRjYXN0XD4=</entry>
         <entry encoding="base64">XDxyZXNpemVGdFw+</entry>
         <entry encoding="base64">XDxyZXNpemVUb0xhcmdlTW9kZVNpemVcPg==</entry>
+        <entry>Fac</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
