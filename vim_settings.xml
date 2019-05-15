@@ -181,8 +181,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/MsrpEventError.java" timestamp="1556072160356">
         <mark key="'" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1557909449663">
-        <mark key="'" line="565" column="40" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1557916453631">
+        <mark key="'" line="373" column="54" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" timestamp="1557914399074">
         <mark key="'" line="1122" column="35" />
@@ -241,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2144" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="2146" column="67" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="2105" column="15" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="2112" column="69" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
@@ -341,6 +340,7 @@
       <jump line="109" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingOneToOneChatSession.java" />
       <jump line="98" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
       <jump line="1122" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
+      <jump line="373" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,7 +350,7 @@
         <text>getFirstMessage()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGaXJzdE1lc3NhZ2VcPg==</text>
+        <text>Send geo</text>
       </register>
       <register name="0" type="4">
         <text>chatMessage</text>
@@ -387,15 +387,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRGaXJzdE1lc3NhZ2VcPg==</last-search>
+      <last-search>Send geo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGaXJzdE1lc3NhZ2VcPg==</last-pattern>
+      <last-pattern>Send geo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyY3NDb25uZWN0ZWRcPg==</entry>
         <entry>START</entry>
         <entry encoding="base64">XDxtQWNjZXB0Q29udGFjdFRhZ3NcPg==</entry>
         <entry encoding="base64">XDxtRmVhdHVyZVRhZ3NcPg==</entry>
@@ -405,7 +404,6 @@
         <entry encoding="base64">XDxyZXNpemVUb0xhcmdlTW9kZVNpemVcPg==</entry>
         <entry encoding="base64">XDxnZW9sb2NcPg==</entry>
         <entry>sendM</entry>
-        <entry>Send geo</entry>
         <entry>createI</entry>
         <entry encoding="base64">XDxERUZBVUxUX0lNX01TR19URUNIXD4=</entry>
         <entry encoding="base64">XDxCdWlsZENvbmZpZ1w+</entry>
@@ -415,6 +413,8 @@
         <entry encoding="base64">XDxJTV9NU0dfVEVDSFw+</entry>
         <entry encoding="base64">XDxTSU1QTEVfSU1cPg==</entry>
         <entry encoding="base64">XDxnZXRGaXJzdE1lc3NhZ2VcPg==</entry>
+        <entry>send geo</entry>
+        <entry>Send geo</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
