@@ -42,6 +42,9 @@
         <mark key="^" line="167" column="56" />
         <mark key="." line="188" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" timestamp="1558190524950">
+        <mark key="'" line="128" column="39" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/DeleteTask.java" timestamp="1556186805697">
         <mark key="'" line="66" column="60" />
       </file>
@@ -86,12 +89,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" timestamp="1556537964227">
         <mark key="'" line="569" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1558172015120">
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/ChatServiceImpl.java" timestamp="1558189966631">
         <mark key="'" line="1544" column="23" />
-        <mark key="[" line="1545" column="11" />
-        <mark key="]" line="1545" column="11" />
-        <mark key="." line="1545" column="11" />
-        <mark key="^" line="1546" column="63" />
+        <mark key="[" line="1548" column="12" />
+        <mark key="]" line="1548" column="12" />
+        <mark key="." line="1548" column="12" />
+        <mark key="^" line="1548" column="12" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/ses/SesUtils.java" timestamp="1557827858468">
         <mark key="[" line="66" column="64" />
@@ -260,11 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1168" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="409" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="480" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="425" column="40" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="481" column="61" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="491" column="48" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
       <jump line="577" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
@@ -360,6 +358,11 @@
       <jump line="550" column="31" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1432" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
       <jump line="1038" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettingsData.java" />
+      <jump line="2511" column="4" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="487" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="2512" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="128" column="39" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -369,7 +372,7 @@
         <text>&quot;forceRequestContactCapabilities, contact: &quot; + contact</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERUZBVUxUX0NBUEFCSUxJVFlfRVhQSVJZX1RJTUVPVVRcPg==</text>
+        <text encoding="base64">XDxPbmVUb09uZUNoYXRNZXNzYWdlRGVxdWV1ZVRhc2tcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc0xvZ2dlci5pc0FjdGl2YXRlZCgpKSB7CiAgICAgICAgICAgIHNMb2dnZXIuZGVidWcoImZvcmNlUmVxdWVzdENvbnRhY3RDYXBhYmlsaXRpZXMsIGNvbnRhY3Q6ICIgKyBjb250YWN0KTsKICAgICAgICB9Cg==</text>
@@ -406,16 +409,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERUZBVUxUX0NBUEFCSUxJVFlfRVhQSVJZX1RJTUVPVVRcPg==</last-search>
+      <last-search encoding="base64">XDxPbmVUb09uZUNoYXRNZXNzYWdlRGVxdWV1ZVRhc2tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERUZBVUxUX0NBUEFCSUxJVFlfRVhQSVJZX1RJTUVPVVRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxPbmVUb09uZUNoYXRNZXNzYWdlRGVxdWV1ZVRhc2tcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBpcnlcPg==</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry encoding="base64">XDxyZWNlaXZlT25lVG9PbmVDaGF0SW52aXRhdGlvblw+</entry>
         <entry encoding="base64">XDxHRU9MT0NfTUVTU0FHRVw+</entry>
         <entry>ready</entry>
@@ -434,6 +435,8 @@
         <entry encoding="base64">XDxmb3JjZVJlcXVlc3RDb250YWN0Q2FwYWJpbGl0aWVzXD4=</entry>
         <entry encoding="base64">XDxDQVBBQklMSVRZX0VYUElSWV9USU1FT1VUXD4=</entry>
         <entry encoding="base64">XDxERUZBVUxUX0NBUEFCSUxJVFlfRVhQSVJZX1RJTUVPVVRcPg==</entry>
+        <entry encoding="base64">XDx0cnlUb0RlcXVldWVPbmVUb09uZUNoYXRNZXNzYWdlc1w+</entry>
+        <entry encoding="base64">XDxPbmVUb09uZUNoYXRNZXNzYWdlRGVxdWV1ZVRhc2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
