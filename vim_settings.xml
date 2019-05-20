@@ -173,8 +173,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" timestamp="1556033014855">
         <mark key="'" line="142" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" timestamp="1557999137557">
-        <mark key="'" line="93" column="40" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" timestamp="1558333707368">
+        <mark key="'" line="365" column="17" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/msrp/TerminatingMsrpFileSharingSession.java" timestamp="1556032538732">
         <mark key="'" line="178" column="60" />
@@ -247,6 +247,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/IImsCmService.class" timestamp="1556797987010">
         <mark key="'" line="271" column="41" />
       </file>
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" timestamp="1558334102542">
+        <mark key="'" line="218" column="21" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/android-jain-sip-ri/1.3.0-32/85d8337220aa86cc455c380e6208292230e5d3f4/android-jain-sip-ri-1.3.0-32-sources.jar!/gov/nist/javax/sip/SipStackImpl.java" timestamp="1558319967165">
         <mark key="'" line="2032" column="14" />
       </file>
@@ -272,14 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="577" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="206" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsService.java" />
-      <jump line="1000" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="926" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="592" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="597" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="600" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
-      <jump line="602" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="617" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="949" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="588" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
@@ -372,6 +367,14 @@
       <jump line="578" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceSession.java" />
       <jump line="2413" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
       <jump line="356" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/InstantMessagingService.java" />
+      <jump line="377" column="67" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="375" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="381" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="233" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="365" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/network/ImsConnectionManager.java" />
+      <jump line="46" column="55" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="204" column="33" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
+      <jump line="218" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCImsNetworkInterface.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -381,7 +384,7 @@
         <text encoding="base64">ICAgICAgICB9KS5zdGFydCgpOw==</text>
       </register>
       <register name="/" type="4">
-        <text>====</text>
+        <text>noti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIHdhc0VzdGFibGlzaGVkOwo=</text>
@@ -418,21 +421,14 @@
       </register>
     </registers>
     <search>
-      <last-search>====</last-search>
+      <last-search>noti</last-search>
       <last-offset />
-      <last-pattern>====</last-pattern>
+      <last-pattern>noti</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9zZVNlc3Npb25cPg==</entry>
-        <entry encoding="base64">XDxyZW1vdmVTZXNzaW9uXD4=</entry>
-        <entry encoding="base64">XDxtRmlsZVRyYW5zZmVyU2Vzc2lvbkNhY2hlXD4=</entry>
-        <entry encoding="base64">XDxtSW1zU2VydmljZVNlc3Npb25XaXRob3V0RGlhbG9nUGF0aENhY2hlXD4=</entry>
-        <entry encoding="base64">XDxtQ2hhdFNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxtSW1kbk1hbmFnZXJcPg==</entry>
-        <entry encoding="base64">XDxtTG9jYWxDb250ZW50UmVzb2x2ZXJcPg==</entry>
         <entry encoding="base64">XDxtU3RvcmVBbmRGd2RNZ3JcPg==</entry>
         <entry encoding="base64">XDxtR3JvdXBDaGF0Q29tcG9zaW5nU3RhdHVzVG9Ob3RpZnlcPg==</entry>
         <entry encoding="base64">XDxtU3RvcmVBbmRGb3J3YXJkTXNnU2Vzc2lvbkNhY2hlXD4=</entry>
@@ -446,6 +442,13 @@
         <entry encoding="base64">XDxpbnRlcnJ1cHRTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxjbG9zZU1lZGlhU2Vzc2lvblw+</entry>
         <entry>====</entry>
+        <entry encoding="base64">XDxmYWlsb3Zlclw+</entry>
+        <entry encoding="base64">XDxFWFRSQV9JU19GQUlMT1ZFUlw+</entry>
+        <entry encoding="base64">XDxzdGFydEltc1JlZ2lzdHJhdGlvblw+</entry>
+        <entry encoding="base64">XDxjb25uZWN0aW9uRXZlbnRcPg==</entry>
+        <entry>ter</entry>
+        <entry>stop</entry>
+        <entry>noti</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
