@@ -127,8 +127,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/FileTransferData.java" timestamp="1558342387626">
         <mark key="'" line="48" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" timestamp="1558418330129">
-        <mark key="'" line="158" column="41" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" timestamp="1558420020813">
+        <mark key="'" line="134" column="32" />
+        <mark key="." line="123" column="92" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" timestamp="1556267605445">
         <mark key="'" line="338" column="16" />
@@ -439,7 +440,6 @@
       <jump line="139" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
       <jump line="140" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
       <jump line="142" column="36" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
-      <jump line="134" column="35" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
       <jump line="146" column="63" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
       <jump line="114" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
       <jump line="59" column="30" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
@@ -460,56 +460,57 @@
       <jump line="249" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
       <jump line="270" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
       <jump line="158" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
+      <jump line="134" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningSMS.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzbG90SWQgPT0gbU1hbmFnZXIubVNsb3RJZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNOdWxsT3JFbXB0eShjb250ZW50KSAmJiBjb250ZW50LmNvbnRhaW5zKCJHLSIpICYmICBjb250ZW50LmNvbnRhaW5zKCJbUElOXSIpKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>smsMessages</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzbG90SWQgPT0gbU1hbmFnZXIubVNsb3RJZCkgew==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVDb25maWdXaXRoT1RQXD4=</text>
+        <text encoding="base64">XDxzbG90SWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxvZ0FjdGl2YXRlZCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmVycm9yKCJSZWNlaXZlZCBzbXMgb24gd3Jvbmcgc2xvdCBpZCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNOdWxsT3JFbXB0eShjb250ZW50KSAmJiBjb250ZW50LmNvbnRhaW5zKCJHLSIpICYmICBjb250ZW50LmNvbnRhaW5zKCJbUElOXSIpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzbG90SWQgPT0gbU1hbmFnZXIubVNsb3RJZCkgewo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxvZ0FjdGl2YXRlZCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmVycm9yKCJSZWNlaXZlZCBzbXMgb24gd3Jvbmcgc2xvdCBpZCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChzbG90SWQgPT0gbU1hbmFnZXIubVNsb3RJZCkgewo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxvZ0FjdGl2YXRlZCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzTG9nZ2VyLmVycm9yKCJSZWNlaXZlZCBzbXMgb24gd3Jvbmcgc2xvdCBpZCIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNsb3RJZCA9IHNtc01lc3NhZ2VzW2ldLmdldEluZGV4T25JY2MoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNsb3RJZCA9IHNtc01lc3NhZ2VzW2ldLmdldEluZGV4T25JY2MoKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NYW5hZ2VyLnVwZGF0ZUNvbmZpZ1dpdGhPVFAoc21zRGF0YSwgcmVxdWVzdFVyaSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>&quot;'&quot; + OTP_SMS_ENCODING_FORMAT
                                             + &quot;'format not supported for requestUri : &quot; + requestUri, e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVDb25maWdXaXRoT1RQXD4=</last-search>
+      <last-search encoding="base64">XDxzbG90SWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVDb25maWdXaXRoT1RQXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzbG90SWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -533,8 +534,8 @@
         <entry encoding="base64">XDxnZXRPcmlnaW5hdGluZ0FkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDxnZXRJbmRleE9uSWNjXD4=</entry>
         <entry encoding="base64">XDxnZXRNZXNzYWdlQm9keVw+</entry>
-        <entry encoding="base64">XDxzbG90SWRcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVDb25maWdXaXRoT1RQXD4=</entry>
+        <entry encoding="base64">XDxzbG90SWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
