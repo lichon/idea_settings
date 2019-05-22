@@ -185,8 +185,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueToMMSTask.java" timestamp="1558342337727">
         <mark key="'" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1558416366228">
-        <mark key="'" line="2133" column="0" />
+      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" timestamp="1558506476534">
+        <mark key="'" line="16" column="3" />
         <mark key="[" line="2468" column="54" />
         <mark key="]" line="2468" column="54" />
         <mark key="." line="2468" column="54" />
@@ -364,8 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="52" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="460" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="298" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/api/src/main/java/com/gsma/services/rcs/preference/CommonServiceConfiguration.java" />
       <jump line="44" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/CommonServiceConfigurationImpl.java" />
       <jump line="152" column="57" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provisioning/https/HttpsProvisioningService.java" />
@@ -464,6 +462,8 @@
       <jump line="547" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
       <jump line="180" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
       <jump line="584" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" />
+      <jump line="2475" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
+      <jump line="16" column="3" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -473,7 +473,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0dyb3VwXD4=</text>
+        <text>limit</text>
       </register>
       <register name="0" type="4">
         <text>isOne2One</text>
@@ -530,15 +530,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0dyb3VwXD4=</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0dyb3VwXD4=</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry encoding="base64">XDxnZXRJbWVpXD4=</entry>
         <entry encoding="base64">XDxnZXRSZWFkeVNpbVw+</entry>
         <entry>Store to</entry>
@@ -558,6 +557,7 @@
         <entry encoding="base64">XDxyZWNlaXZlXD4=</entry>
         <entry encoding="base64">XDxvbk1lc3NhZ2VSZWNlaXZlZFw+</entry>
         <entry encoding="base64">XDxpc0dyb3VwXD4=</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry>701</entry>
