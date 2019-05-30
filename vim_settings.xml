@@ -107,8 +107,10 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MimeManager.java" timestamp="1556179885266">
         <mark key="'" line="263" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/pom.xml" timestamp="1559219903797">
+      <file name="$USER_HOME$/repos/gw_walkie/pom.xml" timestamp="1559220599186">
         <mark key="'" line="74" column="19" />
+        <mark key="[" line="108" column="21" />
+        <mark key="]" line="108" column="39" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/IImsCmService.class" timestamp="1556797987010">
         <mark key="'" line="271" column="41" />
@@ -244,9 +246,6 @@
         <mark key="]" line="476" column="65" />
         <mark key="^" line="476" column="65" />
         <mark key="." line="476" column="65" />
-      </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSession.java" timestamp="1558075629855">
-        <mark key="^" line="656" column="16" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" timestamp="1556026754912">
         <mark key="'" line="434" column="15" />
@@ -623,8 +622,8 @@
       <jump line="74" column="19" filename="$USER_HOME$/repos/gw_walkie/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtc2dDYWNoZS5zCg==</text>
+      <register name="&quot;" type="4">
+        <text>com.redcloud.gw.lib</text>
       </register>
       <register name="-" type="4">
         <text>Message.ReasonCode.UNSPECIFIED</text>
