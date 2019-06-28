@@ -102,8 +102,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/content/MmContent.java" timestamp="1556352315970">
         <mark key="'" line="75" column="11" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" timestamp="1561708074323">
-        <mark key="'" line="109" column="8" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" timestamp="1561715150789">
+        <mark key="'" line="49" column="17" />
         <mark key="[" line="440" column="56" />
         <mark key="]" line="440" column="63" />
         <mark key="^" line="440" column="63" />
@@ -320,6 +320,9 @@
         <mark key="." line="336" column="34" />
         <mark key="^" line="336" column="34" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" timestamp="1561715668185">
+        <mark key="'" line="92" column="44" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/OneToOneChatImpl.java" timestamp="1558052210638">
         <mark key="'" line="152" column="26" />
         <mark key="[" line="63" column="0" />
@@ -356,12 +359,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" timestamp="1559032451778">
         <mark key="'" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1561713993486">
-        <mark key="'" line="476" column="53" />
-        <mark key="[" line="445" column="47" />
-        <mark key="]" line="445" column="64" />
-        <mark key="^" line="445" column="64" />
-        <mark key="." line="445" column="64" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1561715197489">
+        <mark key="'" line="105" column="23" />
+        <mark key="[" line="140" column="96" />
+        <mark key="]" line="140" column="107" />
+        <mark key="^" line="140" column="107" />
+        <mark key="." line="140" column="107" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/event/ClientEventBus.java" timestamp="1561706870127" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1557339685280">
@@ -541,6 +544,9 @@
         <mark key="^" line="356" column="49" />
         <mark key="." line="359" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SessionService.java" timestamp="1561715167162">
+        <mark key="'" line="55" column="14" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/config/QCConfigImpl.java" timestamp="1557245213763">
         <mark key="'" line="59" column="31" />
       </file>
@@ -559,20 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2414" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2456" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="281" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="285" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="290" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="294" column="53" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1811" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1905" column="41" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1907" column="42" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1910" column="84" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1943" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1984" column="84" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2308" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2369" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2376" column="64" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2450" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2485" column="44" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
@@ -659,55 +651,69 @@
       <jump line="202" column="18" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="200" column="18" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
       <jump line="221" column="20" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="440" column="38" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="90" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="95" column="63" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="44" column="3" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="49" column="17" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
+      <jump line="56" column="26" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SessionService.java" />
+      <jump line="55" column="14" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SessionService.java" />
+      <jump line="105" column="23" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
+      <jump line="168" column="76" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
+      <jump line="170" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
+      <jump line="176" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
+      <jump line="106" column="53" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
+      <jump line="92" column="44" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/ClientController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>contactService</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxycGNJbnZva2VcPg==</text>
+        <text encoding="base64">XDxzaWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
       <register name="1" type="4">
-        <text>, null</text>
+        <text>contactService</text>
       </register>
       <register name="2" type="4">
-        <text>null</text>
+        <text>ContactService</text>
       </register>
       <register name="3" type="4">
-        <text>to</text>
+        <text>, null</text>
       </register>
       <register name="4" type="4">
-        <text>equals(from)</text>
+        <text>null</text>
       </register>
       <register name="5" type="4">
-        <text>username</text>
-      </register>
-      <register name="6" type="4">
         <text>to</text>
       </register>
+      <register name="6" type="4">
+        <text>equals(from)</text>
+      </register>
       <register name="7" type="4">
-        <text>retunr</text>
+        <text>username</text>
       </register>
       <register name="8" type="4">
-        <text>.setSender(username);</text>
+        <text>to</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>retunr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxycGNJbnZva2VcPg==</last-search>
+      <last-search encoding="base64">XDxzaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxycGNJbnZva2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -758,6 +764,14 @@
         <entry>get-gr</entry>
         <entry encoding="base64">XDxpbnZva2VcPg==</entry>
         <entry encoding="base64">XDxycGNJbnZva2VcPg==</entry>
+        <entry>sipSer</entry>
+        <entry encoding="base64">XDxTaXBTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxTZXNzaW9uU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxzZXNzaW9uU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxjYWxsU2VydmljZVw+</entry>
+        <entry>X-T</entry>
+        <entry encoding="base64">XDxoYW5kbGVDbGllbnRSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxzaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
