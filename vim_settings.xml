@@ -40,6 +40,15 @@
         <mark key="^" line="537" column="41" />
         <mark key="." line="292" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/models/Group.java" timestamp="1561712708998">
+        <mark key="'" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" timestamp="1561714212977">
+        <mark key="'" line="221" column="20" />
+        <mark key="[" line="236" column="72" />
+        <mark key="]" line="236" column="72" />
+        <mark key="." line="236" column="72" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkRegistrationManager.java" timestamp="1559034031401">
         <mark key="'" line="43" column="68" />
       </file>
@@ -264,6 +273,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" timestamp="1556026754912">
         <mark key="'" line="434" column="15" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" timestamp="1561713979493">
+        <mark key="'" line="84" column="27" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceDispatcher.java" timestamp="1558053342568">
         <mark key="'" line="201" column="29" />
         <mark key="[" line="193" column="59" />
@@ -344,12 +356,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/capability/CapabilityService.java" timestamp="1559032451778">
         <mark key="'" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" timestamp="1559033834875">
-        <mark key="'" line="313" column="24" />
-        <mark key="n" line="39" column="13" />
-      </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1561709817982">
-        <mark key="'" line="299" column="25" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1561713993486">
+        <mark key="'" line="476" column="53" />
         <mark key="[" line="445" column="47" />
         <mark key="]" line="445" column="64" />
         <mark key="^" line="445" column="64" />
@@ -372,6 +380,9 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/MessageUtils.java" timestamp="1559039384463">
         <mark key="'" line="71" column="23" />
+      </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" timestamp="1561711613203">
+        <mark key="'" line="63" column="15" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/StandaloneMessage.java" timestamp="1557339126792">
         <mark key="'" line="263" column="25" />
@@ -488,6 +499,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpEventListener.java" timestamp="1556116824897">
         <mark key="'" line="73" column="9" />
       </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/models/Contact.java" timestamp="1561712512775">
+        <mark key="'" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/Logger.java" timestamp="1561710696178">
+        <mark key="'" line="128" column="77" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/OriginatingOneToOneChatSession.java" timestamp="1557046566004">
         <mark key="'" line="60" column="66" />
       </file>
@@ -542,36 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1739" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="2064" column="95" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="2065" column="27" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/FileTransferServiceImpl.java" />
-      <jump line="2411" column="51" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2351" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2337" column="26" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2335" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
-      <jump line="2214" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="1787" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="140" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/ImsServiceError.java" />
-      <jump line="930" column="20" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
-      <jump line="1111" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/GroupChatSession.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" />
-      <jump line="1789" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2406" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="58" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" />
-      <jump line="81" column="22" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" />
-      <jump line="83" column="60" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" />
-      <jump line="85" column="62" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" />
-      <jump line="2458" column="96" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2455" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2453" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2382" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2344" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2405" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2348" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2430" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
-      <jump line="2454" column="8" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2414" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="2456" column="70" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
       <jump line="281" column="56" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/api/GroupChatImpl.java" />
@@ -642,55 +629,85 @@
       <jump line="158" column="62" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="256" column="25" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="299" column="25" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="128" column="77" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/Logger.java" />
+      <jump line="45" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
+      <jump line="68" column="15" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
+      <jump line="46" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
+      <jump line="63" column="15" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
+      <jump line="166" column="77" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="181" column="29" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="185" column="49" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="187" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="189" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="191" column="43" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="330" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="29" column="30" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="30" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="64" column="16" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="122" column="34" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="136" column="31" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="137" column="15" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/models/Contact.java" />
+      <jump line="15" column="24" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/models/Group.java" />
+      <jump line="279" column="23" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="32" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
+      <jump line="84" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
+      <jump line="476" column="53" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="196" column="18" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="197" column="15" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="205" column="33" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="202" column="18" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="200" column="18" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
+      <jump line="221" column="20" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/LoginManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>to</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>getConnectionInfo().username</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcXVhbHNcPg==</text>
+        <text encoding="base64">XDxycGNJbnZva2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
       <register name="1" type="4">
-        <text>to</text>
+        <text>, null</text>
       </register>
       <register name="2" type="4">
-        <text>equals(from)</text>
-      </register>
-      <register name="3" type="4">
-        <text>username</text>
-      </register>
-      <register name="4" type="4">
-        <text>to</text>
-      </register>
-      <register name="5" type="4">
-        <text>retunr</text>
-      </register>
-      <register name="6" type="4">
-        <text>.setSender(username);</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0byA9ICgoU3RyaW5nIFtdKSBjbGllbnRFdmVudC5wYXJhbXMpWzBdOwo=</text>
+      <register name="3" type="4">
+        <text>to</text>
+      </register>
+      <register name="4" type="4">
+        <text>equals(from)</text>
+      </register>
+      <register name="5" type="4">
+        <text>username</text>
+      </register>
+      <register name="6" type="4">
+        <text>to</text>
+      </register>
+      <register name="7" type="4">
+        <text>retunr</text>
+      </register>
+      <register name="8" type="4">
+        <text>.setSender(username);</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcXVhbHNcPg==</last-search>
+      <last-search encoding="base64">XDxycGNJbnZva2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcXVhbHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxycGNJbnZva2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -731,6 +748,16 @@
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxub3RpZnlDbGllbnRTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxlcXVhbHNcPg==</entry>
+        <entry encoding="base64">XDxycGNIYW5kbGVyXD4=</entry>
+        <entry encoding="base64">XDxycGNDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDx0b2tlblw+</entry>
+        <entry encoding="base64">XDxtZW1iZXJzXD4=</entry>
+        <entry encoding="base64">XDxwcmVzZW5jZVw+</entry>
+        <entry encoding="base64">XDxnZXRSb3V0ZUxpc3RcPg==</entry>
+        <entry>get-group</entry>
+        <entry>get-gr</entry>
+        <entry encoding="base64">XDxpbnZva2VcPg==</entry>
+        <entry encoding="base64">XDxycGNJbnZva2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
