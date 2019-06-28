@@ -107,10 +107,12 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/utils/MimeManager.java" timestamp="1556179885266">
         <mark key="'" line="263" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/pom.xml" timestamp="1559220599186">
+      <file name="$USER_HOME$/repos/gw_walkie/pom.xml" timestamp="1561707414802">
         <mark key="'" line="74" column="19" />
-        <mark key="[" line="108" column="21" />
-        <mark key="]" line="108" column="39" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/IImsCmService.class" timestamp="1556797987010">
         <mark key="'" line="271" column="41" />
@@ -193,6 +195,9 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupFileTransferDeleteTask.java" timestamp="1556121407003">
         <mark key="'" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/RpcApi.java" timestamp="1561705309129">
+        <mark key="'" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/cpim/CpimMessage.java" timestamp="1557340321489">
         <mark key="'" line="66" column="31" />
@@ -334,9 +339,14 @@
         <mark key="'" line="313" column="24" />
         <mark key="n" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1561704304561">
-        <mark key="'" line="238" column="30" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1561707298890">
+        <mark key="'" line="413" column="43" />
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
+        <mark key="." line="434" column="0" />
+        <mark key="^" line="428" column="46" />
       </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/event/ClientEventBus.java" timestamp="1561706870127" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1557339685280">
         <mark key="'" line="153" column="16" />
         <mark key="[" line="548" column="0" />
@@ -523,17 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="148" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="199" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="206" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="238" column="21" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="58" column="54" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="185" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
-      <jump line="82" column="13" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
-      <jump line="509" column="38" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
-      <jump line="510" column="43" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
-      <jump line="522" column="37" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="508" column="19" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="1217" column="32" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
       <jump line="436" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/settings/RcsSettings.java" />
@@ -619,60 +618,71 @@
       <jump line="254" column="40" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="108" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="74" column="19" filename="$USER_HOME$/repos/gw_walkie/pom.xml" />
-      <jump line="420" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="119" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="220" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="238" column="30" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="428" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="119" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="420" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="48" column="46" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/RpcApi.java" />
+      <jump line="185" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="325" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="446" column="18" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="474" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="90" column="33" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="354" column="43" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="445" column="24" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="413" column="43" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.redcloud.gw.lib</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>Message.ReasonCode.UNSPECIFIED</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b1w+</text>
+        <text encoding="base64">XDxjb25zb2xlQ2xpZW50c1w+</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtc2dDYWNoZS5zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG5vdGlmeSBjb25zb2xlcwogICAgICAgICAgICAgICAgZm9yIChCYXNpY0NsaWVudCBjb25zb2xlIDogY29uc29sZUNsaWVudHMpIHsKICAgICAgICAgICAgICAgICAgICBDbGllbnRFdmVudEVtaXR0ZXIuc2xpZW50RW1pdChjbGllbnRFdmVudCwgY29uc29sZS5nZXRDb25uZWN0aW9uSW5mbygpKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="2" type="4">
+        <text>ExtClient</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgbG9uZyBtc2dEYklkID0gbU1lc3NhZ2luZ0xvZy5nZXRNZXNzYWdlS2V5SWQobXNnSWQpOwogICAgICAgIG1NZXNzYWdpbmdMb2cuc2V0Q2hhdE1lc3NhZ2VTdGF0dXNBbmRSZWFzb25Db2RlKG1zZ0lkLCBTdGF0dXMuRkFJTEVELCBNZXNzYWdlLlJlYXNvbkNvZGUuVU5TUEVDSUZJRUQpOwo9PT09PT09Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICYmICFDbGllbnRVdGlscy5pc1NpcEV4dENsaWVudChjKSkgew==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>console</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnRNYW5hZ2VyLmFzeW5jVGFzaygoKSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBvbmxpbmVVc2VyID0gYy5nZXRVc2VyTmFtZSgpOwogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgb25saW5lVHlwZSA9IGMuZ2V0VHlwZSgpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoQ2xpZW50VXRpbHMuaXNTaXBFeHRDbGllbnQoYykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9ubGluZVR5cGUgPSBDb25uZWN0aW9uSW5mby5TSVBfVFlQRTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBDbGllbnRFdmVudCBvbmxpbmVFdmVudCA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENsaWVudEV2ZW50KENsaWVudEV2ZW50LlR5cGUuUFJFU0VOQ0UsIG5ldyBPYmplY3RbXXtvbmxpbmVVc2VyLCBvbmxpbmVUeXBlfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRTZW5kZXIob25saW5lVXNlcik7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIHNlbmQgY3VycmVudCBjbGllbnQncyBwcmVzZW5jZSB0byBvdGhlciBvbmxpbmUgY2xpZW50cwogICAgICAgICAgICAgICAgICAgICAgICBDbGllbnRFdmVudEVtaXR0ZXIuc2xpZW50RW1pdChldmVudCwgYy5nZXRDb25uZWN0aW9uSW5mbygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGMgIT0gY2xpZW50KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBzZW5kIG9ubGluZSBjbGllbnRzJyBwcmVzZW5jZSB0byBjdXJyZW50IGNsaWVudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2xpZW50RXZlbnRFbWl0dGVyLnNsaWVudEVtaXQob25saW5lRXZlbnQsIGNsaWVudC5nZXRDb25uZWN0aW9uSW5mbygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG1zZ0RiSWQgPSBtTWVzc2FnaW5nTG9nLmdldE1lc3NhZ2VLZXlJZChtc2dJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZWFzCg==</text>
+      <register name="7" type="4">
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpc1JldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUV4ZWN1dG9yLnN1Ym1pdCgoKSAtPiB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>msgCache.get</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtc2dDYWNoZS5zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b1w+</last-search>
+      <last-search encoding="base64">XDxjb25zb2xlQ2xpZW50c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxjb25zb2xlQ2xpZW50c1w+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -697,8 +707,14 @@
         <entry encoding="base64">XDx0ZXJtaW5hdGVcPg==</entry>
         <entry encoding="base64">XDxURVJNSU5BVEVcPg==</entry>
         <entry>libua</entry>
-        <entry encoding="base64">XDxub3RpZnlDbGllbnRTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDx0b1w+</entry>
+        <entry>activeCli</entry>
+        <entry>prese</entry>
+        <entry encoding="base64">XDxub3RpZnlDbGllbnRTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
+        <entry>Presen</entry>
+        <entry>notifyC</entry>
+        <entry encoding="base64">XDxjb25zb2xlQ2xpZW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
