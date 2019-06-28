@@ -95,9 +95,6 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/messaging/GroupFileTransferDeleteTask.java" timestamp="1556121407003">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/RpcApi.java" timestamp="1561705309129">
-        <mark key="'" line="48" column="46" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" timestamp="1556033014855">
         <mark key="'" line="142" column="29" />
       </file>
@@ -124,12 +121,12 @@
         <mark key="]" line="13" column="24" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" timestamp="1561718084455">
-        <mark key="'" line="71" column="8" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" timestamp="1561719161698">
+        <mark key="'" line="74" column="35" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="139" column="76" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/repo/GeoMarkRepository.java" timestamp="1561717452856">
         <mark key="[" line="4" column="0" />
@@ -171,6 +168,9 @@
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/autoconfigRequestStatus.class" timestamp="1556799689497">
         <mark key="'" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" timestamp="1561718651302">
+        <mark key="'" line="707" column="15" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoMakr.java" timestamp="1561716621391">
         <mark key="[" line="9" column="19" />
@@ -230,19 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="238" column="30" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="119" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="420" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="48" column="46" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/RpcApi.java" />
-      <jump line="185" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="325" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="446" column="18" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="474" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="90" column="33" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="413" column="43" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="454" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="113" column="44" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="114" column="23" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="226" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="43" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
@@ -330,25 +317,38 @@
       <jump line="73" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
       <jump line="89" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
       <jump line="71" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
+      <jump line="637" column="4" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="674" column="64" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="675" column="37" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="679" column="34" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="227" column="32" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="30" column="33" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="114" column="34" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="29" column="33" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="693" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="701" column="19" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="707" column="15" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
+      <jump line="37" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
+      <jump line="74" column="35" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>route</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVSZXBvc2l0b3J5LmZpbmRBbGwobmV3IFNvcnQoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>AirInfo</text>
+        <text>findAll</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXJrUmVwb3NpdG9yeVw+</text>
+        <text encoding="base64">XDxyb3V0ZVJlcG9zaXRvcnlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
-      <register name="1" type="4">
-        <text>route</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVSZXBvc2l0b3J5LmZpbmRBbGwobmV3IFNvcnQoKSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>route</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -357,28 +357,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBHZW9NYXJrWzBdOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>RouteInfo</text>
-      </register>
-      <register name="7" type="4">
-        <text>routeRepository</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBHZW9NYXJrWzBdOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>RouteInfo</text>
+      </register>
+      <register name="8" type="4">
+        <text>routeRepository</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoR2VvU2VydmljZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXJrUmVwb3NpdG9yeVw+</last-search>
+      <last-search encoding="base64">XDxyb3V0ZVJlcG9zaXRvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXJrUmVwb3NpdG9yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyb3V0ZVJlcG9zaXRvcnlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -437,13 +437,17 @@
         <entry>X-T</entry>
         <entry encoding="base64">XDxoYW5kbGVDbGllbnRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzaWRcPg==</entry>
-        <entry encoding="base64">XDxhZGRSb3V0ZUluZm9cPg==</entry>
         <entry>clearRou</entry>
         <entry encoding="base64">XDxjbGVhclJvdXRlSW5mb1w+</entry>
         <entry encoding="base64">XDxtYXJrXD4=</entry>
         <entry encoding="base64">XDxkZWxldGVcPg==</entry>
         <entry encoding="base64">XDxhZGRHZW9NYXJrXD4=</entry>
         <entry encoding="base64">XDxtYXJrUmVwb3NpdG9yeVw+</entry>
+        <entry>Inf</entry>
+        <entry encoding="base64">XDxJbW11dGFibGVMaXN0XD4=</entry>
+        <entry encoding="base64">XDxDb2xsZWN0aW9uczJcPg==</entry>
+        <entry encoding="base64">XDxhZGRSb3V0ZUluZm9cPg==</entry>
+        <entry encoding="base64">XDxyb3V0ZVJlcG9zaXRvcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
