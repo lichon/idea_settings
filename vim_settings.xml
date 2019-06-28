@@ -334,6 +334,9 @@
         <mark key="'" line="313" column="24" />
         <mark key="n" line="39" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1561704304561">
+        <mark key="'" line="238" column="30" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/qcom/QCCarrierConfigService.java" timestamp="1557339685280">
         <mark key="'" line="153" column="16" />
         <mark key="[" line="548" column="0" />
@@ -520,10 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="28" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
-      <jump line="313" column="24" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkImsNetworkInterface.java" />
-      <jump line="40" column="16" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkRegistrationManager.java" />
-      <jump line="43" column="68" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkRegistrationManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
       <jump line="148" column="12" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
       <jump line="199" column="17" filename="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" />
@@ -620,6 +619,10 @@
       <jump line="254" column="40" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="108" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipService.java" />
       <jump line="74" column="19" filename="$USER_HOME$/repos/gw_walkie/pom.xml" />
+      <jump line="420" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="119" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="220" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
+      <jump line="238" column="30" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -629,7 +632,7 @@
         <text>Message.ReasonCode.UNSPECIFIED</text>
       </register>
       <register name="/" type="4">
-        <text>libua</text>
+        <text encoding="base64">XDx0b1w+</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
@@ -666,196 +669,14 @@
       </register>
     </registers>
     <search>
-      <last-search>libua</last-search>
+      <last-search encoding="base64">XDx0b1w+</last-search>
       <last-offset />
-      <last-pattern>libua</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx0b1w+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtQWxhcm1JbnRlbnRcPg==</entry>
-        <entry encoding="base64">XDxwZXJpb2RpY1Byb2Nlc3NpbmdcPg==</entry>
-        <entry encoding="base64">XDxzZXNzaW9uUmVmcmVzaEZvclVBQ1w+</entry>
-        <entry encoding="base64">XDxGYWlsZWRcPg==</entry>
-        <entry encoding="base64">XDxyZWFzb25cPg==</entry>
-        <entry encoding="base64">XDxtQ2FycmllckNvbmZpZ1JlY2VpdmVyXD4=</entry>
-        <entry>setLast</entry>
-        <entry encoding="base64">XDxnZXRSZWFkeVNpbVw+</entry>
-        <entry>getLastSim</entry>
-        <entry encoding="base64">XDx1cGRhdGVDb25maWdcPg==</entry>
-        <entry encoding="base64">XDxRQ0NvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxGSVJTVF9CT09UXD4=</entry>
-        <entry>onServiceSta</entry>
-        <entry>onStar</entry>
-        <entry encoding="base64">XDxRQ19SQ1NfQ09ORklHX1NVUFBPUlRFRFw+</entry>
-        <entry encoding="base64">XDxnZXRTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxnZXREZWNsYXJlZE1ldGhvZFw+</entry>
-        <entry encoding="base64">XDxpbml0XD4=</entry>
-        <entry encoding="base64">XDxjb25maWdMaXN0ZW5lclw+</entry>
-        <entry encoding="base64">XDxtQ29uZmlnTGlzdGVuZXJcPg==</entry>
-        <entry encoding="base64">XDxzZXRQcm9wZXJ0eVw+</entry>
-        <entry>OnePl</entry>
-        <entry encoding="base64">XDxzZXRDb25maWdWZXJzaW9uXD4=</entry>
-        <entry>isAb</entry>
-        <entry>isSimAb</entry>
-        <entry encoding="base64">XDxpc1NpbUFic2VudFw+</entry>
-        <entry encoding="base64">XDxzZXRMYXN0U2ltXD4=</entry>
-        <entry encoding="base64">XDxpc0FpcnBsYW5lTW9kZVw+</entry>
-        <entry encoding="base64">XDxjbVw+</entry>
-        <entry encoding="base64">XDxnZXRBY3RpdmVOZXR3b3JrSW5mb1w+</entry>
-        <entry encoding="base64">XDxpbmZvXD4=</entry>
-        <entry encoding="base64">XDxmYWlsZWRcPg==</entry>
-        <entry encoding="base64">XDxzZW5kQ2hhdE1lc3NhZ2VXaXRob3V0U2Vzc2lvblw+</entry>
-        <entry encoding="base64">XDxmYWxsQmFja01lc3NhZ2VcPg==</entry>
-        <entry encoding="base64">XDxmYWxsQmFja1Ntc1w+</entry>
-        <entry>default</entry>
-        <entry encoding="base64">XDxkZWZhdWx0Q29uZmlnXD4=</entry>
-        <entry>getLastS</entry>
-        <entry encoding="base64">XDxnZXRMYXN0U2ltXD4=</entry>
-        <entry encoding="base64">XDxyZXNldENvbmZpZ1N0YXR1c1w+</entry>
-        <entry>sim</entry>
-        <entry encoding="base64">XDxtVmVyYm9zZVw+</entry>
-        <entry encoding="base64">XDxpc0xvZ2dpbmdFbmFibGVkXD4=</entry>
-        <entry encoding="base64">XDxnZXRVc2VyQWdlbnRcPg==</entry>
-        <entry encoding="base64">XDxtVmVyc2lvbkluZm9cPg==</entry>
-        <entry encoding="base64">XDxzVXNlckFnZW50XD4=</entry>
-        <entry encoding="base64">XDxzdGFydFdpdGhBY3Rpb25cPg==</entry>
-        <entry>mConfigLo</entry>
-        <entry encoding="base64">XDxSZXRyeVw+</entry>
-        <entry encoding="base64">XDxyZXRyeVw+</entry>
-        <entry encoding="base64">XDxwcm92aXNpb25pbmdGYWlsc1w+</entry>
-        <entry encoding="base64">XDxjaGVja0NvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxjb25uZWN0aW9uRXZlbnRcPg==</entry>
-        <entry encoding="base64">XDxtUHJvdmlzaW9uaW5nTWFuYWdlclw+</entry>
-        <entry encoding="base64">XDxzdGFydFJldHJ5QWxhcm1cPg==</entry>
-        <entry encoding="base64">XDxtU2VydmljZVN0YXJ0ZWRcPg==</entry>
-        <entry encoding="base64">XDxtSW1zaVw+</entry>
-        <entry encoding="base64">XDxleGVjdXRlSHR0cFJlcXVlc3RcPg==</entry>
-        <entry>Network</entry>
-        <entry encoding="base64">XDxwcm92RmlsZVw+</entry>
-        <entry encoding="base64">XDxQUk9WSVNJT05JTkdfVVJJX0ZJTEVOQU1FXD4=</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
-        <entry encoding="base64">XDxnZXRMYXN0VXNlckFjY291bnRcPg==</entry>
-        <entry encoding="base64">XDxzZXRDb25maWd1cmF0aW9uVmFsaWRcPg==</entry>
-        <entry>Valid</entry>
-        <entry encoding="base64">XDxzZXRQcm92aXNpb25pbmdWZXJzaW9uXD4=</entry>
-        <entry>Log</entry>
-        <entry encoding="base64">XDxidWlsZENwaW1NZXNzYWdlXD4=</entry>
-        <entry encoding="base64">XDxpc0ltUmVwb3J0c0FjdGl2YXRlZFw+</entry>
-        <entry encoding="base64">XDxBbGJhdHJvc1w+</entry>
-        <entry encoding="base64">XDxBTEJBVFJPU1w+</entry>
-        <entry encoding="base64">XDxuZXR3b3JrTWltZVR5cGVcPg==</entry>
-        <entry encoding="base64">XDxHc21hUmVsZWFzZVw+</entry>
-        <entry encoding="base64">XDxnc21hUmVsZWFzZVw+</entry>
-        <entry encoding="base64">XDxzZXRNZXNzYWdpbmdNb2RlXD4=</entry>
-        <entry encoding="base64">XDxtZXNzYWdpbmdNb2RlXD4=</entry>
-        <entry>getLas</entry>
-        <entry encoding="base64">XDxzZXRMYXN0VXNlckFjY291bnRcPg==</entry>
-        <entry>absent</entry>
-        <entry encoding="base64">XDxzdGFydENvcmVTZXJ2aWNlXD4=</entry>
-        <entry>LaunchU</entry>
-        <entry encoding="base64">XDxMYXVuY2hlclV0aWxzXD4=</entry>
-        <entry encoding="base64">XDxpc0NvbmZpZ3VyYXRpb25WYWxpZFw+</entry>
-        <entry encoding="base64">XDxsYXN0U2ltXD4=</entry>
-        <entry encoding="base64">XDxTQVZFRF9JTVNJXD4=</entry>
-        <entry encoding="base64">XDxERUZBVUxUX1BfQUNDRVNTX05FVFdPUktfSU5GT1w+</entry>
-        <entry encoding="base64">XDxnZXRQQWNjZXNzTmV0d29ya0luZm9cPg==</entry>
-        <entry encoding="base64">XDxNWV9GRUFUVVJFU1w+</entry>
-        <entry>setLas</entry>
-        <entry encoding="base64">XDx0cnlMYXVuY2hSY3NDb3JlU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxQX0FDQ0VTU19ORVRXT1JLX0lORk9cPg==</entry>
-        <entry>acs</entry>
-        <entry encoding="base64">XDxQRVJTSVNUX1JDU19QUk9WSVNJT05JTkdfQUREUkVTU1w+</entry>
-        <entry encoding="base64">XDxpbml0UmNzVXBDb25maWdcPg==</entry>
-        <entry encoding="base64">XDxwcm92aXNpb25BZGRyXD4=</entry>
-        <entry encoding="base64">XDxTRUNPTkRBUllfUFJPVklTSU9OSU5HX0FERFJFU1NcPg==</entry>
-        <entry encoding="base64">XDxnZXRTZWNvbmRhcnlQcm92aXNpb25pbmdBZGRyZXNzXD4=</entry>
-        <entry encoding="base64">XDxTRUNPTkRBUllfUFJPVklTSU9OSU5HX0FERFJFU1NfT05MWVw+</entry>
-        <entry encoding="base64">XDxzZWNvbmRhcnlBZGRyZXNzXD4=</entry>
-        <entry encoding="base64">XDxpc1NlY29uZGFyeVByb3Zpc2lvbmluZ0FkZHJlc3NPbmx5XD4=</entry>
-        <entry encoding="base64">XDxsb2dBY3RpdmF0ZWRcPg==</entry>
-        <entry encoding="base64">XDxmb3JjZVw+</entry>
-        <entry encoding="base64">XDxGb3JjZVw+</entry>
-        <entry>network disconnected</entry>
-        <entry>network dis</entry>
-        <entry encoding="base64">XDxjaGVja0lmTmVlZFRvU3RhcnRDb25maWdcPg==</entry>
-        <entry encoding="base64">XDxzdGFydFByb3Zpc2lvbmluZ1w+</entry>
-        <entry>Launch</entry>
-        <entry encoding="base64">XDxsYXVuY2hSY3NDb3JlU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxtQ29uZmlnU3RhcnRlZFw+</entry>
-        <entry encoding="base64">XDxmaW5hbFw+</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaElNU2Vzc2lvblw+</entry>
-        <entry encoding="base64">XDxmaWxlUmVzZW50XD4=</entry>
-        <entry>Http</entry>
-        <entry encoding="base64">XDxGaWxlVHJhbnNmZXJIdHRwSW5mb0RvY3VtZW50XD4=</entry>
-        <entry encoding="base64">XDxjb250YWN0XD4=</entry>
-        <entry encoding="base64">XDxpc0ZpbGVUcmFuc2ZlckFscmVhZHlPbmdvaW5nXD4=</entry>
-        <entry encoding="base64">XDxmaWxlU2Vzc2lvblw+</entry>
-        <entry encoding="base64">XDxmaWxldHJhbnNmZXJJZFw+</entry>
-        <entry encoding="base64">XDxhZGRPdXRnb2luZ09uZVRvT25lRmlsZVRyYW5zZmVyXD4=</entry>
-        <entry encoding="base64">XDxhZGRPbmVUb09uZUZpbGVUcmFuc2Zlclw+</entry>
-        <entry encoding="base64">XDxhZGRGaWxlVHJhbnNmZXJJbnZpdGF0aW9uUmVqZWN0ZWRcPg==</entry>
-        <entry encoding="base64">XDxjb252ZXJzYXRpb25JZFw+</entry>
-        <entry encoding="base64">XDxoYW5kbGVGaWxlVHJhbnNmZXJJbnZpdGF0aW9uUmVqZWN0ZWRcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVDcGltTWVzc2FnZVJlY2VpdmVkXD4=</entry>
-        <entry encoding="base64">XDxpc0Jsb2NrZWRGb3JDb250YWN0XD4=</entry>
-        <entry encoding="base64">XDxvbk1zcnBGaWxlVHJhbnNmZXJJbnZpdGF0aW9uUmVjZWl2ZWRcPg==</entry>
-        <entry>rece</entry>
-        <entry encoding="base64">XDxSZWNlaXZlXD4=</entry>
-        <entry encoding="base64">XDxyZWNlaXZlXD4=</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaFNlc3Npb25Nb2RlXD4=</entry>
-        <entry encoding="base64">XDxvbk9uZVRvT25lSHR0cEZpbGVUcmFuc2Zlckludml0YXRpb25SZWNlaXZlZFw+</entry>
-        <entry encoding="base64">XDxjaGF0SWRcPg==</entry>
-        <entry encoding="base64">XDxvbmVUb09uZUNoYXRTZXNzaW9uXD4=</entry>
-        <entry encoding="base64">XDxkaXNwbGF5TmFtZVw+</entry>
-        <entry encoding="base64">XDxmdEluZm9cPg==</entry>
-        <entry encoding="base64">XDxmaWxlVHJhbnNmZXJJZFw+</entry>
-        <entry encoding="base64">XDxyZWNlaXZlSHR0cEZpbGVUcmFuc2Zlclw+</entry>
-        <entry encoding="base64">XDxtYXhGaWxlVHJhbnNmZXJTZXNzaW9uc1w+</entry>
-        <entry encoding="base64">XDxNQVhfRklMRV9UUkFOU0ZFUl9TRVNTSU9OU1w+</entry>
-        <entry encoding="base64">XDxERUZBVUxUX01BWF9GVF9TRVNTSU9OU1w+</entry>
-        <entry encoding="base64">XDxQRVJTSVNUX1JDU19TS0lQX0FDU1w+</entry>
-        <entry encoding="base64">XDxTVEFSVF9TVElDS1lcPg==</entry>
-        <entry encoding="base64">XDxyY3NVYVNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxtQ29uZmlnTG9hZGVkXD4=</entry>
-        <entry encoding="base64">XDxnZXRBY3NDb25maWd1cmF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxhcHBseUNvbmZpZ0FuZFN0YXJ0U2VydmljZVw+</entry>
-        <entry encoding="base64">XDxjb25maWdYbWxcPg==</entry>
-        <entry encoding="base64">XDxhcHBseUFjc0NvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxvbGRGdHNcPg==</entry>
-        <entry encoding="base64">XDxzZXRGaWxlVHJhbnNmZXJIdHRwU3VwcG9ydGVkXD4=</entry>
-        <entry encoding="base64">XDxzdG9wXD4=</entry>
-        <entry>noti</entry>
-        <entry encoding="base64">XDxub3RpZnlJbXNNb2R1bGVcPg==</entry>
-        <entry encoding="base64">XDxidWlsZEZ0c1w+</entry>
-        <entry encoding="base64">XDxpbml0Q2xpZW50XD4=</entry>
-        <entry encoding="base64">XDxtU2VydmljZUNsaWVudFw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVDYXBhYmlsaXRpZXNcPg==</entry>
-        <entry encoding="base64">XDxzdG9wU2VydmljZVw+</entry>
-        <entry encoding="base64">XDxyZXN0YXJ0Q21TZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxyZVJlZ2lzdHJhdGlvbkJ5TWV0aG9kQW5kUmVzcG9uc2VcPg==</entry>
-        <entry encoding="base64">XDxmb3JjZVJlbW92ZVw+</entry>
-        <entry encoding="base64">XDxwdWJsaXNoTXlDYXBcPg==</entry>
-        <entry encoding="base64">XDxwdWJsaXNoTm9SY3NcPg==</entry>
-        <entry>Active</entry>
-        <entry>isSer</entry>
-        <entry encoding="base64">XDxTRVJWSUNFX0FDVElWQVRFRFw+</entry>
-        <entry encoding="base64">XDxpc1NlcnZpY2VBY3RpdmF0ZWRcPg==</entry>
-        <entry encoding="base64">XDxzZXRTZXJ2aWNlQWN0aXZhdGlvblN0YXRlXD4=</entry>
-        <entry encoding="base64">XDxzZW5kRmFsbEJhY2tNbXNCcm9hZGNhc3RcPg==</entry>
-        <entry>process</entry>
-        <entry>process I</entry>
-        <entry>process IM action</entry>
-        <entry>process IM</entry>
-        <entry>FORB</entry>
-        <entry>process im</entry>
-        <entry encoding="base64">XDxmYWxsQmFja01tc1w+</entry>
-        <entry>RETRY</entry>
-        <entry encoding="base64">XDxGQUxMQkFDS1w+</entry>
-        <entry encoding="base64">XDxmYWxsYmFja1w+</entry>
-        <entry>process im ac</entry>
         <entry encoding="base64">XDxoYW5kbGVNZXNzYWdlRmFsbGJhY2tcPg==</entry>
         <entry>getO</entry>
         <entry encoding="base64">XDxwcm9jZXNzSW1FcnJvclw+</entry>
@@ -876,6 +697,8 @@
         <entry encoding="base64">XDx0ZXJtaW5hdGVcPg==</entry>
         <entry encoding="base64">XDxURVJNSU5BVEVcPg==</entry>
         <entry>libua</entry>
+        <entry encoding="base64">XDxub3RpZnlDbGllbnRTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDx0b1w+</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
