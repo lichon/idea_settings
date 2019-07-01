@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/MtkRegistrationManager.java" timestamp="1559034031401">
         <mark key="'" line="43" column="68" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-context/2.0.2.RELEASE/347ab7f059abf2dbcba5203cfb5dfc74eb7df47c/spring-cloud-context-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/context/environment/EnvironmentChangeEvent.java" timestamp="1561980840262" />
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/chat/ChatSessionListener.java" timestamp="1556275452482">
         <mark key="'" line="90" column="9" />
       </file>
@@ -61,9 +62,6 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/errorProcessor/impl/IMErrorProcessorForTMOImpl.java" timestamp="1559041471429">
         <mark key="'" line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/RouteInfo.java" timestamp="1561716602110">
-        <mark key="[" line="9" column="13" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/service/DequeueTask.java" timestamp="1556079025238">
         <mark key="'" line="72" column="16" />
       </file>
@@ -79,7 +77,9 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/provider/history/GroupChatDequeueTask.java" timestamp="1559041601795">
         <mark key="'" line="85" column="62" />
       </file>
-      <file name="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" timestamp="1561980193389" />
+      <file name="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" timestamp="1561981953271">
+        <mark key="'" line="10" column="53" />
+      </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/EventService.java" timestamp="1561725420555">
         <mark key="[" line="33" column="28" />
         <mark key="]" line="33" column="37" />
@@ -102,17 +102,11 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/libs/system_9_0/com.qualcomm.qti.imscmservice-V2.1-java.jar!/com/qualcomm/qti/imscmservice/V2_1/autoconfigTriggerReason.class" timestamp="1556799649070">
         <mark key="'" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/repo/AirInfoRepository.java" timestamp="1561717324129">
-        <mark key="[" line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/HttpFileTransferSession.java" timestamp="1556101922592">
         <mark key="'" line="204" column="16" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/sip/SipDialogPath.java" timestamp="1556026754912">
         <mark key="'" line="434" column="15" />
-      </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/repo/RouteRepository.java" timestamp="1561717350601">
-        <mark key="[" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoMark.java" timestamp="1561724068506">
         <mark key="[" line="13" column="0" />
@@ -193,15 +187,13 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/protocol/msrp/MsrpEventListener.java" timestamp="1556116824897">
         <mark key="'" line="73" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/AirInfo.java" timestamp="1561716562507">
-        <mark key="[" line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/MsZuulApplication.java" timestamp="1561979896352">
+      <file name="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/MsZuulApplication.java" timestamp="1561981971881">
         <mark key="'" line="33" column="1" />
       </file>
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/models/Contact.java" timestamp="1561712512775">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/kp/kp-server-ms-zuul/src/main/resources/application-common.yml" timestamp="1561981841769" />
       <file name="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/Logger.java" timestamp="1561710696178">
         <mark key="'" line="128" column="77" />
       </file>
@@ -233,16 +225,8 @@
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromAcceptFileSharingSession.java" timestamp="1556032237201">
         <mark key="'" line="37" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1561717363350">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="453" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="60" column="27" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="468" column="50" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="459" column="93" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="451" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="457" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
@@ -338,6 +322,11 @@
       <jump line="17" column="5" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulWebMvcConfigurerAdapter.java" />
       <jump line="3" column="24" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulWebMvcConfigurerAdapter.java" />
       <jump line="33" column="1" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/MsZuulApplication.java" />
+      <jump line="59" column="18" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" />
+      <jump line="58" column="8" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" />
+      <jump line="11" column="46" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" />
+      <jump line="56" column="49" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" />
+      <jump line="10" column="53" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -347,7 +336,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbmFibGVEaXNjb3ZlcnlDbGllbnRcPg==</text>
+        <text encoding="base64">XDxFbnZpcm9ubWVudENoYW5nZUV2ZW50XD4=</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
@@ -384,10 +373,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbmFibGVEaXNjb3ZlcnlDbGllbnRcPg==</last-search>
+      <last-search encoding="base64">XDxFbnZpcm9ubWVudENoYW5nZUV2ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbmFibGVEaXNjb3ZlcnlDbGllbnRcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxFbnZpcm9ubWVudENoYW5nZUV2ZW50XD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -458,6 +447,9 @@
         <entry encoding="base64">XDxyb3V0ZVJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxSZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxFbmFibGVEaXNjb3ZlcnlDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxwdWJsaXNoRXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxSb3V0ZXNSZWZyZXNoZWRFdmVudFw+</entry>
+        <entry encoding="base64">XDxFbnZpcm9ubWVudENoYW5nZUV2ZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
