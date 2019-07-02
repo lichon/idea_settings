@@ -50,11 +50,6 @@
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/repo/RouteRepository.java" timestamp="1561717350601">
         <mark key="[" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoMark.java" timestamp="1561724068506">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" timestamp="1562042884023">
         <mark key="'" line="37" column="9" />
         <mark key="[" line="112" column="0" />
@@ -68,6 +63,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="76" />
       </file>
+      <file name="$USER_HOME$/kp/kp7_android_operator/build.gradle" timestamp="1562043584722" />
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" timestamp="1561715197489">
         <mark key="'" line="105" column="23" />
         <mark key="[" line="140" column="96" />
@@ -83,6 +79,13 @@
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/SipConfService.java" timestamp="1561726932019" />
       <file name="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApplicationRunner.java" timestamp="1561979950445" />
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GroupService.java" timestamp="1561726068315" />
+      <file name="$USER_HOME$/kp/kp7_android_operator/app/build.gradle" timestamp="1562044219093">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/repo/UnitRepository.java" timestamp="1561717389061" />
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/AirInfo.java" timestamp="1561716562507">
         <mark key="[" line="9" column="13" />
@@ -115,8 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
-      <jump line="451" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="457" column="16" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="426" column="21" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="428" column="37" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
@@ -215,16 +216,18 @@
       <jump line="56" column="49" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" />
       <jump line="10" column="53" filename="$USER_HOME$/kp/kp-server-ms-zuul/src/main/java/com/kp/server/ms/zuul/config/MsZuulApolloConfigRefresher.java" />
       <jump line="37" column="9" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
+      <jump line="7" column="4" filename="$USER_HOME$/kp/kp7_android_operator/app/build.gradle" />
+      <jump line="8" column="17" filename="$USER_HOME$/kp/kp7_android_operator/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91dGUuc2V0Um91dGVKc29uKHJvdXRlSnNvbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gitVersion</text>
       </register>
       <register name="-" type="4">
-        <text>String routeJson</text>
+        <text>gitVersion</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRSb3V0ZUluZm9cPg==</text>
+        <text encoding="base64">XDxjbWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
@@ -261,10 +264,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRSb3V0ZUluZm9cPg==</last-search>
+      <last-search encoding="base64">XDxjbWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRSb3V0ZUluZm9cPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjbWRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -338,6 +341,8 @@
         <entry encoding="base64">XDxSb3V0ZXNSZWZyZXNoZWRFdmVudFw+</entry>
         <entry encoding="base64">XDxFbnZpcm9ubWVudENoYW5nZUV2ZW50XD4=</entry>
         <entry encoding="base64">XDxhZGRSb3V0ZUluZm9cPg==</entry>
+        <entry encoding="base64">XDxnaXRWZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxjbWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
