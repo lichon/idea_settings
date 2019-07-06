@@ -233,11 +233,11 @@
         <mark key="." line="112" column="42" />
         <mark key="^" line="112" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoPoint.java" timestamp="1562405946902">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoPoint.java" timestamp="1562408195820">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" timestamp="1556033014855">
         <mark key="'" line="142" column="29" />
@@ -290,6 +290,12 @@
       </file>
       <file name="$USER_HOME$/kp/kp7_android_lib/kpcommon/src/main/java/com/kptom/operator/manager/DataManager.java" timestamp="1562044727872">
         <mark key="'" line="72" column="8" />
+      </file>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoMark.java" timestamp="1562408473644">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" timestamp="1562059271850">
         <mark key="'" line="37" column="9" />
@@ -640,7 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="674" column="64" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="675" column="37" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="679" column="34" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
       <jump line="227" column="32" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/managers/CallManager.java" />
@@ -740,6 +745,7 @@
       <jump line="61" column="8" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
       <jump line="53" column="30" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
       <jump line="137" column="22" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoPoint.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -749,7 +755,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxScGNSZXN1bHRcPg==</text>
+        <text encoding="base64">XDxHZW9Qb2ludFw+</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
@@ -757,39 +763,39 @@
       <register name="1" type="4">
         <text>icon</text>
       </register>
-      <register name="2" type="4">
-        <text>altitude</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Double</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1hcms7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBpY29uOwogICAgcHJpdmF0ZSBTdHJpbmcgcmVtYXJrOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSB2ZXJzaW9uLnNwbGl0KCIuIik7CiAgICAgICAgICAgIGlmIChzcGxpdC5sZW5ndGggPiAyKSB7CiAgICAgICAgICAgICAgICBzcGxpdFtzcGxpdC5sZW5ndGggLSAxXQogICAgICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text>icon</text>
       </register>
       <register name="6" type="4">
-        <text>!StringUtils.isEmpty(version)</text>
+        <text>altitude</text>
       </register>
       <register name="7" type="4">
-        <text>split</text>
+        <text>Double</text>
       </register>
       <register name="8" type="4">
-        <text>version =</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gb25seSBzZW5kIHRvIG5vcm1hbCBjbGllbnQgcHJlc2VuY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSB2ZXJzaW9uLnNwbGl0KCIuIik7CiAgICAgICAgICAgIGlmIChzcGxpdC5sZW5ndGggPiAyKSB7CiAgICAgICAgICAgICAgICBzcGxpdFtzcGxpdC5sZW5ndGggLSAxXQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxScGNSZXN1bHRcPg==</last-search>
+      <last-search encoding="base64">XDxHZW9Qb2ludFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxScGNSZXN1bHRcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxHZW9Qb2ludFw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -819,6 +825,7 @@
         <entry encoding="base64">XDx0b1w+</entry>
         <entry encoding="base64">XDxtR2VvU2VydmljZU1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxScGNSZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxHZW9Qb2ludFw+</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
