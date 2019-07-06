@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/WebController.java" timestamp="1562387040108">
+        <mark key="'" line="69" column="13" />
+        <mark key="[" line="520" column="51" />
+        <mark key="]" line="520" column="51" />
+        <mark key="^" line="520" column="51" />
+        <mark key="." line="520" column="51" />
+      </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/cm/mtk/uce/MtkUceService.java" timestamp="1559036707188">
         <mark key="'" line="185" column="16" />
         <mark key="[" line="148" column="25" />
@@ -632,7 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
       <jump line="86" column="32" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
       <jump line="85" column="12" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
       <jump line="75" column="34" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/GeoService.java" />
@@ -732,66 +738,62 @@
       <jump line="316" column="20" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="331" column="66" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/service/ClientService.java" />
       <jump line="84" column="0" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
+      <jump line="68" column="13" filename="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/controller/WebController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gb25seSBzZW5kIHRvIG5vcm1hbCBjbGllbnQgcHJlc2VuY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSB2ZXJzaW9uLnNwbGl0KCIuIik7CiAgICAgICAgICAgIGlmIChzcGxpdC5sZW5ndGggPiAyKSB7CiAgICAgICAgICAgICAgICBzcGxpdFtzcGxpdC5sZW5ndGggLSAxXQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>clientEv</text>
+        <text>version</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gb25seSBzZW5kIHRvIG5vcm1hbCBjbGllbnQgcHJlc2VuY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSB2ZXJzaW9uLnNwbGl0KCIuIik7CiAgICAgICAgICAgIGlmIChzcGxpdC5sZW5ndGggPiAyKSB7CiAgICAgICAgICAgICAgICBzcGxpdFtzcGxpdC5sZW5ndGggLSAxXQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>local</text>
+        <text>!StringUtils.isEmpty(version)</text>
       </register>
       <register name="3" type="4">
-        <text>c.isClusterClient() |</text>
+        <text>split</text>
       </register>
       <register name="4" type="4">
+        <text>version =</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gb25seSBzZW5kIHRvIG5vcm1hbCBjbGllbnQgcHJlc2VuY2UK</text>
+      </register>
+      <register name="6" type="4">
+        <text>local</text>
+      </register>
+      <register name="7" type="4">
+        <text>c.isClusterClient() |</text>
+      </register>
+      <register name="8" type="4">
         <text>new ClientEvent(ClientEvent.Type.CLIENT_EVENT,
                     new Object[]{to, type, params}).setSender(username)</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYy5nZXRVc2VyTmFtZSgpLmVxdWFscyhmcm9tLmdldFVzZXJOYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
-      </register>
-      <register name="8" type="4">
-        <text>routeJson</text>
-      </register>
-      <register name="9" type="4">
-        <text>int</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clientEv</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>clientEv</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxLcEFwaVw+</entry>
-        <entry encoding="base64">XDxrcEFwaVw+</entry>
-        <entry encoding="base64">XDxPYnNlcnZhYmxlXD4=</entry>
-        <entry encoding="base64">XDxBcGlWb2lkUmVzcFw+</entry>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDxCb2R5XD4=</entry>
         <entry encoding="base64">XDxSZXF1ZXN0Qm9keVw+</entry>
         <entry encoding="base64">XDxzZW5kU21zXD4=</entry>
@@ -812,6 +814,7 @@
         <entry>active</entry>
         <entry encoding="base64">XDxnZXRBY3RpdmVDbGllbnRzXD4=</entry>
         <entry>clientEv</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>697</entry>
