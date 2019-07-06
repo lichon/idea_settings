@@ -233,11 +233,11 @@
         <mark key="." line="112" column="42" />
         <mark key="^" line="112" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoPoint.java" timestamp="1562042765817">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+      <file name="$USER_HOME$/repos/gw_walkie/src/main/java/walkie/model/GeoPoint.java" timestamp="1562405946902">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/repos/android_rcs_sdk/core/src/com/gsma/rcs/core/ims/service/im/filetransfer/http/DownloadFromInviteFileSharingSession.java" timestamp="1556033014855">
         <mark key="'" line="142" column="29" />
@@ -742,8 +742,8 @@
       <jump line="137" column="22" filename="$USER_HOME$/repos/walkie/app/src/main/java/redcloud/walkie/client/P2PClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSB2ZXJzaW9uLnNwbGl0KCIuIik7CiAgICAgICAgICAgIGlmIChzcGxpdC5sZW5ndGggPiAyKSB7CiAgICAgICAgICAgICAgICBzcGxpdFtzcGxpdC5sZW5ndGggLSAxXQogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>icon</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -754,33 +754,32 @@
       <register name="0" type="4">
         <text>DEFAULT_SO_TIMEOUT</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSB2ZXJzaW9uLnNwbGl0KCIuIik7CiAgICAgICAgICAgIGlmIChzcGxpdC5sZW5ndGggPiAyKSB7CiAgICAgICAgICAgICAgICBzcGxpdFtzcGxpdC5sZW5ndGggLSAxXQogICAgICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>icon</text>
       </register>
       <register name="2" type="4">
-        <text>!StringUtils.isEmpty(version)</text>
+        <text>altitude</text>
       </register>
       <register name="3" type="4">
-        <text>split</text>
+        <text>Double</text>
       </register>
       <register name="4" type="4">
-        <text>version =</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gb25seSBzZW5kIHRvIG5vcm1hbCBjbGllbnQgcHJlc2VuY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3BsaXQgPSB2ZXJzaW9uLnNwbGl0KCIuIik7CiAgICAgICAgICAgIGlmIChzcGxpdC5sZW5ndGggPiAyKSB7CiAgICAgICAgICAgICAgICBzcGxpdFtzcGxpdC5sZW5ndGggLSAxXQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>local</text>
+        <text>!StringUtils.isEmpty(version)</text>
       </register>
       <register name="7" type="4">
-        <text>c.isClusterClient() |</text>
+        <text>split</text>
       </register>
       <register name="8" type="4">
-        <text>new ClientEvent(ClientEvent.Type.CLIENT_EVENT,
-                    new Object[]{to, type, params}).setSender(username)</text>
+        <text>version =</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYy5nZXRVc2VyTmFtZSgpLmVxdWFscyhmcm9tLmdldFVzZXJOYW1lKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gb25seSBzZW5kIHRvIG5vcm1hbCBjbGllbnQgcHJlc2VuY2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
